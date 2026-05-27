@@ -1,33 +1,16 @@
 """
 Detection engine for bracket arbitrage opportunities.
 
-Core math: Ask(Yes) + Ask(No) < 1.00 - margin threshold.
+Core math:
+  gross_edge = 1.00 - P_yes - P_no
+  net_edge   = gross_edge - fee_buffer - slippage_buffer
+  Opportunity valid if net_edge >= MIN_PROFIT_MARGIN
 """
 
-from dataclasses import dataclass
 from typing import Optional
 
 from config import Config
-from polymarket_api import Market, OrderBook
-
-
-@dataclass
-class BracketOpportunity:
-    """A detected bracket arbitrage opportunity."""
-    market: Market
-    yes_price: float
-    no_price: float
-    total_cost: float
-    profit_per_pair: float
-    max_shares: int
-    max_usdc: float
-    yes_book: OrderBook
-    no_book: OrderBook
-
-    @property
-    def potential_profit(self) -> float:
-        """Total profit = shares * profit_per_pair."""
-        return round(self.max_shares * self.profit_per_pair, 2)
+from models import Market, OrderBook, BracketOpportunity
 
 
 class BracketDetector:
@@ -79,9 +62,14 @@ class BracketDetector:
 
         total_cost = yes_price + no_price
 
-        # Check margin threshold
-        profit_per_pair = 1.00 - total_cost
-        if profit_per_pair < Config.MIN_PROFIT_MARGIN:
+        # Edge calculation with safety buffers
+        gross_edge = 1.00 - total_cost
+        fee_buffer = Config.FEE_BUFFER
+        slippage_buffer = Config.SLIPPAGE_BUFFER
+        net_edge = gross_edge - fee_buffer - slippage_buffer
+
+        # Check margin threshold (net edge must be sufficient)
+        if net_edge < Config.MIN_PROFIT_MARGIN:
             return None
 
         # Check capital constraint
@@ -98,7 +86,10 @@ class BracketDetector:
             yes_price=yes_price,
             no_price=no_price,
             total_cost=round(total_cost, 4),
-            profit_per_pair=round(profit_per_pair, 4),
+            gross_edge=round(gross_edge, 4),
+            fee_buffer=fee_buffer,
+            slippage_buffer=slippage_buffer,
+            net_edge=round(net_edge, 4),
             max_shares=max_shares,
             max_usdc=round(max_usdc, 2),
             yes_book=yes_book,
@@ -109,21 +100,24 @@ class BracketDetector:
         """Format opportunity for console logging."""
         lines = [
             "═" * 60,
-            f"📊 BRACKET OPPORTUNITY DETECTED",
-            f"═" * 60,
+            "📊 BRACKET OPPORTUNITY DETECTED",
+            "═" * 60,
             f"Market: {opp.market.question}",
             f"Slug:   {opp.market.slug}",
             f"Volume: ${opp.market.volume:,.0f}",
             "",
             f"Yes Ask: ${opp.yes_price:.3f}",
             f"No  Ask: ${opp.no_price:.3f}",
-            f"Total: ${opp.total_cost:.3f}",
-            f"Profit/pair: ${opp.profit_per_pair:.3f}",
+            f"Gross cost: ${opp.total_cost:.3f}",
+            f"Gross edge: ${opp.gross_edge:.3f}",
+            f"Fee buffer:  -${opp.fee_buffer:.3f}",
+            f"Slippage:    -${opp.slippage_buffer:.3f}",
+            f"Net edge/pair: ${opp.net_edge:.3f}",
             "",
             f"Max shares: {opp.max_shares}",
-            f"Max USDC:  ${opp.max_usdc:,.2f}",
+            f"Max USDC:   ${opp.max_usdc:,.2f}",
             f"Potential profit: ${opp.potential_profit:,.2f}",
             f"ROI: {(opp.potential_profit / opp.max_usdc * 100):.1f}%",
-            f"{'═' * 60}",
+            "═" * 60,
         ]
         return "\n".join(lines)

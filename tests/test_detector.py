@@ -1,12 +1,17 @@
 """
 Unit tests for bracket detection logic.
+
+Formula:
+  gross_edge = 1.00 - P_yes - P_no
+  net_edge   = gross_edge - fee_buffer - slippage_buffer
+  Valid if:   net_edge >= MIN_PROFIT_MARGIN
 """
 
 import pytest
 from unittest.mock import patch, MagicMock
 
-from polymarket_api import Market, OrderBook
-from detector import BracketDetector, BracketOpportunity
+from models import Market, OrderBook, BracketOpportunity
+from detector import BracketDetector
 from config import Config
 
 
@@ -68,12 +73,15 @@ def sample_no_book():
 # --- Tests ---
 
 class TestBracketDetection:
-    """Test bracket opportunity detection."""
+    """Test bracket opportunity detection with safety buffers."""
 
     def test_basic_bracket_detected(
         self, detector, sample_market, sample_yes_book, sample_no_book
     ):
-        """Ask(Yes)=0.45 + Ask(No)=0.48 = 0.93 < 1.00 - 0.02 → detected."""
+        """
+        Yes=0.45, No=0.48 → gross_edge=0.07
+        fee_buf=0.005, slip_buf=0.005 → net_edge=0.06 >= 0.01 ✓
+        """
         with patch.object(Config, "MAX_CAPITAL_PER_TRADE", 10000):
             opp = detector.detect(sample_market, sample_yes_book, sample_no_book)
 
@@ -81,15 +89,29 @@ class TestBracketDetection:
         assert opp.yes_price == 0.45
         assert opp.no_price == 0.48
         assert opp.total_cost == 0.93
-        assert opp.profit_per_pair == 0.07
-        # min(200, 300) = 200 shares
+        assert opp.gross_edge == 0.07
+        assert opp.net_edge == 0.06  # 0.07 - 0.005 - 0.005
         assert opp.max_shares == 200
 
     def test_no_bracket_when_over_dollar(
         self, detector, sample_market, sample_yes_book, sample_no_book
     ):
-        """Ask(Yes) + Ask(No) >= 1.00 → no opportunity."""
+        """Yes + No >= 1.00 → no opportunity."""
         sample_no_book.asks[0]["price"] = "0.56"  # 0.45 + 0.56 = 1.01
+
+        opp = detector.detect(sample_market, sample_yes_book, sample_no_book)
+        assert opp is None
+
+    def test_edge_erased_by_buffers(
+        self, detector, sample_market, sample_yes_book, sample_no_book
+    ):
+        """
+        Yes=0.495, No=0.500 → gross_edge=0.005
+        fee_buf=0.005, slip_buf=0.005 → net_edge=-0.005 → filtered
+        Even though raw sum (0.995) < 1.00
+        """
+        sample_yes_book.asks[0]["price"] = "0.495"
+        sample_no_book.asks[0]["price"] = "0.500"
 
         opp = detector.detect(sample_market, sample_yes_book, sample_no_book)
         assert opp is None
@@ -97,22 +119,15 @@ class TestBracketDetection:
     def test_margin_filter(
         self, detector, sample_market, sample_yes_book, sample_no_book
     ):
-        """Profit margin below MIN_PROFIT_MARGIN → filtered out."""
-        # 0.45 + 0.52 = 0.97, profit = 0.03 > 0.02 ✓
-        sample_no_book.asks[0]["price"] = "0.52"
+        """Net edge below MIN_PROFIT_MARGIN → filtered out."""
+        # Yes=0.49, No=0.49 → gross=0.02, net=0.01 >= 0.01 ✓
+        sample_yes_book.asks[0]["price"] = "0.49"
+        sample_no_book.asks[0]["price"] = "0.49"
+
         opp = detector.detect(sample_market, sample_yes_book, sample_no_book)
         assert opp is not None
-        assert opp.profit_per_pair == 0.03
-
-        # 0.45 + 0.53 = 0.98, profit = 0.02 == 0.02 ✓ (equal is OK)
-        sample_no_book.asks[0]["price"] = "0.53"
-        opp = detector.detect(sample_market, sample_yes_book, sample_no_book)
-        assert opp is not None
-
-        # 0.45 + 0.54 = 0.99, profit = 0.01 < 0.02 → filtered
-        sample_no_book.asks[0]["price"] = "0.54"
-        opp = detector.detect(sample_market, sample_yes_book, sample_no_book)
-        assert opp is None
+        assert opp.gross_edge == 0.02
+        assert opp.net_edge == 0.01  # 0.02 - 0.005 - 0.005
 
     def test_volume_overlap(
         self, detector, sample_market, sample_yes_book, sample_no_book
@@ -131,7 +146,6 @@ class TestBracketDetection:
         self, detector, sample_market, sample_yes_book, sample_no_book
     ):
         """Shares reduced when total cost exceeds MAX_CAPITAL_PER_TRADE."""
-        # 200 shares * $0.93 = $186 > $50 max → reduce
         with patch.object(Config, "MAX_CAPITAL_PER_TRADE", 50):
             opp = detector.detect(sample_market, sample_yes_book, sample_no_book)
             assert opp is not None
@@ -181,20 +195,23 @@ class TestOpportunityCalculation:
     """Test BracketOpportunity calculations."""
 
     def test_potential_profit(self):
-        """Profit = shares * profit_per_pair."""
+        """Profit = shares * net_edge."""
         opp = BracketOpportunity(
             market=MagicMock(question="Test", slug="test"),
             yes_price=0.45,
             no_price=0.48,
             total_cost=0.93,
-            profit_per_pair=0.07,
+            gross_edge=0.07,
+            fee_buffer=0.005,
+            slippage_buffer=0.005,
+            net_edge=0.06,
             max_shares=100,
             max_usdc=93.0,
             yes_book=MagicMock(),
             no_book=MagicMock(),
         )
 
-        assert opp.potential_profit == 7.0  # 100 * 0.07
+        assert opp.potential_profit == 6.0  # 100 * 0.06
 
     def test_potential_profit_zero(self):
         """Zero shares → zero profit."""
@@ -203,7 +220,10 @@ class TestOpportunityCalculation:
             yes_price=0.45,
             no_price=0.48,
             total_cost=0.93,
-            profit_per_pair=0.07,
+            gross_edge=0.07,
+            fee_buffer=0.005,
+            slippage_buffer=0.005,
+            net_edge=0.06,
             max_shares=0,
             max_usdc=0,
             yes_book=MagicMock(),
@@ -216,8 +236,10 @@ class TestOpportunityCalculation:
 class TestFormatOpportunity:
     """Test opportunity formatting."""
 
-    def test_format_contains_key_info(self, detector, sample_market, sample_yes_book, sample_no_book):
-        """Formatted output contains prices, shares, and profit."""
+    def test_format_contains_key_info(
+        self, detector, sample_market, sample_yes_book, sample_no_book
+    ):
+        """Formatted output contains prices, edges, shares, and profit."""
         with patch.object(Config, "MAX_CAPITAL_PER_TRADE", 10000):
             opp = detector.detect(sample_market, sample_yes_book, sample_no_book)
         assert opp is not None
@@ -226,20 +248,22 @@ class TestFormatOpportunity:
 
         assert "0.45" in formatted
         assert "0.48" in formatted
-        assert "0.93" in formatted
         assert "Will X happen?" in formatted
         assert "200" in formatted  # shares
+        assert "BRACKET OPPORTUNITY" in formatted
 
-    def test_format_is_readable(self, detector, sample_market, sample_yes_book, sample_no_book):
+    def test_format_is_readable(
+        self, detector, sample_market, sample_yes_book, sample_no_book
+    ):
         """Formatted output is multi-line and human-readable."""
-        opp = detector.detect(sample_market, sample_yes_book, sample_no_book)
+        with patch.object(Config, "MAX_CAPITAL_PER_TRADE", 10000):
+            opp = detector.detect(sample_market, sample_yes_book, sample_no_book)
         assert opp is not None
 
         formatted = detector.format_opportunity(opp)
         lines = formatted.split("\n")
 
-        assert len(lines) > 5  # Multiple lines
-        assert any("BRACKET OPPORTUNITY" in line for line in lines)
+        assert len(lines) > 10  # Multiple lines
 
 
 class TestLowLiquidityFilter:

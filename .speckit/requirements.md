@@ -9,7 +9,17 @@ The system MUST only scan markets that are:
 
 ### FR-002: Bracket Calculation
 The system MUST accurately calculate the combined cost of the best available asks.
+It MUST apply safety buffers for fees and slippage before evaluating edge.
 It MUST calculate the maximum executable volume, which is the minimum of the available volume on the Yes ask and the No ask.
+
+The detection formula:
+
+```
+gross_edge = 1.00 - Ask(Yes) - Ask(No)
+net_edge   = gross_edge - fee_buffer - slippage_buffer
+```
+
+Opportunity is valid only if `net_edge >= MIN_PROFIT_MARGIN`.
 
 ### FR-003: Dry Run Mode
 The system MUST support a `DRY_RUN` flag. When true, the system MUST NOT send any transactions, but MUST log the exact details of the opportunity.

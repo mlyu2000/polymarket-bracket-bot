@@ -19,11 +19,19 @@ class Config:
 
     # --- Profit Thresholds ---
     MIN_PROFIT_MARGIN: float = float(
-        os.getenv("MIN_PROFIT_MARGIN", "0.02")
-    )  # $0.02 per pair minimum
+        os.getenv("MIN_PROFIT_MARGIN", "0.01")
+    )  # $0.01 per pair minimum (net edge after buffers)
     MAX_CAPITAL_PER_TRADE: float = float(
         os.getenv("MAX_CAPITAL_PER_TRADE", "50")
     )  # $50 USDC max per trade
+
+    # --- Safety Buffers ---
+    FEE_BUFFER: float = float(
+        os.getenv("FEE_BUFFER", "0.005")
+    )  # 0.5¢ buffer for Polymarket taker fees
+    SLIPPAGE_BUFFER: float = float(
+        os.getenv("SLIPPAGE_BUFFER", "0.005")
+    )  # 0.5¢ buffer for stale data / slippage
 
     # --- Scan Settings ---
     POLL_INTERVAL_SECONDS: float = float(
@@ -63,6 +71,10 @@ class Config:
             raise ValueError("MAX_CAPITAL_PER_TRADE must be > 0")
         if cls.POLL_INTERVAL_SECONDS < 1:
             raise ValueError("POLL_INTERVAL_SECONDS must be >= 1")
+        if cls.FEE_BUFFER < 0:
+            raise ValueError("FEE_BUFFER must be >= 0")
+        if cls.SLIPPAGE_BUFFER < 0:
+            raise ValueError("SLIPPAGE_BUFFER must be >= 0")
 
 
 if __name__ == "__main__":

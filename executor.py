@@ -10,7 +10,7 @@ from pathlib import Path
 from datetime import datetime
 
 from config import Config
-from detector import BracketOpportunity
+from models import BracketOpportunity
 
 logger = logging.getLogger(__name__)
 
@@ -38,7 +38,7 @@ class Executor:
             f"{timestamp} | DRY_RUN | "
             f"{opp.market.question} | "
             f"Yes@{opp.yes_price:.3f} No@{opp.no_price:.3f} | "
-            f"Total={opp.total_cost:.3f} | "
+            f"Gross={opp.total_cost:.3f} NetEdge={opp.net_edge:.3f} | "
             f"Shares={opp.max_shares} | "
             f"USDC=${opp.max_usdc:,.2f} | "
             f"Profit=${opp.potential_profit:,.2f}"
@@ -46,18 +46,21 @@ class Executor:
 
         # Console output
         logger.info(
-            "DRY_RUN: Yes@%.3f No@%.3f Total=%.3f "
+            "DRY_RUN: Yes@%.3f No@%.3f Gross=%.3f NetEdge=%.3f "
             "Shares=%d USDC=$%.2f Profit=$%.2f | %s",
             opp.yes_price,
             opp.no_price,
             opp.total_cost,
+            opp.net_edge,
             opp.max_shares,
             opp.max_usdc,
             opp.potential_profit,
             opp.market.question[:50],
         )
 
-        # Append to log file
+        # Append to log file (create if missing)
+        if not self.log_file.exists():
+            self.log_file.touch()
         self.log_file.write_text(
             self.log_file.read_text(errors="ignore") + log_entry + "\n"
         )

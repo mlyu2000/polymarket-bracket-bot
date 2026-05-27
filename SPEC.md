@@ -25,7 +25,11 @@ The maximum executable size $S$ is:
 $$S = \min(V_{\text{yes}}, V_{\text{no}}, \text{Max Order Size})$$
 
 The opportunity is valid if:
-$$P_{\text{yes}} + P_{\text{no}} \le 1.00 - \text{Min Margin Threshold}$$
+$$P_{\text{yes}} + P_{\text{no}} + \text{fee\_buffer} + \text{slippage\_buffer} \le 1.00 - \text{Min Margin Threshold}$$
+
+Equivalently:
+$$\text{net\_edge} = 1.00 - P_{\text{yes}} - P_{\text{no}} - \text{fee\_buffer} - \text{slippage\_buffer}$$
+$$\text{If } \text{net\_edge} \ge \text{Min Margin Threshold}: \text{Execute Buy on Both}$$
 
 ## 4. Initial MVP Scope
 
@@ -58,5 +62,7 @@ The MVP must NOT include:
 ## 6. Required Safety Defaults
 
 - `EXECUTION_MODE=dry_run` (Default)
-- `MIN_PROFIT_MARGIN=0.02` (Require at least 2 cents profit per pair to cover gas/fees)
+- `MIN_PROFIT_MARGIN=0.01` (Require at least 1 cent net edge per pair)
+- `FEE_BUFFER=0.005` (0.5 cent buffer for Polymarket taker fees)
+- `SLIPPAGE_BUFFER=0.005` (0.5 cent buffer for stale data / latency)
 - `MAX_CAPITAL_PER_TRADE=50` (Maximum USDC to deploy per opportunity)

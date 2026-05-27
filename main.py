@@ -73,9 +73,12 @@ class Bot:
         self.stats["start_time"] = datetime.now().isoformat()
 
         logger.info(
-            "🚀 Bracket Bot starting — mode=%s, margin=%.2f, max_capital=$%.0f",
+            "🚀 Bracket Bot starting — mode=%s, margin=%.2f, "
+            "fee_buf=%.3f, slip_buf=%.3f, max_capital=$%.0f",
             Config.EXECUTION_MODE,
             Config.MIN_PROFIT_MARGIN,
+            Config.FEE_BUFFER,
+            Config.SLIPPAGE_BUFFER,
             Config.MAX_CAPITAL_PER_TRADE,
         )
 
