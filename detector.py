@@ -56,9 +56,9 @@ class BracketDetector:
         if yes_price >= 1.0 or no_price >= 1.0:
             return None
 
-        # Available volume at best ask
-        yes_volume = int(yes_ask["size"])
-        no_volume = int(no_ask["size"])
+        # Available volume at best ask (sizes may be decimal strings)
+        yes_volume = int(float(yes_ask["size"]))
+        no_volume = int(float(no_ask["size"]))
 
         # Overlap: min of both sides
         max_shares = min(yes_volume, no_volume)

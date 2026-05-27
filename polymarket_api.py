@@ -59,12 +59,19 @@ class PolymarketAPI:
         markets = []
         for m in raw:
             # Filter: binary only (exactly 2 outcomes)
-            outcomes = json.loads(m.get("outcomes", "[]"))
+            outcomes = m.get("outcomes", [])
+            if isinstance(outcomes, str):
+                outcomes = json.loads(outcomes)
             if len(outcomes) != 2:
                 continue
 
-            outcome_prices = json.loads(m.get("outcomePrices", "[]"))
-            clob_token_ids = json.loads(m.get("clobTokenIds", "[]"))
+            outcome_prices = m.get("outcomePrices", [])
+            if isinstance(outcome_prices, str):
+                outcome_prices = json.loads(outcome_prices)
+            
+            clob_token_ids = m.get("clobTokenIds", [])
+            if isinstance(clob_token_ids, str):
+                clob_token_ids = json.loads(clob_token_ids)
 
             if len(clob_token_ids) != 2:
                 continue
