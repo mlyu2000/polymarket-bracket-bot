@@ -48,14 +48,15 @@ class Bot:
         markets = await self.api.fetch_active_markets()
         logger.debug(f"Fetched {len(markets)} active markets")
 
+        # Batch fetch all order books
+        token_pairs = [
+            (m.clob_token_ids[0], m.clob_token_ids[1])
+            for m in markets
+        ]
+        all_books = await self.api.fetch_order_books_batch(token_pairs)
+
         # Check each market for bracket opportunities
-        for market in markets:
-            yes_token, no_token = market.clob_token_ids[0], market.clob_token_ids[1]
-
-            yes_book, no_book = await self.api.fetch_order_books_parallel(
-                yes_token, no_token
-            )
-
+        for market, (yes_book, no_book) in zip(markets, all_books):
             opp = self.detector.detect(market, yes_book, no_book)
 
             if opp:
