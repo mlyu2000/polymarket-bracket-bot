@@ -91,3 +91,13 @@ class TestConfigValidation:
     def test_live_mode_valid(self):
         with patch.object(Config, "EXECUTION_MODE", "live"):
             Config.validate()  # Should not raise
+
+    def test_zero_markets_per_scan(self):
+        with patch.object(Config, "MAX_MARKETS_PER_SCAN", 0):
+            with pytest.raises(ValueError, match="MAX_MARKETS_PER_SCAN must be >= 1"):
+                Config.validate()
+
+    def test_negative_markets_per_scan(self):
+        with patch.object(Config, "MAX_MARKETS_PER_SCAN", -5):
+            with pytest.raises(ValueError, match="MAX_MARKETS_PER_SCAN must be >= 1"):
+                Config.validate()

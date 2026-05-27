@@ -75,6 +75,8 @@ class Config:
             raise ValueError("FEE_BUFFER must be >= 0")
         if cls.SLIPPAGE_BUFFER < 0:
             raise ValueError("SLIPPAGE_BUFFER must be >= 0")
+        if cls.MAX_MARKETS_PER_SCAN < 1:
+            raise ValueError("MAX_MARKETS_PER_SCAN must be >= 1")
 
 
 if __name__ == "__main__":
