@@ -50,6 +50,12 @@ class BracketDetector:
         yes_price = float(yes_ask["price"])
         no_price = float(no_ask["price"])
 
+        # Guard: invalid prices (zero or >= 1.0)
+        if yes_price <= 0 or no_price <= 0:
+            return None
+        if yes_price >= 1.0 or no_price >= 1.0:
+            return None
+
         # Available volume at best ask
         yes_volume = int(yes_ask["size"])
         no_volume = int(no_ask["size"])

@@ -14,6 +14,7 @@ from config import Config
 from polymarket_api import PolymarketAPI
 from detector import BracketDetector
 from executor import Executor
+from paper_executor import PaperExecutor
 
 logging.basicConfig(
     level=getattr(logging, Config.LOG_LEVEL),
@@ -30,6 +31,7 @@ class Bot:
         self.api = PolymarketAPI()
         self.detector = BracketDetector()
         self.executor = Executor()
+        self.paper_executor = PaperExecutor()
         self.running = False
         self.stats = {
             "scans": 0,
@@ -65,6 +67,11 @@ class Bot:
 
                 # Execute (dry-run or live)
                 await self.executor.execute(opp)
+
+                # Paper execution simulation
+                paper_result = self.paper_executor.execute(opp)
+                for line in paper_result.log_lines:
+                    logger.info(line)
 
     async def run(self) -> None:
         """Run the bot loop."""
@@ -111,6 +118,7 @@ class Bot:
             self.stats["opportunities"],
             self.stats["total_profit"],
         )
+        self.paper_executor.print_stats()
 
 
 async def main() -> None:

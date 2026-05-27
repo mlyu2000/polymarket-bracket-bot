@@ -53,6 +53,11 @@ class BracketOpportunity:
     no_book: OrderBook
 
     @property
+    def executable_size(self) -> int:
+        """Alias for max_shares (compatible with test fixtures)."""
+        return self.max_shares
+
+    @property
     def potential_profit(self) -> float:
         """Total profit = shares * net_edge."""
         return round(self.max_shares * self.net_edge, 2)

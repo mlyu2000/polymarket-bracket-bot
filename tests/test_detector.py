@@ -75,6 +75,89 @@ def sample_no_book():
 class TestBracketDetection:
     """Test bracket opportunity detection with safety buffers."""
 
+    def test_valid_bracket_opportunity(self, detector, sample_market, sample_yes_book, sample_no_book):
+        """Yes=0.47, No=0.50 → gross=0.03, net=0.02 >= 0.01 ✓"""
+        sample_yes_book.asks[0]["price"] = "0.47"
+        sample_no_book.asks[0]["price"] = "0.50"
+        sample_yes_book.asks[0]["size"] = "100"
+        sample_no_book.asks[0]["size"] = "80"
+
+        with patch.object(Config, "MAX_CAPITAL_PER_TRADE", 5000):
+            opp = detector.detect(sample_market, sample_yes_book, sample_no_book)
+
+        assert opp is not None
+        assert opp.executable_size == min(100, 80)
+        assert round(opp.total_cost, 2) == 0.97
+        assert round(opp.net_edge, 2) == 0.02
+
+    def test_valid_bracket_opportunity_with_max_size(self, detector, sample_market, sample_yes_book, sample_no_book):
+        """Test executable size is limited by max_order_size."""
+        sample_yes_book.asks[0]["price"] = "0.47"
+        sample_no_book.asks[0]["price"] = "0.50"
+        sample_yes_book.asks[0]["size"] = "100"
+        sample_no_book.asks[0]["size"] = "80"
+
+        with patch.object(Config, "MAX_CAPITAL_PER_TRADE", 50):
+            opp = detector.detect(sample_market, sample_yes_book, sample_no_book)
+
+        assert opp is not None
+        # Max capital limits shares
+        assert opp.max_shares == int(50 / 0.97)
+
+    def test_no_opportunity_when_total_cost_too_high(self, detector, sample_market, sample_yes_book, sample_no_book):
+        """Yes=0.51, No=0.50 → gross=1.01 > 1.00 → no opportunity"""
+        sample_yes_book.asks[0]["price"] = "0.51"
+        sample_no_book.asks[0]["price"] = "0.50"
+
+        opp = detector.detect(sample_market, sample_yes_book, sample_no_book)
+        assert opp is None
+
+    def test_no_opportunity_when_edge_below_margin(self, detector, sample_market, sample_yes_book, sample_no_book):
+        """Yes=0.495, No=0.495 → gross=0.99, net=0.01 < 0.02 margin → filtered"""
+        sample_yes_book.asks[0]["price"] = "0.495"
+        sample_no_book.asks[0]["price"] = "0.495"
+
+        with patch.object(Config, "MIN_PROFIT_MARGIN", 0.02):
+            opp = detector.detect(sample_market, sample_yes_book, sample_no_book)
+            assert opp is None
+
+    def test_fee_buffer_can_eliminate_opportunity(self, detector, sample_market, sample_yes_book, sample_no_book):
+        """Yes=0.48, No=0.50 → gross=0.98, fee_buf=0.015 → net=0.005 < 0.01 → filtered"""
+        sample_yes_book.asks[0]["price"] = "0.48"
+        sample_no_book.asks[0]["price"] = "0.50"
+
+        with patch.object(Config, "FEE_BUFFER", 0.015):
+            opp = detector.detect(sample_market, sample_yes_book, sample_no_book)
+            assert opp is None
+
+    def test_executable_size_is_minimum_available_size(self, detector, sample_market, sample_yes_book, sample_no_book):
+        """Executable size = min(Yes size, No size)."""
+        sample_yes_book.asks[0]["size"] = "20"
+        sample_no_book.asks[0]["size"] = "100"
+        sample_yes_book.asks[0]["price"] = "0.45"
+        sample_no_book.asks[0]["price"] = "0.50"
+
+        with patch.object(Config, "MAX_CAPITAL_PER_TRADE", 10000):
+            opp = detector.detect(sample_market, sample_yes_book, sample_no_book)
+
+        assert opp is not None
+        assert opp.max_shares == 20
+
+    def test_invalid_prices_are_rejected(self, detector, sample_market, sample_yes_book, sample_no_book):
+        """Zero or >= 1.0 prices are rejected."""
+        # Zero price
+        sample_yes_book.asks[0]["price"] = "0.0"
+        sample_no_book.asks[0]["price"] = "0.5"
+        opp = detector.detect(sample_market, sample_yes_book, sample_no_book)
+        # Should be filtered by margin check (edge would be 0.5)
+        assert opp is None
+
+        # Price >= 1.0
+        sample_yes_book.asks[0]["price"] = "1.0"
+        sample_no_book.asks[0]["price"] = "0.1"
+        opp = detector.detect(sample_market, sample_yes_book, sample_no_book)
+        assert opp is None
+
     def test_basic_bracket_detected(
         self, detector, sample_market, sample_yes_book, sample_no_book
     ):
