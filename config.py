@@ -39,7 +39,9 @@ class Config:
     )  # 5s polling
     MAX_MARKETS_PER_SCAN: int = int(
         os.getenv("MAX_MARKETS_PER_SCAN", "100")
-    )  # Top N by volume
+    )  # Top N by sort key
+    SCAN_SORT_BY: str = os.getenv("SCAN_SORT_BY", "volume")
+    # Options: volume (default), created_at (newest), liquidity (lowest)
     MIN_LIQUIDITY_USDC: float = float(
         os.getenv("MIN_LIQUIDITY_USDC", "1000")
     )  # Skip markets with < $1000 liquidity
@@ -77,6 +79,8 @@ class Config:
             raise ValueError("SLIPPAGE_BUFFER must be >= 0")
         if cls.MAX_MARKETS_PER_SCAN < 1:
             raise ValueError("MAX_MARKETS_PER_SCAN must be >= 1")
+        if cls.SCAN_SORT_BY not in ("volume", "created_at", "liquidity"):
+            raise ValueError(f"Invalid SCAN_SORT_BY: {cls.SCAN_SORT_BY}")
 
 
 if __name__ == "__main__":

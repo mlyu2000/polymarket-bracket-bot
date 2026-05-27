@@ -47,18 +47,24 @@ class PolymarketAPI:
     async def fetch_active_markets(
         self, limit: int | None = None
     ) -> list[Market]:
-        """Fetch active binary markets, sorted by volume. Paginates if limit > 100."""
+        """Fetch active binary markets, sorted by SCAN_SORT_BY. Paginates if limit > 100."""
         lim = limit or Config.MAX_MARKETS_PER_SCAN
         page_size = 100  # Gamma API hard cap per request
         markets = []
         offset = 0
+
+        # Build sort params
+        sort_field = Config.SCAN_SORT_BY
+        ascending = "false" if sort_field != "liquidity" else "true"
+        # For liquidity: ascending=true → lowest liquidity first (most likely to have brackets)
+        # For volume/created_at: ascending=false → highest/latest first
 
         while offset < lim:
             batch_size = min(page_size, lim - offset)
             url = (
                 f"{self.gamma_base}/markets"
                 f"?limit={batch_size}&offset={offset}&active=true&closed=false"
-                f"&order=volume&ascending=false"
+                f"&order={sort_field}&ascending={ascending}"
             )
             raw = await self._request(url)
 
