@@ -5,6 +5,7 @@ Tests for Polymarket API client.
 import pytest
 from unittest.mock import AsyncMock, patch, MagicMock
 import json
+import httpx
 
 from polymarket_api import PolymarketAPI
 from models import Market, OrderBook
@@ -141,25 +142,85 @@ async def test_fetch_order_books_parallel(api):
 
 
 @pytest.mark.asyncio
-async def test_rate_limit_backoff(api):
-    """Test rate limit (429) triggers backoff."""
+async def test_request_429_backoff(api):
+    """Test _request handles 429 and retries."""
     call_count = 0
+    mock_resp = MagicMock()
+    mock_resp.status_code = 200
+    mock_resp.json.return_value = {"ok": True}
 
-    async def mock_request(url, retries=0):
+    async def mock_get(url):
         nonlocal call_count
         call_count += 1
         if call_count < 3:
-            raise RuntimeError("Rate limited after 0 retries: test")  # Simulate retry path
-        return {"data": "ok"}
+            resp_429 = MagicMock()
+            resp_429.status_code = 429
+            return resp_429
+        return mock_resp
 
-    # Override the backoff logic for speed
-    with patch.object(api, "_request", side_effect=lambda url, retries=0: (
-        api._request.__wrapped__(api, url, retries) if hasattr(api._request, "__wrapped__")
-        else exec("raise RuntimeError('Rate limited after 0 retries: test')") if call_count < 3
-        else {"data": "ok"}
-    )):
-        pass  # Just verify the structure exists
+    mock_client = AsyncMock()
+    mock_client.get = mock_get
+    mock_client.__aenter__ = AsyncMock(return_value=mock_client)
+    mock_client.__aexit__ = AsyncMock(return_value=None)
 
+    with patch("httpx.AsyncClient", return_value=mock_client), \
+         patch("asyncio.sleep", new_callable=AsyncMock):
+        result = await api._request("http://example.com")
+
+    assert result == {"ok": True}
+    assert call_count == 3  # Initial + 2 retries
+
+
+@pytest.mark.asyncio
+async def test_request_500_backoff(api):
+    """Test _request handles 500 errors and retries."""
+    call_count = 0
+    mock_resp = MagicMock()
+    mock_resp.status_code = 200
+    mock_resp.json.return_value = {"ok": True}
+
+    async def mock_get(url):
+        nonlocal call_count
+        call_count += 1
+        if call_count < 3:
+            raise httpx.HTTPStatusError("Server Error", request=MagicMock(), response=MagicMock(status_code=500))
+        return mock_resp
+
+    mock_client = AsyncMock()
+    mock_client.get = mock_get
+    mock_client.__aenter__ = AsyncMock(return_value=mock_client)
+    mock_client.__aexit__ = AsyncMock(return_value=None)
+
+    with patch("httpx.AsyncClient", return_value=mock_client), \
+         patch("asyncio.sleep", new_callable=AsyncMock):
+        result = await api._request("http://example.com")
+
+    assert result == {"ok": True}
+    assert call_count == 3
+
+
+@pytest.mark.asyncio
+async def test_request_exceeds_max_retries(api):
+    """Test _request raises after max retries on 429."""
+    mock_client = AsyncMock()
+    async def mock_get(url):
+        resp_429 = MagicMock()
+        resp_429.status_code = 429
+        return resp_429
+    mock_client.get = mock_get
+    mock_client.__aenter__ = AsyncMock(return_value=mock_client)
+    mock_client.__aexit__ = AsyncMock(return_value=None)
+
+    with patch("httpx.AsyncClient", return_value=mock_client), \
+         patch("asyncio.sleep", new_callable=AsyncMock), \
+         patch.object(api, "max_retries", 2):
+        with pytest.raises(RuntimeError, match="Rate limited"):
+            await api._request("http://example.com")
+
+
+@pytest.mark.asyncio
+async def test_rate_limit_backoff(api):
+    """Test rate limit backoff configuration."""
     # Simpler: verify backoff config
     assert api.backoff_base == 2.0
     assert api.max_retries == 3
