@@ -1,0 +1,79 @@
+{
+  "ts": "2026-09-21T22:16:45Z",
+  "markets": 500,
+  "scan_time_s": 46.0,
+  "brackets": [],
+  "near_misses_asks0": 0,
+  "near_misses_bestask": [
+    [
+      1.001,
+      "Spread: Estonia (-3.5)",
+      0.002,
+      0.999,
+      150.93024
+    ],
+    [
+      1.001,
+      "Will Amazon be the largest company in the world by",
+      0.002,
+      0.999,
+      208757.89301
+    ],
+    [
+      1.001,
+      "Will Anders Dreyer win 2026 MLS Most Valuable Play",
+      0.002,
+      0.999,
+      1511.88679
+    ],
+    [
+      1.001,
+      "Will Chana Pilane-Majake be the next mayor of Tshw",
+      0.018,
+      0.983,
+      771.41968
+    ],
+    [
+      1.001,
+      "Will FC Dallas win the 2026 MLS Cup?",
+      0.044,
+      0.957,
+      42468.75529
+    ],
+    [
+      1.001,
+      "Will Golden State Warriors win the 2027 NBA Finals",
+      0.012,
+      0.989,
+      235414.27427
+    ],
+    [
+      1.001,
+      "Will Linke be in the next Sachsen-Anhalt state gov",
+      0.014,
+      0.987,
+      8707.72278
+    ],
+    [
+      1.001,
+      "Will Mallory Aurichio come in second-place on Big ",
+      0.002,
+      0.999,
+      851.35126
+    ],
+    [
+      1.001,
+      "Will Republicans sweep the Maine Senate and Govern",
+      0.002,
+      0.999,
+      11181.27622
+    ],
+    [
+      1.001,
+      "Will SpaceX have 15+ launches in September 2026?",
+      0.002,
+      0.999,
+      2971.16988
+    ]
+  ]
+}
