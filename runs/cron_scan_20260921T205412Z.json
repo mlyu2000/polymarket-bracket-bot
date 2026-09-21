@@ -1,0 +1,221 @@
+{
+  "markets": 500,
+  "opps": [],
+  "near_misses": [
+    [
+      1.001,
+      "Spread: Estonia (-3.5)",
+      0.002,
+      0.999,
+      25.2044
+    ],
+    [
+      1.001,
+      "Will Amazon be the largest company in the world by",
+      0.002,
+      0.999,
+      210551.96931
+    ],
+    [
+      1.001,
+      "Will Anders Dreyer win 2026 MLS Most Valuable Play",
+      0.002,
+      0.999,
+      866.09109
+    ],
+    [
+      1.001,
+      "Will Chana Pilane-Majake be the next mayor of Tshw",
+      0.018,
+      0.983,
+      728.33412
+    ],
+    [
+      1.001,
+      "Will FC Dallas win the 2026 MLS Cup?",
+      0.044,
+      0.957,
+      41949.22567
+    ],
+    [
+      1.001,
+      "Will Golden State Warriors win the 2027 NBA Finals",
+      0.012,
+      0.989,
+      235501.99238
+    ],
+    [
+      1.001,
+      "Will Mallory Aurichio come in second-place on Big ",
+      0.002,
+      0.999,
+      596.03376
+    ],
+    [
+      1.001,
+      "Will Microsoft be the largest company in the world",
+      0.004,
+      0.997,
+      81257.98817
+    ],
+    [
+      1.001,
+      "Will Republicans sweep the Maine Senate and Govern",
+      0.002,
+      0.999,
+      11486.46456
+    ],
+    [
+      1.001,
+      "Will Rodina win the next Pskov Oblast Parliament e",
+      0.002,
+      0.999,
+      8316.33327
+    ],
+    [
+      1.001,
+      "Will SpaceX have 15+ launches in September 2026?",
+      0.002,
+      0.999,
+      1884.66527
+    ],
+    [
+      1.001,
+      "Will the Democratic Party candidate win the 2026 I",
+      0.021,
+      0.98,
+      8763.59318
+    ],
+    [
+      1.001,
+      "Will the Phoenix Suns be the 2027 NBA Western Conf",
+      0.008,
+      0.993,
+      60088.33708
+    ],
+    [
+      1.001,
+      "Will total votes cast in the 2026 midterm election",
+      0.031,
+      0.97,
+      9013.07777
+    ],
+    [
+      1.002,
+      "Will Linke be in the next Sachsen-Anhalt state gov",
+      0.014,
+      0.988,
+      8708.74772
+    ],
+    [
+      1.002,
+      "Will the highest temperature in London be 18\u00b0C or ",
+      0.003,
+      0.999,
+      5460.46787
+    ],
+    [
+      1.002,
+      "Will the price of Bitcoin be between $74,000 and $",
+      0.004,
+      0.998,
+      11399.26738
+    ],
+    [
+      1.003,
+      "Will Communists of Russia win the next Samara Obla",
+      0.005,
+      0.998,
+      11700.08443
+    ],
+    [
+      1.003,
+      "Will Hsu Chih-fu win the next Penghu County Magist",
+      0.004,
+      0.999,
+      9387.74339
+    ],
+    [
+      1.003,
+      "Will Max Holloway fight Justin Gaethje next?",
+      0.143,
+      0.86,
+      1851.86482
+    ],
+    [
+      1.003,
+      "Will Z.ai be the first company to have an AI model",
+      0.004,
+      0.999,
+      2062.29199
+    ],
+    [
+      1.003,
+      "Will the next governing coalition of Sweden includ",
+      0.005,
+      0.998,
+      16416.17773
+    ],
+    [
+      1.0030000000000001,
+      "Will Save the Children win the Nobel Peace Prize i",
+      0.096,
+      0.907,
+      10976.23906
+    ],
+    [
+      1.004,
+      "Will Alexander Zverev be Number 1 on the End of Ye",
+      0.464,
+      0.54,
+      1635.91409
+    ],
+    [
+      1.004,
+      "Will Meta have the best Code Arena | WebDev AI at ",
+      0.006,
+      0.998,
+      838.47145
+    ],
+    [
+      1.004,
+      "Will S\u00e9bastien Chenu be the next President of the ",
+      0.005,
+      0.999,
+      9015.00952
+    ],
+    [
+      1.004,
+      "Will the Democratic Party candidate win the 2026 N",
+      0.006,
+      0.998,
+      8304.74112
+    ],
+    [
+      1.005,
+      "Will Arizona Cardinals win the 2027 NFL NFC Champi",
+      0.008,
+      0.997,
+      67750.55826
+    ],
+    [
+      1.005,
+      "Will Eurozone GDP growth in Q3 2026 be between 0.4",
+      0.145,
+      0.86,
+      3392.62745
+    ],
+    [
+      1.005,
+      "Will Merab Dvalishvili be ranked first in the UFC ",
+      0.007,
+      0.998,
+      1032.79729
+    ]
+  ],
+  "scan_time": 67.48882627487183,
+  "floor": [
+    1.001,
+    "Will Anders Dreyer win 2026 MLS Most Valuable Play"
+  ]
+}
