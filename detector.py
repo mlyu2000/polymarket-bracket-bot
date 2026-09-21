@@ -39,13 +39,18 @@ class BracketDetector:
         if not market.active or market.closed:
             return None
 
+        # Guard: dead markets (liq=0) have no real order books
+        if market.liquidity <= 0:
+            return None
+
         # Guard: minimum liquidity
         if market.liquidity < Config.MIN_LIQUIDITY_USDC:
             return None
 
-        # Best asks
-        yes_ask = yes_book.asks[0]
-        no_ask = no_book.asks[0]
+        # Best asks — Polymarket CLOB returns asks sorted DESCENDING
+        # (highest price first), so the best (lowest) ask is the last entry.
+        yes_ask = yes_book.asks[-1]
+        no_ask = no_book.asks[-1]
 
         yes_price = float(yes_ask["price"])
         no_price = float(no_ask["price"])
