@@ -1,0 +1,11 @@
+{
+ "ts": "20260922T160447Z",
+ "method": "provided(asks[0]) + minask floor",
+ "markets": 500, "priced": 436, "scan_seconds": 48.9,
+ "brackets": 0,
+ "sub1_minask": 0,
+ "best_min_sum": 1.001,
+ "near_le_1005_provided_asks0": 0,
+ "near_le_1005_minask": 29,
+ "note": "min-ask floor 1.001 holds; provided-script asks[0] near-miss block always reports 0 (asks DESC-sorted), detector uses min()"
+}
