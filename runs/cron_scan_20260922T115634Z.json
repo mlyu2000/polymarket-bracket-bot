@@ -1,0 +1,243 @@
+{
+ "ts": "20260922T115634Z",
+ "method": "min-ask",
+ "markets": 500,
+ "priced": 439,
+ "scan_seconds": 48.41128349304199,
+ "best_min_sum": 1.001,
+ "detector_brackets": [],
+ "brackets": [],
+ "near_le_1005": [
+  {
+   "sum": 1.001,
+   "q": "Will Anders Dreyer win 2026 MLS Most Valuable Player?",
+   "yes": 0.002,
+   "no": 0.999,
+   "liq": 619.71249
+  },
+  {
+   "sum": 1.001,
+   "q": "Will the Democratic Party candidate win the 2026 IL-13 ",
+   "yes": 0.021,
+   "no": 0.98,
+   "liq": 8442.61218
+  },
+  {
+   "sum": 1.001,
+   "q": "Spread: Estonia (-3.5)",
+   "yes": 0.002,
+   "no": 0.999,
+   "liq": 187.14687
+  },
+  {
+   "sum": 1.001,
+   "q": "Will Mallory Aurichio come in second-place on Big Broth",
+   "yes": 0.002,
+   "no": 0.999,
+   "liq": 504.7661
+  },
+  {
+   "sum": 1.001,
+   "q": "Will the Republicans win the Delaware Senate race in 20",
+   "yes": 0.033,
+   "no": 0.968,
+   "liq": 27810.78639
+  },
+  {
+   "sum": 1.001,
+   "q": "Will Communists of Russia win the next Samara Oblast Pa",
+   "yes": 0.003,
+   "no": 0.998,
+   "liq": 9065.95682
+  },
+  {
+   "sum": 1.001,
+   "q": "Will Solana hit $60 or $140 first?",
+   "yes": 0.291,
+   "no": 0.71,
+   "liq": 4159.43848
+  },
+  {
+   "sum": 1.001,
+   "q": "Will SpaceX have 15+ launches in September 2026?",
+   "yes": 0.002,
+   "no": 0.999,
+   "liq": 1957.98447
+  },
+  {
+   "sum": 1.001,
+   "q": "Will Ethereum dip to $2,200 in September?",
+   "yes": 0.027,
+   "no": 0.974,
+   "liq": 33305.41678
+  },
+  {
+   "sum": 1.001,
+   "q": "Will Saudi Aramco be the largest company in the world b",
+   "yes": 0.002,
+   "no": 0.999,
+   "liq": 196935.66071
+  },
+  {
+   "sum": 1.001,
+   "q": "Will Amazon be the largest company in the world by mark",
+   "yes": 0.002,
+   "no": 0.999,
+   "liq": 243611.44152
+  },
+  {
+   "sum": 1.001,
+   "q": "Will Golden State Warriors win the 2027 NBA Finals?",
+   "yes": 0.012,
+   "no": 0.989,
+   "liq": 249403.78508
+  },
+  {
+   "sum": 1.001,
+   "q": "Will the Phoenix Suns be the 2027 NBA Western Conferenc",
+   "yes": 0.008,
+   "no": 0.993,
+   "liq": 55692.47795
+  },
+  {
+   "sum": 1.002,
+   "q": "Will the highest temperature in Tokyo be 29\u00b0C on Septem",
+   "yes": 0.004,
+   "no": 0.998,
+   "liq": 5544.4987
+  },
+  {
+   "sum": 1.002,
+   "q": "Will the price of Bitcoin be above $76,000 on September",
+   "yes": 0.996,
+   "no": 0.006,
+   "liq": 31095.64121
+  },
+  {
+   "sum": 1.002,
+   "q": "Dota 2:  Pipsqueak+4 vs Team Cobra (BO3) - PGL Wallachi",
+   "yes": 0.73,
+   "no": 0.272,
+   "liq": 61122.44637
+  },
+  {
+   "sum": 1.002,
+   "q": "Will Max Holloway fight Justin Gaethje next?",
+   "yes": 0.141,
+   "no": 0.861,
+   "liq": 1591.84175
+  },
+  {
+   "sum": 1.002,
+   "q": "Will Linke be in the next Sachsen-Anhalt state governme",
+   "yes": 0.014,
+   "no": 0.988,
+   "liq": 8676.43865
+  },
+  {
+   "sum": 1.002,
+   "q": "Will the highest temperature in New York City be betwee",
+   "yes": 0.003,
+   "no": 0.999,
+   "liq": 5602.91896
+  },
+  {
+   "sum": 1.002,
+   "q": "Will Microsoft be the largest company in the world by m",
+   "yes": 0.005,
+   "no": 0.997,
+   "liq": 115112.72095
+  },
+  {
+   "sum": 1.002,
+   "q": "Will Vladislav Khovalyg win the 2026 Tuva gubernatorial",
+   "yes": 0.997,
+   "no": 0.005,
+   "liq": 8972.06189
+  },
+  {
+   "sum": 1.003,
+   "q": "Will Rodina win the next Pskov Oblast Parliament electi",
+   "yes": 0.004,
+   "no": 0.999,
+   "liq": 9267.64255
+  },
+  {
+   "sum": 1.003,
+   "q": "Will the price of Bitcoin be above $70,000 on September",
+   "yes": 0.998,
+   "no": 0.005,
+   "liq": 11173.93965
+  },
+  {
+   "sum": 1.003,
+   "q": "Will Hsu Chih-fu win the next Penghu County Magistrate ",
+   "yes": 0.004,
+   "no": 0.999,
+   "liq": 9539.4388
+  },
+  {
+   "sum": 1.003,
+   "q": "Will Z.ai be the first company to have an AI model hit ",
+   "yes": 0.004,
+   "no": 0.999,
+   "liq": 2369.81392
+  },
+  {
+   "sum": 1.004,
+   "q": "Will FC Dallas win the 2026 MLS Cup?",
+   "yes": 0.047,
+   "no": 0.957,
+   "liq": 40923.66957
+  },
+  {
+   "sum": 1.004,
+   "q": "Will Khamenei post 10-14 posts from September 18 to Sep",
+   "yes": 0.005,
+   "no": 0.999,
+   "liq": 1216.5415
+  },
+  {
+   "sum": 1.004,
+   "q": "Will Meta have the best Code Arena | WebDev AI at the e",
+   "yes": 0.006,
+   "no": 0.998,
+   "liq": 370.01409
+  },
+  {
+   "sum": 1.004,
+   "q": "Will the highest temperature in Milan be 22\u00b0C on Septem",
+   "yes": 0.034,
+   "no": 0.97,
+   "liq": 2248.37394
+  },
+  {
+   "sum": 1.004,
+   "q": "Will the Democratic Party candidate win the 2026 NY-05 ",
+   "yes": 0.006,
+   "no": 0.998,
+   "liq": 8441.51083
+  },
+  {
+   "sum": 1.005,
+   "q": "FC Internazionale Milano vs. BK H\u00e4cken FF: O/U 8.5",
+   "yes": 0.006,
+   "no": 0.999,
+   "liq": 1790.70687
+  },
+  {
+   "sum": 1.005,
+   "q": "Will Arizona Cardinals win the 2027 NFL NFC Championshi",
+   "yes": 0.008,
+   "no": 0.997,
+   "liq": 62513.88077
+  },
+  {
+   "sum": 1.005,
+   "q": "Will Merab Dvalishvili be ranked first in the UFC Pound",
+   "yes": 0.007,
+   "no": 0.998,
+   "liq": 972.55229
+  }
+ ]
+}
