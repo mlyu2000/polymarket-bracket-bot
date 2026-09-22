@@ -1,0 +1,214 @@
+{
+ "ts": "20260922T023209Z",
+ "method": "min-ask",
+ "markets": 500,
+ "priced": 425,
+ "scan_seconds": 65.83269739151001,
+ "best_min_sum": 1.001,
+ "brackets": [],
+ "near_le_1005": [
+  [
+   1.001,
+   "Spread: Estonia (-3.5)",
+   0.002,
+   0.999,
+   282.58867
+  ],
+  [
+   1.001,
+   "Will Amazon be the largest company in the world by market ca",
+   0.002,
+   0.999,
+   211054.06969
+  ],
+  [
+   1.001,
+   "Will Anders Dreyer win 2026 MLS Most Valuable Player?",
+   0.002,
+   0.999,
+   1515.45334
+  ],
+  [
+   1.001,
+   "Will Chana Pilane-Majake be the next mayor of Tshwane?",
+   0.018,
+   0.983,
+   790.84328
+  ],
+  [
+   1.001,
+   "Will Communists of Russia win the next Samara Oblast Parliam",
+   0.003,
+   0.998,
+   11596.67872
+  ],
+  [
+   1.001,
+   "Will Golden State Warriors win the 2027 NBA Finals?",
+   0.012,
+   0.989,
+   236811.56842
+  ],
+  [
+   1.001,
+   "Will Linke be in the next Sachsen-Anhalt state government?",
+   0.014,
+   0.987,
+   8709.2637
+  ],
+  [
+   1.001,
+   "Will Mallory Aurichio come in second-place on Big Brother se",
+   0.002,
+   0.999,
+   948.40924
+  ],
+  [
+   1.001,
+   "Will Max Holloway fight Justin Gaethje next?",
+   0.141,
+   0.86,
+   1934.39531
+  ],
+  [
+   1.001,
+   "Will Saudi Aramco be the largest company in the world by mar",
+   0.002,
+   0.999,
+   162139.26364
+  ],
+  [
+   1.001,
+   "Will SpaceX have 15+ launches in September 2026?",
+   0.002,
+   0.999,
+   2844.46898
+  ],
+  [
+   1.001,
+   "Will the Democratic Party candidate win the 2026 IL-13 House",
+   0.021,
+   0.98,
+   8463.00925
+  ],
+  [
+   1.001,
+   "Will the Phoenix Suns be the 2027 NBA Western Conference Cha",
+   0.008,
+   0.993,
+   60029.4309
+  ],
+  [
+   1.001,
+   "Will the Republicans win the Delaware Senate race in 2026?",
+   0.033,
+   0.968,
+   26054.00048
+  ],
+  [
+   1.001,
+   "Will total votes cast in the 2026 midterm election for Senat",
+   0.031,
+   0.97,
+   8680.20778
+  ],
+  [
+   1.002,
+   "Will Microsoft be the largest company in the world by market",
+   0.005,
+   0.997,
+   79737.92585
+  ],
+  [
+   1.002,
+   "Will SpaceXAI have the best Code Arena | WebDev AI at the en",
+   0.003,
+   0.999,
+   779.85296
+  ],
+  [
+   1.002,
+   "Will the highest temperature in Istanbul be 22\u00b0C or higher o",
+   0.004,
+   0.998,
+   2888.96939
+  ],
+  [
+   1.003,
+   "Will Florida have the closest Governor's race in 2026?",
+   0.087,
+   0.916,
+   12943.82384
+  ],
+  [
+   1.003,
+   "Will Hsu Chih-fu win the next Penghu County Magistrate elect",
+   0.004,
+   0.999,
+   9578.51949
+  ],
+  [
+   1.003,
+   "Will Z.ai be the first company to have an AI model hit 1550 ",
+   0.004,
+   0.999,
+   2137.00297
+  ],
+  [
+   1.004,
+   "Will Andrew Abbott lead the MLB in ERA for the 2026 regular ",
+   0.005,
+   0.999,
+   223.26156
+  ],
+  [
+   1.004,
+   "Will Ethereum dip to $2,200 in September?",
+   0.03,
+   0.974,
+   29619.71684
+  ],
+  [
+   1.004,
+   "Will FC Dallas win the 2026 MLS Cup?",
+   0.047,
+   0.957,
+   42106.91944
+  ],
+  [
+   1.004,
+   "Will Meta have the best Code Arena | WebDev AI at the end of",
+   0.006,
+   0.998,
+   819.61242
+  ],
+  [
+   1.004,
+   "Will S\u00e9bastien Chenu be the next President of the National R",
+   0.005,
+   0.999,
+   9074.8837
+  ],
+  [
+   1.004,
+   "Will the Democratic Party candidate win the 2026 NY-05 House",
+   0.006,
+   0.998,
+   8432.8529
+  ],
+  [
+   1.005,
+   "Will Merab Dvalishvili be ranked first in the UFC Pound-For-",
+   0.007,
+   0.998,
+   887.90516
+  ],
+  [
+   1.005,
+   "Will the Republican Party candidate win the 2026 MD-06 House",
+   0.007,
+   0.998,
+   18890.08233
+  ]
+ ]
+}

@@ -1,0 +1,244 @@
+{
+  "ts": "20260922T071650Z",
+  "markets": 500,
+  "priced": 439,
+  "opps": [],
+  "near_misses": [
+    [
+      1.001,
+      "Spread: Estonia (-3.5)",
+      0.002,
+      0.999,
+      286.17104
+    ],
+    [
+      1.001,
+      "Will Amazon be the largest company in the world by",
+      0.002,
+      0.999,
+      219411.85102
+    ],
+    [
+      1.001,
+      "Will Anders Dreyer win 2026 MLS Most Valuable Play",
+      0.002,
+      0.999,
+      897.87301
+    ],
+    [
+      1.001,
+      "Will Communists of Russia win the next Samara Obla",
+      0.003,
+      0.998,
+      10819.10672
+    ],
+    [
+      1.001,
+      "Will Eurozone GDP growth in Q3 2026 be between 0.4",
+      0.141,
+      0.86,
+      1695.37459
+    ],
+    [
+      1.001,
+      "Will Golden State Warriors win the 2027 NBA Finals",
+      0.012,
+      0.989,
+      233389.89552
+    ],
+    [
+      1.001,
+      "Will Linke be in the next Sachsen-Anhalt state gov",
+      0.014,
+      0.987,
+      8709.4637
+    ],
+    [
+      1.001,
+      "Will Mallory Aurichio come in second-place on Big ",
+      0.002,
+      0.999,
+      935.6292
+    ],
+    [
+      1.001,
+      "Will Saudi Aramco be the largest company in the wo",
+      0.002,
+      0.999,
+      167455.50721
+    ],
+    [
+      1.001,
+      "Will SpaceX have 15+ launches in September 2026?",
+      0.002,
+      0.999,
+      2935.27924
+    ],
+    [
+      1.001,
+      "Will The Social Reckoning win Best Original Score ",
+      0.002,
+      0.999,
+      1018.5633
+    ],
+    [
+      1.001,
+      "Will Vladislav Khovalyg win the 2026 Tuva gubernat",
+      0.996,
+      0.005,
+      8515.12183
+    ],
+    [
+      1.001,
+      "Will the Democratic Party candidate win the 2026 I",
+      0.021,
+      0.98,
+      8510.12615
+    ],
+    [
+      1.001,
+      "Will the Phoenix Suns be the 2027 NBA Western Conf",
+      0.008,
+      0.993,
+      57513.17392
+    ],
+    [
+      1.001,
+      "Will the Republicans win the Delaware Senate race ",
+      0.033,
+      0.968,
+      27494.58208
+    ],
+    [
+      1.001,
+      "Will total votes cast in the 2026 midterm election",
+      0.031,
+      0.97,
+      8736.31318
+    ],
+    [
+      1.002,
+      "Will Max Holloway fight Justin Gaethje next?",
+      0.141,
+      0.861,
+      1715.2944
+    ],
+    [
+      1.002,
+      "Will Microsoft be the largest company in the world",
+      0.005,
+      0.997,
+      84834.77295
+    ],
+    [
+      1.002,
+      "Will Rodina win the next Pskov Oblast Parliament e",
+      0.004,
+      0.998,
+      9458.96094
+    ],
+    [
+      1.002,
+      "Will SpaceXAI have the best Code Arena | WebDev AI",
+      0.003,
+      0.999,
+      627.72575
+    ],
+    [
+      1.002,
+      "Will the highest temperature in Warsaw be 19\u00b0C on ",
+      0.003,
+      0.999,
+      4020.24398
+    ],
+    [
+      1.003,
+      "Will Hsu Chih-fu win the next Penghu County Magist",
+      0.004,
+      0.999,
+      9484.35389
+    ],
+    [
+      1.003,
+      "Will Solana hit $60 or $140 first?",
+      0.293,
+      0.71,
+      2436.6674
+    ],
+    [
+      1.003,
+      "Will Z.ai be the first company to have an AI model",
+      0.004,
+      0.999,
+      2197.48799
+    ],
+    [
+      1.004,
+      "Will Ethereum dip to $2,200 in September?",
+      0.03,
+      0.974,
+      31329.55184
+    ],
+    [
+      1.004,
+      "Will FC Dallas win the 2026 MLS Cup?",
+      0.047,
+      0.957,
+      42401.49673
+    ],
+    [
+      1.004,
+      "Will Meta have the best Code Arena | WebDev AI at ",
+      0.006,
+      0.998,
+      613.84593
+    ],
+    [
+      1.004,
+      "Will S\u00e9bastien Chenu be the next President of the ",
+      0.005,
+      0.999,
+      10257.09961
+    ],
+    [
+      1.004,
+      "Will the Democratic Party candidate win the 2026 N",
+      0.006,
+      0.998,
+      8186.28483
+    ],
+    [
+      1.004,
+      "Will the price of Bitcoin be above $76,000 on Sept",
+      0.988,
+      0.016,
+      33219.75061
+    ],
+    [
+      1.005,
+      "FC Internazionale Milano vs. BK H\u00e4cken FF: O/U 8.5",
+      0.006,
+      0.999,
+      2265.64161
+    ],
+    [
+      1.005,
+      "Will Merab Dvalishvili be ranked first in the UFC ",
+      0.007,
+      0.998,
+      689.69029
+    ],
+    [
+      1.005,
+      "Will the Republican Party candidate win the 2026 M",
+      0.007,
+      0.998,
+      18911.01789
+    ]
+  ],
+  "floor": [
+    1.001,
+    "Will Anders Dreyer win 2026 MLS Most Valuable Play"
+  ],
+  "scan_time": 47.820146560668945
+}

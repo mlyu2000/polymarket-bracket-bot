@@ -1,0 +1,207 @@
+{
+ "ts": "20260922T024450Z",
+ "method": "min-ask",
+ "markets": 500,
+ "priced": 430,
+ "scan_seconds": 48.69663858413696,
+ "best_min_sum": 1.001,
+ "brackets": [],
+ "near_le_1005": [
+  [
+   1.001,
+   "Spread: Estonia (-3.5)",
+   0.002,
+   0.999,
+   282.58867
+  ],
+  [
+   1.001,
+   "Will Amazon be the largest company in the world by",
+   0.002,
+   0.999,
+   215965.79043
+  ],
+  [
+   1.001,
+   "Will Anders Dreyer win 2026 MLS Most Valuable Play",
+   0.002,
+   0.999,
+   1130.30032
+  ],
+  [
+   1.001,
+   "Will Communists of Russia win the next Samara Obla",
+   0.003,
+   0.998,
+   11513.90859
+  ],
+  [
+   1.001,
+   "Will Golden State Warriors win the 2027 NBA Finals",
+   0.012,
+   0.989,
+   236987.23776
+  ],
+  [
+   1.001,
+   "Will Linke be in the next Sachsen-Anhalt state gov",
+   0.014,
+   0.987,
+   8604.5225
+  ],
+  [
+   1.001,
+   "Will Mallory Aurichio come in second-place on Big ",
+   0.002,
+   0.999,
+   907.45424
+  ],
+  [
+   1.001,
+   "Will Max Holloway fight Justin Gaethje next?",
+   0.141,
+   0.86,
+   1821.72129
+  ],
+  [
+   1.001,
+   "Will Saudi Aramco be the largest company in the wo",
+   0.002,
+   0.999,
+   166212.49867
+  ],
+  [
+   1.001,
+   "Will SpaceX have 15+ launches in September 2026?",
+   0.002,
+   0.999,
+   3008.203
+  ],
+  [
+   1.001,
+   "Will the Democratic Party candidate win the 2026 I",
+   0.021,
+   0.98,
+   8427.19944
+  ],
+  [
+   1.001,
+   "Will the Phoenix Suns be the 2027 NBA Western Conf",
+   0.008,
+   0.993,
+   58623.17965
+  ],
+  [
+   1.001,
+   "Will the Republicans win the Delaware Senate race ",
+   0.033,
+   0.968,
+   25359.72148
+  ],
+  [
+   1.001,
+   "Will total votes cast in the 2026 midterm election",
+   0.031,
+   0.97,
+   8680.00278
+  ],
+  [
+   1.002,
+   "Will Microsoft be the largest company in the world",
+   0.005,
+   0.997,
+   83546.72088
+  ],
+  [
+   1.002,
+   "Will SpaceXAI have the best Code Arena | WebDev AI",
+   0.003,
+   0.999,
+   830.36796
+  ],
+  [
+   1.002,
+   "Will the highest temperature in Istanbul be 22\u00b0C o",
+   0.004,
+   0.998,
+   2609.39603
+  ],
+  [
+   1.003,
+   "Will Hsu Chih-fu win the next Penghu County Magist",
+   0.004,
+   0.999,
+   9702.26266
+  ],
+  [
+   1.003,
+   "Will Z.ai be the first company to have an AI model",
+   0.004,
+   0.999,
+   2132.63319
+  ],
+  [
+   1.0030000000000001,
+   "Will Florida have the closest Governor's race in 2",
+   0.087,
+   0.916,
+   12967.42384
+  ],
+  [
+   1.004,
+   "Will Andrew Abbott lead the MLB in ERA for the 202",
+   0.005,
+   0.999,
+   223.5536
+  ],
+  [
+   1.004,
+   "Will Ethereum dip to $2,200 in September?",
+   0.03,
+   0.974,
+   14899.90127
+  ],
+  [
+   1.004,
+   "Will FC Dallas win the 2026 MLS Cup?",
+   0.047,
+   0.957,
+   41111.75915
+  ],
+  [
+   1.004,
+   "Will Meta have the best Code Arena | WebDev AI at ",
+   0.006,
+   0.998,
+   433.99052
+  ],
+  [
+   1.004,
+   "Will S\u00e9bastien Chenu be the next President of the ",
+   0.005,
+   0.999,
+   9406.53804
+  ],
+  [
+   1.004,
+   "Will the Democratic Party candidate win the 2026 N",
+   0.006,
+   0.998,
+   8402.7029
+  ],
+  [
+   1.005,
+   "Will Merab Dvalishvili be ranked first in the UFC ",
+   0.007,
+   0.998,
+   1170.45816
+  ],
+  [
+   1.005,
+   "Will the Republican Party candidate win the 2026 M",
+   0.007,
+   0.998,
+   18854.39289
+  ]
+ ]
+}
