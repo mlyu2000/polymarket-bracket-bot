@@ -1,0 +1,222 @@
+{
+ "ts": "20260922T151128Z",
+ "method": "provided(asks[0]) + detector + minask floor",
+ "markets": 500,
+ "priced": 437,
+ "scan_seconds": 48.59,
+ "best_min_sum": 1.001,
+ "brackets": [],
+ "near_le_1005_provided_asks0": [],
+ "near_le_1005_minask": [
+  {
+   "sum": 1.001,
+   "q": "Spread: Estonia (-3.5)",
+   "yes": 0.002,
+   "no": 0.999,
+   "liq": 291.32764
+  },
+  {
+   "sum": 1.001,
+   "q": "Will Anders Dreyer win 2026 MLS Most Valuable Player?",
+   "yes": 0.002,
+   "no": 0.999,
+   "liq": 686.44442
+  },
+  {
+   "sum": 1.001,
+   "q": "Will Communists of Russia win the next Samara Oblast Parliam",
+   "yes": 0.003,
+   "no": 0.998,
+   "liq": 9189.04883
+  },
+  {
+   "sum": 1.001,
+   "q": "Will Eurozone GDP growth in Q3 2026 be between 0.4% and 0.7%",
+   "yes": 0.141,
+   "no": 0.86,
+   "liq": 1651.66852
+  },
+  {
+   "sum": 1.001,
+   "q": "Will Golden State Warriors win the 2027 NBA Finals?",
+   "yes": 0.011,
+   "no": 0.99,
+   "liq": 234401.1539
+  },
+  {
+   "sum": 1.001,
+   "q": "Will Hsu Chih-fu win the next Penghu County Magistrate elect",
+   "yes": 0.002,
+   "no": 0.999,
+   "liq": 9486.39746
+  },
+  {
+   "sum": 1.001,
+   "q": "Will Mallory Aurichio come in second-place on Big Brother se",
+   "yes": 0.002,
+   "no": 0.999,
+   "liq": 873.93836
+  },
+  {
+   "sum": 1.001,
+   "q": "Will Max Holloway fight Justin Gaethje next?",
+   "yes": 0.14,
+   "no": 0.861,
+   "liq": 1655.7661
+  },
+  {
+   "sum": 1.001,
+   "q": "Will Saudi Aramco be the largest company in the world by mar",
+   "yes": 0.002,
+   "no": 0.999,
+   "liq": 169134.06299
+  },
+  {
+   "sum": 1.001,
+   "q": "Will SpaceX have 15+ launches in September 2026?",
+   "yes": 0.002,
+   "no": 0.999,
+   "liq": 3042.7659
+  },
+  {
+   "sum": 1.001,
+   "q": "Will the Democratic Party candidate win the 2026 IL-13 House",
+   "yes": 0.021,
+   "no": 0.98,
+   "liq": 8686.38578
+  },
+  {
+   "sum": 1.001,
+   "q": "Will the Phoenix Suns be the 2027 NBA Western Conference Cha",
+   "yes": 0.008,
+   "no": 0.993,
+   "liq": 57223.93668
+  },
+  {
+   "sum": 1.001,
+   "q": "Will the Republicans win the Delaware Senate race in 2026?",
+   "yes": 0.033,
+   "no": 0.968,
+   "liq": 27377.0004
+  },
+  {
+   "sum": 1.001,
+   "q": "Will the highest temperature in Paris be 30\u00b0C on September 2",
+   "yes": 0.002,
+   "no": 0.999,
+   "liq": 6406.75384
+  },
+  {
+   "sum": 1.001,
+   "q": "Will the price of Bitcoin be above $76,000 on September 24?",
+   "yes": 0.996,
+   "no": 0.005,
+   "liq": 29709.33932
+  },
+  {
+   "sum": 1.002,
+   "q": "Will Linke be in the next Sachsen-Anhalt state government?",
+   "yes": 0.014,
+   "no": 0.988,
+   "liq": 8571.69797
+  },
+  {
+   "sum": 1.002,
+   "q": "Will Microsoft be the largest company in the world by market",
+   "yes": 0.005,
+   "no": 0.997,
+   "liq": 85440.19759
+  },
+  {
+   "sum": 1.002,
+   "q": "Will Vladislav Khovalyg win the 2026 Tuva gubernatorial elec",
+   "yes": 0.997,
+   "no": 0.005,
+   "liq": 8972.06189
+  },
+  {
+   "sum": 1.003,
+   "q": "Google announces a full training pause in 2026?",
+   "yes": 0.005,
+   "no": 0.998,
+   "liq": 146.10497
+  },
+  {
+   "sum": 1.003,
+   "q": "Will Marianna Schreiber win the 2026 Krak\u00f3w mayoral election",
+   "yes": 0.004,
+   "no": 0.999,
+   "liq": 20895.28819
+  },
+  {
+   "sum": 1.003,
+   "q": "Will Z.ai be the first company to have an AI model hit 1550 ",
+   "yes": 0.004,
+   "no": 0.999,
+   "liq": 2106.17762
+  },
+  {
+   "sum": 1.003,
+   "q": "Will the price of Bitcoin be above $70,000 on September 27?",
+   "yes": 0.998,
+   "no": 0.005,
+   "liq": 8593.50671
+  },
+  {
+   "sum": 1.004,
+   "q": "Will FC Dallas win the 2026 MLS Cup?",
+   "yes": 0.047,
+   "no": 0.957,
+   "liq": 42600.79342
+  },
+  {
+   "sum": 1.004,
+   "q": "Will Meta have the best Code Arena | WebDev AI at the end of",
+   "yes": 0.006,
+   "no": 0.998,
+   "liq": 445.80028
+  },
+  {
+   "sum": 1.004,
+   "q": "Will SpaceXAI have the best Math AI model at the end of Octo",
+   "yes": 0.005,
+   "no": 0.999,
+   "liq": 1357.4917
+  },
+  {
+   "sum": 1.004,
+   "q": "Will the Democratic Party candidate win the 2026 NY-05 House",
+   "yes": 0.006,
+   "no": 0.998,
+   "liq": 8494.51343
+  },
+  {
+   "sum": 1.004,
+   "q": "Will the price of Bitcoin be above $82,000 on September 24?",
+   "yes": 0.964,
+   "no": 0.04,
+   "liq": 25706.10213
+  },
+  {
+   "sum": 1.004,
+   "q": "Will the price of Solana be between $80 and $90 on September",
+   "yes": 0.005,
+   "no": 0.999,
+   "liq": 297.16828
+  },
+  {
+   "sum": 1.005,
+   "q": "Will Merab Dvalishvili be ranked first in the UFC Pound-For-",
+   "yes": 0.007,
+   "no": 0.998,
+   "liq": 866.80229
+  },
+  {
+   "sum": 1.005,
+   "q": "Will Shohei Ohtani record the most intentional walks during ",
+   "yes": 0.007,
+   "no": 0.998,
+   "liq": 546.12812
+  }
+ ]
+}
