@@ -1,0 +1,217 @@
+{
+ "ts": "20260922T234211Z",
+ "method": "provided(asks[0]) + detector + minask floor",
+ "markets": 500,
+ "priced": 447,
+ "scan_seconds": 47.36,
+ "best_min_sum": 1.001,
+ "best_min_sum_market": "Will Anders Dreyer win 2026 MLS Most Valuable Play",
+ "brackets": [],
+ "near_le_1005_provided_asks0": [],
+ "near_le_1005_minask": [
+  {
+   "sum": 1.001,
+   "q": "Reserve Bank of New Zealand increases interest rat",
+   "yes": 0.003,
+   "no": 0.998,
+   "liq": 3156.83369
+  },
+  {
+   "sum": 1.001,
+   "q": "Will Anders Dreyer win 2026 MLS Most Valuable Play",
+   "yes": 0.002,
+   "no": 0.999,
+   "liq": 1156.05677
+  },
+  {
+   "sum": 1.001,
+   "q": "Will Brad Pitt win Best Actor at the 99th Academy ",
+   "yes": 0.004,
+   "no": 0.997,
+   "liq": 13476.51474
+  },
+  {
+   "sum": 1.001,
+   "q": "Will Golden State Warriors win the 2027 NBA Finals",
+   "yes": 0.011,
+   "no": 0.99,
+   "liq": 255060.33343
+  },
+  {
+   "sum": 1.001,
+   "q": "Will Hsu Chih-fu win the next Penghu County Magist",
+   "yes": 0.002,
+   "no": 0.999,
+   "liq": 9553.4017
+  },
+  {
+   "sum": 1.001,
+   "q": "Will Mallory Aurichio come in second-place on Big ",
+   "yes": 0.002,
+   "no": 0.999,
+   "liq": 810.3679
+  },
+  {
+   "sum": 1.001,
+   "q": "Will Max Holloway fight Justin Gaethje next?",
+   "yes": 0.14,
+   "no": 0.861,
+   "liq": 1596.14286
+  },
+  {
+   "sum": 1.001,
+   "q": "Will Saudi Aramco be the largest company in the wo",
+   "yes": 0.002,
+   "no": 0.999,
+   "liq": 199636.84975
+  },
+  {
+   "sum": 1.001,
+   "q": "Will SpaceX have 15+ launches in September 2026?",
+   "yes": 0.002,
+   "no": 0.999,
+   "liq": 2983.88111
+  },
+  {
+   "sum": 1.001,
+   "q": "Will the Democratic Party candidate win the 2026 I",
+   "yes": 0.021,
+   "no": 0.98,
+   "liq": 8797.09446
+  },
+  {
+   "sum": 1.001,
+   "q": "Will the Phoenix Suns be the 2027 NBA Western Conf",
+   "yes": 0.008,
+   "no": 0.993,
+   "liq": 56876.07485
+  },
+  {
+   "sum": 1.001,
+   "q": "Will the Republicans win the Delaware Senate race ",
+   "yes": 0.033,
+   "no": 0.968,
+   "liq": 25530.80134
+  },
+  {
+   "sum": 1.001,
+   "q": "Will the price of Bitcoin be above $74,000 on Sept",
+   "yes": 0.997,
+   "no": 0.004,
+   "liq": 38723.78296
+  },
+  {
+   "sum": 1.001,
+   "q": "Will the price of Ethereum be above $2,400 on Sept",
+   "yes": 0.999,
+   "no": 0.002,
+   "liq": 32604.36003
+  },
+  {
+   "sum": 1.001,
+   "q": "Will total votes cast in the 2026 midterm election",
+   "yes": 0.031,
+   "no": 0.97,
+   "liq": 8965.92412
+  },
+  {
+   "sum": 1.002,
+   "q": "Will Linke be in the next Sachsen-Anhalt state gov",
+   "yes": 0.014,
+   "no": 0.988,
+   "liq": 8601.5994
+  },
+  {
+   "sum": 1.002,
+   "q": "Will Microsoft be the largest company in the world",
+   "yes": 0.005,
+   "no": 0.997,
+   "liq": 117284.22576
+  },
+  {
+   "sum": 1.002,
+   "q": "Will Trump create a $5,000 dividend by March 31, 2",
+   "yes": 0.04,
+   "no": 0.962,
+   "liq": 25267.91789
+  },
+  {
+   "sum": 1.002,
+   "q": "Will the Democratic Party candidate win the 2026 N",
+   "yes": 0.003,
+   "no": 0.999,
+   "liq": 8349.15209
+  },
+  {
+   "sum": 1.003,
+   "q": "Trump renames Strait of Hormuz to \"Strait of Trump",
+   "yes": 0.045,
+   "no": 0.958,
+   "liq": 26501.55472
+  },
+  {
+   "sum": 1.003,
+   "q": "Will Z.ai be the first company to have an AI model",
+   "yes": 0.004,
+   "no": 0.999,
+   "liq": 1684.66385
+  },
+  {
+   "sum": 1.004,
+   "q": "Will Meta have the best Code Arena | WebDev AI at ",
+   "yes": 0.006,
+   "no": 0.998,
+   "liq": 393.19549
+  },
+  {
+   "sum": 1.004,
+   "q": "Will SpaceXAI have the best Math AI model at the e",
+   "yes": 0.005,
+   "no": 0.999,
+   "liq": 1382.75573
+  },
+  {
+   "sum": 1.004,
+   "q": "Will S\u00e9bastien Chenu be the next President of the ",
+   "yes": 0.005,
+   "no": 0.999,
+   "liq": 9342.89472
+  },
+  {
+   "sum": 1.004,
+   "q": "Will the price of Bitcoin be above $70,000 on Sept",
+   "yes": 0.998,
+   "no": 0.006,
+   "liq": 9029.9467
+  },
+  {
+   "sum": 1.005,
+   "q": "Will Arizona Cardinals win the 2027 NFL NFC Champi",
+   "yes": 0.008,
+   "no": 0.997,
+   "liq": 66314.86707
+  },
+  {
+   "sum": 1.005,
+   "q": "Will Communists of Russia win the next Samara Obla",
+   "yes": 0.006,
+   "no": 0.999,
+   "liq": 9066.90859
+  },
+  {
+   "sum": 1.005,
+   "q": "Will Merab Dvalishvili be ranked first in the UFC ",
+   "yes": 0.007,
+   "no": 0.998,
+   "liq": 518.4445
+  }
+ ],
+ "paper_stats": {
+  "attempts": 0,
+  "both_filled": 0,
+  "one_leg": 0,
+  "neither": 0,
+  "unwind": 0,
+  "total_pnl": 0.0
+ }
+}
