@@ -1,0 +1,18 @@
+Scan: 500 markets in 49.1s
+BRACKETS (sum < 1.00): 0
+Near-misses (asks[0], <=1.005): 0
+-- corrected min-ask pass --
+Priced markets: 432
+Floor sum: 1.0010 (Will Anders Dreyer win 2026 MLS Most Valuable Player?)
+True brackets (min-ask sum<1.00): 0
+True near-misses (min-ask <=1.005): 40
+  1.0010 | Yes@0.002 No@0.999 | liq=1263.38071 | Will Anders Dreyer win 2026 MLS Most Valuable Player?
+  1.0010 | Yes@0.002 No@0.999 | liq=17452.12437 | Will Bartosz Bocheńczak win the 2026 Kraków mayoral election
+  1.0010 | Yes@0.002 No@0.999 | liq=139175.11494 | Will Bitcoin dip to $55,000 in September?
+  1.0010 | Yes@0.004 No@0.997 | liq=12995.28755 | Will Brad Pitt win Best Actor at the 99th Academy Awards?
+  1.0010 | Yes@0.027 No@0.974 | liq=106413.75063 | Will FC Barcelona vs. Paris FC end in a draw?
+  1.0010 | Yes@0.002 No@0.999 | liq=2857.91399 | Will Ferencvaros win the 2026-27 UEFA Europa League Champion
+  1.0010 | Yes@0.002 No@0.999 | liq=11337.61465 | Will GS come 2nd place in the next Latvian parliamentary ele
+  1.0010 | Yes@0.011 No@0.990 | liq=262604.36066 | Will Golden State Warriors win the 2027 NBA Finals?
+  1.0010 | Yes@0.002 No@0.999 | liq=764.70203 | Will Mallory Aurichio come in second-place on Big Brother se
+  1.0010 | Yes@0.140 No@0.861 | liq=1501.97318 | Will Max Holloway fight Justin Gaethje next?
