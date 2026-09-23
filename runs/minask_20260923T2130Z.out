@@ -1,0 +1,12 @@
+priced markets: 417
+--- true floor (min-ask sums), bottom 8 ---
+  1.001 | Yes@0.002 No@0.999 | liq=824.99959 | Will Anders Dreyer win 2026 MLS Most Valuable Player?
+  1.001 | Yes@0.002 No@0.999 | liq=17951.70201 | Will Bartosz Bocheńczak win the 2026 Kraków mayoral ele
+  1.001 | Yes@0.004 No@0.997 | liq=14326.83562 | Will Brad Pitt win Best Actor at the 99th Academy Award
+  1.001 | Yes@0.002 No@0.999 | liq=2758.57229 | Will Ferencvaros win the 2026-27 UEFA Europa League Cha
+  1.001 | Yes@0.002 No@0.999 | liq=10788.63221 | Will GS come 2nd place in the next Latvian parliamentar
+  1.001 | Yes@0.011 No@0.990 | liq=254166.04805 | Will Golden State Warriors win the 2027 NBA Finals?
+  1.001 | Yes@0.002 No@0.999 | liq=9491.94047 | Will Hsu Chih-fu win the next Penghu County Magistrate 
+  1.001 | Yes@0.002 No@0.999 | liq=444.42839 | Will Mallory Aurichio come in second-place on Big Broth
+true near-misses (<=1.005): 34
+true min-ask brackets (<1.000): 0
