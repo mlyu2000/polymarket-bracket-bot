@@ -1,0 +1,230 @@
+{
+  "markets": 500,
+  "priced": 445,
+  "floor": [
+    1.001,
+    "Will Anders Dreyer win 2026 MLS Most Valuable Play",
+    1128.06652
+  ],
+  "opps": [],
+  "near_misses": [
+    [
+      1.001,
+      "Will Anders Dreyer win 2026 MLS Most Valuable Play",
+      0.002,
+      0.999,
+      1128.06652
+    ],
+    [
+      1.001,
+      "Will Brad Pitt win Best Actor at the 99th Academy ",
+      0.004,
+      0.997,
+      14156.57723
+    ],
+    [
+      1.001,
+      "Will Golden State Warriors win the 2027 NBA Finals",
+      0.011,
+      0.99,
+      234318.2701
+    ],
+    [
+      1.001,
+      "Will Hsu Chih-fu win the next Penghu County Magist",
+      0.002,
+      0.999,
+      9525.36858
+    ],
+    [
+      1.001,
+      "Will Mallory Aurichio come in second-place on Big ",
+      0.002,
+      0.999,
+      615.28112
+    ],
+    [
+      1.001,
+      "Will Max Holloway fight Justin Gaethje next?",
+      0.14,
+      0.861,
+      1786.66503
+    ],
+    [
+      1.001,
+      "Will Saudi Aramco be the largest company in the wo",
+      0.002,
+      0.999,
+      174130.66282
+    ],
+    [
+      1.001,
+      "Will SpaceX have 15+ launches in September 2026?",
+      0.002,
+      0.999,
+      3235.33765
+    ],
+    [
+      1.001,
+      "Will the Democratic Party candidate win the 2026 I",
+      0.021,
+      0.98,
+      8685.42646
+    ],
+    [
+      1.001,
+      "Will the Phoenix Suns be the 2027 NBA Western Conf",
+      0.008,
+      0.993,
+      56874.32685
+    ],
+    [
+      1.001,
+      "Will the Republicans win the Delaware Senate race ",
+      0.033,
+      0.968,
+      24958.77643
+    ],
+    [
+      1.001,
+      "Will total votes cast in the 2026 midterm election",
+      0.031,
+      0.97,
+      8983.01628
+    ],
+    [
+      1.002,
+      "Will Linke be in the next Sachsen-Anhalt state gov",
+      0.014,
+      0.988,
+      8552.85919
+    ],
+    [
+      1.002,
+      "Will Microsoft be the largest company in the world",
+      0.005,
+      0.997,
+      90931.45385
+    ],
+    [
+      1.002,
+      "Will SpaceXAI have the best Code Arena | WebDev AI",
+      0.003,
+      0.999,
+      636.99772
+    ],
+    [
+      1.002,
+      "Will Trump create a $5,000 dividend by March 31, 2",
+      0.04,
+      0.962,
+      25228.19789
+    ],
+    [
+      1.002,
+      "Will the Democratic Party candidate win the 2026 N",
+      0.003,
+      0.999,
+      8281.70406
+    ],
+    [
+      1.002,
+      "Will the price of Ethereum be above $2,400 on Sept",
+      0.999,
+      0.003,
+      28461.88315
+    ],
+    [
+      1.003,
+      "Trump renames Strait of Hormuz to \"Strait of Trump",
+      0.045,
+      0.958,
+      26485.73972
+    ],
+    [
+      1.003,
+      "Will Z.ai be the first company to have an AI model",
+      0.004,
+      0.999,
+      2191.39289
+    ],
+    [
+      1.004,
+      "Will Marianna Schreiber win the 2026 Krak\u00f3w mayora",
+      0.005,
+      0.999,
+      21701.74632
+    ],
+    [
+      1.004,
+      "Will Meta have the best Code Arena | WebDev AI at ",
+      0.006,
+      0.998,
+      421.57739
+    ],
+    [
+      1.004,
+      "Will SpaceXAI have the best Math AI model at the e",
+      0.005,
+      0.999,
+      569.42732
+    ],
+    [
+      1.004,
+      "Will S\u00e9bastien Chenu be the next President of the ",
+      0.005,
+      0.999,
+      8816.96678
+    ],
+    [
+      1.004,
+      "Will the price of Bitcoin be above $70,000 on Sept",
+      0.998,
+      0.006,
+      20208.94344
+    ],
+    [
+      1.005,
+      "Will Arizona Cardinals win the 2027 NFL NFC Champi",
+      0.008,
+      0.997,
+      66450.50154
+    ],
+    [
+      1.005,
+      "Will Communists of Russia win the next Samara Obla",
+      0.006,
+      0.999,
+      8845.59855
+    ],
+    [
+      1.005,
+      "Will Elon Musk post 380-399 tweets from September ",
+      0.009,
+      0.996,
+      7968.4711
+    ],
+    [
+      1.005,
+      "Will Flavio Bolsonaro win the most votes in the ne",
+      0.985,
+      0.02,
+      8968.82402
+    ],
+    [
+      1.005,
+      "Will Merab Dvalishvili be ranked first in the UFC ",
+      0.007,
+      0.998,
+      484.52429
+    ],
+    [
+      1.005,
+      "Will the Republican Party candidate win the 2026 M",
+      0.007,
+      0.998,
+      18808.52031
+    ]
+  ],
+  "scan_time": 47.530526876449585
+}
