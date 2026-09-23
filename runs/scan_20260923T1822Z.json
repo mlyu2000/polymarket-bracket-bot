@@ -1,0 +1,9 @@
+{
+  "run_utc": "2026-09-23T18:22Z",
+  "script": "_cron_scan_20260923T1822Z.py + min-ask verification pass",
+  "markets_scanned": 500,
+  "scan_time_s": 52.3,
+  "brackets_found": 0,
+  "near_misses_min_ask": 40,
+  "note": "cron-script near-miss block uses asks[0] (DESC-sorted book) -> reports 0; verification pass uses min(asks) and found 40 markets at sum=1.001 (known true floor). No bracket with sum<1.000 exists in the 500-market set."
+}
