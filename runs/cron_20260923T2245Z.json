@@ -1,0 +1,219 @@
+{
+ "markets": 500,
+ "priced": 420,
+ "floor": 1.001,
+ "opps": [],
+ "near_misses": [
+  [
+   1.001,
+   "Will Anders Dreyer win 2026 MLS Most Valuable Play",
+   0.002,
+   0.999,
+   1259.50318
+  ],
+  [
+   1.001,
+   "Will Brad Pitt win Best Actor at the 99th Academy ",
+   0.004,
+   0.997,
+   14618.55777
+  ],
+  [
+   1.001,
+   "Will Ferencvaros win the 2026-27 UEFA Europa Leagu",
+   0.002,
+   0.999,
+   3354.74512
+  ],
+  [
+   1.001,
+   "Will GS come 2nd place in the next Latvian parliam",
+   0.002,
+   0.999,
+   10884.71116
+  ],
+  [
+   1.001,
+   "Will Golden State Warriors win the 2027 NBA Finals",
+   0.011,
+   0.99,
+   254847.90428
+  ],
+  [
+   1.001,
+   "Will Hsu Chih-fu win the next Penghu County Magist",
+   0.002,
+   0.999,
+   9487.58845
+  ],
+  [
+   1.001,
+   "Will Mallory Aurichio come in second-place on Big ",
+   0.002,
+   0.999,
+   641.49038
+  ],
+  [
+   1.001,
+   "Will Saudi Aramco be the largest company in the wo",
+   0.002,
+   0.999,
+   197450.40373
+  ],
+  [
+   1.001,
+   "Will Solana hit $60 or $140 first?",
+   0.27,
+   0.731,
+   4760.44814
+  ],
+  [
+   1.001,
+   "Will SpaceX have 15+ launches in September 2026?",
+   0.002,
+   0.999,
+   4339.58658
+  ],
+  [
+   1.001,
+   "Will the Phoenix Suns be the 2027 NBA Western Conf",
+   0.008,
+   0.993,
+   55982.19024
+  ],
+  [
+   1.002,
+   "Will Bitcoin dip to $55,000 in September?",
+   0.003,
+   0.999,
+   171081.76697
+  ],
+  [
+   1.002,
+   "Will Linke be in the next Sachsen-Anhalt state gov",
+   0.014,
+   0.988,
+   10352.81359
+  ],
+  [
+   1.002,
+   "Will Lovable be acquired before 2027?",
+   0.032,
+   0.97,
+   4923.77997
+  ],
+  [
+   1.002,
+   "Will Microsoft be the largest company in the world",
+   0.005,
+   0.997,
+   118967.82342
+  ],
+  [
+   1.002,
+   "Will the Democratic Party candidate win the 2026 N",
+   0.003,
+   0.999,
+   10063.00173
+  ],
+  [
+   1.002,
+   "Will the highest temperature in Toronto be 18\u00b0C on",
+   0.997,
+   0.005,
+   929.65075
+  ],
+  [
+   1.003,
+   "Will S\u0142awomir Pietrzyk win the 2026 Krak\u00f3w mayoral",
+   0.004,
+   0.999,
+   17701.68189
+  ],
+  [
+   1.004,
+   "Exact Score: Quilmes AC 2 - 3 CA Guemes?",
+   0.008,
+   0.996,
+   2637.11039
+  ],
+  [
+   1.004,
+   "Exact Score: Quilmes AC 3 - 3 CA Guemes?",
+   0.006,
+   0.998,
+   2636.01654
+  ],
+  [
+   1.004,
+   "Will Arizona Cardinals win the 2027 NFL NFC Champi",
+   0.009,
+   0.995,
+   64077.29127
+  ],
+  [
+   1.004,
+   "Will Cameron Brink win the 2026 WNBA Defensive Pla",
+   0.005,
+   0.999,
+   479.22974
+  ],
+  [
+   1.004,
+   "Will Meta have the best Code Arena | WebDev AI at ",
+   0.006,
+   0.998,
+   553.52467
+  ],
+  [
+   1.004,
+   "Will SpaceXAI have the best AI Agent at the end of",
+   0.009,
+   0.995,
+   3970.93361
+  ],
+  [
+   1.004,
+   "Will SpaceXAI have the best Math AI model at the e",
+   0.005,
+   0.999,
+   639.6426
+  ],
+  [
+   1.004,
+   "Will Turkiye win the 46th FIDE Chess Olympiad Open",
+   0.005,
+   0.999,
+   7552.49618
+  ],
+  [
+   1.004,
+   "Will Z.ai be the first company to have an AI model",
+   0.005,
+   0.999,
+   2809.15236
+  ],
+  [
+   1.004,
+   "Will the price of Bitcoin be above $70,000 on Sept",
+   0.998,
+   0.006,
+   20215.09311
+  ],
+  [
+   1.005,
+   "Exact Score: Quilmes AC 1 - 3 CA Guemes?",
+   0.009,
+   0.996,
+   2642.25134
+  ],
+  [
+   1.005,
+   "Will Merab Dvalishvili be ranked first in the UFC ",
+   0.007,
+   0.998,
+   708.12301
+  ]
+ ],
+ "scan_time": 49.76226806640625
+}
