@@ -1,0 +1,32 @@
+{
+  "run_utc": "2026-09-23T18:10Z",
+  "primary_scan": {
+    "script": "_cron_bracket_scan_20260923T1800Z_run.py",
+    "markets": 500,
+    "scan_time_s": 46.3,
+    "brackets_detected": 0,
+    "near_misses_first_5": 0,
+    "note": "User-supplied near-miss block uses asks[0]; CLOB asks are DESC-sorted so asks[0] is worst (~0.999) -> near-miss block reports 0 (known limitation, see memory 2026-09-21)."
+  },
+  "min_ask_supplement": {
+    "priced_markets": 430,
+    "of_total": 500,
+    "floor_sum": 1.001,
+    "count_sum_lt_1": 0,
+    "count_sum_le_1005": 41,
+    "closest_10": [
+      {"sum": 1.001, "yes": 0.002, "no": 0.999, "liq": 1838.69, "q": "Will Anders Dreyer win 2026 MLS Most Valuable Player?"},
+      {"sum": 1.001, "yes": 0.002, "no": 0.999, "liq": 17640.91, "q": "Will Bartosz Bocheńczak win the 2026 Kraków mayoral election?"},
+      {"sum": 1.001, "yes": 0.002, "no": 0.999, "liq": 164459.24, "q": "Will Bitcoin dip to $55,000 in September?"},
+      {"sum": 1.001, "yes": 0.004, "no": 0.997, "liq": 15719.52, "q": "Will Brad Pitt win Best Actor at the 99th Academy Awards?"},
+      {"sum": 1.001, "yes": 0.002, "no": 0.999, "liq": 2855.97, "q": "Will Ferencvaros win the 2026-27 UEFA Europa League?"},
+      {"sum": 1.001, "yes": 0.002, "no": 0.999, "liq": 10755.99, "q": "Will GS come 2nd place in the next Latvian parliamentary election?"},
+      {"sum": 1.001, "yes": 0.011, "no": 0.990, "liq": 261088.87, "q": "Will Golden State Warriors win the 2027 NBA Finals?"},
+      {"sum": 1.001, "yes": 0.002, "no": 0.999, "liq": 741.20, "q": "Will Mallory Aurichio come in second-place on Big Brother?"},
+      {"sum": 1.001, "yes": 0.140, "no": 0.861, "liq": 1461.75, "q": "Will Max Holloway fight Justin Gaethje next?"},
+      {"sum": 1.001, "yes": 0.002, "no": 0.999, "liq": 187356.71, "q": "Will Saudi Aramco be the largest company in the world?"}
+    ]
+  },
+  "paper_executions": 0,
+  "verdict": "INCONCLUSIVE_NO_OPPORTUNITY"
+}
