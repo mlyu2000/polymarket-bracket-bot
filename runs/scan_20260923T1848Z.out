@@ -1,0 +1,10 @@
+cron scan 20260923T1848Z (UTC)
+markets: 500, scan_time: 45.8s
+BRACKETS (sum < 1.00, min-ask): 0
+floor (min-ask): 1.001 | Yes@0.002 No@0.999 | Will Anders Dreyer win 2026 MLS Most Valuable Player
+near-misses (<=1.005): 36
+  1.001 | Yes@0.053 No@0.948 | Exact Score: Netherlands 2 - 0 Germany?
+  1.001 | Yes@0.027 No@0.974 | Exact Score: Turks and Caicos Islands 2 - 0 Montserrat
+  1.001 | Yes@0.002 No@0.999 | Will Anders Dreyer win 2026 MLS Most Valuable Player
+  1.001 | Yes@0.002 No@0.999 | Will Bartosz Bocheńczak win the 2026 Kraków mayor
+  1.001 | Yes@0.002 No@0.999 | Will Bitcoin dip to $55,000 in September?
