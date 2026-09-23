@@ -1,0 +1,9 @@
+🔍 Scan: 500 markets in 57.6s (416 with two-sided asks, true floor sum=1.001)
+✅ BRACKETS (sum < 1.00): 0
+📊 Near-misses (≤1.005): 31
+  1.001 | Yes@0.040 No@0.961 | liq=31105.30119 | Exact Score: Seattle Sounders FC 0 - 0 Real Salt L
+  1.001 | Yes@0.002 No@0.999 | liq=1231.88965 | Will Anders Dreyer win 2026 MLS Most Valuable Play
+  1.001 | Yes@0.004 No@0.997 | liq=14176.86074 | Will Brad Pitt win Best Actor at the 99th Academy 
+  1.001 | Yes@0.002 No@0.999 | liq=3259.24712 | Will Ferencvaros win the 2026-27 UEFA Europa Leagu
+  1.001 | Yes@0.002 No@0.999 | liq=10648.93901 | Will GS come 2nd place in the next Latvian parliam
+[persisted runs/cron_20260923T2140Z.json]

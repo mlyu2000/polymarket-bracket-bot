@@ -47,10 +47,11 @@ class BracketDetector:
         if market.liquidity < Config.MIN_LIQUIDITY_USDC:
             return None
 
-        # Best asks — Polymarket CLOB returns asks sorted DESCENDING
-        # (highest price first), so the best (lowest) ask is the last entry.
-        yes_ask = yes_book.asks[-1]
-        no_ask = no_book.asks[-1]
+        # Lowest ask wins – the CLOB payload appears to list ask levels in
+        # descending price order, so resolve the best ask by price instead
+        # of blindly using index 0.
+        yes_ask = min(yes_book.asks, key=lambda a: float(a["price"]))
+        no_ask = min(no_book.asks, key=lambda a: float(a["price"]))
 
         yes_price = float(yes_ask["price"])
         no_price = float(no_ask["price"])
