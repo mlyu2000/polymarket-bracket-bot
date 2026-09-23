@@ -1,0 +1,18 @@
+{
+ "ts": "20260923T071159Z",
+ "method": "minask floor (asks are DESC-sorted; asks[0] is worst)",
+ "markets": 500,
+ "priced": 434,
+ "brackets_found": 0,
+ "best_min_sum": 1.001,
+ "best_min_sum_market": "Will Anders Dreyer win 2026 MLS Most Valuable Player?",
+ "near_le_1005_count": 29,
+ "paper_stats": {
+  "attempts": 0,
+  "both_filled": 0,
+  "one_leg": 0,
+  "neither": 0,
+  "unwind": 0,
+  "total_pnl": 0.0
+ }
+}

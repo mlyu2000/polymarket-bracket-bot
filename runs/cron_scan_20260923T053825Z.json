@@ -1,0 +1,82 @@
+{
+ "ts": "20260923T053825Z",
+ "method": "detector + minask near-misses (asks DESC-sorted, min=best ask)",
+ "markets": 500,
+ "priced": 440,
+ "scan_seconds": 59.4,
+ "best_min_sum": 1.001,
+ "brackets": [],
+ "near_miss_count_le_1005": 35,
+ "near_misses_top10": [
+  {
+   "sum": 1.001,
+   "yes": 0.002,
+   "no": 0.999,
+   "liq": 12089.85,
+   "q": "Bank of England decreases interest rates by 25 bps"
+  },
+  {
+   "sum": 1.001,
+   "yes": 0.002,
+   "no": 0.999,
+   "liq": 645.44,
+   "q": "Will Anders Dreyer win 2026 MLS Most Valuable Player"
+  },
+  {
+   "sum": 1.001,
+   "yes": 0.004,
+   "no": 0.997,
+   "liq": 12559.59,
+   "q": "Will Brad Pitt win Best Actor at the 99th Academy Awards"
+  },
+  {
+   "sum": 1.001,
+   "yes": 0.031,
+   "no": 0.97,
+   "liq": 8628.24,
+   "q": "Will Elon Musk post 280-299 tweets from September"
+  },
+  {
+   "sum": 1.001,
+   "yes": 0.011,
+   "no": 0.99,
+   "liq": 254265.61,
+   "q": "Will Golden State Warriors win the 2027 NBA Finals"
+  },
+  {
+   "sum": 1.001,
+   "yes": 0.002,
+   "no": 0.999,
+   "liq": 662.68,
+   "q": "Will Mallory Aurichio come in second-place on Big Brother"
+  },
+  {
+   "sum": 1.001,
+   "yes": 0.14,
+   "no": 0.861,
+   "liq": 1457.88,
+   "q": "Will Max Holloway fight Justin Gaethje next?"
+  },
+  {
+   "sum": 1.001,
+   "yes": 0.002,
+   "no": 0.999,
+   "liq": 35545.6,
+   "q": "Will Michal Klimek win the 2026 Krakow mayoral election"
+  },
+  {
+   "sum": 1.001,
+   "yes": 0.002,
+   "no": 0.999,
+   "liq": 206663.6,
+   "q": "Will Saudi Aramco be the largest company in the world"
+  },
+  {
+   "sum": 1.001,
+   "yes": 0.002,
+   "no": 0.999,
+   "liq": 3626.26,
+   "q": "Will SpaceX have 15+ launches in September 2026?"
+  }
+ ]
+}

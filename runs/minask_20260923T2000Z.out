@@ -1,0 +1,12 @@
+Supplement (min-ask): 500 markets in 47.7s; 431 with both books; 431 priced
+True brackets (detector, min-ask, sum<1): 0
+Floor / top 8 lowest min-ask sums:
+  1.001 | Yes@0.002 No@0.999 | liq=1350.684 | Will Anders Dreyer win 2026 MLS Most Valuable Play
+  1.001 | Yes@0.002 No@0.999 | liq=15009.35844 | Will Bartosz Bocheńczak win the 2026 Kraków mayora
+  1.001 | Yes@0.004 No@0.997 | liq=14090.02591 | Will Brad Pitt win Best Actor at the 99th Academy 
+  1.001 | Yes@0.002 No@0.999 | liq=2855.97399 | Will Ferencvaros win the 2026-27 UEFA Europa Leagu
+  1.001 | Yes@0.002 No@0.999 | liq=9121.68935 | Will GS come 2nd place in the next Latvian parliam
+  1.001 | Yes@0.011 No@0.990 | liq=264132.30346 | Will Golden State Warriors win the 2027 NBA Finals
+  1.001 | Yes@0.002 No@0.999 | liq=833.03322 | Will Mallory Aurichio come in second-place on Big 
+  1.001 | Yes@0.140 No@0.861 | liq=1541.4606 | Will Max Holloway fight Justin Gaethje next?
+Count sum<=1.005: 40 | <=1.01: 100 | <=1.02: 147

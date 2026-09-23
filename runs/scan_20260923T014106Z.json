@@ -1,0 +1,216 @@
+{
+  "markets": 500,
+  "priced": 444,
+  "floor": [
+    1.001,
+    "Will Anders Dreyer win 2026 MLS Most Valuable Play",
+    874.7541
+  ],
+  "opps": [],
+  "near_misses": [
+    [
+      1.001,
+      "Will Anders Dreyer win 2026 MLS Most Valuable Play",
+      0.002,
+      0.999,
+      874.7541
+    ],
+    [
+      1.001,
+      "Will Brad Pitt win Best Actor at the 99th Academy ",
+      0.004,
+      0.997,
+      13315.12177
+    ],
+    [
+      1.001,
+      "Will Golden State Warriors win the 2027 NBA Finals",
+      0.011,
+      0.99,
+      234318.3201
+    ],
+    [
+      1.001,
+      "Will Hsu Chih-fu win the next Penghu County Magist",
+      0.002,
+      0.999,
+      9525.36162
+    ],
+    [
+      1.001,
+      "Will Mallory Aurichio come in second-place on Big ",
+      0.002,
+      0.999,
+      585.68465
+    ],
+    [
+      1.001,
+      "Will Max Holloway fight Justin Gaethje next?",
+      0.14,
+      0.861,
+      1751.01552
+    ],
+    [
+      1.001,
+      "Will Saudi Aramco be the largest company in the wo",
+      0.002,
+      0.999,
+      174257.7197
+    ],
+    [
+      1.001,
+      "Will SpaceX have 15+ launches in September 2026?",
+      0.002,
+      0.999,
+      3167.38435
+    ],
+    [
+      1.001,
+      "Will the Democratic Party candidate win the 2026 I",
+      0.021,
+      0.98,
+      8801.04069
+    ],
+    [
+      1.001,
+      "Will the Phoenix Suns be the 2027 NBA Western Conf",
+      0.008,
+      0.993,
+      56873.43903
+    ],
+    [
+      1.001,
+      "Will the Republicans win the Delaware Senate race ",
+      0.033,
+      0.968,
+      27933.40625
+    ],
+    [
+      1.001,
+      "Will total votes cast in the 2026 midterm election",
+      0.031,
+      0.97,
+      9028.6671
+    ],
+    [
+      1.002,
+      "Will Linke be in the next Sachsen-Anhalt state gov",
+      0.014,
+      0.988,
+      8553.3384
+    ],
+    [
+      1.002,
+      "Will Microsoft be the largest company in the world",
+      0.005,
+      0.997,
+      91808.40647
+    ],
+    [
+      1.002,
+      "Will SpaceXAI have the best Code Arena | WebDev AI",
+      0.003,
+      0.999,
+      667.48672
+    ],
+    [
+      1.002,
+      "Will Trump create a $5,000 dividend by March 31, 2",
+      0.04,
+      0.962,
+      25227.99789
+    ],
+    [
+      1.002,
+      "Will the Democratic Party candidate win the 2026 N",
+      0.003,
+      0.999,
+      8210.83406
+    ],
+    [
+      1.003,
+      "Trump renames Strait of Hormuz to \"Strait of Trump",
+      0.045,
+      0.958,
+      26485.17319
+    ],
+    [
+      1.003,
+      "Will Z.ai be the first company to have an AI model",
+      0.004,
+      0.999,
+      1857.23931
+    ],
+    [
+      1.004,
+      "Will Marianna Schreiber win the 2026 Krak\u00f3w mayora",
+      0.005,
+      0.999,
+      20302.16754
+    ],
+    [
+      1.004,
+      "Will Meta have the best Code Arena | WebDev AI at ",
+      0.006,
+      0.998,
+      568.68195
+    ],
+    [
+      1.004,
+      "Will SpaceXAI have the best Math AI model at the e",
+      0.005,
+      0.999,
+      573.54314
+    ],
+    [
+      1.004,
+      "Will S\u00e9bastien Chenu be the next President of the ",
+      0.005,
+      0.999,
+      9010.82175
+    ],
+    [
+      1.004,
+      "Will the price of Bitcoin be above $70,000 on Sept",
+      0.998,
+      0.006,
+      9029.94485
+    ],
+    [
+      1.005,
+      "Will Communists of Russia win the next Samara Obla",
+      0.006,
+      0.999,
+      8843.02355
+    ],
+    [
+      1.005,
+      "Will Elon Musk post 380-399 tweets from September ",
+      0.009,
+      0.996,
+      8424.55982
+    ],
+    [
+      1.005,
+      "Will Flavio Bolsonaro win the most votes in the ne",
+      0.985,
+      0.02,
+      9007.84016
+    ],
+    [
+      1.005,
+      "Will Merab Dvalishvili be ranked first in the UFC ",
+      0.007,
+      0.998,
+      689.27329
+    ],
+    [
+      1.005,
+      "Will the Republican Party candidate win the 2026 M",
+      0.007,
+      0.998,
+      18866.60122
+    ]
+  ],
+  "scan_time": 49.68491888046265
+}

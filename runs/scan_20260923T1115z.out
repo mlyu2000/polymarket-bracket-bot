@@ -1,0 +1,18 @@
+🔍 Scan: 500 markets in 45.2s
+✅ BRACKETS (sum < 1.00): 0
+📊 Near-misses (≤1.005): 0
+--- min-ask floor supplement ---
+priced markets: 432
+best min-ask sum: 1.001 (Will Anders Dreyer win 2026 MLS Most Valuable Play)
+min-ask near-misses (<=1.005): 32
+  1.001 | Yes@0.002 No@0.999 | liq=697 | Will Anders Dreyer win 2026 MLS Most Valuable Play
+  1.001 | Yes@0.002 No@0.999 | liq=2571 | Will SpaceX have 15+ launches in September 2026?
+  1.001 | Yes@0.002 No@0.999 | liq=467 | Will Mallory Aurichio come in second-place on Big 
+  1.001 | Yes@0.004 No@0.997 | liq=13336 | Will Brad Pitt win Best Actor at the 99th Academy 
+  1.001 | Yes@0.033 No@0.968 | liq=25677 | Will the Republicans win the Delaware Senate race 
+  1.001 | Yes@0.002 No@0.999 | liq=2766 | Will Ferencvaros win the 2026-27 UEFA Europa Leagu
+  1.001 | Yes@0.002 No@0.999 | liq=8898 | Will GS come 2nd place in the next Latvian parliam
+  1.001 | Yes@0.140 No@0.861 | liq=1527 | Will Max Holloway fight Justin Gaethje next?
+  1.001 | Yes@0.002 No@0.999 | liq=196036 | Will Saudi Aramco be the largest company in the wo
+  1.001 | Yes@0.002 No@0.999 | liq=38087 | Will Michał Klimek win the 2026 Kraków mayoral ele
+saved runs/cron_scan_20260923T111559Z.json

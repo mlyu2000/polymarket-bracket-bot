@@ -1,0 +1,9 @@
+🔍 Scan: 500 markets in 49.1s
+✅ BRACKETS (sum < 1.00): 0
+📊 Near-misses (≤1.005, best-ask): 32
+  1.001 | Yes@0.002 No@0.999 | liq=8686.21238 | Bank of England decreases interest rates by 25 bps
+  1.001 | Yes@0.002 No@0.999 | liq=744.91813 | Will Anders Dreyer win 2026 MLS Most Valuable Play
+  1.001 | Yes@0.004 No@0.997 | liq=15237.9391 | Will Brad Pitt win Best Actor at the 99th Academy 
+  1.001 | Yes@0.011 No@0.990 | liq=234659.21761 | Will Golden State Warriors win the 2027 NBA Finals
+  1.001 | Yes@0.002 No@0.999 | liq=656.97538 | Will Mallory Aurichio come in second-place on Big 
+[sanity] near-misses via asks[0] (buggy method): 0

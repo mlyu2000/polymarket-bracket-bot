@@ -1,0 +1,208 @@
+{
+ "ts": "20260922T222233Z",
+ "method": "provided(asks[0]) + detector + minask floor",
+ "markets": 500,
+ "priced": 440,
+ "scan_seconds": 49.15,
+ "best_min_sum": 1.001,
+ "brackets": [],
+ "near_le_1005_provided_asks0": [],
+ "near_le_1005_minask": [
+  {
+   "sum": 1.001,
+   "q": "Will the price of Bitcoin be between $76,000 and $78,000 on ",
+   "yes": 0.006,
+   "no": 0.995,
+   "liq": 20958.27438
+  },
+  {
+   "sum": 1.001,
+   "q": "Will Anders Dreyer win 2026 MLS Most Valuable Player?",
+   "yes": 0.002,
+   "no": 0.999,
+   "liq": 963.9318
+  },
+  {
+   "sum": 1.001,
+   "q": "Will the Democratic Party candidate win the 2026 IL-13 House",
+   "yes": 0.021,
+   "no": 0.98,
+   "liq": 8657.7063
+  },
+  {
+   "sum": 1.001,
+   "q": "Will Eurozone GDP growth in Q3 2026 be between 0.4% and 0.7%",
+   "yes": 0.141,
+   "no": 0.86,
+   "liq": 1716.81017
+  },
+  {
+   "sum": 1.001,
+   "q": "Will Mallory Aurichio come in second-place on Big Brother se",
+   "yes": 0.002,
+   "no": 0.999,
+   "liq": 773.421
+  },
+  {
+   "sum": 1.001,
+   "q": "Will Brad Pitt win Best Actor at the 99th Academy Awards?",
+   "yes": 0.004,
+   "no": 0.997,
+   "liq": 14009.65219
+  },
+  {
+   "sum": 1.001,
+   "q": "Will the Republicans win the Delaware Senate race in 2026?",
+   "yes": 0.033,
+   "no": 0.968,
+   "liq": 27300.98598
+  },
+  {
+   "sum": 1.001,
+   "q": "Will SpaceX have 15+ launches in September 2026?",
+   "yes": 0.002,
+   "no": 0.999,
+   "liq": 3181.93958
+  },
+  {
+   "sum": 1.001,
+   "q": "Will Max Holloway fight Justin Gaethje next?",
+   "yes": 0.14,
+   "no": 0.861,
+   "liq": 1569.25781
+  },
+  {
+   "sum": 1.001,
+   "q": "Will the highest temperature in Milan be 20\u00b0C on September 2",
+   "yes": 0.002,
+   "no": 0.999,
+   "liq": 2367.98506
+  },
+  {
+   "sum": 1.001,
+   "q": "Reserve Bank of New Zealand increases interest rates by 50+ ",
+   "yes": 0.003,
+   "no": 0.998,
+   "liq": 3277.69853
+  },
+  {
+   "sum": 1.001,
+   "q": "Will Saudi Aramco be the largest company in the world by mar",
+   "yes": 0.002,
+   "no": 0.999,
+   "liq": 198724.08429
+  },
+  {
+   "sum": 1.001,
+   "q": "Will Golden State Warriors win the 2027 NBA Finals?",
+   "yes": 0.011,
+   "no": 0.99,
+   "liq": 255897.81338
+  },
+  {
+   "sum": 1.001,
+   "q": "Will the Phoenix Suns be the 2027 NBA Western Conference Cha",
+   "yes": 0.008,
+   "no": 0.993,
+   "liq": 56605.84803
+  },
+  {
+   "sum": 1.001,
+   "q": "Will the price of Bitcoin be above $74,000 on September 24?",
+   "yes": 0.997,
+   "no": 0.004,
+   "liq": 40172.45081
+  },
+  {
+   "sum": 1.002,
+   "q": "Will the Democratic Party candidate win the 2026 NY-05 House",
+   "yes": 0.003,
+   "no": 0.999,
+   "liq": 8405.05757
+  },
+  {
+   "sum": 1.002,
+   "q": "Will Linke be in the next Sachsen-Anhalt state government?",
+   "yes": 0.014,
+   "no": 0.988,
+   "liq": 8601.5994
+  },
+  {
+   "sum": 1.002,
+   "q": "Will Microsoft be the largest company in the world by market",
+   "yes": 0.005,
+   "no": 0.997,
+   "liq": 116705.92212
+  },
+  {
+   "sum": 1.003,
+   "q": "Will the highest temperature in Amsterdam be 12\u00b0C or below o",
+   "yes": 0.004,
+   "no": 0.999,
+   "liq": 5221.22855
+  },
+  {
+   "sum": 1.003,
+   "q": "Will Hsu Chih-fu win the next Penghu County Magistrate elect",
+   "yes": 0.004,
+   "no": 0.999,
+   "liq": 9499.62758
+  },
+  {
+   "sum": 1.003,
+   "q": "Will Z.ai be the first company to have an AI model hit 1550 ",
+   "yes": 0.004,
+   "no": 0.999,
+   "liq": 2163.09195
+  },
+  {
+   "sum": 1.004,
+   "q": "Will the price of Bitcoin be above $70,000 on September 27?",
+   "yes": 0.998,
+   "no": 0.006,
+   "liq": 9029.44554
+  },
+  {
+   "sum": 1.004,
+   "q": "Will SpaceXAI have the best Math AI model at the end of Octo",
+   "yes": 0.005,
+   "no": 0.999,
+   "liq": 856.22641
+  },
+  {
+   "sum": 1.004,
+   "q": "Will Meta have the best Code Arena | WebDev AI at the end of",
+   "yes": 0.006,
+   "no": 0.998,
+   "liq": 449.74567
+  },
+  {
+   "sum": 1.004,
+   "q": "Will Marianna Schreiber win the 2026 Krak\u00f3w mayoral election",
+   "yes": 0.005,
+   "no": 0.999,
+   "liq": 41709.63419
+  },
+  {
+   "sum": 1.005,
+   "q": "Will Communists of Russia win the next Samara Oblast Parliam",
+   "yes": 0.006,
+   "no": 0.999,
+   "liq": 9005.43359
+  },
+  {
+   "sum": 1.005,
+   "q": "Will Erika Kirk be the 2028 Republican Vice-Presidential nom",
+   "yes": 0.007,
+   "no": 0.998,
+   "liq": 16837.0752
+  },
+  {
+   "sum": 1.005,
+   "q": "Will Merab Dvalishvili be ranked first in the UFC Pound-For-",
+   "yes": 0.007,
+   "no": 0.998,
+   "liq": 962.78624
+  }
+ ]
+}

@@ -1,0 +1,9 @@
+Scan: 500 markets in 47.4s
+BRACKETS (sum < 1.00): 0
+Near-misses (<=1.005, min-ask): 31
+  1.001 | Yes@0.002 No@0.999 | liq=9753.85202 | Bank of England decreases interest rates by 25 bps
+  1.001 | Yes@0.002 No@0.999 | liq=775.63211 | Will Anders Dreyer win 2026 MLS Most Valuable Play
+  1.001 | Yes@0.004 No@0.997 | liq=13282.59346 | Will Brad Pitt win Best Actor at the 99th Academy 
+  1.001 | Yes@0.011 No@0.990 | liq=233657.35761 | Will Golden State Warriors win the 2027 NBA Finals
+  1.001 | Yes@0.002 No@0.999 | liq=506.88133 | Will Mallory Aurichio come in second-place on Big 
+Global floor: 1.001 | Will Anders Dreyer win 2026 MLS Most Valuable Play

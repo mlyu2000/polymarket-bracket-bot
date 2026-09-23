@@ -1,0 +1,86 @@
+{
+ "ts": "20260922T141536Z",
+ "method": "provided(asks[0]) + detector + minask floor",
+ "markets": 500,
+ "priced": 437,
+ "scan_seconds": 49.22,
+ "best_min_sum": 1.001,
+ "brackets": [],
+ "near_le_1005_minask": [
+  {
+   "sum": 1.001,
+   "q": "Will Anders Dreyer win 2026 MLS Most Valuable Play",
+   "yes": 0.002,
+   "no": 0.999,
+   "liq": 980.08796
+  },
+  {
+   "sum": 1.001,
+   "q": "Will the Democratic Party candidate win the 2026 I",
+   "yes": 0.021,
+   "no": 0.98,
+   "liq": 8608.7291
+  },
+  {
+   "sum": 1.001,
+   "q": "Spread: Estonia (-3.5)",
+   "yes": 0.002,
+   "no": 0.999,
+   "liq": 291.32764
+  },
+  {
+   "sum": 1.001,
+   "q": "Will Rodina win the next Pskov Oblast Parliament e",
+   "yes": 0.002,
+   "no": 0.999,
+   "liq": 8913.9819
+  },
+  {
+   "sum": 1.001,
+   "q": "Will Eurozone GDP growth in Q3 2026 be between 0.4",
+   "yes": 0.141,
+   "no": 0.86,
+   "liq": 1567.8565
+  },
+  {
+   "sum": 1.001,
+   "q": "Will the price of Bitcoin be above $76,000 on Sept",
+   "yes": 0.996,
+   "no": 0.005,
+   "liq": 30986.46447
+  },
+  {
+   "sum": 1.001,
+   "q": "Will Mallory Aurichio come in second-place on Big ",
+   "yes": 0.002,
+   "no": 0.999,
+   "liq": 819.19909
+  },
+  {
+   "sum": 1.001,
+   "q": "Will the Republicans win the Delaware Senate race ",
+   "yes": 0.033,
+   "no": 0.968,
+   "liq": 27886.6304
+  },
+  {
+   "sum": 1.001,
+   "q": "Will Communists of Russia win the next Samara Obla",
+   "yes": 0.003,
+   "no": 0.998,
+   "liq": 9159.10883
+  },
+  {
+   "sum": 1.001,
+   "q": "Will SpaceX have 15+ launches in September 2026?",
+   "yes": 0.002,
+   "no": 0.999,
+   "liq": 2910.54698
+  }
+ ],
+ "provided_script": {
+  "brackets": 0,
+  "near_misses_asks0": 0,
+  "detector_flagged": 0
+ }
+}

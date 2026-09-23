@@ -1,0 +1,14 @@
+{
+ "ts_utc": "2026-09-22T10:10:27Z",
+ "markets": 500,
+ "brackets": 0,
+ "priced": 440,
+ "floor": {
+  "sum": 1.001,
+  "yes": 0.002,
+  "no": 0.999,
+  "q": "Will Anders Dreyer win 2026 MLS Most Valuable Player?",
+  "liq": 1058.547
+ },
+ "at_floor": 14
+}

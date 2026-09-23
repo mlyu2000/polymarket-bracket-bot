@@ -1,0 +1,47 @@
+{
+ "ts": "20260923T080854Z",
+ "method": "min-ask (asks DESC-sorted; asks[0] is worst)",
+ "markets": 500,
+ "priced": 438,
+ "brackets_found": 0,
+ "brackets": [],
+ "near_le_1005_count": 31,
+ "best_near": [
+  [
+   1.001,
+   "Will Anders Dreyer win 2026 MLS Most Valuable Play",
+   0.002,
+   0.999,
+   771.11448
+  ],
+  [
+   1.001,
+   "Will Brad Pitt win Best Actor at the 99th Academy ",
+   0.004,
+   0.997,
+   13128.19592
+  ],
+  [
+   1.001,
+   "Will Golden State Warriors win the 2027 NBA Finals",
+   0.011,
+   0.99,
+   254695.61566
+  ],
+  [
+   1.001,
+   "Will Hsu Chih-fu win the next Penghu County Magist",
+   0.002,
+   0.999,
+   9502.22589
+  ],
+  [
+   1.001,
+   "Will Mallory Aurichio come in second-place on Big ",
+   0.002,
+   0.999,
+   673.55877
+  ]
+ ],
+ "scan_time_s": 49.9
+}
