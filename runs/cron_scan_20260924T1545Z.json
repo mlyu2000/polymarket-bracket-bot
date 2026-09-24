@@ -1,0 +1,201 @@
+{
+  "ts": "2026-09-24T1545Z",
+  "best_ask_fix": true,
+  "markets": 500,
+  "priced": 402,
+  "opps": [],
+  "near_misses_asks0": [],
+  "near_misses_bestask_27": [
+    [
+      1.001,
+      "Will Anders Dreyer win 2026 MLS MVP",
+      0.002,
+      0.999,
+      1326.9
+    ],
+    [
+      1.001,
+      "Will Brad Pitt win Best Actor 99th Academy",
+      0.004,
+      0.997,
+      11873.87
+    ],
+    [
+      1.001,
+      "Will Ferencvaros win 2026-27 Europa League",
+      0.002,
+      0.999,
+      2931.56
+    ],
+    [
+      1.001,
+      "GS 2nd place Latvian parliament",
+      0.002,
+      0.999,
+      8748.7
+    ],
+    [
+      1.001,
+      "Golden State Warriors win 2027 NBA Finals",
+      0.011,
+      0.99,
+      254475.12
+    ],
+    [
+      1.001,
+      "Hsu Chih-fu Penghu County Magistrate",
+      0.002,
+      0.999,
+      9220.93
+    ],
+    [
+      1.001,
+      "Linke in next Sachsen-Anhalt gov",
+      0.014,
+      0.987,
+      8568.34
+    ],
+    [
+      1.001,
+      "Saudi Aramco largest company",
+      0.002,
+      0.999,
+      226025.44
+    ],
+    [
+      1.001,
+      "Solana hit $60 or $140 first",
+      0.27,
+      0.731,
+      6382.87
+    ],
+    [
+      1.001,
+      "SpaceX 15+ launches Sept 2026",
+      0.002,
+      0.999,
+      3429.74
+    ],
+    [
+      1.001,
+      "Phoenix Suns 2027 NBA West Conf",
+      0.008,
+      0.993,
+      57169.28
+    ],
+    [
+      1.001,
+      "Lucknow temp 29C or higher",
+      0.002,
+      0.999,
+      5159.82
+    ],
+    [
+      1.003,
+      "Shakira Austin 2026 WNBA DPOY",
+      0.004,
+      0.999,
+      506.68
+    ],
+    [
+      1.004,
+      "Central Arkansas vs Florida State",
+      0.006,
+      0.998,
+      61907.45
+    ],
+    [
+      1.004,
+      "Exact Score Quilmes 2-3 Guemes",
+      0.009,
+      0.995,
+      2529.88
+    ],
+    [
+      1.004,
+      "Exact Score Quilmes 3-3 Guemes",
+      0.007,
+      0.997,
+      2520.69
+    ],
+    [
+      1.004,
+      "LeBron and Bronny play together",
+      0.028,
+      0.976,
+      1753.27
+    ],
+    [
+      1.004,
+      "United Russia wins every region",
+      0.998,
+      0.006,
+      40458.09
+    ],
+    [
+      1.004,
+      "Cardinals 2027 NFC Championship",
+      0.009,
+      0.995,
+      69721.54
+    ],
+    [
+      1.004,
+      "Lovable acquired before 2027",
+      0.032,
+      0.972,
+      3354.68
+    ],
+    [
+      1.004,
+      "SpaceXAI best AI Agent end Sept",
+      0.009,
+      0.995,
+      4043.11
+    ],
+    [
+      1.004,
+      "SpaceXAI best Math model end Sept",
+      0.005,
+      0.999,
+      1361.86
+    ],
+    [
+      1.004,
+      "Z.ai first model milestone",
+      0.005,
+      0.999,
+      2210.76
+    ],
+    [
+      1.005,
+      "Andy Burnham says Scotland PMQ",
+      0.01,
+      0.995,
+      142.75
+    ],
+    [
+      1.005,
+      "Dvalishvili UFC pound-for-pound #1",
+      0.007,
+      0.998,
+      1058.88
+    ],
+    [
+      1.005,
+      "Ronaldo Caiado Brazil pres runoff",
+      0.007,
+      0.998,
+      13112.76
+    ],
+    [
+      1.005,
+      "WTI LOW 80 week Sept",
+      0.008,
+      0.997,
+      15920.37
+    ]
+  ],
+  "true_floor": 1.001,
+  "scan_time_s": 49.8
+}
