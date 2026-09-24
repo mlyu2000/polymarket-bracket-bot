@@ -1,1 +1,156 @@
-{"stamp": "2026-09-24T00:16:46Z", "markets": 500, "opps": [], "near_misses": [[1.001, "Will Anders Dreyer win 2026 MLS Most Valuable Play", 0.002, 0.999, 1302.93247], [1.001, "Will Brad Pitt win Best Actor at the 99th Academy ", 0.004, 0.997, 13689.61616], [1.001, "Will Ferencvaros win the 2026-27 UEFA Europa Leagu", 0.002, 0.999, 3356.60112], [1.001, "Will GS come 2nd place in the next Latvian parliam", 0.002, 0.999, 10882.40231], [1.001, "Will Golden State Warriors win the 2027 NBA Finals", 0.011, 0.99, 253528.62039], [1.001, "Will Hsu Chih-fu win the next Penghu County Magist", 0.002, 0.999, 9507.11009], [1.001, "Will Mallory Aurichio come in second-place on Big ", 0.002, 0.999, 622.58432], [1.001, "Will Saudi Aramco be the largest company in the wo", 0.002, 0.999, 198104.34473], [1.001, "Will Solana hit $60 or $140 first?", 0.27, 0.731, 4616.00155], [1.001, "Will SpaceX have 15+ launches in September 2026?", 0.002, 0.999, 4307.7279], [1.001, "Will the Phoenix Suns be the 2027 NBA Western Conf", 0.008, 0.993, 55984.18228], [1.002, "Will Bitcoin dip to $55,000 in September?", 0.003, 0.999, 164677.39917], [1.002, "Will Linke be in the next Sachsen-Anhalt state gov", 0.014, 0.988, 10403.09925], [1.002, "Will Lovable be acquired before 2027?", 0.032, 0.97, 4790.98365], [1.002, "Will Microsoft be the largest company in the world", 0.005, 0.997, 119302.9796], [1.002, "Will the Democratic Party candidate win the 2026 N", 0.003, 0.999, 10065.17766], [1.004, "Will Arizona Cardinals win the 2027 NFL NFC Champi", 0.009, 0.995, 63189.78942], [1.004, "Will Cameron Brink win the 2026 WNBA Defensive Pla", 0.005, 0.999, 495.86671], [1.004, "Will Meta have the best Code Arena | WebDev AI at ", 0.006, 0.998, 549.76067], [1.004, "Will SpaceXAI have the best AI Agent at the end of", 0.009, 0.995, 3678.52721], [1.004, "Will SpaceXAI have the best Math AI model at the e", 0.005, 0.999, 600.04958], [1.004, "Will Turkiye win the 46th FIDE Chess Olympiad Open", 0.005, 0.999, 7534.61218], [1.004, "Will Z.ai be the first company to have an AI model", 0.005, 0.999, 2158.26944], [1.004, "Will the price of Bitcoin be above $70,000 on Sept", 0.998, 0.006, 20212.196], [1.005, "Exact Score: Quilmes AC 2 - 3 CA Guemes?", 0.009, 0.996, 2525.84018], [1.005, "Exact Score: Quilmes AC 3 - 3 CA Guemes?", 0.007, 0.998, 2566.49154], [1.005, "Will Merab Dvalishvili be ranked first in the UFC ", 0.007, 0.998, 514.00408], [1.005, "Will the highest temperature in Miami be between 8", 0.999, 0.006, 717.02215], [1.005, "Will the price of Bitcoin be above $80,000 on Sept", 0.987, 0.018, 48200.11789]], "scan_time": 48.88937950134277}
+{
+  "ts": "2026-09-24T07:58:00.629270+00:00",
+  "markets": 500,
+  "priced": 417,
+  "opps": [],
+  "near_misses_min": [
+    [
+      1.001,
+      "Will Anders Dreyer win 2026 MLS Most Valuable Play",
+      0.002,
+      0.999,
+      1482.54172
+    ],
+    [
+      1.001,
+      "Will Bitcoin dip to $55,000 in September?",
+      0.002,
+      0.999,
+      156558.67854
+    ],
+    [
+      1.001,
+      "Will Brad Pitt win Best Actor at the 99th Academy ",
+      0.004,
+      0.997,
+      11525.20804
+    ],
+    [
+      1.001,
+      "Will Ferencvaros win the 2026-27 UEFA Europa Leagu",
+      0.002,
+      0.999,
+      3275.94892
+    ],
+    [
+      1.001,
+      "Will GS come 2nd place in the next Latvian parliam",
+      0.002,
+      0.999,
+      10857.37906
+    ],
+    [
+      1.001,
+      "Will Golden State Warriors win the 2027 NBA Finals",
+      0.011,
+      0.99,
+      253938.97252
+    ],
+    [
+      1.001,
+      "Will Mallory Aurichio come in second-place on Big ",
+      0.002,
+      0.999,
+      507.29437
+    ],
+    [
+      1.001,
+      "Will Saudi Aramco be the largest company in the wo",
+      0.002,
+      0.999,
+      230881.13856
+    ],
+    [
+      1.001,
+      "Will Solana hit $60 or $140 first?",
+      0.27,
+      0.731,
+      4531.49369
+    ],
+    [
+      1.001,
+      "Will SpaceX have 15+ launches in September 2026?",
+      0.002,
+      0.999,
+      2494.33003
+    ],
+    [
+      1.001,
+      "Will the Phoenix Suns be the 2027 NBA Western Conf",
+      0.008,
+      0.993,
+      55483.98739
+    ],
+    [
+      1.002,
+      "Will Hsu Chih-fu win the next Penghu County Magist",
+      0.003,
+      0.999,
+      9270.27935
+    ],
+    [
+      1.002,
+      "Will Linke be in the next Sachsen-Anhalt state gov",
+      0.014,
+      0.988,
+      8565.3194
+    ],
+    [
+      1.002,
+      "Will Microsoft be the largest company in the world",
+      0.005,
+      0.997,
+      116453.06353
+    ],
+    [
+      1.002,
+      "Will Ronaldo Caiado qualify for Brazil's president",
+      0.007,
+      0.995,
+      22544.9391
+    ],
+    [
+      1.003,
+      "Exact Score: Netherlands 0 - 1 Germany?",
+      0.053,
+      0.95,
+      83252.8568
+    ],
+    [
+      1.004,
+      "Central Arkansas vs. Florida State",
+      0.006,
+      0.998,
+      55920.65142
+    ],
+    [
+      1.004,
+      "Will Arizona Cardinals win the 2027 NFL NFC Champi",
+      0.009,
+      0.995,
+      64425.65063
+    ],
+    [
+      1.004,
+      "Will SpaceXAI have the best AI Agent at the end of",
+      0.009,
+      0.995,
+      4643.64452
+    ],
+    [
+      1.004,
+      "Will SpaceXAI have the best Math AI model at the e",
+      0.005,
+      0.999,
+      609.62439
+    ]
+  ],
+  "floor": [
+    1.001,
+    "Will Anders Dreyer win 2026 MLS Most Valuable Play",
+    0.002,
+    0.999,
+    1482.54172
+  ],
+  "scan_time": 58.079643964767456
+}
