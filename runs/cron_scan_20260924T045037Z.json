@@ -1,0 +1,150 @@
+{
+  "run_id": "cron_scan_20260924T045037Z",
+  "timestamp_utc": "20260924T045037Z",
+  "markets_scanned": 500,
+  "scan_time_s": 47.0,
+  "opportunities": [],
+  "near_misses_asks0": [],
+  "near_misses_min_ask": [
+    {
+      "sum": 1.001,
+      "q": "Will Anders Dreyer win 2026 MLS Most Valuable Play",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 1329.87397
+    },
+    {
+      "sum": 1.001,
+      "q": "Will Brad Pitt win Best Actor at the 99th Academy ",
+      "yes": 0.004,
+      "no": 0.997,
+      "liq": 12615.14754
+    },
+    {
+      "sum": 1.001,
+      "q": "Will Ferencvaros win the 2026-27 UEFA Europa Leagu",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 3344.02892
+    },
+    {
+      "sum": 1.001,
+      "q": "Will GS come 2nd place in the next Latvian parliam",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 10795.29889
+    },
+    {
+      "sum": 1.001,
+      "q": "Will Golden State Warriors win the 2027 NBA Finals",
+      "yes": 0.011,
+      "no": 0.99,
+      "liq": 251363.50723
+    },
+    {
+      "sum": 1.001,
+      "q": "Will Mallory Aurichio come in second-place on Big ",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 521.60489
+    },
+    {
+      "sum": 1.001,
+      "q": "Will Saudi Aramco be the largest company in the wo",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 192206.57479
+    },
+    {
+      "sum": 1.001,
+      "q": "Will Solana hit $60 or $140 first?",
+      "yes": 0.27,
+      "no": 0.731,
+      "liq": 4790.89606
+    },
+    {
+      "sum": 1.001,
+      "q": "Will SpaceX have 15+ launches in September 2026?",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 3003.06837
+    },
+    {
+      "sum": 1.001,
+      "q": "Will the Phoenix Suns be the 2027 NBA Western Conf",
+      "yes": 0.008,
+      "no": 0.993,
+      "liq": 55993.63535
+    },
+    {
+      "sum": 1.001,
+      "q": "Will the highest temperature in Qingdao be 30\u00b0C on",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 1651.54413
+    },
+    {
+      "sum": 1.002,
+      "q": "Will Bitcoin dip to $55,000 in September?",
+      "yes": 0.003,
+      "no": 0.999,
+      "liq": 168277.05174
+    },
+    {
+      "sum": 1.002,
+      "q": "Will Hsu Chih-fu win the next Penghu County Magist",
+      "yes": 0.003,
+      "no": 0.999,
+      "liq": 9464.14807
+    },
+    {
+      "sum": 1.002,
+      "q": "Will Linke be in the next Sachsen-Anhalt state gov",
+      "yes": 0.014,
+      "no": 0.988,
+      "liq": 8515.03383
+    },
+    {
+      "sum": 1.002,
+      "q": "Will Microsoft be the largest company in the world",
+      "yes": 0.005,
+      "no": 0.997,
+      "liq": 113783.13776
+    },
+    {
+      "sum": 1.002,
+      "q": "Will Ronaldo Caiado qualify for Brazil's president",
+      "yes": 0.007,
+      "no": 0.995,
+      "liq": 22606.3491
+    },
+    {
+      "sum": 1.002,
+      "q": "Will the Democratic Party candidate win the 2026 N",
+      "yes": 0.003,
+      "no": 0.999,
+      "liq": 8362.75189
+    },
+    {
+      "sum": 1.003,
+      "q": "Will Arizona Cardinals win the 2027 NFL NFC Champi",
+      "yes": 0.008,
+      "no": 0.995,
+      "liq": 63105.39421
+    },
+    {
+      "sum": 1.003,
+      "q": "Will LI.FI launch a token by September 30, 2026?",
+      "yes": 0.005,
+      "no": 0.998,
+      "liq": 634.41372
+    },
+    {
+      "sum": 1.004,
+      "q": "Will SpaceXAI have the best AI Agent at the end of",
+      "yes": 0.009,
+      "no": 0.995,
+      "liq": 5444.08232
+    }
+  ]
+}
