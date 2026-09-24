@@ -1,0 +1,157 @@
+{
+ "ts": "2026-09-24T17:55Z",
+ "markets": 500,
+ "priced": 396,
+ "scan_time_s": 54.7,
+ "brackets": [],
+ "near_misses_asks0": [],
+ "near_misses_bestask": [
+  [
+   1.001,
+   "Will Anders Dreyer win 2026 MLS Most Valuable Player?",
+   0.002,
+   0.999,
+   1356.57804
+  ],
+  [
+   1.001,
+   "Will Brad Pitt win Best Actor at the 99th Academy Awards?",
+   0.004,
+   0.997,
+   11840.62352
+  ],
+  [
+   1.001,
+   "Will Ferencvaros win the 2026-27 UEFA Europa League Champion",
+   0.002,
+   0.999,
+   2951.21693
+  ],
+  [
+   1.001,
+   "Will GS come 2nd place in the next Latvian parliamentary ele",
+   0.002,
+   0.999,
+   8759.75269
+  ],
+  [
+   1.001,
+   "Will Golden State Warriors win the 2027 NBA Finals?",
+   0.011,
+   0.99,
+   254105.26872
+  ],
+  [
+   1.001,
+   "Will Linke be in the next Sachsen-Anhalt state government?",
+   0.014,
+   0.987,
+   8568.34449
+  ],
+  [
+   1.001,
+   "Will Saudi Aramco be the largest company in the world by mar",
+   0.002,
+   0.999,
+   218275.47828
+  ],
+  [
+   1.001,
+   "Will Solana hit $60 or $140 first?",
+   0.27,
+   0.731,
+   6346.30787
+  ],
+  [
+   1.001,
+   "Will SpaceX have 15+ launches in September 2026?",
+   0.002,
+   0.999,
+   4144.67309
+  ],
+  [
+   1.001,
+   "Will the Phoenix Suns be the 2027 NBA Western Conference Cha",
+   0.008,
+   0.993,
+   57169.46523
+  ],
+  [
+   1.003,
+   "Will Arizona Cardinals win the 2027 NFL NFC Championship?",
+   0.008,
+   0.995,
+   67250.23249
+  ],
+  [
+   1.004,
+   "Central Arkansas vs. Florida State",
+   0.006,
+   0.998,
+   67238.60223
+  ],
+  [
+   1.004,
+   "Exact Score: Quilmes AC 2 - 3 CA Guemes?",
+   0.009,
+   0.995,
+   2527.30318
+  ],
+  [
+   1.004,
+   "Exact Score: Quilmes AC 3 - 3 CA Guemes?",
+   0.007,
+   0.997,
+   2522.19354
+  ],
+  [
+   1.004,
+   "Russia Elections: United Russia Wins Every Region?",
+   0.997,
+   0.007,
+   38759.55747
+  ],
+  [
+   1.004,
+   "Will Hsu Chih-fu win the next Penghu County Magistrate elect",
+   0.006,
+   0.998,
+   9221.1409
+  ],
+  [
+   1.004,
+   "Will Lovable be acquired before 2027?",
+   0.032,
+   0.972,
+   2760.32097
+  ],
+  [
+   1.004,
+   "Will SpaceXAI have the best AI Agent at the end of September",
+   0.009,
+   0.995,
+   3191.39681
+  ],
+  [
+   1.004,
+   "Will SpaceXAI have the best Math AI model at the end of Octo",
+   0.005,
+   0.999,
+   683.72225
+  ],
+  [
+   1.004,
+   "Will XRP dip to $0.60 in September?",
+   0.005,
+   0.999,
+   66882.80763
+  ]
+ ],
+ "bestask_floor": [
+  1.001,
+  "Will Anders Dreyer win 2026 MLS Most Valuable Player?",
+  0.002,
+  0.999
+ ],
+ "paper_executions": 0
+}
