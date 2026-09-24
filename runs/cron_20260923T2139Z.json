@@ -1,0 +1,226 @@
+{
+  "markets": 500,
+  "priced": 416,
+  "floor": 1.001,
+  "opps": [],
+  "near_misses": [
+    [
+      1.001,
+      "Exact Score: Seattle Sounders FC 0 - 0 Real Salt L",
+      0.04,
+      0.961,
+      31105.30119
+    ],
+    [
+      1.001,
+      "Will Anders Dreyer win 2026 MLS Most Valuable Play",
+      0.002,
+      0.999,
+      1231.88965
+    ],
+    [
+      1.001,
+      "Will Brad Pitt win Best Actor at the 99th Academy ",
+      0.004,
+      0.997,
+      14176.86074
+    ],
+    [
+      1.001,
+      "Will Ferencvaros win the 2026-27 UEFA Europa Leagu",
+      0.002,
+      0.999,
+      3259.24712
+    ],
+    [
+      1.001,
+      "Will GS come 2nd place in the next Latvian parliam",
+      0.002,
+      0.999,
+      10648.93901
+    ],
+    [
+      1.001,
+      "Will Golden State Warriors win the 2027 NBA Finals",
+      0.011,
+      0.99,
+      254755.90835
+    ],
+    [
+      1.001,
+      "Will Hsu Chih-fu win the next Penghu County Magist",
+      0.002,
+      0.999,
+      9485.26781
+    ],
+    [
+      1.001,
+      "Will Mallory Aurichio come in second-place on Big ",
+      0.002,
+      0.999,
+      602.26936
+    ],
+    [
+      1.001,
+      "Will Saudi Aramco be the largest company in the wo",
+      0.002,
+      0.999,
+      199029.42825
+    ],
+    [
+      1.001,
+      "Will SpaceX have 15+ launches in September 2026?",
+      0.002,
+      0.999,
+      3081.0961
+    ],
+    [
+      1.001,
+      "Will the Phoenix Suns be the 2027 NBA Western Conf",
+      0.008,
+      0.993,
+      55982.22024
+    ],
+    [
+      1.002,
+      "Will Bitcoin dip to $55,000 in September?",
+      0.003,
+      0.999,
+      171139.48594
+    ],
+    [
+      1.002,
+      "Will Linke be in the next Sachsen-Anhalt state gov",
+      0.014,
+      0.988,
+      10354.83859
+    ],
+    [
+      1.002,
+      "Will Lovable be acquired before 2027?",
+      0.032,
+      0.97,
+      5024.59376
+    ],
+    [
+      1.002,
+      "Will Microsoft be the largest company in the world",
+      0.005,
+      0.997,
+      118036.05884
+    ],
+    [
+      1.002,
+      "Will Solana hit $60 or $140 first?",
+      0.27,
+      0.732,
+      4732.41041
+    ],
+    [
+      1.002,
+      "Will the Democratic Party candidate win the 2026 N",
+      0.003,
+      0.999,
+      10058.47663
+    ],
+    [
+      1.003,
+      "Will Arizona Cardinals win the 2027 NFL NFC Champi",
+      0.008,
+      0.995,
+      64401.59806
+    ],
+    [
+      1.003,
+      "Will S\u0142awomir Pietrzyk win the 2026 Krak\u00f3w mayoral",
+      0.004,
+      0.999,
+      16020.94041
+    ],
+    [
+      1.0030000000000001,
+      "Will OpenAI have the best Code Arena | WebDev AI a",
+      0.493,
+      0.51,
+      799.13666
+    ],
+    [
+      1.004,
+      "Exact Score: Quilmes AC 2 - 3 CA Guemes?",
+      0.008,
+      0.996,
+      2636.60939
+    ],
+    [
+      1.004,
+      "Exact Score: Quilmes AC 3 - 3 CA Guemes?",
+      0.006,
+      0.998,
+      2625.49554
+    ],
+    [
+      1.004,
+      "Will Cameron Brink win the 2026 WNBA Defensive Pla",
+      0.005,
+      0.999,
+      485.13882
+    ],
+    [
+      1.004,
+      "Will Meta have the best Code Arena | WebDev AI at ",
+      0.006,
+      0.998,
+      518.92467
+    ],
+    [
+      1.004,
+      "Will SpaceXAI have the best AI Agent at the end of",
+      0.009,
+      0.995,
+      4166.98981
+    ],
+    [
+      1.004,
+      "Will SpaceXAI have the best Math AI model at the e",
+      0.005,
+      0.999,
+      624.48444
+    ],
+    [
+      1.004,
+      "Will Turkiye win the 46th FIDE Chess Olympiad Open",
+      0.005,
+      0.999,
+      8041.23418
+    ],
+    [
+      1.004,
+      "Will Z.ai be the first company to have an AI model",
+      0.005,
+      0.999,
+      2756.6024
+    ],
+    [
+      1.004,
+      "Will the price of Bitcoin be above $70,000 on Sept",
+      0.998,
+      0.006,
+      20228.69682
+    ],
+    [
+      1.005,
+      "Exact Score: Quilmes AC 1 - 3 CA Guemes?",
+      0.009,
+      0.996,
+      2644.25534
+    ],
+    [
+      1.005,
+      "Will Merab Dvalishvili be ranked first in the UFC ",
+      0.007,
+      0.998,
+      947.07209
+    ]
+  ],
+  "scan_time": 56.10810708999634
+}

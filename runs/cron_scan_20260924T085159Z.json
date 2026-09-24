@@ -1,0 +1,2948 @@
+{
+  "markets": 500,
+  "opps": [],
+  "near_misses": [],
+  "scan_time": 48.47629141807556,
+  "best_sums": [
+    [
+      1.001,
+      "Will Anders Dreyer win 2026 MLS Most Valuable Play",
+      0.002,
+      0.999,
+      1168.71127
+    ],
+    [
+      1.001,
+      "Will Bitcoin dip to $55,000 in September?",
+      0.002,
+      0.999,
+      117761.9916
+    ],
+    [
+      1.001,
+      "Will Brad Pitt win Best Actor at the 99th Academy ",
+      0.004,
+      0.997,
+      11531.63877
+    ],
+    [
+      1.001,
+      "Will Ferencvaros win the 2026-27 UEFA Europa Leagu",
+      0.002,
+      0.999,
+      3273.99192
+    ],
+    [
+      1.001,
+      "Will GS come 2nd place in the next Latvian parliam",
+      0.002,
+      0.999,
+      10749.95658
+    ],
+    [
+      1.001,
+      "Will Golden State Warriors win the 2027 NBA Finals",
+      0.011,
+      0.99,
+      253296.89693
+    ],
+    [
+      1.001,
+      "Will Hsu Chih-fu win the next Penghu County Magist",
+      0.002,
+      0.999,
+      9104.40115
+    ],
+    [
+      1.001,
+      "Will Mallory Aurichio come in second-place on Big ",
+      0.002,
+      0.999,
+      433.5473
+    ],
+    [
+      1.001,
+      "Will Saudi Aramco be the largest company in the wo",
+      0.002,
+      0.999,
+      225625.38169
+    ],
+    [
+      1.001,
+      "Will Solana hit $60 or $140 first?",
+      0.27,
+      0.731,
+      4774.31649
+    ],
+    [
+      1.001,
+      "Will SpaceX have 15+ launches in September 2026?",
+      0.002,
+      0.999,
+      2497.42223
+    ],
+    [
+      1.001,
+      "Will the Phoenix Suns be the 2027 NBA Western Conf",
+      0.008,
+      0.993,
+      55483.41011
+    ],
+    [
+      1.001,
+      "Will the highest temperature in Taipei be 32\u00b0C on ",
+      0.999,
+      0.002,
+      5597.61724
+    ],
+    [
+      1.002,
+      "Will Linke be in the next Sachsen-Anhalt state gov",
+      0.014,
+      0.988,
+      8565.3194
+    ],
+    [
+      1.002,
+      "Will Microsoft be the largest company in the world",
+      0.005,
+      0.997,
+      112890.69425
+    ],
+    [
+      1.002,
+      "Will Ronaldo Caiado qualify for Brazil's president",
+      0.007,
+      0.995,
+      22547.7441
+    ],
+    [
+      1.002,
+      "Will Shaun Deeb win the 2026 WSOP Player of the Ye",
+      0.32,
+      0.682,
+      2462.0661
+    ],
+    [
+      1.003,
+      "Exact Score: Netherlands 0 - 1 Germany?",
+      0.053,
+      0.95,
+      91791.45866
+    ],
+    [
+      1.003,
+      "Will Arizona Cardinals win the 2027 NFL NFC Champi",
+      0.008,
+      0.995,
+      64401.41682
+    ],
+    [
+      1.003,
+      "Will the price of Bitcoin be above $70,000 on Sept",
+      0.998,
+      0.005,
+      9033.9315
+    ],
+    [
+      1.004,
+      "Central Arkansas vs. Florida State",
+      0.006,
+      0.998,
+      56783.83822
+    ],
+    [
+      1.004,
+      "Will SpaceXAI have the best AI Agent at the end of",
+      0.009,
+      0.995,
+      6441.3424
+    ],
+    [
+      1.004,
+      "Will SpaceXAI have the best Math AI model at the e",
+      0.005,
+      0.999,
+      690.13342
+    ],
+    [
+      1.004,
+      "Will Z.ai be the first company to have an AI model",
+      0.005,
+      0.999,
+      1669.81952
+    ],
+    [
+      1.005,
+      "Exact Score: Quilmes AC 2 - 3 CA Guemes?",
+      0.009,
+      0.996,
+      2522.34318
+    ],
+    [
+      1.005,
+      "Exact Score: Quilmes AC 3 - 3 CA Guemes?",
+      0.007,
+      0.998,
+      2522.01754
+    ],
+    [
+      1.005,
+      "Will Andy Burnham say \"Scotland\" during the next P",
+      0.01,
+      0.995,
+      142.74885
+    ],
+    [
+      1.005,
+      "Will Merab Dvalishvili be ranked first in the UFC ",
+      0.007,
+      0.998,
+      807.16529
+    ],
+    [
+      1.006,
+      "Exact Score: Quilmes AC 0 - 3 CA Guemes?",
+      0.007,
+      0.999,
+      2669.58506
+    ],
+    [
+      1.006,
+      "Exact Score: Quilmes AC 1 - 3 CA Guemes?",
+      0.01,
+      0.996,
+      2530.52319
+    ],
+    [
+      1.006,
+      "Will Bakir Izetbegovi\u0107 be the next Chairman of the",
+      0.009,
+      0.997,
+      12081.01022
+    ],
+    [
+      1.006,
+      "Will Flavio Bolsonaro win the most votes in the ne",
+      0.989,
+      0.017,
+      9044.49735
+    ],
+    [
+      1.006,
+      "Will Texas Tech have more than 7.5 wins during the",
+      0.936,
+      0.07,
+      953.28614
+    ],
+    [
+      1.006,
+      "Will the Republican Party candidate win the 2026 G",
+      0.033,
+      0.973,
+      8476.29724
+    ],
+    [
+      1.006,
+      "Will the Republican Party candidate win the 2026 G",
+      0.314,
+      0.692,
+      582.83744
+    ],
+    [
+      1.006,
+      "Will the highest temperature in Manila be 28\u00b0C on ",
+      0.007,
+      0.999,
+      2602.49683
+    ],
+    [
+      1.007,
+      "Will Erika Kirk be the 2028 Republican Vice-Presid",
+      0.01,
+      0.997,
+      14821.14428
+    ],
+    [
+      1.007,
+      "Will Jean-Philippe Tanguy be the next President of",
+      0.009,
+      0.998,
+      10325.00523
+    ],
+    [
+      1.007,
+      "Will Joe Espada win the 2026 AL Manager of the Yea",
+      0.009,
+      0.998,
+      326.79965
+    ],
+    [
+      1.007,
+      "Will Trump deport 200-300k people?",
+      0.01,
+      0.997,
+      9907.84931
+    ],
+    [
+      1.007,
+      "Will the Democratic Party candidate win the 2026 M",
+      0.017,
+      0.99,
+      8556.51661
+    ],
+    [
+      1.008,
+      "Australia vs. Brazil: Australia O/U 5.5",
+      0.009,
+      0.999,
+      179.32733
+    ],
+    [
+      1.008,
+      "NBA: LeBron James and Bronny James Jr. to Play Tog",
+      0.032,
+      0.976,
+      2043.20675
+    ],
+    [
+      1.008,
+      "Will Hurupay launch a token by September 30, 2026?",
+      0.02,
+      0.988,
+      2618.32724
+    ],
+    [
+      1.008,
+      "Will Israeli forces withdraw from beyond the Litan",
+      0.011,
+      0.997,
+      14434.38346
+    ],
+    [
+      1.008,
+      "Will Symbiotic launch a token by December 31, 2026",
+      0.039,
+      0.969,
+      2578.46014
+    ],
+    [
+      1.009,
+      "Costa Rica vs. Cura\u00e7ao: O/U 7.5",
+      0.01,
+      0.999,
+      1717.24754
+    ],
+    [
+      1.009,
+      "Costa Rica vs. Cura\u00e7ao: O/U 8.5",
+      0.01,
+      0.999,
+      1053.80084
+    ],
+    [
+      1.009,
+      "Dominican Republic vs. Nicaragua: O/U 8.5",
+      0.01,
+      0.999,
+      400.68027
+    ],
+    [
+      1.009,
+      "Exact Score: Sportfreunde Siegen 1899 2 - 0 Boruss",
+      0.01,
+      0.999,
+      1955.44138
+    ],
+    [
+      1.009,
+      "Exact Score: Sportfreunde Siegen 1899 3 - 1 Boruss",
+      0.01,
+      0.999,
+      1946.87074
+    ],
+    [
+      1.009,
+      "Exact Score: Sportfreunde Siegen 1899 3 - 2 Boruss",
+      0.01,
+      0.999,
+      1943.8276
+    ],
+    [
+      1.009,
+      "Haiti vs. Trinidad and Tobago: O/U 8.5",
+      0.01,
+      0.999,
+      802.01026
+    ],
+    [
+      1.009,
+      "Puerto Rico vs. Guyana: O/U 8.5",
+      0.01,
+      0.999,
+      1443.3961
+    ],
+    [
+      1.009,
+      "Spread: Millonarios FC (-3.5)",
+      0.01,
+      0.999,
+      2873.34882
+    ],
+    [
+      1.009,
+      "Will Andy Green win the 2026 NL Manager of the Yea",
+      0.01,
+      0.999,
+      630.53317
+    ],
+    [
+      1.009,
+      "Will it rain in Boston, MA on September 23?",
+      0.01,
+      0.999,
+      715.35578
+    ],
+    [
+      1.009,
+      "Will the Ethereum Volatility Index dip to 35 by Se",
+      0.011,
+      0.998,
+      108.02592
+    ],
+    [
+      1.01,
+      "3Jane FDV above $100M one day after launch?",
+      0.57,
+      0.44,
+      499.7572
+    ],
+    [
+      1.01,
+      "Bitcoin Up or Down - September 24, 5:35AM-5:40AM E",
+      0.51,
+      0.5,
+      14553.9983
+    ],
+    [
+      1.01,
+      "FC Dallas vs. Los Angeles FC: O/U 3.5",
+      0.39,
+      0.62,
+      9197.3815
+    ],
+    [
+      1.01,
+      "Jets vs. Lions: O/U 45.5",
+      0.58,
+      0.43,
+      44582.8371
+    ],
+    [
+      1.01,
+      "Liechtenstein vs. Lithuania: Liechtenstein O/U 0.5",
+      0.38,
+      0.63,
+      7620.5094
+    ],
+    [
+      1.01,
+      "Netherlands vs. Germany: 1st Half O/U 2.5",
+      0.19,
+      0.82,
+      6125.8754
+    ],
+    [
+      1.01,
+      "Netherlands vs. Germany: Netherlands O/U 1.5",
+      0.51,
+      0.5,
+      32310.8437
+    ],
+    [
+      1.01,
+      "Porto: Naiktha Bains vs Reese Brantmeier",
+      0.26,
+      0.75,
+      40402.0021
+    ],
+    [
+      1.01,
+      "Saudi Oil Pipeline (East-West) restarts by October",
+      0.69,
+      0.32,
+      13261.0869
+    ],
+    [
+      1.01,
+      "Serbia vs. Greece: 1st Half O/U 1.5",
+      0.3,
+      0.71,
+      18333.8085
+    ],
+    [
+      1.01,
+      "Spread: Mississippi State (-0.5)",
+      0.68,
+      0.33,
+      13129.6699
+    ],
+    [
+      1.01,
+      "Trump renames ICE to NICE by December 31?",
+      0.06,
+      0.95,
+      10313.3631
+    ],
+    [
+      1.01,
+      "Ventuals FDV above $2B one day after launch?",
+      0.018,
+      0.992,
+      11227.06569
+    ],
+    [
+      1.01,
+      "Will Anthropic have the best AI model on LiveBench",
+      0.83,
+      0.18,
+      1179.2533
+    ],
+    [
+      1.01,
+      "Will Atsushi Fukuyama win the 2026 Yokohama mayora",
+      0.11,
+      0.9,
+      324.6528
+    ],
+    [
+      1.01,
+      "Will DK Metcalf have 424.5+ receiving yards in the",
+      0.9,
+      0.11,
+      287.3446
+    ],
+    [
+      1.01,
+      "Will Dominican Republic win on 2026-09-24?",
+      0.62,
+      0.39,
+      18066.9286
+    ],
+    [
+      1.01,
+      "Will Dwayne 'The Rock' Johnson announce a Presiden",
+      0.16,
+      0.85,
+      8943.6513
+    ],
+    [
+      1.01,
+      "Will Ferran Torres score the most goals in the 202",
+      0.08,
+      0.93,
+      12630.2245
+    ],
+    [
+      1.01,
+      "Will Google be the second-best AI lab at the end o",
+      0.54,
+      0.47,
+      600.2341
+    ],
+    [
+      1.01,
+      "Will Harry Kane (Bayern Munich) be the top goalsco",
+      0.7,
+      0.31,
+      76276.8543
+    ],
+    [
+      1.01,
+      "Will LOUD win VALORANT Champions 2026?",
+      0.09,
+      0.92,
+      13735.5967
+    ],
+    [
+      1.01,
+      "Will Lamar Jackson have 574.5+ rushing yards in th",
+      0.48,
+      0.53,
+      1426.1684
+    ],
+    [
+      1.01,
+      "Will Mexico win on 2026-09-26?",
+      0.38,
+      0.63,
+      7189.8055
+    ],
+    [
+      1.01,
+      "Will Mike Evans have 10.5+ receiving touchdowns in",
+      0.21,
+      0.8,
+      818.0323
+    ],
+    [
+      1.01,
+      "Will Mohammed bin Salman attend a US x Iran diplom",
+      0.13,
+      0.88,
+      18098.42
+    ],
+    [
+      1.01,
+      "Will NC State have more than 9.5 wins during the 2",
+      0.09,
+      0.92,
+      479.7414
+    ],
+    [
+      1.01,
+      "Will Northern Ireland win the UEFA EURO 2028?",
+      0.011,
+      0.999,
+      38594.94404
+    ],
+    [
+      1.01,
+      "Will Perplexity's valuation hit (LOW) $12.5B by De",
+      0.05,
+      0.96,
+      722.8554
+    ],
+    [
+      1.01,
+      "Will Russia enter Moskovka by September 30?",
+      0.06,
+      0.95,
+      1895.8892
+    ],
+    [
+      1.01,
+      "Will Slovakia win the UEFA EURO 2028?",
+      0.011,
+      0.999,
+      38927.15135
+    ],
+    [
+      1.01,
+      "Will a hurricane make landfall in Alabama by Novem",
+      0.06,
+      0.95,
+      542.5044
+    ],
+    [
+      1.01,
+      "Will any player have 1,750+ receiving yards in the",
+      0.39,
+      0.62,
+      3345.3416
+    ],
+    [
+      1.01,
+      "Will the Baltimore Ravens make the 2027 NFL Playof",
+      0.76,
+      0.25,
+      12602.7209
+    ],
+    [
+      1.01,
+      "Will the Democratic Party candidate win the 2026 P",
+      0.24,
+      0.77,
+      391.2397
+    ],
+    [
+      1.01,
+      "Will the Democratic Party win the IL-08 House seat",
+      0.94,
+      0.07,
+      23195.4873
+    ],
+    [
+      1.01,
+      "Will the Democratic Party win the MN-08 House seat",
+      0.14,
+      0.87,
+      16822.788
+    ],
+    [
+      1.01,
+      "Will the Miami Heat make the 2027 NBA Playoffs?",
+      0.65,
+      0.36,
+      19502.955
+    ],
+    [
+      1.01,
+      "Will the Ornn A100 Index be between $0.75 and $1.0",
+      0.42,
+      0.59,
+      808.619
+    ],
+    [
+      1.01,
+      "Will the Republican Party candidate win the 2026 F",
+      0.13,
+      0.88,
+      8861.9725
+    ],
+    [
+      1.01,
+      "Will the Republican Party candidate win the 2026 O",
+      0.25,
+      0.76,
+      432.998
+    ],
+    [
+      1.01,
+      "Will the Republican Party candidate win the 2026 S",
+      0.08,
+      0.93,
+      10505.848
+    ],
+    [
+      1.01,
+      "Will the Republican Party candidate win the 2026 T",
+      0.19,
+      0.82,
+      8457.0978
+    ],
+    [
+      1.01,
+      "Will the Republican Party win the NC-14 House seat",
+      0.88,
+      0.13,
+      11585.0277
+    ],
+    [
+      1.01,
+      "Will the highest temperature in Atlanta be between",
+      0.03,
+      0.98,
+      2223.7425
+    ],
+    [
+      1.01,
+      "Will the highest temperature in Chicago be between",
+      0.02,
+      0.99,
+      1560.56856
+    ],
+    [
+      1.01,
+      "Will the lowest temperature in Tokyo be 22\u00b0C on Se",
+      0.37,
+      0.64,
+      672.1833
+    ],
+    [
+      1.01,
+      "Will total votes cast in the 2026 midterm election",
+      0.35,
+      0.66,
+      211.4158
+    ],
+    [
+      1.011,
+      "Will Microsoft AI have the best Text-to-Image AI a",
+      0.054,
+      0.957,
+      1072.99854
+    ],
+    [
+      1.011,
+      "Will Salvador Perez lead the MLB in doubles for th",
+      0.013,
+      0.998,
+      612.03878
+    ],
+    [
+      1.012,
+      "Will Google have the best Math AI model at the end",
+      0.019,
+      0.993,
+      1386.86585
+    ],
+    [
+      1.012,
+      "Will Ukraine re-enter Hryshyne by September 30?",
+      0.033,
+      0.979,
+      1977.66097
+    ],
+    [
+      1.012,
+      "Will Yandy Diaz win the 2026 Edgar Martinez Outsta",
+      0.017,
+      0.995,
+      243.1421
+    ],
+    [
+      1.013,
+      "Will Richard B\u00e9langer win the next Louis-H\u00e9bert Qu",
+      0.016,
+      0.997,
+      20176.20497
+    ],
+    [
+      1.015,
+      "Will there be no Somaliland parliamentary election",
+      0.989,
+      0.026,
+      14312.07104
+    ],
+    [
+      1.016,
+      "Will Alibaba be the #3 AI Lab at the end of Septem",
+      0.022,
+      0.994,
+      1090.14596
+    ],
+    [
+      1.017,
+      "Will Lovable be acquired before 2027?",
+      0.031,
+      0.986,
+      4957.61533
+    ],
+    [
+      1.0170000000000001,
+      "Will The Black Ball win Best Original Score at the",
+      0.101,
+      0.916,
+      612.55466
+    ],
+    [
+      1.018,
+      "Will Dplus KIA Qualify for Worlds 2026?",
+      0.999,
+      0.019,
+      158.56893
+    ],
+    [
+      1.018,
+      "Will Jalen Hurts finish the 2026-27 NFL regular se",
+      0.02,
+      0.998,
+      266.14131
+    ],
+    [
+      1.018,
+      "Will the next Claude Sonnet model be released by D",
+      0.998,
+      0.02,
+      2013.45323
+    ],
+    [
+      1.019,
+      "Spread: CA Bucaramanga (-3.5)",
+      0.02,
+      0.999,
+      1424.0168
+    ],
+    [
+      1.019,
+      "Spread: Estonia (-3.5)",
+      0.02,
+      0.999,
+      279.85596
+    ],
+    [
+      1.019,
+      "Spread: S\u00e3o Bernardo FC (-3.5)",
+      0.02,
+      0.999,
+      2741.63122
+    ],
+    [
+      1.02,
+      "Andorra vs. Malta: Malta O/U 4.5",
+      0.022,
+      0.998,
+      1148.66814
+    ],
+    [
+      1.02,
+      "Austria vs. Israel: 1st Half O/U 0.5",
+      0.78,
+      0.24,
+      6841.2881
+    ],
+    [
+      1.02,
+      "Base FDV above $12B one day after launch?",
+      0.14,
+      0.88,
+      39139.3057
+    ],
+    [
+      1.02,
+      "CSD Municipal vs. CSD Suchitep\u00e9quez: Both Teams to",
+      0.44,
+      0.58,
+      5286.5303
+    ],
+    [
+      1.02,
+      "Exact Score: Oakland Roots SC 1 - 2 Phoenix Rising",
+      0.09,
+      0.93,
+      4240.8913
+    ],
+    [
+      1.02,
+      "MVV Maastricht vs. Helmond Sport: Both Teams to Sc",
+      0.62,
+      0.4,
+      2529.0564
+    ],
+    [
+      1.02,
+      "Nashville SC vs. Toronto FC: O/U 4.5",
+      0.25,
+      0.77,
+      9388.4757
+    ],
+    [
+      1.02,
+      "Schalke 04 leading at halftime?",
+      0.6,
+      0.42,
+      2984.5921
+    ],
+    [
+      1.02,
+      "Spread: Florida (-6.5)",
+      0.43,
+      0.59,
+      1835.7672
+    ],
+    [
+      1.02,
+      "StripChain FDV above $400M one day after launch?",
+      0.08,
+      0.94,
+      912.7096
+    ],
+    [
+      1.02,
+      "UFC 332: Natalia Silva vs. Wang Cong (Women's Flyw",
+      0.66,
+      0.36,
+      8625.9333
+    ],
+    [
+      1.02,
+      "US Amal Tiznit vs. IR Tanger: O/U 1.5",
+      0.58,
+      0.44,
+      4980.7964
+    ],
+    [
+      1.02,
+      "Will Alexander Isak win the 2026-27 English Premie",
+      0.07,
+      0.95,
+      731.8381
+    ],
+    [
+      1.02,
+      "Will Babagana Buhari win the 2027 Borno State gube",
+      0.031,
+      0.989,
+      15468.91731
+    ],
+    [
+      1.02,
+      "Will Bryan Paterson win the 2026 Kingston mayoral ",
+      0.8,
+      0.22,
+      9629.9059
+    ],
+    [
+      1.02,
+      "Will Flavio Bolsonaro win the most votes in the ne",
+      0.25,
+      0.77,
+      3859.7216
+    ],
+    [
+      1.02,
+      "Will Justin Herbert have 3,099.5+ passing yards in",
+      0.96,
+      0.06,
+      349.3275
+    ],
+    [
+      1.02,
+      "Will Kylian Mbapp\u00e9 finish in the top 3 of the 2026",
+      0.54,
+      0.48,
+      3003.0785
+    ],
+    [
+      1.02,
+      "Will Loopscale launch a token by December 31, 2026",
+      0.14,
+      0.88,
+      2117.4637
+    ],
+    [
+      1.02,
+      "Will Max Holloway fight Justin Gaethje next?",
+      0.131,
+      0.889,
+      6693.0135
+    ],
+    [
+      1.02,
+      "Will Real Oviedo win on 2026-09-27?",
+      0.48,
+      0.54,
+      8316.2451
+    ],
+    [
+      1.02,
+      "Will Republicans win 2 Senate and Governor electio",
+      0.63,
+      0.39,
+      441.0156
+    ],
+    [
+      1.02,
+      "Will Saudi airspace be closed by October 31?",
+      0.09,
+      0.93,
+      20099.8641
+    ],
+    [
+      1.02,
+      "Will Tesla, Inc. (TSLA) hit (HIGH) $420 in Septemb",
+      0.08,
+      0.94,
+      930.7806
+    ],
+    [
+      1.02,
+      "Will US Amal Tiznit win on 2026-09-24?",
+      0.29,
+      0.73,
+      8072.7368
+    ],
+    [
+      1.02,
+      "Will Waymo launch in Detroit, MI by December 31 20",
+      0.11,
+      0.91,
+      196.7542
+    ],
+    [
+      1.02,
+      "Will the Democratic Party win the TX-09 House seat",
+      0.19,
+      0.83,
+      12121.4752
+    ],
+    [
+      1.02,
+      "Will the Doge-1 Lunar Mission launch by December 3",
+      0.053,
+      0.967,
+      57675.85918
+    ],
+    [
+      1.02,
+      "Will the Republican Party candidate win the 2026 G",
+      0.16,
+      0.86,
+      9062.7838
+    ],
+    [
+      1.02,
+      "Will the Republican Party candidate win the 2026 I",
+      0.12,
+      0.9,
+      9115.2487
+    ],
+    [
+      1.02,
+      "Will the highest temperature in Milan be 23\u00b0C on S",
+      0.33,
+      0.69,
+      4334.1095
+    ],
+    [
+      1.02,
+      "Will the highest temperature in San Francisco be b",
+      0.05,
+      0.97,
+      1520.3556
+    ],
+    [
+      1.021,
+      "Will Angers qualify for the 2027-28 UEFA Champions",
+      0.071,
+      0.95,
+      271.49073
+    ],
+    [
+      1.021,
+      "Will Esteban Ocon get pole position at the 2026 F1",
+      0.022,
+      0.999,
+      1962.05352
+    ],
+    [
+      1.021,
+      "Will the Democratic Party candidate win the 2026 C",
+      0.344,
+      0.677,
+      24508.18614
+    ],
+    [
+      1.024,
+      "Will the Labour Party win 50-54 seats in the New Z",
+      0.03,
+      0.994,
+      33690.99431
+    ],
+    [
+      1.026,
+      "Will Corbin Carroll hit the most triples in the 20",
+      0.995,
+      0.031,
+      551.52326
+    ],
+    [
+      1.026,
+      "Will the Democratic Party candidate win the 2026 O",
+      0.05,
+      0.976,
+      12729.47721
+    ],
+    [
+      1.027,
+      "Exact Score: CA Colegiales 0 - 3 Chacarita Juniors",
+      0.032,
+      0.995,
+      2103.47626
+    ],
+    [
+      1.027,
+      "Exact Score: CA Colegiales 2 - 3 Chacarita Juniors",
+      0.033,
+      0.994,
+      2107.79631
+    ],
+    [
+      1.027,
+      "Exact Score: CA Estudiantes 3 - 3 CA San Miguel?",
+      0.028,
+      0.999,
+      2105.69139
+    ],
+    [
+      1.027,
+      "Will OpenAI be the third-best Math AI lab at the e",
+      0.043,
+      0.984,
+      151.58893
+    ],
+    [
+      1.027,
+      "Will Trump try to fire Powell as Fed Board Member ",
+      0.047,
+      0.98,
+      499.33706
+    ],
+    [
+      1.028,
+      "Will the Republican Party win the NC-02 House seat",
+      0.049,
+      0.979,
+      14901.71978
+    ],
+    [
+      1.029,
+      "Exact Score: CA All Boys 3 - 3 Colon de Santa Fe?",
+      0.03,
+      0.999,
+      2102.97103
+    ],
+    [
+      1.029,
+      "Exact Score: CA Colegiales 3 - 3 Chacarita Juniors",
+      0.031,
+      0.998,
+      2111.44193
+    ],
+    [
+      1.029,
+      "Exact Score: CA Estudiantes 1 - 3 CA San Miguel?",
+      0.03,
+      0.999,
+      2094.92582
+    ],
+    [
+      1.029,
+      "Exact Score: Club Almagro 3 - 3 Nueva Chicago?",
+      0.03,
+      0.999,
+      159.89997
+    ],
+    [
+      1.029,
+      "Exact Score: Club Ciudad de Bolivar 3 - 3 CA Chaco",
+      0.03,
+      0.999,
+      2103.14097
+    ],
+    [
+      1.029,
+      "Exact Score: Deportivo Madryn 0 - 3 CA Central Nor",
+      0.03,
+      0.999,
+      2101.57407
+    ],
+    [
+      1.029,
+      "Exact Score: Deportivo Madryn 1 - 3 CA Central Nor",
+      0.03,
+      0.999,
+      2093.55807
+    ],
+    [
+      1.029,
+      "Exact Score: Deportivo Madryn 2 - 3 CA Central Nor",
+      0.03,
+      0.999,
+      2100.07107
+    ],
+    [
+      1.029,
+      "Exact Score: Deportivo Madryn 3 - 3 CA Central Nor",
+      0.03,
+      0.999,
+      2099.63984
+    ],
+    [
+      1.029,
+      "Will Stripe's valuation hit (HIGH) $300B by Decemb",
+      0.044,
+      0.985,
+      910.81573
+    ],
+    [
+      1.03,
+      "Commanders Team Total: O/U 16.5",
+      0.49,
+      0.54,
+      5142.3318
+    ],
+    [
+      1.03,
+      "Exact Score: CA Estudiantes 0 - 3 CA San Miguel?",
+      0.031,
+      0.999,
+      2101.73582
+    ],
+    [
+      1.03,
+      "Exact Score: CA Estudiantes 2 - 3 CA San Miguel?",
+      0.031,
+      0.999,
+      2101.82858
+    ],
+    [
+      1.03,
+      "Exact Score: CA Ferrocarril Midland 3 - 3 CSD Tris",
+      0.031,
+      0.999,
+      158.64197
+    ],
+    [
+      1.03,
+      "Exact Score: CA Patronato Parana 3 - 3 San Martin ",
+      0.031,
+      0.999,
+      145.51
+    ],
+    [
+      1.03,
+      "Exact Score: CA Penarol Montevideo 1 - 3 CA Boston",
+      0.031,
+      0.999,
+      2949.67967
+    ],
+    [
+      1.03,
+      "Exact Score: CA Penarol Montevideo 2 - 3 CA Boston",
+      0.031,
+      0.999,
+      2954.16874
+    ],
+    [
+      1.03,
+      "Exact Score: Mitre Santiago del Estero 0 - 3 CA Sa",
+      0.031,
+      0.999,
+      229.45693
+    ],
+    [
+      1.03,
+      "Exact Score: Mitre Santiago del Estero 2 - 3 CA Sa",
+      0.031,
+      0.999,
+      156.71389
+    ],
+    [
+      1.03,
+      "Exact Score: Mitre Santiago del Estero 3 - 3 CA Sa",
+      0.031,
+      0.999,
+      159.63389
+    ],
+    [
+      1.03,
+      "Exact Score: NAC Breda 0 - 3 FC Eindhoven?",
+      0.031,
+      0.999,
+      2487.75569
+    ],
+    [
+      1.03,
+      "Israeli airspace closed between Oct. 15 and Oct. 3",
+      0.1,
+      0.93,
+      11677.2683
+    ],
+    [
+      1.03,
+      "Montenegro leading at halftime?",
+      0.42,
+      0.61,
+      5861.8826
+    ],
+    [
+      1.03,
+      "Nashville SC vs. Toronto FC: Both Teams to Score",
+      0.59,
+      0.44,
+      7428.2081
+    ],
+    [
+      1.03,
+      "Pro Football: Undefeated Regular Season",
+      0.07,
+      0.96,
+      397.2712
+    ],
+    [
+      1.03,
+      "San Marino vs. Finland: Finland O/U 2.5",
+      0.58,
+      0.45,
+      951.1896
+    ],
+    [
+      1.03,
+      "W50 Berkeley, CA: Madison Brengle vs Ekaterina Mak",
+      0.82,
+      0.21,
+      3467.5447
+    ],
+    [
+      1.03,
+      "Will Bryce Young have 3,074.5+ passing yards in th",
+      0.74,
+      0.29,
+      277.6211
+    ],
+    [
+      1.03,
+      "Will DeVonta Smith have 849.5+ receiving yards in ",
+      0.57,
+      0.46,
+      92.5163
+    ],
+    [
+      1.03,
+      "Will Filipe Barros win the most votes in the 2026 ",
+      0.36,
+      0.67,
+      1077.5261
+    ],
+    [
+      1.03,
+      "Will Florida State have more than 5.5 wins during ",
+      0.45,
+      0.58,
+      4315.8159
+    ],
+    [
+      1.03,
+      "Will JetBlue Airways announce bankruptcy before 20",
+      0.07,
+      0.96,
+      2871.2117
+    ],
+    [
+      1.03,
+      "Will Jordan join the Abraham Accords before 2027?",
+      0.08,
+      0.95,
+      9219.5728
+    ],
+    [
+      1.03,
+      "Will Le Mans be relegated from the 2026-27 Ligue 1",
+      0.33,
+      0.7,
+      1720.7876
+    ],
+    [
+      1.03,
+      "Will Puffpaw launch a token by December 31, 2026?",
+      0.23,
+      0.8,
+      774.5832
+    ],
+    [
+      1.03,
+      "Will the Bank of Canada make no change to the targ",
+      0.57,
+      0.46,
+      1152.0858
+    ],
+    [
+      1.03,
+      "Will the Colorado 2026 Senate race be within 1%?",
+      0.05,
+      0.98,
+      12423.13746
+    ],
+    [
+      1.03,
+      "Will the Democratic Party candidate win the 2026 M",
+      0.13,
+      0.9,
+      8505.2535
+    ],
+    [
+      1.03,
+      "Will the Democratic Party candidate win the 2026 N",
+      0.39,
+      0.64,
+      899.5903
+    ],
+    [
+      1.03,
+      "Will the Republican Party candidate win the 2026 W",
+      0.23,
+      0.8,
+      9478.419
+    ],
+    [
+      1.03,
+      "Will total votes cast in the first round of the 20",
+      0.235,
+      0.795,
+      911.92352
+    ],
+    [
+      1.031,
+      "Will the Republican Party win the PA-13 House seat",
+      0.993,
+      0.038,
+      8373.70764
+    ],
+    [
+      1.0330000000000001,
+      "Will the Democratic Party candidate win the 2026 C",
+      0.096,
+      0.937,
+      8365.3654
+    ],
+    [
+      1.0330000000000001,
+      "Will the Republican Party candidate win the 2026 W",
+      0.23,
+      0.803,
+      8486.08477
+    ],
+    [
+      1.034,
+      "Will the 10-year Treasury yield dip below 4.51% in",
+      0.037,
+      0.997,
+      3475.45091
+    ],
+    [
+      1.036,
+      "Exact Score: CA Ferrocarril Midland 2 - 3 CSD Tris",
+      0.037,
+      0.999,
+      130.94599
+    ],
+    [
+      1.036,
+      "Exact Score: CD Maipu 3 - 3 CA Temperley?",
+      0.037,
+      0.999,
+      285.09097
+    ],
+    [
+      1.036,
+      "Sam Altman out as OpenAI CEO before 2027?",
+      0.049,
+      0.987,
+      1661.88691
+    ],
+    [
+      1.036,
+      "Will Michael Penix Jr. win the 2026 NFL Comeback P",
+      0.04,
+      0.996,
+      324.397
+    ],
+    [
+      1.036,
+      "Will the Republican Party candidate win the 2026 K",
+      0.267,
+      0.769,
+      591.66948
+    ],
+    [
+      1.039,
+      "Will AC Milan be relegated from the 2026-27 Serie ",
+      0.047,
+      0.992,
+      107.05217
+    ],
+    [
+      1.04,
+      "FC Volendam vs. VVV Venlo: O/U 4.5",
+      0.37,
+      0.67,
+      2160.6258
+    ],
+    [
+      1.04,
+      "Will Democrats sweep the Kansas Senate and Governo",
+      0.11,
+      0.93,
+      8775.6486
+    ],
+    [
+      1.04,
+      "Will Flop launch a token by June 30, 2027?",
+      0.74,
+      0.3,
+      360.1296
+    ],
+    [
+      1.04,
+      "Will Georgia have more than 7.5 wins during the 20",
+      0.9,
+      0.14,
+      884.9807
+    ],
+    [
+      1.04,
+      "Will Jakub Mensik Make the Top 10 in the 2026 ATP ",
+      0.26,
+      0.78,
+      640.1384
+    ],
+    [
+      1.04,
+      "Will Liu Chien-kuo win the next Yunlin County Magi",
+      0.18,
+      0.86,
+      9293.9709
+    ],
+    [
+      1.04,
+      "Will Los Angeles Chargers finish the 2026-27 NFL r",
+      0.041,
+      0.999,
+      191.435
+    ],
+    [
+      1.04,
+      "Will the Charlotte Hornets make the 2027 NBA Play-",
+      0.42,
+      0.62,
+      1601.6529
+    ],
+    [
+      1.04,
+      "Will the Democratic Party candidate win the 2026 M",
+      0.24,
+      0.8,
+      8370.7728
+    ],
+    [
+      1.04,
+      "Will the next Meta Muse Spark model be released on",
+      0.14,
+      0.9,
+      438.644
+    ],
+    [
+      1.04,
+      "Will there be a run scored in the first inning?: M",
+      0.48,
+      0.56,
+      5284.694
+    ],
+    [
+      1.041,
+      "Will Union Berlin qualify for the 2027-28 UEFA Cha",
+      0.06,
+      0.981,
+      5958.15232
+    ],
+    [
+      1.042,
+      "Will Carson Hocevar win the 2026 NASCAR Cup Series",
+      0.05,
+      0.992,
+      110.44616
+    ],
+    [
+      1.042,
+      "Will US crude oil reserves fall to 240M by October",
+      0.052,
+      0.99,
+      227.07015
+    ],
+    [
+      1.042,
+      "Will the official USD to ARS exchange rate be betw",
+      0.046,
+      0.996,
+      234.30136
+    ],
+    [
+      1.045,
+      "Spread: Norway (-4.5)",
+      0.046,
+      0.999,
+      1695.13619
+    ],
+    [
+      1.046,
+      "Exact Score: CA Racing de Cordoba 3 - 3 CD Godoy C",
+      0.047,
+      0.999,
+      130.278
+    ],
+    [
+      1.046,
+      "Will JOLTS Job Openings be between 7.3M and 7.4M i",
+      0.083,
+      0.963,
+      207.85881
+    ],
+    [
+      1.047,
+      "Will Pete Crow-Armstrong lead MLB in WAR for the 2",
+      0.997,
+      0.05,
+      2049.18138
+    ],
+    [
+      1.048,
+      "Exact Score: Gimnasia Y Tiro de Salta 3 - 3 Atleti",
+      0.049,
+      0.999,
+      103.47797
+    ],
+    [
+      1.048,
+      "Exact Score: Orange County SC 3 - 3 Pittsburgh Riv",
+      0.055,
+      0.993,
+      2350.98843
+    ],
+    [
+      1.0499999999999998,
+      "Will Bitcoin dip to $82,000 on September 24?",
+      0.48,
+      0.57,
+      7589.839
+    ],
+    [
+      1.05,
+      "San Marino vs. Albania: Both Teams to Score",
+      0.21,
+      0.84,
+      942.8032
+    ],
+    [
+      1.05,
+      "Will Jalen Hurts have 4.5+ rushing touchdowns in t",
+      0.85,
+      0.2,
+      55.5207
+    ],
+    [
+      1.05,
+      "Will Rocket Lab USA, Inc. (RKLB) hit (HIGH) $96 in",
+      0.06,
+      0.99,
+      744.74295
+    ],
+    [
+      1.05,
+      "Will Shas win 8-9 seats in the 2026 Knesset electi",
+      0.41,
+      0.64,
+      908.2897
+    ],
+    [
+      1.05,
+      "Will an international court find Israel or its lea",
+      0.17,
+      0.88,
+      416.9674
+    ],
+    [
+      1.05,
+      "Will the Democratic Party candidate win the 2026 N",
+      0.18,
+      0.87,
+      302.9134
+    ],
+    [
+      1.051,
+      "Will the price of Ethereum be between $2,800 and $",
+      0.081,
+      0.97,
+      1232.12927
+    ],
+    [
+      1.054,
+      "Exact Score: Orange County SC 3 - 0 Pittsburgh Riv",
+      0.067,
+      0.987,
+      2381.53311
+    ],
+    [
+      1.054,
+      "Will Ben Rhodes win the 2026 NASCAR Craftsman Truc",
+      0.06,
+      0.994,
+      154.22767
+    ],
+    [
+      1.056,
+      "Will Le\u00f3n finish 2nd in the 2026 Liga MX Apertura?",
+      0.066,
+      0.99,
+      439.04
+    ],
+    [
+      1.056,
+      "Will Solana reach $120 by December 31, 2026?",
+      0.866,
+      0.19,
+      22624.67963
+    ],
+    [
+      1.056,
+      "Will the Republican Party candidate win the 2026 I",
+      0.087,
+      0.969,
+      591.51064
+    ],
+    [
+      1.057,
+      "Will Philadelphia Eagles finish the 2026-27 NFL re",
+      0.058,
+      0.999,
+      192.65596
+    ],
+    [
+      1.058,
+      "Exact Score: Gimnasia Y Tiro de Salta 0 - 3 Atleti",
+      0.059,
+      0.999,
+      102.49198
+    ],
+    [
+      1.058,
+      "Exact Score: Gimnasia Y Tiro de Salta 2 - 3 Atleti",
+      0.059,
+      0.999,
+      102.93167
+    ],
+    [
+      1.059,
+      "Exact Score: Racing Club Avellaneda 3 - 3 Boca Jun",
+      0.06,
+      0.999,
+      54.79199
+    ],
+    [
+      1.059,
+      "Will the Democratic Party candidate win the 2026 N",
+      0.064,
+      0.995,
+      249.15672
+    ],
+    [
+      1.06,
+      "Counter-Strike: JiJieHao vs Eternal Fire - Map 2 W",
+      0.42,
+      0.64,
+      2172.559
+    ],
+    [
+      1.06,
+      "Will Palantir Technologies Inc. (PLTR) hit (LOW) $",
+      0.09,
+      0.97,
+      682.0706
+    ],
+    [
+      1.06,
+      "Will Revolut's valuation hit (HIGH) $130B by Septe",
+      0.18,
+      0.88,
+      134.2244
+    ],
+    [
+      1.06,
+      "Will Serhou Guirassy win the most Player of the Ma",
+      0.062,
+      0.998,
+      136.92071
+    ],
+    [
+      1.06,
+      "Will Tigres UANL finish the 2026-27 Liga MX season",
+      0.066,
+      0.994,
+      137.72355
+    ],
+    [
+      1.06,
+      "Will the Democratic Party candidate win the 2026 M",
+      0.19,
+      0.87,
+      579.9716
+    ],
+    [
+      1.061,
+      "Will Guillermo Rodriguez win Dancing With the Star",
+      0.067,
+      0.994,
+      1400.94221
+    ],
+    [
+      1.061,
+      "Will the Republican Party candidate win the 2026 P",
+      0.068,
+      0.993,
+      375.99154
+    ],
+    [
+      1.062,
+      "Will the Republican Party candidate win the 2026 C",
+      0.068,
+      0.994,
+      570.85946
+    ],
+    [
+      1.065,
+      "Will Mike Washington Jr. win the 2026 NFL Offensiv",
+      0.079,
+      0.986,
+      669.97238
+    ],
+    [
+      1.066,
+      "Will SMU Mustangs Win the 2026 ACC Championship?",
+      0.073,
+      0.993,
+      546.15073
+    ],
+    [
+      1.068,
+      "Will CJ Abrams lead the MLB in doubles for the 202",
+      0.071,
+      0.997,
+      452.40033
+    ],
+    [
+      1.068,
+      "Will total votes cast in the 2026 midterm election",
+      0.088,
+      0.98,
+      400.51762
+    ],
+    [
+      1.0699999999999998,
+      "Will fewer than 20 ships transit the Strait of Hor",
+      0.37,
+      0.7,
+      528.9873
+    ],
+    [
+      1.07,
+      "Will Joshua Kimmich (Bayern Munich) record the mos",
+      0.074,
+      0.996,
+      230.50261
+    ],
+    [
+      1.07,
+      "Will total votes cast in the 2026 midterm election",
+      0.19,
+      0.88,
+      354.0648
+    ],
+    [
+      1.075,
+      "Will Sandeep Somal win the 2026 Brampton mayoral e",
+      0.103,
+      0.972,
+      2297.1771
+    ],
+    [
+      1.078,
+      "Will Neftchi win the 2026-27 AFC Champions League ",
+      0.084,
+      0.994,
+      35.24065
+    ],
+    [
+      1.08,
+      "Will Justin Herbert have 4,099.5+ passing yards in",
+      0.28,
+      0.8,
+      47.6526
+    ],
+    [
+      1.08,
+      "Will NiP win the third most seats in the 2026 Bosn",
+      0.1,
+      0.98,
+      171.4922
+    ],
+    [
+      1.08,
+      "Will Omar Aziz win the 2026 Amazonas gubernatorial",
+      0.56,
+      0.52,
+      293.3031
+    ],
+    [
+      1.08,
+      "Will the Democratic Party candidate win the 2026 N",
+      0.21,
+      0.87,
+      468.9144
+    ],
+    [
+      1.08,
+      "Will the Republican Party candidate win the 2026 F",
+      0.24,
+      0.84,
+      363.0617
+    ],
+    [
+      1.08,
+      "Will the Republican Party candidate win the 2026 T",
+      0.21,
+      0.87,
+      679.6007
+    ],
+    [
+      1.082,
+      "Will Bully (Ye) win Best Rap Album at the 69th Ann",
+      0.09,
+      0.992,
+      821.19625
+    ],
+    [
+      1.083,
+      "Will the Republican Party candidate win the 2026 M",
+      0.093,
+      0.99,
+      249.94883
+    ],
+    [
+      1.086,
+      "Will Johor Darul Ta'zim win the 2026-27 AFC Champi",
+      0.088,
+      0.998,
+      37.11491
+    ],
+    [
+      1.089,
+      "Spread: Orlando City SC (-3.5)",
+      0.09,
+      0.999,
+      384.03716
+    ],
+    [
+      1.09,
+      "Will BNK FEARX win the Demacia Cup Global Invitati",
+      0.18,
+      0.91,
+      413.6107
+    ],
+    [
+      1.09,
+      "Will Brenda Locke win the 2026 Surrey mayoral elec",
+      0.79,
+      0.3,
+      311.6385
+    ],
+    [
+      1.098,
+      "Will Netflix, Inc. (NFLX) hit (HIGH) $105 in Septe",
+      0.1,
+      0.998,
+      492.619
+    ],
+    [
+      1.099,
+      "Will the Republican Party candidate win the 2026 N",
+      0.125,
+      0.974,
+      278.71178
+    ],
+    [
+      1.1,
+      "Will Mark Rutte visit Ukraine by December 31, 2026",
+      0.25,
+      0.85,
+      8257.2624
+    ],
+    [
+      1.1,
+      "Will NVIDIA (NVDA) hit (HIGH) $252 Week of Septemb",
+      0.101,
+      0.999,
+      296.34
+    ],
+    [
+      1.101,
+      "Justin & Hailey Bieber split in 2026?",
+      0.135,
+      0.966,
+      479.81652
+    ],
+    [
+      1.1059999999999999,
+      "Will Google be the third-best Code Arena | WebDev ",
+      0.118,
+      0.988,
+      137.18618
+    ],
+    [
+      1.107,
+      "Will the price of Solana be between $120 and $130 ",
+      0.119,
+      0.988,
+      495.99932
+    ],
+    [
+      1.112,
+      "Spread: Los Angeles FC (-5.5)",
+      0.113,
+      0.999,
+      169.64392
+    ],
+    [
+      1.113,
+      "Spread: San Diego FC (-5.5)",
+      0.114,
+      0.999,
+      182.45397
+    ],
+    [
+      1.12,
+      "Will Google (GOOGL) finish week of September 21 ab",
+      0.48,
+      0.64,
+      1142.8751
+    ],
+    [
+      1.121,
+      "Will the Left Front (LF) win the most seats in the",
+      0.128,
+      0.993,
+      717.55985
+    ],
+    [
+      1.126,
+      "Spread: San Diego FC (-4.5)",
+      0.127,
+      0.999,
+      187.60595
+    ],
+    [
+      1.128,
+      "Vancouver Whitecaps FC vs. D.C. United SC: O/U 0.5",
+      0.979,
+      0.149,
+      5405.63749
+    ],
+    [
+      1.129,
+      "Spread: New England Revolution (-4.5)",
+      0.13,
+      0.999,
+      918.21915
+    ],
+    [
+      1.133,
+      "Spread: Austin FC (-5.5)",
+      0.134,
+      0.999,
+      919.84563
+    ],
+    [
+      1.134,
+      "Will Strava\u2019s market cap be less than $2B at marke",
+      0.141,
+      0.993,
+      167.05015
+    ],
+    [
+      1.136,
+      "Will Airbnb, Inc. (ABNB) hit (HIGH) $204 in Septem",
+      0.146,
+      0.99,
+      508.6043
+    ],
+    [
+      1.1360000000000001,
+      "Spread: Toronto FC (-3.5)",
+      0.137,
+      0.999,
+      357.15936
+    ],
+    [
+      1.14,
+      "Will Reservists \u2013 New Economic Party win 4.25% or ",
+      0.2,
+      0.94,
+      331.2277
+    ],
+    [
+      1.1400000000000001,
+      "Will the PQ win 55-59 seats in the National Assemb",
+      0.23,
+      0.91,
+      478.9961
+    ],
+    [
+      1.142,
+      "Spread: FC Dallas (-5.5)",
+      0.143,
+      0.999,
+      1088.98599
+    ],
+    [
+      1.149,
+      "Spread: Atlanta United FC (-4.5)",
+      0.15,
+      0.999,
+      89.75191
+    ],
+    [
+      1.15,
+      "Spread: Los Angeles Galaxy (-5.5)",
+      0.151,
+      0.999,
+      62.84797
+    ],
+    [
+      1.156,
+      "Spread: Colorado Rapids SC (-4.5)",
+      0.157,
+      0.999,
+      161.44492
+    ],
+    [
+      1.158,
+      "Spread: CF Montr\u00e9al (-5.5)",
+      0.159,
+      0.999,
+      54.41596
+    ],
+    [
+      1.158,
+      "Spread: VVV Venlo (-5.5)",
+      0.159,
+      0.999,
+      1301.24315
+    ],
+    [
+      1.159,
+      "Spread: FC Dallas (-4.5)",
+      0.16,
+      0.999,
+      625.61759
+    ],
+    [
+      1.159,
+      "Spread: Real Salt Lake (-5.5)",
+      0.16,
+      0.999,
+      905.04619
+    ],
+    [
+      1.1600000000000001,
+      "Will Eno Umo Bassey win the 2027 Akwa Ibom State g",
+      0.48,
+      0.68,
+      2762.656
+    ],
+    [
+      1.169,
+      "Will Antonio Astiazar\u00e1n Guti\u00e9rrez win the 2027 Son",
+      0.176,
+      0.993,
+      1077.25802
+    ],
+    [
+      1.17,
+      "Tampa Bay Rays vs. Philadelphia Phillies",
+      0.53,
+      0.64,
+      1957.0447
+    ],
+    [
+      1.17,
+      "Will Hyperliquid hit $100 by September 30, 2026?",
+      0.57,
+      0.6,
+      255.1609
+    ],
+    [
+      1.17,
+      "Will the Republican Party candidate win the 2026 O",
+      0.22,
+      0.95,
+      340.775
+    ],
+    [
+      1.171,
+      "Spread: Orlando City SC (-4.5)",
+      0.172,
+      0.999,
+      169.45199
+    ],
+    [
+      1.172,
+      "Spread: Portland Timbers (-4.5)",
+      0.173,
+      0.999,
+      153.424
+    ],
+    [
+      1.174,
+      "Spread: Toronto FC (-4.5)",
+      0.175,
+      0.999,
+      62.544
+    ],
+    [
+      1.177,
+      "Spread: Seattle Sounders FC (-5.5)",
+      0.178,
+      0.999,
+      61.17995
+    ],
+    [
+      1.182,
+      "Spread: New York City FC (-5.5)",
+      0.183,
+      0.999,
+      65.58793
+    ],
+    [
+      1.184,
+      "Spread: San Jose Earthquakes (-5.5)",
+      0.185,
+      0.999,
+      146.94401
+    ],
+    [
+      1.185,
+      "Spread: Austin FC (-4.5)",
+      0.186,
+      0.999,
+      980.90055
+    ],
+    [
+      1.185,
+      "Spread: Sporting Kansas City (-4.5)",
+      0.186,
+      0.999,
+      140.88533
+    ],
+    [
+      1.188,
+      "Will Myles Smith win Best New Artist at the 2026 M",
+      0.198,
+      0.99,
+      576.3918
+    ],
+    [
+      1.189,
+      "Spread: Colorado Rapids SC (-5.5)",
+      0.19,
+      0.999,
+      131.56199
+    ],
+    [
+      1.19,
+      "Will the UK Budget include an increase to capital ",
+      0.69,
+      0.5,
+      354.5214
+    ],
+    [
+      1.191,
+      "Spread: Chicago Fire FC (-5.5)",
+      0.192,
+      0.999,
+      86.156
+    ],
+    [
+      1.195,
+      "Spread: Charlotte FC (-5.5)",
+      0.196,
+      0.999,
+      1155.78753
+    ],
+    [
+      1.195,
+      "Spread: D.C. United SC (-2.5)",
+      0.197,
+      0.998,
+      578.37529
+    ],
+    [
+      1.202,
+      "Spread: Sporting Kansas City (-3.5)",
+      0.203,
+      0.999,
+      454.32395
+    ],
+    [
+      1.206,
+      "Will Phumeza Mangcu be the next mayor of Tshwane?",
+      0.214,
+      0.992,
+      613.64072
+    ],
+    [
+      1.208,
+      "Spread: FC Cincinnati (-5.5)",
+      0.209,
+      0.999,
+      59.71196
+    ],
+    [
+      1.209,
+      "Spread: New England Revolution (-5.5)",
+      0.21,
+      0.999,
+      1129.82071
+    ],
+    [
+      1.22,
+      "Spread: Minnesota United FC (-5.5)",
+      0.221,
+      0.999,
+      1135.90572
+    ],
+    [
+      1.222,
+      "Spread: Atlanta United FC (-5.5)",
+      0.223,
+      0.999,
+      125.11351
+    ],
+    [
+      1.222,
+      "Spread: CF Montr\u00e9al (-4.5)",
+      0.223,
+      0.999,
+      162.67719
+    ],
+    [
+      1.222,
+      "Spread: Inter Miami CF (-5.5)",
+      0.223,
+      0.999,
+      150.51195
+    ],
+    [
+      1.226,
+      "Spread: Los Angeles FC (-4.5)",
+      0.227,
+      0.999,
+      161.25992
+    ],
+    [
+      1.228,
+      "Spread: Minnesota United FC (-4.5)",
+      0.229,
+      0.999,
+      1068.67973
+    ],
+    [
+      1.23,
+      "Spread: Columbus Crew (-5.5)",
+      0.231,
+      0.999,
+      63.91995
+    ],
+    [
+      1.232,
+      "Spread: St. Louis City SC (-5.5)",
+      0.233,
+      0.999,
+      1011.19758
+    ],
+    [
+      1.2349999999999999,
+      "Spread: FC Cincinnati (-4.5)",
+      0.236,
+      0.999,
+      126.54595
+    ],
+    [
+      1.236,
+      "Spread: D.C. United SC (-3.5)",
+      0.237,
+      0.999,
+      309.90122
+    ],
+    [
+      1.24,
+      "Will the lowest temperature in Jinan be 18\u00b0C on Se",
+      0.27,
+      0.97,
+      54.3303
+    ],
+    [
+      1.242,
+      "Spread: Seattle Sounders FC (-4.5)",
+      0.243,
+      0.999,
+      99.21593
+    ],
+    [
+      1.2469999999999999,
+      "Spread: New York City FC (-4.5)",
+      0.248,
+      0.999,
+      16.77899
+    ],
+    [
+      1.248,
+      "Spread: New York Red Bulls (-5.5)",
+      0.249,
+      0.999,
+      135.69194
+    ],
+    [
+      1.248,
+      "Spread: Portland Timbers (-5.5)",
+      0.249,
+      0.999,
+      155.8594
+    ],
+    [
+      1.249,
+      "Spread: Chicago Fire FC (-4.5)",
+      0.25,
+      0.999,
+      73.39199
+    ],
+    [
+      1.25,
+      "Spread: Los Angeles Galaxy (-4.5)",
+      0.251,
+      0.999,
+      62.93795
+    ],
+    [
+      1.25,
+      "Will Hyperliquid HIP-3 open interest hit $6B in 20",
+      0.68,
+      0.57,
+      296.4114
+    ],
+    [
+      1.252,
+      "Real Valladolid CF vs. C\u00f3rdoba CF: O/U 7.5",
+      0.253,
+      0.999,
+      985.10522
+    ],
+    [
+      1.26,
+      "Will Cory Booker announce a Presidential run befor",
+      0.7,
+      0.56,
+      1119.492
+    ],
+    [
+      1.263,
+      "Spread: Almere City FC (-5.5)",
+      0.264,
+      0.999,
+      1349.40602
+    ],
+    [
+      1.303,
+      "Spread: MVV Maastricht (-5.5)",
+      0.304,
+      0.999,
+      963.133
+    ],
+    [
+      1.3199999999999998,
+      "Will the New England Patriots win more than 9.5 ga",
+      0.69,
+      0.63,
+      685.8258
+    ],
+    [
+      1.32,
+      "Will Ken Martin cease to be DNC Chair by December ",
+      0.45,
+      0.87,
+      135.978
+    ],
+    [
+      1.321,
+      "Spread: El Paso Locomotive FC (-5.5)",
+      0.322,
+      0.999,
+      1390.97079
+    ],
+    [
+      1.323,
+      "LA Mayoral Election: Court Rules 1st Round Fraudul",
+      0.333,
+      0.99,
+      2062.53161
+    ],
+    [
+      1.357,
+      "Will Kristi Noem leave the Trump administration be",
+      0.541,
+      0.816,
+      393.28351
+    ],
+    [
+      1.3599999999999999,
+      "Will Jeff Bezos be 2nd richest person on December ",
+      0.366,
+      0.994,
+      332.87423
+    ],
+    [
+      1.3599999999999999,
+      "Will Mash'al be relegated from the 2026 Uzbekistan",
+      0.89,
+      0.47,
+      52.992
+    ],
+    [
+      1.4100000000000001,
+      "Will Catherine Parenteau qualify for the 2027 PPA ",
+      0.74,
+      0.67,
+      77.1804
+    ],
+    [
+      1.45,
+      "Will Al-Fateh be relegated from the 2026-27 Saudi ",
+      0.46,
+      0.99,
+      14.0817
+    ],
+    [
+      1.454,
+      "Faroe Islands vs. Kazakhstan: O/U 7.5",
+      0.456,
+      0.998,
+      417.86689
+    ],
+    [
+      1.454,
+      "Will Jos\u00e9 Paradela (Cruz Azul) record the most ass",
+      0.46,
+      0.994,
+      58.32675
+    ],
+    [
+      1.48,
+      "KBO: NC Dinos vs. Doosan Bears",
+      0.5,
+      0.98,
+      56.6798
+    ],
+    [
+      1.48,
+      "Will Donald Trump publicly insult Zohran Mamdani b",
+      0.49,
+      0.99,
+      151.1049
+    ],
+    [
+      1.529,
+      "Will Together win 13% or more of the vote in the 2",
+      0.563,
+      0.966,
+      448.16157
+    ],
+    [
+      1.572,
+      "Spread: Portadown FC (-4.5)",
+      0.573,
+      0.999,
+      714.26311
+    ],
+    [
+      1.608,
+      "Spread: TOP Oss (-4.5)",
+      0.609,
+      0.999,
+      706.10974
+    ],
+    [
+      1.6139999999999999,
+      "Spread: Portadown FC (-3.5)",
+      0.615,
+      0.999,
+      930.38891
+    ],
+    [
+      1.6400000000000001,
+      "Seattle Sounders FC vs. Minnesota United FC: O/U 7",
+      0.66,
+      0.98,
+      123.2596
+    ],
+    [
+      1.647,
+      "SD Eibar vs. UD Las Palmas: UD Las Palmas O/U 3.5",
+      0.663,
+      0.984,
+      327.67179
+    ],
+    [
+      1.678,
+      "Spread: Orange County SC (-4.5)",
+      0.679,
+      0.999,
+      413.52266
+    ],
+    [
+      1.688,
+      "Spread: FC Supra Du Quebec (-3.5)",
+      0.689,
+      0.999,
+      409.89467
+    ],
+    [
+      1.69,
+      "Will Bunyodkor be relegated from the 2026 Uzbekist",
+      0.97,
+      0.72,
+      11.1318
+    ],
+    [
+      1.755,
+      "Spread: Vitesse Arnhem (-3.5)",
+      0.756,
+      0.999,
+      507.33735
+    ],
+    [
+      1.776,
+      "Spread: Am\u00e9rica FC (-3.5)",
+      0.777,
+      0.999,
+      401.4304
+    ],
+    [
+      1.7999999999999998,
+      "Will the Lions win the season series against the B",
+      0.84,
+      0.96,
+      100.95
+    ],
+    [
+      1.9,
+      "FK Kryvbas Kryvyi Rih vs. FK Kharkiv: FK Kharkiv O",
+      0.95,
+      0.95,
+      350.0
+    ],
+    [
+      1.9,
+      "Italy vs. Belgium: Belgium O/U 4.5",
+      0.906,
+      0.994,
+      404.8795
+    ],
+    [
+      1.913,
+      "Will Madagascar win AFCON 2027 qualifying Group L?",
+      0.924,
+      0.989,
+      63.0469
+    ],
+    [
+      1.916,
+      "Slovenia vs. Scotland: Scotland O/U 4.5",
+      0.921,
+      0.995,
+      180.754
+    ],
+    [
+      1.928,
+      "Albania vs. Belarus: Belarus O/U 3.5",
+      0.929,
+      0.999,
+      106.44349
+    ],
+    [
+      1.94,
+      "Atl\u00e9tico Calatayud CF vs. CD Bazt\u00e1n: 1st Half O/U ",
+      0.96,
+      0.98,
+      41.8798
+    ],
+    [
+      1.946,
+      "Seattle Sounders FC vs. Minnesota United FC: O/U 8",
+      0.966,
+      0.98,
+      20.45363
+    ],
+    [
+      1.95,
+      "CF Montr\u00e9al vs. FC Cincinnati: O/U 8.5",
+      0.97,
+      0.98,
+      16.01975
+    ],
+    [
+      1.95,
+      "Seattle Sounders FC vs. Sporting Kansas City: O/U ",
+      0.97,
+      0.98,
+      8.16
+    ],
+    [
+      1.956,
+      "New York Red Bulls vs. St. Louis City SC: O/U 8.5",
+      0.976,
+      0.98,
+      15.51589
+    ],
+    [
+      1.96,
+      "Cayman Islands vs. Dominica: Cayman Islands 1st Ha",
+      0.97,
+      0.99,
+      19.7902
+    ],
+    [
+      1.9769999999999999,
+      "MVV Maastricht vs. Helmond Sport: Helmond Sport O/",
+      0.978,
+      0.999,
+      6.40892
+    ],
+    [
+      1.9769999999999999,
+      "San Marino vs. Finland: O/U 8.5",
+      0.978,
+      0.999,
+      13.84189
+    ],
+    [
+      1.979,
+      "Cambridge United FC vs. AFC Wimbledon: 1st Half O/",
+      0.98,
+      0.999,
+      1.738
+    ],
+    [
+      1.979,
+      "Granada CF vs. FC Andorra: 1st Half O/U 4.5",
+      0.98,
+      0.999,
+      1.94799
+    ],
+    [
+      1.979,
+      "Montedio Yamagata vs. Sagan Tosu: 1st Half O/U 4.5",
+      0.98,
+      0.999,
+      1.738
+    ],
+    [
+      1.98,
+      "Spread: PFC Ludogorets 1945 Razgrad (-4.5)",
+      0.99,
+      0.99,
+      0.7298
+    ],
+    [
+      1.9809999999999999,
+      "Will Sport win Brazil S\u00e9rie B?",
+      0.991,
+      0.99,
+      2.10867
+    ],
+    [
+      1.9849999999999999,
+      "Spread: Atl\u00e9tico Nacional (-5.5)",
+      0.986,
+      0.999,
+      13.5439
+    ],
+    [
+      1.986,
+      "Spread: Ballymena United (-5.5)",
+      0.987,
+      0.999,
+      8.47393
+    ],
+    [
+      1.986,
+      "Spread: Quilmes AC (-5.5)",
+      0.987,
+      0.999,
+      8.36789
+    ],
+    [
+      1.987,
+      "Exact Score: Gimnasia y Esgrima de Jujuy 3 - 3 San",
+      0.988,
+      0.999,
+      11.18793
+    ],
+    [
+      1.987,
+      "Spread: Gr\u00eamio Novorizontino (-5.5)",
+      0.988,
+      0.999,
+      8.48793
+    ],
+    [
+      1.987,
+      "Spread: Shelbourne FC (-5.5)",
+      0.988,
+      0.999,
+      9.70793
+    ],
+    [
+      1.988,
+      "Spread: CA Bucaramanga (-4.5)",
+      0.989,
+      0.999,
+      1.82199
+    ],
+    [
+      1.988,
+      "Spread: Millonarios FC (-4.5)",
+      0.989,
+      0.999,
+      1.70199
+    ],
+    [
+      1.988,
+      "Spread: Pittsburgh Riverhounds (-5.5)",
+      0.989,
+      0.999,
+      1.56197
+    ],
+    [
+      1.988,
+      "Spread: Racing Club Avellaneda (-3.5)",
+      0.989,
+      0.999,
+      1.51599
+    ],
+    [
+      1.988,
+      "Spread: Racing Club Avellaneda (-4.5)",
+      0.989,
+      0.999,
+      1.14098
+    ],
+    [
+      1.988,
+      "Spread: Rhode Island FC (-5.5)",
+      0.989,
+      0.999,
+      1.34597
+    ],
+    [
+      1.988,
+      "Spread: San Antonio FC (-4.5)",
+      0.989,
+      0.999,
+      1.47798
+    ],
+    [
+      1.988,
+      "Spread: Tampa Bay Rowdies (-4.5)",
+      0.989,
+      0.999,
+      1.70199
+    ],
+    [
+      1.988,
+      "Spread: Tampa Bay Rowdies (-5.5)",
+      0.989,
+      0.999,
+      1.70598
+    ],
+    [
+      1.9889999999999999,
+      "Spread: FC Dordrecht (-5.5)",
+      0.99,
+      0.999,
+      1.21599
+    ],
+    [
+      1.9889999999999999,
+      "Spread: Galway United FC (-5.5)",
+      0.99,
+      0.999,
+      1.70199
+    ],
+    [
+      1.9889999999999999,
+      "Spread: S\u00e3o Bernardo FC (-4.5)",
+      0.99,
+      0.999,
+      1.67594
+    ]
+  ]
+}

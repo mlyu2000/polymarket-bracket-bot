@@ -1,0 +1,230 @@
+{
+ "ts": "20260923T233937Z",
+ "method": "provided(asks[0]) + detector + minask floor",
+ "markets": 500,
+ "priced": 422,
+ "scan_seconds": 48.5,
+ "best_min_sum": 1.001,
+ "best_min_sum_market": "Will Anders Dreyer win 2026 MLS Most Valuable Play",
+ "brackets": [],
+ "near_le_1005_provided_asks0": [],
+ "near_le_1005_minask": [
+  {
+   "sum": 1.001,
+   "q": "Will Anders Dreyer win 2026 MLS Most Valuable Play",
+   "yes": 0.002,
+   "no": 0.999,
+   "liq": 1581.50119
+  },
+  {
+   "sum": 1.001,
+   "q": "Will SpaceX have 15+ launches in September 2026?",
+   "yes": 0.002,
+   "no": 0.999,
+   "liq": 4413.48558
+  },
+  {
+   "sum": 1.001,
+   "q": "Will Mallory Aurichio come in second-place on Big ",
+   "yes": 0.002,
+   "no": 0.999,
+   "liq": 637.27037
+  },
+  {
+   "sum": 1.001,
+   "q": "Will Brad Pitt win Best Actor at the 99th Academy ",
+   "yes": 0.004,
+   "no": 0.997,
+   "liq": 13226.64336
+  },
+  {
+   "sum": 1.001,
+   "q": "Will Solana hit $60 or $140 first?",
+   "yes": 0.27,
+   "no": 0.731,
+   "liq": 4428.86969
+  },
+  {
+   "sum": 1.001,
+   "q": "Will Ferencvaros win the 2026-27 UEFA Europa Leagu",
+   "yes": 0.002,
+   "no": 0.999,
+   "liq": 3354.74512
+  },
+  {
+   "sum": 1.001,
+   "q": "Will GS come 2nd place in the next Latvian parliam",
+   "yes": 0.002,
+   "no": 0.999,
+   "liq": 10846.97173
+  },
+  {
+   "sum": 1.001,
+   "q": "Will Saudi Aramco be the largest company in the wo",
+   "yes": 0.002,
+   "no": 0.999,
+   "liq": 197191.74673
+  },
+  {
+   "sum": 1.001,
+   "q": "Will Hsu Chih-fu win the next Penghu County Magist",
+   "yes": 0.002,
+   "no": 0.999,
+   "liq": 9503.39887
+  },
+  {
+   "sum": 1.001,
+   "q": "Will Golden State Warriors win the 2027 NBA Finals",
+   "yes": 0.011,
+   "no": 0.99,
+   "liq": 254848.25534
+  },
+  {
+   "sum": 1.001,
+   "q": "Will the Phoenix Suns be the 2027 NBA Western Conf",
+   "yes": 0.008,
+   "no": 0.993,
+   "liq": 55980.42642
+  },
+  {
+   "sum": 1.002,
+   "q": "Will the Democratic Party candidate win the 2026 N",
+   "yes": 0.003,
+   "no": 0.999,
+   "liq": 10093.92385
+  },
+  {
+   "sum": 1.002,
+   "q": "Will Linke be in the next Sachsen-Anhalt state gov",
+   "yes": 0.014,
+   "no": 0.988,
+   "liq": 10405.12459
+  },
+  {
+   "sum": 1.002,
+   "q": "Will Bitcoin dip to $55,000 in September?",
+   "yes": 0.003,
+   "no": 0.999,
+   "liq": 165233.42048
+  },
+  {
+   "sum": 1.002,
+   "q": "Will Lovable be acquired before 2027?",
+   "yes": 0.032,
+   "no": 0.97,
+   "liq": 4898.1038
+  },
+  {
+   "sum": 1.002,
+   "q": "Will Microsoft be the largest company in the world",
+   "yes": 0.005,
+   "no": 0.997,
+   "liq": 120865.55872
+  },
+  {
+   "sum": 1.003,
+   "q": "Will S\u0142awomir Pietrzyk win the 2026 Krak\u00f3w mayoral",
+   "yes": 0.004,
+   "no": 0.999,
+   "liq": 17920.30505
+  },
+  {
+   "sum": 1.003,
+   "q": "Will Arizona Cardinals win the 2027 NFL NFC Champi",
+   "yes": 0.008,
+   "no": 0.995,
+   "liq": 65860.59376
+  },
+  {
+   "sum": 1.003,
+   "q": "Will Bitcoin dip to $80,000 on September 23?",
+   "yes": 0.005,
+   "no": 0.998,
+   "liq": 21320.19758
+  },
+  {
+   "sum": 1.003,
+   "q": "Will Shohei Ohtani lead the MLB in ERA for the 202",
+   "yes": 0.004,
+   "no": 0.999,
+   "liq": 1449.88235
+  },
+  {
+   "sum": 1.004,
+   "q": "Exact Score: Quilmes AC 2 - 3 CA Guemes?",
+   "yes": 0.008,
+   "no": 0.996,
+   "liq": 2599.47218
+  },
+  {
+   "sum": 1.004,
+   "q": "Exact Score: Quilmes AC 3 - 3 CA Guemes?",
+   "yes": 0.006,
+   "no": 0.998,
+   "liq": 2597.29654
+  },
+  {
+   "sum": 1.004,
+   "q": "Will Turkiye win the 46th FIDE Chess Olympiad Open",
+   "yes": 0.005,
+   "no": 0.999,
+   "liq": 7570.82218
+  },
+  {
+   "sum": 1.004,
+   "q": "Will the price of Bitcoin be above $70,000 on Sept",
+   "yes": 0.998,
+   "no": 0.006,
+   "liq": 20216.0467
+  },
+  {
+   "sum": 1.004,
+   "q": "Will SpaceXAI have the best Math AI model at the e",
+   "yes": 0.005,
+   "no": 0.999,
+   "liq": 1361.73404
+  },
+  {
+   "sum": 1.004,
+   "q": "Will Meta have the best Code Arena | WebDev AI at ",
+   "yes": 0.006,
+   "no": 0.998,
+   "liq": 447.20867
+  },
+  {
+   "sum": 1.004,
+   "q": "Will Z.ai be the first company to have an AI model",
+   "yes": 0.005,
+   "no": 0.999,
+   "liq": 2166.9143
+  },
+  {
+   "sum": 1.004,
+   "q": "Will SpaceXAI have the best AI Agent at the end of",
+   "yes": 0.009,
+   "no": 0.995,
+   "liq": 3926.0989
+  },
+  {
+   "sum": 1.004,
+   "q": "Will Cameron Brink win the 2026 WNBA Defensive Pla",
+   "yes": 0.005,
+   "no": 0.999,
+   "liq": 562.19008
+  },
+  {
+   "sum": 1.005,
+   "q": "Exact Score: Quilmes AC 1 - 3 CA Guemes?",
+   "yes": 0.009,
+   "no": 0.996,
+   "liq": 2609.64319
+  },
+  {
+   "sum": 1.005,
+   "q": "Will Merab Dvalishvili be ranked first in the UFC ",
+   "yes": 0.007,
+   "no": 0.998,
+   "liq": 1156.51918
+  }
+ ]
+}
