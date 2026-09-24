@@ -1,0 +1,206 @@
+{
+ "run_ts_utc": "20260924T0957Z",
+ "markets": 500,
+ "opps": [],
+ "near_misses": [
+  [
+   1.001,
+   "Will Anders Dreyer win 2026 MLS Most Valuable Play",
+   0.002,
+   0.999,
+   1442.22366
+  ],
+  [
+   1.001,
+   "Will Bitcoin dip to $55,000 in September?",
+   0.002,
+   0.999,
+   162926.89737
+  ],
+  [
+   1.001,
+   "Will Brad Pitt win Best Actor at the 99th Academy ",
+   0.004,
+   0.997,
+   11184.2795
+  ],
+  [
+   1.001,
+   "Will Ferencvaros win the 2026-27 UEFA Europa Leagu",
+   0.002,
+   0.999,
+   3267.92198
+  ],
+  [
+   1.001,
+   "Will GS come 2nd place in the next Latvian parliam",
+   0.002,
+   0.999,
+   10746.5811
+  ],
+  [
+   1.001,
+   "Will Golden State Warriors win the 2027 NBA Finals",
+   0.011,
+   0.99,
+   253678.67196
+  ],
+  [
+   1.001,
+   "Will Linke be in the next Sachsen-Anhalt state gov",
+   0.014,
+   0.987,
+   8568.09428
+  ],
+  [
+   1.001,
+   "Will Mallory Aurichio come in second-place on Big ",
+   0.002,
+   0.999,
+   544.09324
+  ],
+  [
+   1.001,
+   "Will Saudi Aramco be the largest company in the wo",
+   0.002,
+   0.999,
+   224552.05054
+  ],
+  [
+   1.001,
+   "Will Solana hit $60 or $140 first?",
+   0.27,
+   0.731,
+   4892.86682
+  ],
+  [
+   1.001,
+   "Will SpaceX have 15+ launches in September 2026?",
+   0.002,
+   0.999,
+   3042.94003
+  ],
+  [
+   1.001,
+   "Will the Phoenix Suns be the 2027 NBA Western Conf",
+   0.008,
+   0.993,
+   57221.52243
+  ],
+  [
+   1.001,
+   "Will the highest temperature in Shenzhen be 33\u00b0C o",
+   0.002,
+   0.999,
+   1867.89182
+  ],
+  [
+   1.002,
+   "Exact Score: Netherlands 0 - 1 Germany?",
+   0.053,
+   0.949,
+   94413.10446
+  ],
+  [
+   1.002,
+   "Will Microsoft be the largest company in the world",
+   0.005,
+   0.997,
+   109571.25696
+  ],
+  [
+   1.003,
+   "Will Hsu Chih-fu win the next Penghu County Magist",
+   0.004,
+   0.999,
+   9176.63381
+  ],
+  [
+   1.003,
+   "Will Shakira Austin win the 2026 WNBA Defensive Pl",
+   0.004,
+   0.999,
+   287.32072
+  ],
+  [
+   1.004,
+   "Central Arkansas vs. Florida State",
+   0.006,
+   0.998,
+   63093.42363
+  ],
+  [
+   1.004,
+   "Exact Score: Quilmes AC 2 - 3 CA Guemes?",
+   0.009,
+   0.995,
+   2530.23918
+  ],
+  [
+   1.004,
+   "Will Arizona Cardinals win the 2027 NFL NFC Champi",
+   0.009,
+   0.995,
+   69349.9408
+  ],
+  [
+   1.004,
+   "Will SpaceXAI have the best AI Agent at the end of",
+   0.009,
+   0.995,
+   6469.3477
+  ],
+  [
+   1.004,
+   "Will SpaceXAI have the best Math AI model at the e",
+   0.005,
+   0.999,
+   396.37805
+  ],
+  [
+   1.004,
+   "Will Z.ai be the first company to have an AI model",
+   0.005,
+   0.999,
+   1640.94423
+  ],
+  [
+   1.005,
+   "Exact Score: Japan 3 - 0 Uruguay?",
+   0.058,
+   0.947,
+   60419.87969
+  ],
+  [
+   1.005,
+   "Exact Score: Quilmes AC 3 - 3 CA Guemes?",
+   0.007,
+   0.998,
+   2522.55454
+  ],
+  [
+   1.005,
+   "Will Andy Burnham say \"Scotland\" during the next P",
+   0.01,
+   0.995,
+   142.74885
+  ],
+  [
+   1.005,
+   "Will Merab Dvalishvili be ranked first in the UFC ",
+   0.007,
+   0.998,
+   838.59529
+  ],
+  [
+   1.005,
+   "Will Ronaldo Caiado qualify for Brazil's president",
+   0.007,
+   0.998,
+   22544.57795
+  ]
+ ],
+ "scan_time": 46.78309774398804,
+ "asks0_near": [],
+ "floor": 1.001
+}
