@@ -1,0 +1,223 @@
+{
+ "ts": "20260924T022838Z",
+ "method": "provided(asks[0]) + detector + minask floor",
+ "markets": 500,
+ "priced": 416,
+ "scan_seconds": 49.0,
+ "best_min_sum": 1.001,
+ "best_min_sum_market": "Will Anders Dreyer win 2026 MLS Most Valuable Play",
+ "brackets": [],
+ "near_le_1005_provided_asks0": [],
+ "near_le_1005_minask": [
+  {
+   "sum": 1.001,
+   "q": "Will Anders Dreyer win 2026 MLS Most Valuable Play",
+   "yes": 0.002,
+   "no": 0.999,
+   "liq": 1859.39931
+  },
+  {
+   "sum": 1.001,
+   "q": "Will SpaceX have 15+ launches in September 2026?",
+   "yes": 0.002,
+   "no": 0.999,
+   "liq": 3533.61607
+  },
+  {
+   "sum": 1.001,
+   "q": "Will Mallory Aurichio come in second-place on Big ",
+   "yes": 0.002,
+   "no": 0.999,
+   "liq": 443.9202
+  },
+  {
+   "sum": 1.001,
+   "q": "Will Brad Pitt win Best Actor at the 99th Academy ",
+   "yes": 0.004,
+   "no": 0.997,
+   "liq": 14732.43089
+  },
+  {
+   "sum": 1.001,
+   "q": "Will Solana hit $60 or $140 first?",
+   "yes": 0.27,
+   "no": 0.731,
+   "liq": 4657.17887
+  },
+  {
+   "sum": 1.001,
+   "q": "Will Ferencvaros win the 2026-27 UEFA Europa Leagu",
+   "yes": 0.002,
+   "no": 0.999,
+   "liq": 3342.08892
+  },
+  {
+   "sum": 1.001,
+   "q": "Will GS come 2nd place in the next Latvian parliam",
+   "yes": 0.002,
+   "no": 0.999,
+   "liq": 10692.9939
+  },
+  {
+   "sum": 1.001,
+   "q": "Will Saudi Aramco be the largest company in the wo",
+   "yes": 0.002,
+   "no": 0.999,
+   "liq": 196572.28106
+  },
+  {
+   "sum": 1.001,
+   "q": "Will Bitcoin dip to $55,000 in September?",
+   "yes": 0.004,
+   "no": 0.997,
+   "liq": 151421.01054
+  },
+  {
+   "sum": 1.001,
+   "q": "Will Golden State Warriors win the 2027 NBA Finals",
+   "yes": 0.011,
+   "no": 0.99,
+   "liq": 252722.10378
+  },
+  {
+   "sum": 1.001,
+   "q": "Will the Phoenix Suns be the 2027 NBA Western Conf",
+   "yes": 0.008,
+   "no": 0.993,
+   "liq": 55993.60535
+  },
+  {
+   "sum": 1.002,
+   "q": "Will the Democratic Party candidate win the 2026 N",
+   "yes": 0.003,
+   "no": 0.999,
+   "liq": 10033.22966
+  },
+  {
+   "sum": 1.002,
+   "q": "Will Ronaldo Caiado qualify for Brazil's president",
+   "yes": 0.007,
+   "no": 0.995,
+   "liq": 22606.3491
+  },
+  {
+   "sum": 1.002,
+   "q": "Will the highest temperature in Tel Aviv be 28\u00b0C o",
+   "yes": 0.003,
+   "no": 0.999,
+   "liq": 1800.88601
+  },
+  {
+   "sum": 1.002,
+   "q": "Will Linke be in the next Sachsen-Anhalt state gov",
+   "yes": 0.014,
+   "no": 0.988,
+   "liq": 10403.06324
+  },
+  {
+   "sum": 1.002,
+   "q": "Will Microsoft be the largest company in the world",
+   "yes": 0.005,
+   "no": 0.997,
+   "liq": 117886.7905
+  },
+  {
+   "sum": 1.003,
+   "q": "Will Arizona Cardinals win the 2027 NFL NFC Champi",
+   "yes": 0.008,
+   "no": 0.995,
+   "liq": 63595.82861
+  },
+  {
+   "sum": 1.003,
+   "q": "Will Hsu Chih-fu win the next Penghu County Magist",
+   "yes": 0.004,
+   "no": 0.999,
+   "liq": 9498.70089
+  },
+  {
+   "sum": 1.003,
+   "q": "Will Shohei Ohtani lead the MLB in ERA for the 202",
+   "yes": 0.004,
+   "no": 0.999,
+   "liq": 1069.84972
+  },
+  {
+   "sum": 1.004,
+   "q": "Will Turkiye win the 46th FIDE Chess Olympiad Open",
+   "yes": 0.005,
+   "no": 0.999,
+   "liq": 8064.21054
+  },
+  {
+   "sum": 1.004,
+   "q": "Will the price of Bitcoin be above $70,000 on Sept",
+   "yes": 0.998,
+   "no": 0.006,
+   "liq": 9220.81779
+  },
+  {
+   "sum": 1.004,
+   "q": "Will SpaceXAI have the best Math AI model at the e",
+   "yes": 0.005,
+   "no": 0.999,
+   "liq": 1257.95015
+  },
+  {
+   "sum": 1.004,
+   "q": "Will Meta have the best Code Arena | WebDev AI at ",
+   "yes": 0.006,
+   "no": 0.998,
+   "liq": 432.60467
+  },
+  {
+   "sum": 1.004,
+   "q": "Will Z.ai be the first company to have an AI model",
+   "yes": 0.005,
+   "no": 0.999,
+   "liq": 2175.22849
+  },
+  {
+   "sum": 1.004,
+   "q": "Will SpaceXAI have the best AI Agent at the end of",
+   "yes": 0.009,
+   "no": 0.995,
+   "liq": 5980.24087
+  },
+  {
+   "sum": 1.004,
+   "q": "Will Mexico GDP growth in Q3 2026 be less than 0.5",
+   "yes": 0.011,
+   "no": 0.993,
+   "liq": 396.64038
+  },
+  {
+   "sum": 1.005,
+   "q": "Exact Score: Quilmes AC 2 - 3 CA Guemes?",
+   "yes": 0.009,
+   "no": 0.996,
+   "liq": 2526.84218
+  },
+  {
+   "sum": 1.005,
+   "q": "Exact Score: Quilmes AC 3 - 3 CA Guemes?",
+   "yes": 0.007,
+   "no": 0.998,
+   "liq": 2526.00554
+  },
+  {
+   "sum": 1.005,
+   "q": "Will Andy Burnham say \"Scotland\" during the next P",
+   "yes": 0.01,
+   "no": 0.995,
+   "liq": 142.74885
+  },
+  {
+   "sum": 1.005,
+   "q": "Will Merab Dvalishvili be ranked first in the UFC ",
+   "yes": 0.007,
+   "no": 0.998,
+   "liq": 980.66985
+  }
+ ]
+}
