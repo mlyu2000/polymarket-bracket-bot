@@ -1,0 +1,21 @@
+{
+  "run": "cron_scan_20260924T1300Z",
+  "timestamp_utc": "2026-09-24T13:00Z",
+  "method": "provided(asks[0]) near-miss block + detector(min-ask) + best-ask floor supplement",
+  "markets": 500,
+  "scan_time": 49.3,
+  "opps": [],
+  "near_misses_asks0": [],
+  "best_ask_floor": {
+    "priced_markets": 407,
+    "true_brackets_lt_1": 0,
+    "floor_sum": 1.001,
+    "top_sums": [
+      [1.001, "Will Solana hit $60 or $140 first?", 0.270, 0.731, 5261.18],
+      [1.001, "Will Golden State Warriors win the 2027 NBA Finals?", 0.011, 0.990, 256666.33],
+      [1.001, "Will Saudi Aramco be the largest company in the world by mar", 0.002, 0.999, 233100.91],
+      [1.001, "Will Brad Pitt win Best Actor at the 99th Academy Awards?", 0.004, 0.997, 11554.54],
+      [1.001, "Will Anders Dreyer win 2026 MLS Most Valuable Player?", 0.002, 0.999, 1867.65]
+    ]
+  }
+}
