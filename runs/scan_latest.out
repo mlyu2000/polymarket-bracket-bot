@@ -1,0 +1,80 @@
+{
+  "run_ts_utc": "20260924T054253Z",
+  "markets": 500,
+  "scan_time_s": 48.2,
+  "brackets": [],
+  "near_miss_count": 27,
+  "near_misses_top": [
+    {
+      "sum": 1.001,
+      "q": "Will Anders Dreyer win 2026 MLS Most Valuable Play",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 1307.06475
+    },
+    {
+      "sum": 1.001,
+      "q": "Will Bitcoin dip to $55,000 in September?",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 152552.48149
+    },
+    {
+      "sum": 1.001,
+      "q": "Will Brad Pitt win Best Actor at the 99th Academy ",
+      "yes": 0.004,
+      "no": 0.997,
+      "liq": 12778.80654
+    },
+    {
+      "sum": 1.001,
+      "q": "Will Ferencvaros win the 2026-27 UEFA Europa Leagu",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 2780.88892
+    },
+    {
+      "sum": 1.001,
+      "q": "Will GS come 2nd place in the next Latvian parliam",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 10733.09397
+    },
+    {
+      "sum": 1.001,
+      "q": "Will Golden State Warriors win the 2027 NBA Finals",
+      "yes": 0.011,
+      "no": 0.99,
+      "liq": 250231.8828
+    },
+    {
+      "sum": 1.001,
+      "q": "Will Mallory Aurichio come in second-place on Big ",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 602.31632
+    },
+    {
+      "sum": 1.001,
+      "q": "Will Saudi Aramco be the largest company in the wo",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 232158.57132
+    },
+    {
+      "sum": 1.001,
+      "q": "Will Solana hit $60 or $140 first?",
+      "yes": 0.27,
+      "no": 0.731,
+      "liq": 4598.9712
+    },
+    {
+      "sum": 1.001,
+      "q": "Will SpaceX have 15+ launches in September 2026?",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 3125.59637
+    }
+  ],
+  "floor": 1.001
+}
