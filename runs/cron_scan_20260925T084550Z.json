@@ -1,0 +1,47 @@
+{
+  "ts": "2026-09-25T08:46:40Z",
+  "markets": 500,
+  "priced": 345,
+  "brackets": [],
+  "floor_best_ask": 1.001,
+  "near_miss_asks0": 0,
+  "near_miss_bestask": 21,
+  "best5": [
+    [
+      1.001,
+      0.002,
+      0.999,
+      "Will Anders Dreyer win 2026 MLS Most Valuable Player?",
+      1186.93281
+    ],
+    [
+      1.001,
+      0.002,
+      0.999,
+      "Will Ferencvaros win the 2026-27 UEFA Europa League Cha",
+      3138.337
+    ],
+    [
+      1.001,
+      0.002,
+      0.999,
+      "Will GS come 2nd place in the next Latvian parliamentar",
+      8925.65495
+    ],
+    [
+      1.001,
+      0.002,
+      0.999,
+      "Will Saudi Aramco be the largest company in the world b",
+      204261.26542
+    ],
+    [
+      1.001,
+      0.002,
+      0.999,
+      "Will SpaceX have 15+ launches in September 2026?",
+      4177.95797
+    ]
+  ],
+  "scan_time_s": 49.560786724090576
+}
