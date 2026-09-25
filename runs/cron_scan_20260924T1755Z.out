@@ -1,0 +1,16 @@
+🔍 Scan: 500 markets in 54.7s
+✅ BRACKETS (sum < 1.00): 0
+📊 Near-misses (≤1.005, asks[0] method): 0
+--- Part B: best-ask (min) supplement over 396 priced markets ---
+best-ask near-misses (≤1.005): 26
+  1.001 | Yes@0.002 No@0.999 | liq=1356.57804 | Will Anders Dreyer win 2026 MLS Most Valuable Player?
+  1.001 | Yes@0.004 No@0.997 | liq=11840.62352 | Will Brad Pitt win Best Actor at the 99th Academy Awards?
+  1.001 | Yes@0.002 No@0.999 | liq=2951.21693 | Will Ferencvaros win the 2026-27 UEFA Europa League Champion
+  1.001 | Yes@0.002 No@0.999 | liq=8759.75269 | Will GS come 2nd place in the next Latvian parliamentary ele
+  1.001 | Yes@0.011 No@0.990 | liq=254105.26872 | Will Golden State Warriors win the 2027 NBA Finals?
+  1.001 | Yes@0.014 No@0.987 | liq=8568.34449 | Will Linke be in the next Sachsen-Anhalt state government?
+  1.001 | Yes@0.002 No@0.999 | liq=218275.47828 | Will Saudi Aramco be the largest company in the world by mar
+  1.001 | Yes@0.270 No@0.731 | liq=6346.30787 | Will Solana hit $60 or $140 first?
+  1.001 | Yes@0.002 No@0.999 | liq=4144.67309 | Will SpaceX have 15+ launches in September 2026?
+  1.001 | Yes@0.008 No@0.993 | liq=57169.46523 | Will the Phoenix Suns be the 2027 NBA Western Conference Cha
+global min-ask floor: 1.001 | Yes@0.002 No@0.999 | Will Anders Dreyer win 2026 MLS Most Valuable Player?
