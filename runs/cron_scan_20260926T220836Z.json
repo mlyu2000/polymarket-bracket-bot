@@ -1,0 +1,45 @@
+{
+  "stamp": "20260926T220836Z",
+  "scan_time": 57.59487867355347,
+  "markets": 500,
+  "priced": 120,
+  "floor": 1.001,
+  "brackets": [],
+  "near_misses": [
+    [
+      1.001,
+      "Will Anders Dreyer win 2026 MLS Most Valuable Play",
+      0.002,
+      0.999,
+      815.66633
+    ],
+    [
+      1.003,
+      "Will Jairo Palheta win the 2026 Amap\u00e1 gubernatoria",
+      0.004,
+      0.999,
+      12916.16868
+    ],
+    [
+      1.004,
+      "Spread: D.C. United SC (-2.5)",
+      0.008,
+      0.996,
+      15477.65464
+    ],
+    [
+      1.005,
+      "Exact Score: Denmark 1 - 2 Wales?",
+      0.04,
+      0.965,
+      98912.60021
+    ],
+    [
+      1.005,
+      "Exact Score: Orange County SC 3 - 3 Pittsburgh Riv",
+      0.011,
+      0.994,
+      6289.06499
+    ]
+  ]
+}
