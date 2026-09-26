@@ -1,0 +1,53 @@
+{
+ "run_ts_utc": "20260926T002246Z",
+ "markets": 500,
+ "priced": 158,
+ "scan_time_s": 47.3,
+ "brackets": [],
+ "near_misses_asks0": 0,
+ "near_misses_bestask": [
+  [
+   1.001,
+   "Will Anders Dreyer win 2026 MLS Most Valuable Play",
+   0.002,
+   0.999,
+   1069.0
+  ],
+  [
+   1.002,
+   "Will Ethereum dip to $2,000 in September?",
+   0.004,
+   0.998,
+   106711.0
+  ],
+  [
+   1.004,
+   "AD Ceuta FC vs. Real Sociedad de F\u00fatbol B: O/U 8.5",
+   0.005,
+   0.999,
+   1669.0
+  ],
+  [
+   1.004,
+   "Faroe Islands vs. Kazakhstan: O/U 7.5",
+   0.006,
+   0.998,
+   1849.0
+  ],
+  [
+   1.004,
+   "Will SpaceXAI have the best Math AI model at the end",
+   0.005,
+   0.999,
+   778.0
+  ],
+  [
+   1.005,
+   "Spread: Estonia (-3.5)",
+   0.006,
+   0.999,
+   2755.0
+  ]
+ ],
+ "bestask_floor": 1.001
+}
