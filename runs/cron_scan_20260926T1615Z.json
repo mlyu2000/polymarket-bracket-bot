@@ -1,0 +1,12 @@
+{
+  "run_utc": "2026-09-26T16:15Z",
+  "verbatim_scan": {"markets": 500, "scan_time_s": 52.2, "brackets_lt_1": 0, "near_misses_asks0_le_1005": 0, "note": "asks[0] is worst ask (DESC sort); near-miss block via asks[0] always reports 0 - known issue"},
+  "best_ask_floor": {"priced_markets": 141, "brackets_lt_1": 0, "near_misses_le_1005": 12, "floor": 1.001,
+    "top": [
+      {"total": 1.001, "yes": 0.002, "no": 0.999, "liq": 1804.4, "q": "Will Anders Dreyer win 2026 MLS Most Valuable Player?"},
+      {"total": 1.001, "yes": 0.010, "no": 0.991, "liq": 8319.9, "q": "Will Elon Musk post 360-379 tweets from September 29 to October 6, 2026?"},
+      {"total": 1.003, "yes": 0.010, "no": 0.993, "liq": 8924.9, "q": "Exact Score: Boca Juniors de Cali 3 - 3 Boyaca Patriotas?"},
+      {"total": 1.003, "yes": 0.010, "no": 0.993, "liq": 12165.6, "q": "Exact Score: CA Penarol Montevideo 2 - 3 CA Boston River?"},
+      {"total": 1.003, "yes": 0.006, "no": 0.997, "liq": 5121.3, "q": "Exact Score: Deportivo Madryn 0 - 3 CA Central Norte Salta?"}
+    ]}
+}
