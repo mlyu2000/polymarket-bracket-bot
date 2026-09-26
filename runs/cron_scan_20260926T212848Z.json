@@ -1,0 +1,52 @@
+{
+  "stamp": "20260926T212848Z",
+  "scan_time": 49.66529202461243,
+  "markets": 500,
+  "priced": 119,
+  "floor": 1.001,
+  "brackets": [],
+  "near_misses": [
+    [
+      1.001,
+      "Will Anders Dreyer win 2026 MLS Most Valuable Play",
+      0.002,
+      0.999,
+      1755.50303
+    ],
+    [
+      1.003,
+      "Will Jairo Palheta win the 2026 Amap\u00e1 gubernatoria",
+      0.004,
+      0.999,
+      12950.45102
+    ],
+    [
+      1.004,
+      "Spread: D.C. United SC (-2.5)",
+      0.008,
+      0.996,
+      15786.77944
+    ],
+    [
+      1.005,
+      "Exact Score: Denmark 1 - 2 Wales?",
+      0.04,
+      0.965,
+      90167.32779
+    ],
+    [
+      1.005,
+      "Spread: Chile (-1.5)",
+      0.055,
+      0.95,
+      79087.90204
+    ],
+    [
+      1.005,
+      "Will Khamenei post 10-14 posts from September 22 t",
+      0.006,
+      0.999,
+      1273.50892
+    ]
+  ]
+}
