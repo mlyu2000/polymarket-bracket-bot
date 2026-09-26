@@ -1,0 +1,67 @@
+{
+  "stamp": "20260926T2239Z",
+  "scan_time_verbatim": 48.7,
+  "scan_time_minask": 63.0,
+  "markets": 500,
+  "priced": 120,
+  "floor": 1.001,
+  "brackets": [],
+  "near_misses": [
+    [
+      1.001,
+      "Will Anders Dreyer win 2026 MLS Most Valuable Player?",
+      0.002,
+      0.999,
+      1186
+    ],
+    [
+      1.002,
+      "Exact Score: CA Penarol Montevideo 3 - 3 CA Boston Rive",
+      0.007,
+      0.995,
+      14
+    ],
+    [
+      1.003,
+      "Spread: D.C. United SC (-2.5)",
+      0.007,
+      0.996,
+      21071
+    ],
+    [
+      1.003,
+      "Will Jairo Palheta win the 2026 Amap\u00e1 gubernatorial ele",
+      0.004,
+      0.999,
+      12872
+    ],
+    [
+      1.004,
+      "Exact Score: CA Penarol Montevideo 1 - 3 CA Boston Rive",
+      0.025,
+      0.979,
+      14
+    ],
+    [
+      1.004,
+      "Exact Score: CA Penarol Montevideo 2 - 3 CA Boston Rive",
+      0.02,
+      0.984,
+      14
+    ],
+    [
+      1.005,
+      "Exact Score: Denmark 1 - 2 Wales?",
+      0.04,
+      0.965,
+      73719
+    ],
+    [
+      1.005,
+      "Exact Score: Orange County SC 3 - 3 Pittsburgh Riverhou",
+      0.011,
+      0.994,
+      5364
+    ]
+  ]
+}
