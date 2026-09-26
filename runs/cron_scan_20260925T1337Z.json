@@ -1,0 +1,83 @@
+{
+  "ts": "20260925T1337Z",
+  "markets": 500,
+  "brackets": [],
+  "floor": [
+    1.001,
+    "Will Anders Dreyer win 2026 MLS Most Valuable Play"
+  ],
+  "near_miss_count": 19,
+  "near_misses": [
+    [
+      1.001,
+      "Will Alanna Smith win the 2026 WNBA Defensive Play",
+      0.002,
+      0.999,
+      763.25838
+    ],
+    [
+      1.001,
+      "Will Anders Dreyer win 2026 MLS Most Valuable Play",
+      0.002,
+      0.999,
+      1812.00031
+    ],
+    [
+      1.001,
+      "Will Arizona Cardinals win the 2027 NFL NFC Champi",
+      0.005,
+      0.996,
+      71218.93097
+    ],
+    [
+      1.001,
+      "Will Brad Pitt win Best Actor at the 99th Academy ",
+      0.004,
+      0.997,
+      12058.78046
+    ],
+    [
+      1.001,
+      "Will ByteDance be the third-best AI lab at the end",
+      0.002,
+      0.999,
+      1034.39512
+    ],
+    [
+      1.001,
+      "Will GS come 2nd place in the next Latvian parliam",
+      0.002,
+      0.999,
+      8745.56667
+    ],
+    [
+      1.001,
+      "Will Saudi Aramco be the largest company in the wo",
+      0.002,
+      0.999,
+      204753.14467
+    ],
+    [
+      1.001,
+      "Will the highest temperature in Shenzhen be 27\u00b0C o",
+      0.002,
+      0.999,
+      5154.10673
+    ],
+    [
+      1.001,
+      "Will the highest temperature in Singapore be 37\u00b0C ",
+      0.002,
+      0.999,
+      5614.73978
+    ],
+    [
+      1.001,
+      "Will the price of Bitcoin be above $72,000 on Sept",
+      0.999,
+      0.002,
+      50663.08224
+    ]
+  ],
+  "scan_time": 49.715641498565674
+}

@@ -1,0 +1,547 @@
+{
+  "markets": 500,
+  "opps": [],
+  "near_misses": [],
+  "true_floor": [
+    [
+      1.001,
+      "Will Alanna Smith win the 2026 WNBA Defensive Play",
+      0.002,
+      0.999,
+      1065.12239
+    ],
+    [
+      1.001,
+      "Will Anders Dreyer win 2026 MLS Most Valuable Play",
+      0.002,
+      0.999,
+      1840.50943
+    ],
+    [
+      1.001,
+      "Will Arizona Cardinals win the 2027 NFL NFC Champi",
+      0.005,
+      0.996,
+      71402.64615
+    ],
+    [
+      1.001,
+      "Will Brad Pitt win Best Actor at the 99th Academy ",
+      0.004,
+      0.997,
+      12962.2531
+    ],
+    [
+      1.001,
+      "Will ByteDance be the third-best AI lab at the end",
+      0.002,
+      0.999,
+      671.69512
+    ],
+    [
+      1.001,
+      "Will GS come 2nd place in the next Latvian parliam",
+      0.002,
+      0.999,
+      8772.01842
+    ],
+    [
+      1.001,
+      "Will Saudi Aramco be the largest company in the wo",
+      0.002,
+      0.999,
+      205730.97683
+    ],
+    [
+      1.001,
+      "Will the highest temperature in Atlanta be 71\u00b0F or",
+      0.002,
+      0.999,
+      4042.05789
+    ],
+    [
+      1.001,
+      "Will the highest temperature in Shenzhen be 27\u00b0C o",
+      0.002,
+      0.999,
+      5046.55811
+    ],
+    [
+      1.001,
+      "Will the highest temperature in Singapore be 37\u00b0C ",
+      0.002,
+      0.999,
+      5461.65264
+    ],
+    [
+      1.001,
+      "Will the price of Bitcoin be above $72,000 on Sept",
+      0.999,
+      0.002,
+      50663.08224
+    ],
+    [
+      1.002,
+      "Will Sal Stewart have the highest batting average ",
+      0.003,
+      0.999,
+      2104.47483
+    ],
+    [
+      1.002,
+      "Will WTI Crude Oil (WTI) hit (HIGH) $135 in Septem",
+      0.004,
+      0.998,
+      34737.00461
+    ],
+    [
+      1.004,
+      "Central Arkansas vs. Florida State",
+      0.006,
+      0.998,
+      63904.05801
+    ],
+    [
+      1.004,
+      "Exact Score: Quilmes AC 3 - 3 CA Guemes?",
+      0.007,
+      0.997,
+      1658.42519
+    ],
+    [
+      1.004,
+      "Will SpaceXAI have the best Math AI model at the e",
+      0.005,
+      0.999,
+      1109.19421
+    ],
+    [
+      1.005,
+      "Exact Score: Quilmes AC 2 - 3 CA Guemes?",
+      0.009,
+      0.996,
+      1637.19094
+    ],
+    [
+      1.005,
+      "Will Andy Burnham say \"Scotland\" during the next P",
+      0.01,
+      0.995,
+      186.69979
+    ],
+    [
+      1.005,
+      "Will Ronaldo Caiado qualify for Brazil's president",
+      0.007,
+      0.998,
+      19092.02012
+    ],
+    [
+      1.005,
+      "Will \u201cTaxes\u201d by Geese win Best Alternative at the ",
+      0.006,
+      0.999,
+      966.32923
+    ],
+    [
+      1.006,
+      "Exact Score: Quilmes AC 0 - 3 CA Guemes?",
+      0.007,
+      0.999,
+      1759.78071
+    ],
+    [
+      1.006,
+      "Exact Score: Quilmes AC 1 - 3 CA Guemes?",
+      0.01,
+      0.996,
+      1640.78891
+    ],
+    [
+      1.006,
+      "Will 1win Win the ESL Pro League Season 24?",
+      0.007,
+      0.999,
+      1326.62357
+    ],
+    [
+      1.006,
+      "Will Bakir Izetbegovi\u0107 be the next Chairman of the",
+      0.009,
+      0.997,
+      11236.59522
+    ],
+    [
+      1.006,
+      "Will Symbiotic launch a token by December 31, 2026",
+      0.037,
+      0.969,
+      2763.93786
+    ],
+    [
+      1.006,
+      "Will WTI Crude Oil (WTI) hit (LOW) $80 Week of Sep",
+      0.008,
+      0.998,
+      19939.85702
+    ],
+    [
+      1.006,
+      "Will the highest temperature in Lucknow be 20\u00b0C or",
+      0.007,
+      0.999,
+      3400.66464
+    ],
+    [
+      1.007,
+      "Will Jean-Philippe Tanguy be the next President of",
+      0.009,
+      0.998,
+      10176.0459
+    ],
+    [
+      1.007,
+      "Will Trump deport 200-300k people?",
+      0.01,
+      0.997,
+      9973.07563
+    ],
+    [
+      1.007,
+      "Will the Republican Party candidate win the 2026 G",
+      0.033,
+      0.974,
+      8684.98776
+    ],
+    [
+      1.008,
+      "Australia vs. Brazil: Australia O/U 5.5",
+      0.009,
+      0.999,
+      179.33733
+    ],
+    [
+      1.008,
+      "Spread: D.C. United SC (-2.5)",
+      0.01,
+      0.998,
+      3432.28896
+    ],
+    [
+      1.008,
+      "Will Hurupay launch a token by September 30, 2026?",
+      0.02,
+      0.988,
+      4585.20038
+    ],
+    [
+      1.008,
+      "Will Israeli forces withdraw from beyond the Litan",
+      0.011,
+      0.997,
+      11382.63962
+    ],
+    [
+      1.008,
+      "Will Joe Espada win the 2026 AL Manager of the Yea",
+      0.01,
+      0.998,
+      763.41247
+    ],
+    [
+      1.009,
+      "Bermuda vs. Guadeloupe: O/U 7.5",
+      0.01,
+      0.999,
+      1927.94083
+    ],
+    [
+      1.009,
+      "El Salvador vs. Martinique: O/U 7.5",
+      0.01,
+      0.999,
+      2335.35489
+    ],
+    [
+      1.009,
+      "Exact Score: CA Penarol Montevideo 1 - 3 CA Boston",
+      0.01,
+      0.999,
+      2713.196
+    ],
+    [
+      1.009,
+      "Honduras vs. Suriname: O/U 7.5",
+      0.01,
+      0.999,
+      1858.0618
+    ],
+    [
+      1.009,
+      "Spread: CA Bucaramanga (-3.5)",
+      0.01,
+      0.999,
+      3296.11414
+    ],
+    [
+      1.009,
+      "Spread: FC Supra Du Quebec (-3.5)",
+      0.01,
+      0.999,
+      2194.54527
+    ],
+    [
+      1.009,
+      "Spread: Orlando City SC (-3.5)",
+      0.01,
+      0.999,
+      2216.72242
+    ],
+    [
+      1.009,
+      "Spread: Sporting Kansas City (-3.5)",
+      0.01,
+      0.999,
+      2196.97294
+    ],
+    [
+      1.009,
+      "Spread: Toronto FC (-3.5)",
+      0.01,
+      0.999,
+      2224.48507
+    ],
+    [
+      1.009,
+      "Will the Ethereum Volatility Index dip to 35 by Se",
+      0.011,
+      0.998,
+      108.02797
+    ],
+    [
+      1.009,
+      "Will the Republican Party candidate win the 2026 P",
+      0.01,
+      0.999,
+      8583.33951
+    ],
+    [
+      1.0090000000000001,
+      "Will Max Holloway fight Justin Gaethje next?",
+      0.107,
+      0.902,
+      6634.21009
+    ],
+    [
+      1.01,
+      "3Jane FDV above $100M one day after launch?",
+      0.57,
+      0.44,
+      638.4171
+    ],
+    [
+      1.01,
+      "Exact Score: CA Penarol Montevideo 2 - 3 CA Boston",
+      0.011,
+      0.999,
+      2076.49119
+    ],
+    [
+      1.01,
+      "Florida Atlantic vs. Louisiana-Monroe: O/U 55.5",
+      0.59,
+      0.42,
+      12858.9601
+    ],
+    [
+      1.01,
+      "Iran full airspace closure by October 31, 2026?",
+      0.11,
+      0.9,
+      6400.2924
+    ],
+    [
+      1.01,
+      "Israeli airspace closed between Oct. 15 and Oct. 3",
+      0.08,
+      0.93,
+      11939.62
+    ],
+    [
+      1.01,
+      "Jets vs. Lions: O/U 45.5",
+      0.58,
+      0.43,
+      64681.5644
+    ],
+    [
+      1.01,
+      "Nashville SC vs. Toronto FC: O/U 4.5",
+      0.24,
+      0.77,
+      15874.2126
+    ],
+    [
+      1.01,
+      "Spread: Mississippi State (-0.5)",
+      0.67,
+      0.34,
+      14276.3036
+    ],
+    [
+      1.01,
+      "Trump renames ICE to NICE by December 31?",
+      0.06,
+      0.95,
+      10361.713
+    ],
+    [
+      1.01,
+      "Ventuals FDV above $2B one day after launch?",
+      0.018,
+      0.992,
+      11351.39294
+    ],
+    [
+      1.01,
+      "Will Angers qualify for the 2027-28 UEFA Champions",
+      0.06,
+      0.95,
+      266.09846
+    ],
+    [
+      1.01,
+      "Will Dwayne 'The Rock' Johnson announce a Presiden",
+      0.16,
+      0.85,
+      9027.4199
+    ],
+    [
+      1.01,
+      "Will Ferran Torres score the most goals in the 202",
+      0.08,
+      0.93,
+      11554.5309
+    ],
+    [
+      1.01,
+      "Will Filipe Barros win the most votes in the 2026 ",
+      0.38,
+      0.63,
+      840.9873
+    ],
+    [
+      1.01,
+      "Will Lamar Jackson have 574.5+ rushing yards in th",
+      0.48,
+      0.53,
+      375.2277
+    ],
+    [
+      1.01,
+      "Will Loopscale launch a token by December 31, 2026",
+      0.13,
+      0.88,
+      943.5025
+    ],
+    [
+      1.01,
+      "Will Mike Evans have 10.5+ receiving touchdowns in",
+      0.21,
+      0.8,
+      1106.819
+    ],
+    [
+      1.01,
+      "Will Payward announce bankruptcy by December 31, 2",
+      0.15,
+      0.86,
+      113677.9722
+    ],
+    [
+      1.01,
+      "Will Perplexity's valuation hit (LOW) $12.5B by De",
+      0.05,
+      0.96,
+      796.7429
+    ],
+    [
+      1.01,
+      "Will Russia enter Moskovka by September 30?",
+      0.06,
+      0.95,
+      2005.0633
+    ],
+    [
+      1.01,
+      "Will Stephen A. Smith announce a Presidential run ",
+      0.18,
+      0.83,
+      8342.7896
+    ],
+    [
+      1.01,
+      "Will Stockport County FC vs. Peterborough United F",
+      0.18,
+      0.83,
+      15220.1325
+    ],
+    [
+      1.01,
+      "Will Trump's approval rating be between 37.5 and 3",
+      0.42,
+      0.59,
+      279.6726
+    ],
+    [
+      1.01,
+      "Will a hurricane make landfall in Alabama by Novem",
+      0.06,
+      0.95,
+      532.8141
+    ],
+    [
+      1.01,
+      "Will any player have 1,750+ receiving yards in the",
+      0.37,
+      0.64,
+      3396.6358
+    ],
+    [
+      1.01,
+      "Will the 30-year Treasury yield hit 5.70% before 2",
+      0.44,
+      0.57,
+      1229.8472
+    ],
+    [
+      1.01,
+      "Will the Baltimore Ravens make the 2027 NFL Playof",
+      0.76,
+      0.25,
+      12185.0481
+    ],
+    [
+      1.01,
+      "Will the Democratic Party win the MN-08 House seat",
+      0.14,
+      0.87,
+      16472.5911
+    ],
+    [
+      1.01,
+      "Will the Ornn A100 Index be between $0.75 and $1.0",
+      0.42,
+      0.59,
+      1132.4786
+    ],
+    [
+      1.01,
+      "Will total votes cast in the 2026 midterm election",
+      0.35,
+      0.66,
+      255.4263
+    ]
+  ],
+  "scan_time": 57.67763829231262
+}

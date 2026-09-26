@@ -1,0 +1,86 @@
+{
+ "ts": "20260925T2219Z",
+ "markets": 500,
+ "priced": 268,
+ "scan_time_s": 46.9,
+ "brackets": [],
+ "near_misses_asks0": 0,
+ "near_misses_bestask": [
+  [
+   1.001,
+   "Celta Fortuna vs. CE Sabadell FC: O/U 8.5",
+   0.003,
+   0.998,
+   1917.52618
+  ],
+  [
+   1.001,
+   "Will Anders Dreyer win 2026 MLS Most Valuable Play",
+   0.002,
+   0.999,
+   1229.61416
+  ],
+  [
+   1.001,
+   "Will ByteDance be the third-best AI lab at the end",
+   0.002,
+   0.999,
+   1164.04017
+  ],
+  [
+   1.002,
+   "Will Ethereum dip to $2,000 in September?",
+   0.004,
+   0.998,
+   107217.2263
+  ],
+  [
+   1.004,
+   "AD Ceuta FC vs. Real Sociedad de F\u00fatbol B: O/U 8.5",
+   0.005,
+   0.999,
+   2545.73016
+  ],
+  [
+   1.004,
+   "Exact Score: Quilmes AC 2 - 3 CA Guemes?",
+   0.009,
+   0.995,
+   3708.14673
+  ],
+  [
+   1.004,
+   "Faroe Islands vs. Kazakhstan: O/U 7.5",
+   0.006,
+   0.998,
+   1851.33526
+  ],
+  [
+   1.004,
+   "Will SpaceXAI have the best Math AI model at the e",
+   0.005,
+   0.999,
+   910.97821
+  ],
+  [
+   1.005,
+   "Spread: Estonia (-3.5)",
+   0.006,
+   0.999,
+   1882.30807
+  ],
+  [
+   1.005,
+   "Will Symbiotic launch a token by December 31, 2026",
+   0.036,
+   0.969,
+   2746.66917
+  ]
+ ],
+ "best_floor": [
+  1.001,
+  "Will Anders Dreyer win 2026 MLS Most Valuable Play",
+  1.001
+ ],
+ "note": "asks[0] is worst ask (DESC sort) -> provided near-miss block under-reports; best-ask supplement authoritative"
+}

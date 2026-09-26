@@ -1,0 +1,18 @@
+{
+ "run_ts_utc": "20260926T_now",
+ "script": "_cron_scan_20260926T_now_verbatim.py (user-provided verbatim) + _cron_floor_20260926T0030Z_supp2.py (true best-ask supplement)",
+ "markets": 500,
+ "priced": 135,
+ "scan_time_s": 53.7,
+ "brackets": [],
+ "near_misses_asks0": 0,
+ "near_misses_bestask": [
+  [1.001, "Will Anders Dreyer win 2026 MLS Most Valuable Player?", 0.002, 0.999, 1370],
+  [1.001, "Will Ethereum dip to $2,000 in September?", 0.004, 0.997, 107285],
+  [1.004, "Faroe Islands vs. Kazakhstan: O/U 7.5", 0.006, 0.998, 1868],
+  [1.005, "Spread: Estonia (-3.5)", 0.006, 0.999, 2751]
+ ],
+ "floor_bestask": 1.001,
+ "errors": "none (stderr log empty)",
+ "notes": "asks[0] near-miss block reports 0 due to DESC-sorted asks; detector.py min()-based detection + separate floor scan used for ground truth."
+}

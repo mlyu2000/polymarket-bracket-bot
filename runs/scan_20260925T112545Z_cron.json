@@ -1,0 +1,161 @@
+{
+  "markets": 500,
+  "opps": [],
+  "near_misses": [
+    [
+      1.001,
+      "Will Alanna Smith win the 2026 WNBA Defensive Play",
+      0.002,
+      0.999,
+      769.84038
+    ],
+    [
+      1.001,
+      "Will Anders Dreyer win 2026 MLS Most Valuable Play",
+      0.002,
+      0.999,
+      1798.61597
+    ],
+    [
+      1.001,
+      "Will Arizona Cardinals win the 2027 NFL NFC Champi",
+      0.005,
+      0.996,
+      71465.48566
+    ],
+    [
+      1.001,
+      "Will Brad Pitt win Best Actor at the 99th Academy ",
+      0.004,
+      0.997,
+      12744.4391
+    ],
+    [
+      1.001,
+      "Will ByteDance be the third-best AI lab at the end",
+      0.002,
+      0.999,
+      729.96114
+    ],
+    [
+      1.001,
+      "Will Ferencvaros win the 2026-27 UEFA Europa Leagu",
+      0.002,
+      0.999,
+      3259.16454
+    ],
+    [
+      1.001,
+      "Will GS come 2nd place in the next Latvian parliam",
+      0.002,
+      0.999,
+      8800.97407
+    ],
+    [
+      1.001,
+      "Will Golden State Warriors win the 2027 NBA Finals",
+      0.011,
+      0.99,
+      251239.01627
+    ],
+    [
+      1.001,
+      "Will Saudi Aramco be the largest company in the wo",
+      0.002,
+      0.999,
+      205284.50567
+    ],
+    [
+      1.001,
+      "Will the highest temperature in Atlanta be 71\u00b0F or",
+      0.002,
+      0.999,
+      4156.71509
+    ],
+    [
+      1.001,
+      "Will the highest temperature in Shenzhen be 27\u00b0C o",
+      0.002,
+      0.999,
+      4842.5715
+    ],
+    [
+      1.001,
+      "Will the price of Bitcoin be above $72,000 on Sept",
+      0.999,
+      0.002,
+      50745.3846
+    ],
+    [
+      1.002,
+      "Will Sal Stewart have the highest batting average ",
+      0.003,
+      0.999,
+      2051.84686
+    ],
+    [
+      1.003,
+      "Will Hsu Chih-fu win the next Penghu County Magist",
+      0.004,
+      0.999,
+      9112.02341
+    ],
+    [
+      1.004,
+      "Central Arkansas vs. Florida State",
+      0.006,
+      0.998,
+      61422.27998
+    ],
+    [
+      1.004,
+      "Exact Score: Quilmes AC 3 - 3 CA Guemes?",
+      0.007,
+      0.997,
+      1558.03338
+    ],
+    [
+      1.004,
+      "Will Solana hit $60 or $140 first?",
+      0.27,
+      0.734,
+      3123.30121
+    ],
+    [
+      1.004,
+      "Will SpaceXAI have the best Math AI model at the e",
+      0.005,
+      0.999,
+      1109.92034
+    ],
+    [
+      1.005,
+      "Exact Score: Quilmes AC 2 - 3 CA Guemes?",
+      0.009,
+      0.996,
+      1632.13919
+    ],
+    [
+      1.005,
+      "Will Andy Burnham say \"Scotland\" during the next P",
+      0.01,
+      0.995,
+      146.75385
+    ],
+    [
+      1.005,
+      "Will Ronaldo Caiado qualify for Brazil's president",
+      0.007,
+      0.998,
+      10519.62775
+    ],
+    [
+      1.005,
+      "Will \u201cTaxes\u201d by Geese win Best Alternative at the ",
+      0.006,
+      0.999,
+      1348.31102
+    ]
+  ],
+  "scan_time": 47.89688205718994
+}
