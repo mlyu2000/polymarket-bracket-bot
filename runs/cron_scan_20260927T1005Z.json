@@ -1,0 +1,16 @@
+{
+  "scan_utc": "2026-09-27T10:06:55Z",
+  "verbatim": {"markets": 500, "brackets": 0, "near_misses_asks0": 0, "time_s": 44.3},
+  "supplement_min_ask": {
+    "markets": 500, "priced": 94, "true_brackets": 0, "near_misses_le_1005": 6,
+    "floor": 1.0010,
+    "top": [
+      {"sum": 1.0010, "yes": 0.002, "no": 0.999, "liq": 1206, "q": "Anders Dreyer 2026 MLS MVP"},
+      {"sum": 1.0010, "yes": 0.031, "no": 0.970, "liq": 10644, "q": "5-year Treasury yield dips below 4.10%"},
+      {"sum": 1.0030, "yes": 0.004, "no": 0.999, "liq": 8752, "q": "Jairo Palheta 2026 Amapa gubernatorial"},
+      {"sum": 1.0040, "yes": 0.009, "no": 0.995, "liq": 35997, "q": "Lithuania vs Azerbaijan O/U 6.5"},
+      {"sum": 1.0040, "yes": 0.005, "no": 0.999, "liq": 15360, "q": "RCD Mallorca vs UD Almeria O/U 8.5"},
+      {"sum": 1.0040, "yes": 0.005, "no": 0.999, "liq": 4314, "q": "Spread: Racing Club Avellaneda -3.5"}
+    ]
+  }
+}
