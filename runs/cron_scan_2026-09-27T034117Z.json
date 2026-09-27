@@ -1,0 +1,82 @@
+{
+  "run_utc": "2026-09-27T034117Z",
+  "verbatim_prompt_run": {
+    "markets": 500,
+    "scan_time_s": 47.5,
+    "brackets": 0,
+    "near_miss_asks0": 0,
+    "note": "asks[0] is worst ask (DESC-sorted) \u2014 near-miss block under reports, known issue"
+  },
+  "best_ask_supplement": {
+    "markets": 500,
+    "priced": 107,
+    "brackets": 0,
+    "floor_sum": 1.001,
+    "near_miss_le_1005": [
+      {
+        "sum": 1.001,
+        "yes": 0.002,
+        "no": 0.999,
+        "liq": 1895.79,
+        "q": "Will Anders Dreyer win 2026 MLS Most Valuable Player"
+      },
+      {
+        "sum": 1.001,
+        "yes": 0.016,
+        "no": 0.985,
+        "liq": 24695.97,
+        "q": "Will Dallas Wings win the 2026 WNBA Finals?"
+      },
+      {
+        "sum": 1.002,
+        "yes": 0.005,
+        "no": 0.997,
+        "liq": 2429.64,
+        "q": "Vancouver Whitecaps vs DC United: D.C. United O/U"
+      },
+      {
+        "sum": 1.003,
+        "yes": 0.004,
+        "no": 0.999,
+        "liq": 5057.46,
+        "q": "RCD Mallorca vs UD Almeria: O/U 8.5"
+      },
+      {
+        "sum": 1.003,
+        "yes": 0.018,
+        "no": 0.985,
+        "liq": 24206.83,
+        "q": "Tigres UANL vs Club Puebla: O/U 5.5"
+      },
+      {
+        "sum": 1.003,
+        "yes": 0.004,
+        "no": 0.999,
+        "liq": 808.29,
+        "q": "Will Jairo Palheta win 2026 Amapa gubernatorial"
+      },
+      {
+        "sum": 1.004,
+        "yes": 0.006,
+        "no": 0.998,
+        "liq": 2319.26,
+        "q": "Exact Score: Club Almagro 3-3 Nueva Chicago"
+      },
+      {
+        "sum": 1.005,
+        "yes": 0.04,
+        "no": 0.965,
+        "liq": 90393.94,
+        "q": "Exact Score: Denmark 1-2 Wales"
+      },
+      {
+        "sum": 1.005,
+        "yes": 0.006,
+        "no": 0.999,
+        "liq": 1126.92,
+        "q": "Will Khamenei post 10-14 posts Sep 22+"
+      }
+    ]
+  },
+  "verdict": "FAIL (no bracket below 1.00; floor 1.001 matches 2026-09-21 baseline)"
+}
