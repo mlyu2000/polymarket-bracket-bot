@@ -1,0 +1,148 @@
+{
+  "ts": "20260927T042302Z",
+  "markets": 500,
+  "opps": [],
+  "near_misses_verbatim": [],
+  "minask_floor": [
+    [
+      1.001,
+      "Will Anders Dreyer win 2026 MLS Most Valuable Player?",
+      0.002,
+      0.999,
+      2069.25232
+    ],
+    [
+      1.001,
+      "Will Dallas Wings win the 2026 WNBA Finals?",
+      0.016,
+      0.985,
+      21987.87016
+    ],
+    [
+      1.003,
+      "RCD Mallorca vs. UD Almer\u00eda: O/U 8.5",
+      0.004,
+      0.999,
+      3432.76941
+    ],
+    [
+      1.003,
+      "Will Jairo Palheta win the 2026 Amap\u00e1 gubernatorial ele",
+      0.004,
+      0.999,
+      620.57534
+    ],
+    [
+      1.004,
+      "Will MIO: Memories in Orbit win Best Independent Game a",
+      0.005,
+      0.999,
+      369.24409
+    ],
+    [
+      1.005,
+      "Exact Score: Denmark 1 - 2 Wales?",
+      0.04,
+      0.965,
+      56951.09287
+    ],
+    [
+      1.005,
+      "Will Khamenei post 10-14 posts from September 22 to Sep",
+      0.006,
+      0.999,
+      1143.85099
+    ],
+    [
+      1.007,
+      "Exact Score: CA Ferrocarril Midland 3 - 3 CSD Tristan S",
+      0.009,
+      0.998,
+      3553.91245
+    ],
+    [
+      1.007,
+      "Lithuania vs. Azerbaijan: O/U 6.5",
+      0.012,
+      0.995,
+      3076.64171
+    ],
+    [
+      1.007,
+      "Will Elon Musk post 380-399 tweets from September 29 to",
+      0.009,
+      0.998,
+      7449.23699
+    ],
+    [
+      1.007,
+      "Will the Republican Party candidate win the 2026 GA-09 ",
+      0.033,
+      0.974,
+      536.97449
+    ],
+    [
+      1.008,
+      "Exact Score: Club Almagro 3 - 3 Nueva Chicago?",
+      0.01,
+      0.998,
+      3259.17389
+    ],
+    [
+      1.009,
+      "Will Andy Burnham say \"Scotland\" during the next PMQ?",
+      0.01,
+      0.999,
+      137.91597
+    ],
+    [
+      1.009,
+      "Will Israeli forces withdraw from beyond the Litani Riv",
+      0.011,
+      0.998,
+      3340.63768
+    ],
+    [
+      1.009,
+      "Will Joe Espada win the 2026 AL Manager of the Year?",
+      0.01,
+      0.999,
+      438.90975
+    ],
+    [
+      1.01,
+      "Counter-Strike: Bounty Hunters Esports vs Galorys (BO3)",
+      0.44,
+      0.57,
+      3893.5126
+    ],
+    [
+      1.01,
+      "Exact Score: CA Patronato Parana 3 - 3 San Martin de Sa",
+      0.012,
+      0.998,
+      3157.36246
+    ],
+    [
+      1.01,
+      "Exact Score: CD Maipu 3 - 3 CA Temperley?",
+      0.012,
+      0.998,
+      3017.39192
+    ],
+    [
+      1.01,
+      "Exact Score: Gimnasia Y Tiro de Salta 3 - 3 Atletico de",
+      0.011,
+      0.999,
+      3128.03832
+    ],
+    [
+      1.01,
+      "Exact Score: Mitre Santiago del Estero 3 - 3 CA San Tel",
+      0.012,
+      0.998,
+      2041.63369
+    ]
+  ]
+}

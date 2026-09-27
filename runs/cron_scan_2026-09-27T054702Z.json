@@ -1,0 +1,72 @@
+{
+  "ts": "2026-09-27T054702Z",
+  "markets": 500,
+  "priced": 129,
+  "best_ask_floor": 1.001,
+  "brackets": [],
+  "near_misses_le_1p005": [
+    {
+      "sum": 1.001,
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 1384.60663,
+      "q": "Will Anders Dreyer win 2026 MLS Most Valuable Player?"
+    },
+    {
+      "sum": 1.001,
+      "yes": 0.016,
+      "no": 0.985,
+      "liq": 21311.80608,
+      "q": "Will Dallas Wings win the 2026 WNBA Finals?"
+    },
+    {
+      "sum": 1.003,
+      "yes": 0.004,
+      "no": 0.999,
+      "liq": 571.9539,
+      "q": "Will Jairo Palheta win the 2026 Amap\u00e1 gubernatorial election?"
+    },
+    {
+      "sum": 1.003,
+      "yes": 0.004,
+      "no": 0.999,
+      "liq": 5266.99021,
+      "q": "RCD Mallorca vs. UD Almer\u00eda: O/U 8.5"
+    },
+    {
+      "sum": 1.003,
+      "yes": 0.034,
+      "no": 0.969,
+      "liq": 3031.83422,
+      "q": "Will Symbiotic launch a token by December 31, 2026?"
+    },
+    {
+      "sum": 1.004,
+      "yes": 0.005,
+      "no": 0.999,
+      "liq": 569.02704,
+      "q": "Will MIO: Memories in Orbit win Best Independent Game at the 2026 Game Awards?"
+    },
+    {
+      "sum": 1.005,
+      "yes": 0.04,
+      "no": 0.965,
+      "liq": 63417.83785,
+      "q": "Exact Score: Denmark 1 - 2 Wales?"
+    },
+    {
+      "sum": 1.005,
+      "yes": 0.006,
+      "no": 0.999,
+      "liq": 910.87302,
+      "q": "Will Khamenei post 10-14 posts from September 22 to September 29, 2026?"
+    },
+    {
+      "sum": 1.005,
+      "yes": 0.01,
+      "no": 0.995,
+      "liq": 7102.38007,
+      "q": "Lithuania vs. Azerbaijan: O/U 6.5"
+    }
+  ]
+}

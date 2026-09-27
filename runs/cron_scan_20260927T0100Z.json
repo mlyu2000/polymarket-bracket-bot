@@ -1,0 +1,58 @@
+{
+  "run_utc": "2026-09-27T01:00Z",
+  "markets": 500,
+  "priced": 78,
+  "scan_time": 55.50741386413574,
+  "opps": [],
+  "near_misses_best_ask": [
+    [
+      1.001,
+      "Will Anders Dreyer win 2026 MLS Most Valuable Play",
+      0.002,
+      0.999,
+      1858.77286
+    ],
+    [
+      1.003,
+      "Spread: D.C. United SC (-2.5)",
+      0.007,
+      0.996,
+      19731.73777
+    ],
+    [
+      1.003,
+      "Will Jairo Palheta win the 2026 Amap\u00e1 gubernatoria",
+      0.004,
+      0.999,
+      13126.34968
+    ],
+    [
+      1.004,
+      "Exact Score: Club Almagro 3 - 3 Nueva Chicago?",
+      0.006,
+      0.998,
+      2317.24113
+    ],
+    [
+      1.005,
+      "Exact Score: Denmark 1 - 2 Wales?",
+      0.04,
+      0.965,
+      70405.26871
+    ],
+    [
+      1.005,
+      "Exact Score: Orange County SC 3 - 3 Pittsburgh Riv",
+      0.011,
+      0.994,
+      4666.40234
+    ]
+  ],
+  "best_floor": [
+    1.001,
+    "Will Anders Dreyer win 2026 MLS Most Valuable Play",
+    0.002,
+    0.999,
+    1858.77286
+  ]
+}
