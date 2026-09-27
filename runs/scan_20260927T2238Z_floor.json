@@ -1,0 +1,14 @@
+{
+ "ts": "2026-09-27T2238Z",
+ "priced": 66,
+ "floor": 1.001,
+ "near_misses_le_1.005": [
+  [1.001, "Will Anders Dreyer win 2026 MLS Most Valuable Player?", 0.002, 0.999, 718.75415],
+  [1.002, "Will China's annual inflation in 2026 be between 0.1% and 0.", 0.136, 0.866, 540.47798],
+  [1.002, "Will the 5-year Treasury yield dip below 4.10% before 2027?", 0.033, 0.969, 9652.86477],
+  [1.003, "Will Jairo Palheta win the 2026 Amapa gubernatorial election", 0.004, 0.999, 8705.79284]
+ ],
+ "brackets_lt_1.00": [],
+ "verbatim_asks0_near_misses": 0,
+ "note": "verbatim asks[0] near-miss block under-reports (asks DESC-sorted); detector min() used for truth"
+}
