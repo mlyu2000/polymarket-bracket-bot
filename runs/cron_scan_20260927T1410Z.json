@@ -1,0 +1,15 @@
+{
+  "ts": "2026-09-27T14:10:00Z",
+  "markets": 500,
+  "priced": 83,
+  "brackets": 0,
+  "near_misses": [
+    {"sum": 1.001, "yes": 0.002, "no": 0.999, "liq": 755,   "q": "Will Anders Dreyer win 2026 MLS Most Valuable Player?"},
+    {"sum": 1.002, "yes": 0.026, "no": 0.976, "liq": 9638,  "q": "Will the 5-year Treasury yield dip below 4.10% before..."},
+    {"sum": 1.003, "yes": 0.004, "no": 0.999, "liq": 8690,  "q": "Will Jairo Palheta win the 2026 Amapa gubernatoria..."},
+    {"sum": 1.004, "yes": 0.005, "no": 0.999, "liq": 7519,  "q": "Exact Score: Gimnasia Y Tiro de Salta 3 - 3 Atletico..."},
+    {"sum": 1.005, "yes": 0.007, "no": 0.998, "liq": 4893,  "q": "Exact Score: CD Maipu 3 - 3 CA Temperley?"}
+  ],
+  "floor": 1.001,
+  "scan_time_s": {"verbatim": 47.3, "bestask": 49.1}
+}
