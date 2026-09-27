@@ -1,0 +1,46 @@
+{
+ "stamp": "20260927T0014Z",
+ "markets": 500,
+ "priced": 97,
+ "floor": 1.001,
+ "brackets": [],
+ "near_misses": [
+  [
+   1.001,
+   "Will Anders Dreyer win 2026 MLS Most Valuable Play",
+   0.002,
+   0.999,
+   1931.0228
+  ],
+  [
+   1.003,
+   "Will Jairo Palheta win the 2026 Amap\u00e1 gubernatoria",
+   0.004,
+   0.999,
+   13075.00368
+  ],
+  [
+   1.005,
+   "Exact Score: Denmark 1 - 2 Wales?",
+   0.04,
+   0.965,
+   68400.16176
+  ],
+  [
+   1.005,
+   "Exact Score: Orange County SC 3 - 3 Pittsburgh Riv",
+   0.011,
+   0.994,
+   5684.81772
+  ],
+  [
+   1.005,
+   "Will Khamenei post 10-14 posts from September 22 t",
+   0.006,
+   0.999,
+   1474.04446
+  ]
+ ],
+ "verbatim_near_misses_asks0": 0,
+ "note": "verbatim asks[0] near-miss=0 (DESC-sorted worst ask, known artifact); min-ask supplement authoritative"
+}
