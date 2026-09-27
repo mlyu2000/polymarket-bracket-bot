@@ -1,0 +1,22 @@
+{
+  "markets": 500,
+  "priced": 85,
+  "opps": [],
+  "near_misses": [],
+  "minask_rows": [
+    [1.001, "Will Anders Dreyer win 2026 MLS Most Valuable Play", 0.002, 0.999, 525.18],
+    [1.003, "Will Jairo Palheta win the 2026 Amapa gubernatoria", 0.004, 0.999, 8686.0],
+    [1.003, "Will China's annual inflation in 2026 be between 0", 0.137, 0.866, 611.0],
+    [1.004, "Exact Score: Gimnasia Y Tiro de Salta 3 - 3 Atleti", 0.005, 0.999, 34944.0],
+    [1.005, "Exact Score: CD Maipu 3 - 3 CA Temperley?", 0.007, 0.998, 5093.0],
+    [1.005, "Exact Score: Racing Club Avellaneda 3 - 3 Boca Jun", 0.006, 0.999, 5858.0]
+  ],
+  "paper_stats": {
+    "attempts": 0,
+    "both_filled": 0,
+    "one_leg": 0,
+    "unwind": 0,
+    "total_pnl": 0.0
+  },
+  "scan_time": 48.8
+}

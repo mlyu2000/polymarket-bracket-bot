@@ -1,0 +1,50 @@
+{
+ "ts": "2026-09-27T1700Z",
+ "priced": 85,
+ "floor": 1.001,
+ "near_misses_le_1.005": [
+  [
+   1.001,
+   "Will Anders Dreyer win 2026 MLS Most Valuable Play",
+   0.002,
+   0.999,
+   525.1806
+  ],
+  [
+   1.003,
+   "Will Jairo Palheta win the 2026 Amap\u00e1 gubernatoria",
+   0.004,
+   0.999,
+   8686.2158
+  ],
+  [
+   1.0030000000000001,
+   "Will China's annual inflation in 2026 be between 0",
+   0.137,
+   0.866,
+   610.83985
+  ],
+  [
+   1.004,
+   "Exact Score: Gimnasia Y Tiro de Salta 3 - 3 Atleti",
+   0.005,
+   0.999,
+   34943.66836
+  ],
+  [
+   1.005,
+   "Exact Score: CD Maipu 3 - 3 CA Temperley?",
+   0.007,
+   0.998,
+   5093.07077
+  ],
+  [
+   1.005,
+   "Exact Score: Racing Club Avellaneda 3 - 3 Boca Jun",
+   0.006,
+   0.999,
+   5857.76407
+  ]
+ ],
+ "brackets_lt_1.00": []
+}
