@@ -1,0 +1,20 @@
+{
+  "run": "2026-09-27T1254Z",
+  "markets_fetched": 500,
+  "priced_markets": 67,
+  "scan_seconds": 48.7,
+  "brackets_detected": 0,
+  "paper_trades_executed": 0,
+  "near_miss_asks0": 0,
+  "near_miss_minask_le_1005": 6,
+  "best_ask_floor": 1.001,
+  "method_note": "Verbatim cron script near-miss block uses asks[0] (asks are DESC-sorted in CLOB payload, so reports 0); detector.py correctly uses min(). Supplement _cron_supp_minask_20260927T1254Z.py recomputes near-misses from true best asks.",
+  "cheapest_true_sums": [
+    {"sum": 1.001, "yes": 0.002, "no": 0.999, "liq": 1361.0, "q": "Will Anders Dreyer win 2026 MLS Most Valuable Player?"},
+    {"sum": 1.001, "yes": 0.026, "no": 0.975, "liq": 10952.9, "q": "Will the 5-year Treasury yield dip below 4.10% before 2..."},
+    {"sum": 1.002, "yes": 0.006, "no": 0.996, "liq": 50106.4, "q": "Lithuania vs. Azerbaijan: O/U 6.5"},
+    {"sum": 1.003, "yes": 0.004, "no": 0.999, "liq": 16465.5, "q": "RCD Mallorca vs. UD Almer\u00eda: O/U 8.5"},
+    {"sum": 1.003, "yes": 0.004, "no": 0.999, "liq": 8836.1, "q": "Will Jairo Palheta win the 2026 Amap\u00e1 gubernatorial ele..."}
+  ],
+  "count_le_101": 12
+}
