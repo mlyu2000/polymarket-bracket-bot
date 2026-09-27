@@ -1,0 +1,146 @@
+{
+  "rows_top": [
+    {
+      "sum": 1.001,
+      "q": "Will Anders Dreyer win 2026 MLS Most Valuable Player?",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 789.84693
+    },
+    {
+      "sum": 1.003,
+      "q": "Will Jairo Palheta win the 2026 Amap\u00e1 gubernatorial election",
+      "yes": 0.004,
+      "no": 0.999,
+      "liq": 8634.05578
+    },
+    {
+      "sum": 1.004,
+      "q": "Will China's annual inflation in 2026 be between 0.1% and 0.",
+      "yes": 0.137,
+      "no": 0.867,
+      "liq": 614.4223
+    },
+    {
+      "sum": 1.004,
+      "q": "Exact Score: Gimnasia Y Tiro de Salta 3 - 3 Atletico de Rafa",
+      "yes": 0.005,
+      "no": 0.999,
+      "liq": 8429.70605
+    },
+    {
+      "sum": 1.005,
+      "q": "Exact Score: CD Maipu 3 - 3 CA Temperley?",
+      "yes": 0.007,
+      "no": 0.998,
+      "liq": 5114.19481
+    },
+    {
+      "sum": 1.005,
+      "q": "Exact Score: Racing Club Avellaneda 3 - 3 Boca Juniors?",
+      "yes": 0.006,
+      "no": 0.999,
+      "liq": 5812.11856
+    },
+    {
+      "sum": 1.005,
+      "q": "Exact Score: Racing Club Avellaneda 3 - 3 Boca Juniors?",
+      "yes": 0.006,
+      "no": 0.999,
+      "liq": 5812.11847
+    },
+    {
+      "sum": 1.006,
+      "q": "Exact Score: Mitre Santiago del Estero 3 - 3 CA San Telmo?",
+      "yes": 0.007,
+      "no": 0.999,
+      "liq": 3940.36753
+    },
+    {
+      "sum": 1.006,
+      "q": "Exact Score: Envigado FC 0 - 3 Atletico FC Cali?",
+      "yes": 0.007,
+      "no": 0.999,
+      "liq": 5656.62461
+    },
+    {
+      "sum": 1.007,
+      "q": "Exact Score: Mitre Santiago del Estero 2 - 3 CA San Telmo?",
+      "yes": 0.009,
+      "no": 0.998,
+      "liq": 4825.09262
+    },
+    {
+      "sum": 1.007,
+      "q": "Exact Score: Gimnasia Y Tiro de Salta 2 - 3 Atletico de Rafa",
+      "yes": 0.01,
+      "no": 0.997,
+      "liq": 8454.57645
+    },
+    {
+      "sum": 1.008,
+      "q": "Exact Score: Club Almagro 3 - 3 Nueva Chicago?",
+      "yes": 0.009,
+      "no": 0.999,
+      "liq": 5093.78335
+    },
+    {
+      "sum": 1.008,
+      "q": "Exact Score: Mitre Santiago del Estero 0 - 3 CA San Telmo?",
+      "yes": 0.01,
+      "no": 0.998,
+      "liq": 4202.8787
+    },
+    {
+      "sum": 1.008,
+      "q": "Exact Score: CA Ferrocarril Midland 3 - 3 CSD Tristan Suarez",
+      "yes": 0.009,
+      "no": 0.999,
+      "liq": 4776.45763
+    },
+    {
+      "sum": 1.008,
+      "q": "Exact Score: Gimnasia Y Tiro de Salta 0 - 3 Atletico de Rafa",
+      "yes": 0.01,
+      "no": 0.998,
+      "liq": 33948.85493
+    },
+    {
+      "sum": 1.009,
+      "q": "Will Khamenei post 40-44 posts from September 29 to October ",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 1765.71005
+    },
+    {
+      "sum": 1.009,
+      "q": "Spread: Racing Club Avellaneda (-3.5)",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 5120.00551
+    },
+    {
+      "sum": 1.01,
+      "q": "Map Handicap: TL (-1.5) vs Wildcard (+1.5)",
+      "yes": 0.42,
+      "no": 0.59,
+      "liq": 27369.3982
+    },
+    {
+      "sum": 1.01,
+      "q": "Defensor Sporting vs. Danubio FC: Danubio FC O/U 1.5",
+      "yes": 0.29,
+      "no": 0.72,
+      "liq": 1848.4938
+    },
+    {
+      "sum": 1.01,
+      "q": "Exact Score: CA Patronato Parana 3 - 3 San Martin de San Jua",
+      "yes": 0.011,
+      "no": 0.999,
+      "liq": 5129.6083
+    }
+  ],
+  "priced": 92,
+  "floor": 1.001
+}

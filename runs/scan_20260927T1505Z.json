@@ -1,0 +1,16 @@
+{
+  "markets": 500,
+  "priced": 92,
+  "opps": [],
+  "near_misses": [],
+  "minask_rows": [],
+  "paper_stats": {
+    "attempts": 0,
+    "both_filled": 0,
+    "one_leg": 0,
+    "neither": 0,
+    "unwind": 0,
+    "total_pnl": 0.0
+  },
+  "scan_time": 46.414605379104614
+}
