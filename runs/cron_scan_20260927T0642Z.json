@@ -1,0 +1,15 @@
+{
+  "scan_utc": "2026-09-27T06:42:45Z",
+  "verbatim": {"markets": 500, "brackets": 0, "near_misses_asks0": 0, "time_s": 47.4},
+  "supplement_min_ask": {
+    "markets": 500, "priced": 144, "true_brackets": 0, "near_misses_le_1005": 10,
+    "floor": 1.0010,
+    "top": [
+      {"sum": 1.0010, "yes": 0.002, "no": 0.999, "liq": 623, "q": "Anders Dreyer 2026 MLS MVP"},
+      {"sum": 1.0010, "yes": 0.016, "no": 0.985, "liq": 20380, "q": "Dallas Wings win 2026 WNBA Finals"},
+      {"sum": 1.0010, "yes": 0.035, "no": 0.966, "liq": 201115, "q": "New England Patriots win 2027 NFL league championship"},
+      {"sum": 1.0030, "yes": 0.004, "no": 0.999, "liq": 5842, "q": "RCD Mallorca vs UD Almeria O/U 8.5"},
+      {"sum": 1.0030, "yes": 0.034, "no": 0.969, "liq": 2954, "q": "Symbiotic launch token by 2026-12-31"}
+    ]
+  }
+}
