@@ -1,5 +1,5 @@
---- 2026-09-28T11:52Z | _cron_20260928T115123Z (verbatim + supp_minask) ---
-500 markets in 47.8s (verbatim) / 44.1s (supp); 84 priced; brackets=0; floor=1.001; near-misses(min-ask,<=1.005)=3
-  1.0010 Yes@0.033 No@0.968 | 5Y Treasury yield dip below 4.10% before 2027 | liq=9814
-  1.0020 Yes@0.136 No@0.866 | China 2026 inflation 0.1-0.x | liq=554
-  1.0030 Yes@0.006 No@0.997 | Georgia vs. Ukraine O/U 7.5 | liq=49823
+--- 2026-09-28T12:06Z | _cron_20260928T1206Z (verbatim + supp_minask) ---
+500 markets in 48.4s (verbatim) / 46.1s (supp); 84 priced; brackets=0; floor=1.001; near-misses(min-ask,<=1.005)=3
+  1.0010 Yes@0.033 No@0.968 | 5Y Treasury yield dip below 4.10% before 2027 | liq=9830
+  1.0020 Yes@0.136 No@0.866 | China 2026 inflation 0.1-0.x | liq=546
+  1.0030 Yes@0.006 No@0.997 | Georgia vs. Ukraine O/U 7.5 | liq=49848
