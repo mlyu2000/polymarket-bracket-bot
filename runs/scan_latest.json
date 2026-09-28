@@ -1,13 +1,27 @@
 {
-  "scan_utc": "2026-09-28T19:05Z",
+  "scan_utc": "2026-09-28T19:40Z",
   "markets_fetched": 500,
-  "scan_seconds": 45.0,
+  "scan_seconds": 45.4,
   "brackets_found": 0,
   "floor_best_ask": 1.001,
-  "near_misses_le_1.005": 1,
+  "near_misses_le_1.005": 2,
   "near_misses": [
-    {"sum": 1.001, "yes": 0.033, "no": 0.968, "liquidity": 14369.73, "market": "Will the 5-year Treasury yield dip below 4.10% before 2027?"}
+    {
+      "sum": 1.001,
+      "yes": 0.033,
+      "no": 0.968,
+      "liquidity": 14071.67332,
+      "market": "Will the 5-year Treasury yield dip below 4.10% bef"
+    },
+    {
+      "sum": 1.001,
+      "yes": 0.002,
+      "no": 0.999,
+      "liquidity": 2163.08205,
+      "market": "Will the highest temperature in Guangzhou be 40\u00b0C "
+    }
   ],
   "verbatim_asks0_near_misses": 0,
-  "note": "asks[0] is DESC-sorted in /book payload; verbatim near-miss block reads worst ask (always 0). Detector + supplement use min() best-ask. 68/500 markets had two-sided priced books."
+  "priced_markets": 73,
+  "note": "asks[0] is DESC-sorted in /book payload; verbatim near-miss block reads worst ask (always 0). Detector + supplement use min() best-ask."
 }

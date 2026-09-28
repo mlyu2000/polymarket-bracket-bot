@@ -1,8 +1,9 @@
-🔍 Scan: 500 markets in 45.0s
+🔍 Scan: 500 markets in 45.4s
 ✅ BRACKETS (sum < 1.00): 0
 📊 Near-misses (≤1.005): 0
 
-=== SUPPLEMENT: best-ask (min) totals, 68 priced markets ===
+=== SUPPLEMENT: best-ask (min) totals, 73 priced markets ===
 floor sum = 1.001
-near-misses (<=1.005, best-ask): 1
-  1.001 | Yes@0.033 No@0.968 | liq=14369.72766 | Will the 5-year Treasury yield dip below 4.10% bef
+near-misses (<=1.005, best-ask): 2
+  1.001 | Yes@0.033 No@0.968 | Will the 5-year Treasury yield dip below 4.10% bef
+  1.001 | Yes@0.002 No@0.999 | Will the highest temperature in Guangzhou be 40°C
