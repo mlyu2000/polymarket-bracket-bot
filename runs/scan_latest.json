@@ -1,13 +1,29 @@
 {
-  "run_ts_utc": "20260928T1106Z",
-  "markets": 500,
-  "scan_time_s": 51.4,
-  "priced": 76,
-  "brackets": [],
-  "floor": 1.001,
-  "near_misses": [
-    {"sum": 1.001, "yes": 0.033, "no": 0.968, "q": "Will the 5-year Treasury yield dip below 4.10% before 2027?", "liq": 9606.8},
-    {"sum": 1.002, "yes": 0.136, "no": 0.866, "q": "Will China's annual inflation in 2026 be between 0.1% and 0.5%?", "liq": 582.0},
-    {"sum": 1.003, "yes": 0.006, "no": 0.997, "q": "Georgia vs. Ukraine: O/U 7.5", "liq": 50754.2}
-  ]
+  "ts": "2026-09-28T11:23:33Z",
+  "script": "_cron_20260928T1121Z_scan_verbatim.py + _cron_20260928T1121Z_supp_bestask.py",
+  "entry": {
+    "stamp": "20260928T1121Z",
+    "markets": 500,
+    "priced": 81,
+    "floor": 1.001,
+    "brackets": [],
+    "near_misses": [
+      [
+        1.001,
+        "Will the 5-year Treasury yield dip below 4.10% before 2027?",
+        0.033,
+        0.968,
+        9825.06
+      ],
+      [
+        1.002,
+        "Will China's annual inflation in 2026 be between 0.1% and 0.",
+        0.136,
+        0.866,
+        558.79
+      ]
+    ],
+    "verbatim_near_misses_asks0": 0,
+    "note": "verbatim asks[0] near-miss=0 (DESC-sorted worst ask, known artifact); min-ask best-ask scan authoritative"
+  }
 }

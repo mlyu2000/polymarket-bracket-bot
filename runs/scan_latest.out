@@ -1,10 +1,12 @@
-🔍 Scan: 500 markets in 51.4s
+🔍 Scan: 500 markets in 51.8s
 ✅ BRACKETS (sum < 1.00): 0
-📊 Near-misses (≤1.005, verbatim asks[0]): 0
--- supplementary min-ask (true best ask) --
-min-ask scan: 500 markets, 76 with priced books both sides
-TRUE floor (min-ask sum): 1.0010 | Will the 5-year Treasury yield dip below 4.10% before 2027?
-min-ask near-misses (<=1.005): 3
-  1.0010 | Yes@0.033 No@0.968 | liq=9606.80337 | Will the 5-year Treasury yield dip below 4.10% before 2027?
-  1.0020 | Yes@0.136 No@0.866 | liq=582.02622 | Will China's annual inflation in 2026 be between 0.1% and 0.
-  1.0030 | Yes@0.006 No@0.997 | liq=50754.18713 | Georgia vs. Ukraine: O/U 7.5
+📊 Near-misses (≤1.005): 0
+
+=== best-ask supplement ===
+best-ask priced markets: 81
+detector-gated brackets (net_edge>=1%): 0
+BRACKETS best-ask sum<1.00: 0
+NEAR-MISS best-ask 1.000..1.005: 2
+  1.0010 | Yes@0.033 No@0.968 | liq=9825.06033 | Will the 5-year Treasury yield dip below 4.10% before 2
+  1.0020 | Yes@0.136 No@0.866 | liq=558.78622 | Will China's annual inflation in 2026 be between 0.1% a
+floor (min best-ask sum): 1.0010
