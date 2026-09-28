@@ -1,6 +1,8 @@
-BEST-ASK SCAN: 500 markets (79 priced) in 49.6s
-BRACKETS (detector, sum<1.00): 0
-Best-ask floor across priced markets: 1.001
-BEST-ASK NEAR-MISSES (<=1.005): 2
-  1.001 | Yes@0.033 No@0.968 | liq=9699.51916 | Will the 5-year Treasury yield dip below 4.10% bef
-  1.004 | Yes@0.007 No@0.997 | liq=47441.85523 | Georgia vs. Ukraine: O/U 7.5
+🔍 Scan: 500 markets in 45.0s
+✅ BRACKETS (sum < 1.00): 0
+📊 Near-misses (≤1.005): 0
+
+=== SUPPLEMENT: best-ask (min) totals, 68 priced markets ===
+floor sum = 1.001
+near-misses (<=1.005, best-ask): 1
+  1.001 | Yes@0.033 No@0.968 | liq=14369.72766 | Will the 5-year Treasury yield dip below 4.10% bef
