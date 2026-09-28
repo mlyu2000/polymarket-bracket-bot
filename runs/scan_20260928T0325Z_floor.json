@@ -1,0 +1,40 @@
+{
+ "scan": "20260928T0325Z",
+ "markets_fetched": 500,
+ "priced_markets_best_ask": 68,
+ "brackets_sum_lt_1": 0,
+ "near_miss_le_1p005": 4,
+ "min_best_ask_sum": 1.001,
+ "near_misses": [
+  {
+   "sum": 1.001,
+   "yes": 0.033,
+   "no": 0.968,
+   "liq": 9523.68945,
+   "q": "Will the 5-year Treasury yield dip below 4.10% before 2"
+  },
+  {
+   "sum": 1.002,
+   "yes": 0.136,
+   "no": 0.866,
+   "liq": 541.00724,
+   "q": "Will China's annual inflation in 2026 be between 0.1% a"
+  },
+  {
+   "sum": 1.003,
+   "yes": 0.004,
+   "no": 0.999,
+   "liq": 8726.0158,
+   "q": "Will Jairo Palheta win the 2026 Amapá gubernatorial ele"
+  },
+  {
+   "sum": 1.003,
+   "yes": 0.004,
+   "no": 0.999,
+   "liq": 2557.8572,
+   "q": "Will the highest temperature in Paris be 24°C on Septem"
+  }
+ ],
+ "scan_time_s": 46.9,
+ "note": "verbatim prompt script (asks[0], DESC-sorted worst ask) reported 0 brackets / 0 near-misses; best-ask min() supplement is authoritative"
+}

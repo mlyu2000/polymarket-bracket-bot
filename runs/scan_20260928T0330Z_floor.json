@@ -1,0 +1,37 @@
+{
+ "ts": "2026-09-28T03:49:14Z",
+ "markets": 500,
+ "priced": 74,
+ "floor": 1.001,
+ "near_misses_le_1p005": [
+  [
+   1.001,
+   "Will the 5-year Treasury yield dip below 4.10% bef",
+   0.033,
+   0.968,
+   9525.69105
+  ],
+  [
+   1.002,
+   "Will China's annual inflation in 2026 be between 0",
+   0.136,
+   0.866,
+   576.09218
+  ],
+  [
+   1.003,
+   "Will Jairo Palheta win the 2026 Amap\u00e1 gubernatoria",
+   0.004,
+   0.999,
+   8726.0158
+  ],
+  [
+   1.003,
+   "Will the highest temperature in Paris be 24\u00b0C on S",
+   0.004,
+   0.999,
+   2363.67924
+  ]
+ ],
+ "brackets_lt_1p00": []
+}
