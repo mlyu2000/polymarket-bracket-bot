@@ -1,17 +1,5 @@
-🔍 Scan: 500 markets in 51.8s
-✅ BRACKETS (sum < 1.00): 0
-📊 Near-misses (≤1.005): 0
-
-=== best-ask supplement ===
-best-ask priced markets: 81
-detector-gated brackets (net_edge>=1%): 0
-BRACKETS best-ask sum<1.00: 0
-NEAR-MISS best-ask 1.000..1.005: 2
-  1.0010 | Yes@0.033 No@0.968 | liq=9825.06033 | Will the 5-year Treasury yield dip below 4.10% before 2
-  1.0020 | Yes@0.136 No@0.866 | liq=558.78622 | Will China's annual inflation in 2026 be between 0.1% a
-floor (min best-ask sum): 1.0010
---- 2026-09-28T11:39:30Z | _cron_20260928T1137Z (verbatim + supp_minask) ---
-500 markets in 50.9s (verbatim) / 46.7s (supp); 83 priced; brackets=0; floor=1.001; near-misses(<=1.005, best-ask)=3
-  1.0010 Yes@0.033 No@0.968 | 5Y Treasury yield dip below 4.10% before 2027 | liq=9766
-  1.0020 Yes@0.136 No@0.866 | China 2026 inflation 0.1-0.x | liq=551
-  1.0040 Yes@0.006 No@0.998 | Georgia vs. Ukraine O/U 7.5 | liq=49862
+--- 2026-09-28T11:52Z | _cron_20260928T115123Z (verbatim + supp_minask) ---
+500 markets in 47.8s (verbatim) / 44.1s (supp); 84 priced; brackets=0; floor=1.001; near-misses(min-ask,<=1.005)=3
+  1.0010 Yes@0.033 No@0.968 | 5Y Treasury yield dip below 4.10% before 2027 | liq=9814
+  1.0020 Yes@0.136 No@0.866 | China 2026 inflation 0.1-0.x | liq=554
+  1.0030 Yes@0.006 No@0.997 | Georgia vs. Ukraine O/U 7.5 | liq=49823
