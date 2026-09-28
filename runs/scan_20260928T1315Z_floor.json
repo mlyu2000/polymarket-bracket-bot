@@ -1,0 +1,17 @@
+{
+  "scan": "20260928T1315Z",
+  "markets_fetched": 500,
+  "priced_markets_best_ask": 66,
+  "brackets_sum_lt_1": 0,
+  "detector_gated_brackets": 0,
+  "near_miss_le_1p005": 5,
+  "min_best_ask_sum": 1.0010,
+  "near_misses": [
+    {"sum": 1.0010, "yes": 0.002, "no": 0.999, "liq": 354.44, "q": "Will Anders Dreyer win 2026 MLS Most Valuable Player?"},
+    {"sum": 1.0020, "yes": 0.136, "no": 0.866, "liq": 560.14, "q": "Will China's annual inflation in 2026 be between 0.1% a"},
+    {"sum": 1.0020, "yes": 0.033, "no": 0.969, "liq": 9789.19, "q": "Will the 5-year Treasury yield dip below 4.10% before 2"},
+    {"sum": 1.0030, "yes": 0.004, "no": 0.999, "liq": 8736.74, "q": "Will Jairo Palheta win the 2026 Amapa gubernatorial ele"},
+    {"sum": 1.0030, "yes": 0.004, "no": 0.999, "liq": 2509.07, "q": "Will the highest temperature in Paris be 24C on Septem"}
+  ],
+  "scan_time_s": 44.4
+}
