@@ -1,0 +1,23 @@
+{
+  "ts": "2026-09-28T18:30:00Z",
+  "markets": 500,
+  "priced": 78,
+  "scan_time_s": 51.5,
+  "brackets": 0,
+  "near_miss_asks0_le_1005": 0,
+  "true_floor_min_asks": {
+    "brackets_sum_lt_1": 0,
+    "near_le_1005": 1,
+    "floor": 1.001,
+    "top": [
+      {"sum": 1.0010, "yes": 0.033, "no": 0.968, "liq": 14521.25, "q": "Will the 5-year Treasury yield dip below 4.10% bef"},
+      {"sum": 1.0060, "yes": 0.007, "no": 0.999, "liq": 5263.79, "q": "Guadeloupe vs. Barbados: O/U 7.5"},
+      {"sum": 1.0080, "yes": 0.009, "no": 0.999, "liq": 558.91, "q": "Will Khamenei post 40-44 posts from September 29 t"},
+      {"sum": 1.0090, "yes": 0.010, "no": 0.999, "liq": 2556.53, "q": "Jamaica vs. Honduras: O/U 8.5"},
+      {"sum": 1.0090, "yes": 0.010, "no": 0.999, "liq": 6189.53, "q": "Spread: América FC (-3.5)"},
+      {"sum": 1.0090, "yes": 0.011, "no": 0.998, "liq": 487.98, "q": "Will Netflix, Inc. (NFLX) hit (HIGH) $105 in Septe"},
+      {"sum": 1.0090, "yes": 0.100, "no": 0.909, "liq": 4456.35, "q": "Will the 30-year Treasury yield hit 6.00% before 2"},
+      {"sum": 1.0100, "yes": 0.300, "no": 0.710, "liq": 8588.64, "q": "Jamaica vs. Honduras: 1st Half O/U 1.5"}
+    ]
+  }
+}
