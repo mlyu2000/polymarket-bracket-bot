@@ -1,21 +1,14 @@
 {
-  "ts": "2026-09-28T18:30:00Z",
-  "markets": 500,
-  "priced": 78,
-  "scan_time_s": 51.5,
-  "brackets": 0,
-  "near_miss_asks0_le_1005": 0,
-  "true_floor_min_asks": {
-    "brackets_sum_lt_1": 0,
-    "near_le_1005": 1,
-    "floor": 1.001,
-    "top": [
-      {"sum": 1.0010, "yes": 0.033, "no": 0.968, "liq": 14521.25, "q": "Will the 5-year Treasury yield dip below 4.10% bef..."},
-      {"sum": 1.0060, "yes": 0.007, "no": 0.999, "liq": 5263.79, "q": "Guadeloupe vs. Barbados: O/U 7.5"},
-      {"sum": 1.0080, "yes": 0.009, "no": 0.999, "liq": 558.91, "q": "Will Khamenei post 40-44 posts from September 29 t..."},
-      {"sum": 1.0090, "yes": 0.010, "no": 0.999, "liq": 2556.53, "q": "Jamaica vs. Honduras: O/U 8.5"},
-      {"sum": 1.0090, "yes": 0.010, "no": 0.999, "liq": 6189.53, "q": "Spread: América FC (-3.5)"},
-      {"sum": 1.0090, "yes": 0.011, "no": 0.998, "liq": 487.98, "q": "Will Netflix, Inc. (NFLX) hit (HIGH) $105 in Septe..."}
-    ]
-  }
+  "scan_utc": "2026-09-28T19:00Z",
+  "markets_fetched": 500,
+  "priced_book_pairs": 84,
+  "scan_seconds": 45.9,
+  "brackets_found": 0,
+  "floor_best_ask": 1.001,
+  "near_misses_le_1.005": 1,
+  "near_misses": [
+    {"sum": 1.001, "yes": 0.033, "no": 0.968, "liquidity": 14115, "market": "Will the 5-year Treasury yield dip below 4.10% before..."}
+  ],
+  "verbatim_asks0_near_misses": 0,
+  "note": "asks[0] is DESC-sorted in /book payload; verbatim near-miss block reads worst ask, detector + supplement use min()"
 }
