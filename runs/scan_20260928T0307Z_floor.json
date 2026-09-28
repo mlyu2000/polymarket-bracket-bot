@@ -1,0 +1,39 @@
+{
+ "scan": "20260928T0307Z",
+ "markets_fetched": 500,
+ "priced_markets_best_ask": 65,
+ "brackets_sum_lt_1": 0,
+ "near_miss_le_1p005": 4,
+ "min_best_ask_sum": 1.001,
+ "near_misses": [
+  {
+   "sum": 1.001,
+   "yes": 0.033,
+   "no": 0.968,
+   "liq": 9608.09545,
+   "q": "Will the 5-year Treasury yield dip below 4.10% before 2"
+  },
+  {
+   "sum": 1.002,
+   "yes": 0.136,
+   "no": 0.866,
+   "liq": 561.26912,
+   "q": "Will China's annual inflation in 2026 be between 0.1% a"
+  },
+  {
+   "sum": 1.003,
+   "yes": 0.004,
+   "no": 0.999,
+   "liq": 8726.0158,
+   "q": "Will Jairo Palheta win the 2026 Amap\u00e1 gubernatorial ele"
+  },
+  {
+   "sum": 1.003,
+   "yes": 0.004,
+   "no": 0.999,
+   "liq": 2401.17684,
+   "q": "Will the highest temperature in Paris be 24\u00b0C on Septem"
+  }
+ ],
+ "scan_time_s": 53.8
+}
