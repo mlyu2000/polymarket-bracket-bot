@@ -1,0 +1,77 @@
+{
+  "markets": 500,
+  "priced": 71,
+  "brackets": [],
+  "floor_rows": [
+    [
+      1.001,
+      "Will the 5-year Treasury yield dip below 4.10% bef",
+      0.033,
+      0.968,
+      15765.23999
+    ],
+    [
+      1.005,
+      "Will Ethereum dip to $2,400 in September?",
+      0.025,
+      0.98,
+      44929.71705
+    ],
+    [
+      1.006,
+      "Will the highest temperature in Taipei be 34\u00b0C on ",
+      0.016,
+      0.99,
+      1588.43153
+    ],
+    [
+      1.008,
+      "Will Khamenei post 40-44 posts from September 29 t",
+      0.009,
+      0.999,
+      749.79502
+    ],
+    [
+      1.009,
+      "Will Netflix, Inc. (NFLX) hit (HIGH) $105 in Septe",
+      0.011,
+      0.998,
+      489.64713
+    ],
+    [
+      1.01,
+      "Will Albirex Niigata win on 2026-10-03?",
+      0.37,
+      0.64,
+      2914.0462
+    ],
+    [
+      1.01,
+      "Will any player have 1,750+ receiving yards in the",
+      0.39,
+      0.62,
+      617.8386
+    ],
+    [
+      1.015,
+      "Exact Score: FC Tulsa 5 - 1 New Mexico United?",
+      0.021,
+      0.994,
+      2408.5498
+    ],
+    [
+      1.02,
+      "Russia vs. IR Iran: Russia O/U 2.5",
+      0.22,
+      0.8,
+      2616.0796
+    ],
+    [
+      1.02,
+      "Will CS Cienciano vs. CD Los Chankas end in a draw",
+      0.19,
+      0.83,
+      11743.9483
+    ]
+  ]
+}
