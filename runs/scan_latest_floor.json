@@ -1,6 +1,6 @@
 {
   "markets": 500,
-  "priced": 72,
+  "priced": 71,
   "brackets": [],
   "floor_rows": [
     [
@@ -8,14 +8,14 @@
       "Will the 5-year Treasury yield dip below 4.10% bef",
       0.033,
       0.968,
-      15701.75026
+      15770.33026
     ],
     [
       1.002,
       "Will ByteDance be the second-best Chinese AI compa",
       0.005,
       0.997,
-      3816.48932
+      3061.2921
     ],
     [
       1.008,
@@ -23,13 +23,6 @@
       0.009,
       0.999,
       691.50319
-    ],
-    [
-      1.008,
-      "Will the highest temperature in New York City be b",
-      0.03,
-      0.978,
-      3630.10436
     ],
     [
       1.009,
@@ -44,34 +37,6 @@
       0.37,
       0.64,
       3374.4701
-    ],
-    [
-      1.01,
-      "Will any player have 1,750+ receiving yards in the",
-      0.39,
-      0.62,
-      684.3488
-    ],
-    [
-      1.015,
-      "Exact Score: FC Tulsa 5 - 1 New Mexico United?",
-      0.021,
-      0.994,
-      2528.0669
-    ],
-    [
-      1.02,
-      "Russia vs. IR Iran: Russia O/U 2.5",
-      0.23,
-      0.79,
-      2830.5468
-    ],
-    [
-      1.02,
-      "Will CS Cienciano vs. CD Los Chankas end in a draw",
-      0.19,
-      0.83,
-      14820.6708
     ]
   ]
 }

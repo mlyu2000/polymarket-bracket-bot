@@ -1,0 +1,50 @@
+{
+  "markets": 500,
+  "opps": [],
+  "near_misses_asks0": [],
+  "scan_time": 69.1,
+  "priced_min_ask": 71,
+  "supp": {
+    "brackets_min_ask": [],
+    "near_misses_min_ask": [
+      [
+        1.001,
+        "Will the 5-year Treasury yield dip below 4.10% bef",
+        0.033,
+        0.968,
+        15770.33026
+      ],
+      [
+        1.002,
+        "Will ByteDance be the second-best Chinese AI compa",
+        0.005,
+        0.997,
+        3061.2921
+      ]
+    ]
+  },
+  "floor_top5": [
+    [
+      1.001,
+      "Will the 5-year Treasury yield dip below 4.10% bef"
+    ],
+    [
+      1.002,
+      "Will ByteDance be the second-best Chinese AI compa"
+    ],
+    [
+      1.008,
+      "Will Khamenei post 40-44 posts from September 29 t"
+    ],
+    [
+      1.009,
+      "Will Netflix, Inc. (NFLX) hit (HIGH) $105 in Septe"
+    ],
+    [
+      1.01,
+      "Will Albirex Niigata win on 2026-10-03?"
+    ]
+  ],
+  "verbatim_stdout": "\ud83d\udd0d Scan: 500 markets in 69.1s\n\u2705 BRACKETS (sum < 1.00): 0\n\ud83d\udcca Near-misses (\u22641.005): 0\n",
+  "supp_stdout": "Markets: 500 | priced (both asks present): 71 | fetch 50.2s\nMIN-ASK brackets (sum<1.00): 0\nMIN-ASK near-misses (1.00<sum<=1.005): 2\n  1.0010 | Yes@0.033 No@0.968 | liq=15770.33026 | Will the 5-year Treasury yield dip below 4.10% bef\n  1.0020 | Yes@0.005 No@0.997 | liq=3061.2921 | Will ByteDance be the second-best Chinese AI compa\nFLOOR top-5 (lowest raw best-ask sums):\n  1.0010 | Will the 5-year Treasury yield dip below 4.10% bef\n  1.0020 | Will ByteDance be the second-best Chinese AI compa\n  1.0080 | Will Khamenei post 40-44 posts from September 29 t\n  1.0090 | Will Netflix, Inc. (NFLX) hit (HIGH) $105 in Septe\n  1.0100 | Will Albirex Niigata win on 2026-10-03?\n"
+}
