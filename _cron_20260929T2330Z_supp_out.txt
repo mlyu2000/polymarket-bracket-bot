@@ -1,0 +1,19 @@
+priced 86
+floor 1.0010 Will Yehude Simón Munaro win the next Lima mayoral elections
+brackets 0
+near_1.000_1.005 4
+  1.0010 Y@0.002 N@0.999 liq 74125.38209 vol 9991.165646000001 | Will Yehude Simón Munaro win the next Lima mayoral elections
+  1.0010 Y@0.002 N@0.999 liq 2543.95079 vol 99.99200499999999 | Will the highest temperature in Chengdu be 30°C on October 1
+  1.0020 Y@0.033 N@0.969 liq 14389.88144 vol 9994.638762999999 | Will the 5-year Treasury yield dip below 4.10% before 2027?
+  1.0050 Y@0.998 N@0.007 liq 17860.00076 vol 9989.904021000002 | Nothing Ever Happens: September
+top10
+  1.0010 Y@0.002 N@0.999 liq 74125.38209 | Will Yehude Simón Munaro win the next Lima mayoral elections
+  1.0010 Y@0.002 N@0.999 liq 2543.95079 | Will the highest temperature in Chengdu be 30°C on October 1
+  1.0020 Y@0.033 N@0.969 liq 14389.88144 | Will the 5-year Treasury yield dip below 4.10% before 2027?
+  1.0050 Y@0.998 N@0.007 liq 17860.00076 | Nothing Ever Happens: September
+  1.0090 Y@0.010 N@0.999 liq 691.27872 | Will the lowest temperature in Lucknow be 19°C or below on S
+  1.0100 Y@0.660 N@0.350 liq 15447.2141 | CS Cienciano vs. CD Los Chankas: O/U 2.5
+  1.0100 Y@0.020 N@0.990 liq 200.1678 | United States vs. Chile: 1st Half O/U 4.5
+  1.0100 Y@0.020 N@0.990 liq 119.3076 | United States vs. Chile: Chile 1st Half O/U 3.5
+  1.0100 Y@0.020 N@0.990 liq 120.3876 | United States vs. Chile: United States 1st Half O/U 3.5
+  1.0140 Y@0.015 N@0.999 liq 10669.9231 | Exact Score: Argentina 2 - 4 Bolivia?
