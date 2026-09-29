@@ -1,94 +1,52 @@
 {
- "ts": "$TS",
- "markets": 500,
- "priced": 77,
- "brackets": [],
- "near": [
-  [
-   1.001,
-   0.004,
-   0.997,
-   "Will ByteDance be the second-best Chinese AI company at the ",
-   2829.05526
-  ],
-  [
-   1.001,
-   0.033,
-   0.968,
-   "Will the 5-year Treasury yield dip below 4.10% before 2027?",
-   15576.92531
-  ]
- ],
- "top_min_ask_sums": [
-  [
-   1.001,
-   0.004,
-   0.997,
-   "Will ByteDance be the second-best Chinese AI company at the ",
-   2829.05526
-  ],
-  [
-   1.001,
-   0.033,
-   0.968,
-   "Will the 5-year Treasury yield dip below 4.10% before 2027?",
-   15576.92531
-  ],
-  [
-   1.008,
-   0.009,
-   0.999,
-   "Will Khamenei post 40-44 posts from September 29 to October ",
-   589.02919
-  ],
-  [
-   1.009,
-   0.011,
-   0.998,
-   "Will Netflix, Inc. (NFLX) hit (HIGH) $105 in September?",
-   489.64713
-  ],
-  [
-   1.01,
-   0.37,
-   0.64,
-   "Will Albirex Niigata win on 2026-10-03?",
-   3221.279
-  ],
-  [
-   1.01,
-   0.39,
-   0.62,
-   "Will any player have 1,750+ receiving yards in the 2026-27 N",
-   737.1488
-  ],
-  [
-   1.01,
-   0.48,
-   0.53,
-   "Cagliari Calcio vs. Juventus FC: O/U 2.5",
-   4795.0389
-  ],
-  [
-   1.01,
-   0.55,
-   0.46,
-   "Game Spread: Alex Bolt (-3.5) vs Semen Pankin (+3.5)",
-   4678.2994
-  ],
-  [
-   1.015,
-   0.021,
-   0.994,
-   "Exact Score: FC Tulsa 5 - 1 New Mexico United?",
-   2399.9134
-  ],
-  [
-   1.02,
-   0.12,
-   0.9,
-   "Will Iran target Syria by October 31, 2026?",
-   12349.3557
-  ]
- ]
+  "ts_utc": "2026-09-29T22:20Z",
+  "scan_verbatim": {
+    "markets": 500,
+    "scan_time_s": 48.0,
+    "brackets": 0,
+    "near_misses_asks0": 0
+  },
+  "supp_bestask": {
+    "priced": 84,
+    "true_floor": 1.001,
+    "sums_le_1.005": [
+      {
+        "sum": 1.001,
+        "yes": 0.015,
+        "no": 0.986,
+        "liq": 23734.22705,
+        "q": "Will Elon Musk post 140-159 tweets from September 25 to Octo"
+      },
+      {
+        "sum": 1.001,
+        "yes": 0.033,
+        "no": 0.968,
+        "liq": 13929.07734,
+        "q": "Will the 5-year Treasury yield dip below 4.10% before 2027?"
+      },
+      {
+        "sum": 1.001,
+        "yes": 0.002,
+        "no": 0.999,
+        "liq": 2388.11098,
+        "q": "Will the highest temperature in Chengdu be 30\u00b0C on October 1"
+      },
+      {
+        "sum": 1.005,
+        "yes": 0.998,
+        "no": 0.007,
+        "liq": 17637.59476,
+        "q": "Nothing Ever Happens: September"
+      },
+      {
+        "sum": 1.005,
+        "yes": 0.006,
+        "no": 0.999,
+        "liq": 742.53188,
+        "q": "Will the lowest temperature in Lucknow be 19\u00b0C or below on S"
+      }
+    ]
+  },
+  "paper_trades_executed": 0,
+  "scan": "20260929T2220Z"
 }
