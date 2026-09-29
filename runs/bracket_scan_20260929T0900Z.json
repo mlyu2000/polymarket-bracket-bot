@@ -1,0 +1,14 @@
+{
+ "ts": "20260929T0900Z",
+ "markets": 500,
+ "scan_time_s": 52.3,
+ "brackets_asks0": 0,
+ "brackets_best_ask": 0,
+ "near_miss_asks0": 0,
+ "near_miss_best_ask": 2,
+ "floor_best_ask": 1.0010,
+ "near_misses": [
+  [1.0010, 0.033, 0.968, "Will the 5-year Treasury yield dip below 4.10% bef", 15968.59854],
+  [1.0020, 0.005, 0.997, "Will ByteDance be the second-best Chinese AI compa", 4107.39061]
+ ]
+}
