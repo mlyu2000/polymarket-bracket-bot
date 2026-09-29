@@ -1,0 +1,18 @@
+Scan: 500 markets in 52.3s
+BRACKETS (sum < 1.00): 0
+Near-misses (<=1.005): 0
+
+=== min-ask authoritative ===
+markets=500 priced=77
+TRUE_BRACKETS(sum<1.00 via best asks): 0
+TOP10_BEST_SUMS:
+  1.0010 | Yes@0.004 No@0.997 | liq=4003 | Will ByteDance be the second-best Chinese AI company at the 
+  1.0010 | Yes@0.033 No@0.968 | liq=15964 | Will the 5-year Treasury yield dip below 4.10% before 2027?
+  1.0080 | Yes@0.009 No@0.999 | liq=571 | Will Khamenei post 40-44 posts from September 29 to October 
+  1.0090 | Yes@0.011 No@0.998 | liq=490 | Will Netflix, Inc. (NFLX) hit (HIGH) $105 in September?
+  1.0100 | Yes@0.480 No@0.530 | liq=4809 | Cagliari Calcio vs. Juventus FC: O/U 2.5
+  1.0100 | Yes@0.370 No@0.640 | liq=3079 | Will Albirex Niigata win on 2026-10-03?
+  1.0100 | Yes@0.390 No@0.620 | liq=667 | Will any player have 1,750+ receiving yards in the 2026-27 N
+  1.0150 | Yes@0.021 No@0.994 | liq=2403 | Exact Score: FC Tulsa 5 - 1 New Mexico United?
+  1.0200 | Yes@0.190 No@0.830 | liq=12141 | Will CS Cienciano vs. CD Los Chankas end in a draw?
+  1.0210 | Yes@0.022 No@0.999 | liq=2396 | Exact Score: Sacramento Republic FC 3 - 3 Las Vegas Lights?
