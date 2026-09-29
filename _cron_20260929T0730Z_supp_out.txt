@@ -1,0 +1,7 @@
+MARKETS: 500
+BEST-ASK BRACKETS (sum<1.00): 0
+FLOOR (min best-ask sum): 1.0010 | Will the 5-year Treasury yield dip below 4.10% bef
+BEST-ASK NEAR-MISSES (<=1.005):
+  1.0010 | Yes@0.033 No@0.968 | liq=16212.01896 | Will the 5-year Treasury yield dip below 4.10% bef
+  1.0020 | Yes@0.005 No@0.997 | liq=4021.69942 | Will ByteDance be the second-best Chinese AI compa
+  1.0050 | Yes@0.006 No@0.999 | liq=824.84727 | Will the lowest temperature in Seattle be 66°F or 
