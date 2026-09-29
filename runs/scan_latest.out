@@ -1,9 +1,18 @@
-🔍 Scan: 500 markets in 45.4s
+🔍 Scan: 500 markets in 46.5s
 ✅ BRACKETS (sum < 1.00): 0
 📊 Near-misses (≤1.005): 0
 
-=== SUPPLEMENT: best-ask (min) totals, 73 priced markets ===
-floor sum = 1.001
-near-misses (<=1.005, best-ask): 2
-  1.001 | Yes@0.033 No@0.968 | Will the 5-year Treasury yield dip below 4.10% bef
-  1.001 | Yes@0.002 No@0.999 | Will the highest temperature in Guangzhou be 40°C
+=== min-ask authoritative ===
+[supp min-ask] 70 priced markets in 48.3s
+Top-10 lowest Yes+No sums (best true asks):
+  1.0010 | Yes@0.033 No@0.968 | liq=15610.35706 | Will the 5-year Treasury yield dip below 4.10% before 2027?
+  1.0030 | Yes@0.008 No@0.995 | liq=50.59 | Jamaica vs. Honduras: Honduras O/U 4.5
+  1.0040 | Yes@0.021 No@0.983 | liq=44673.17776 | Will Ethereum dip to $2,400 in September?
+  1.0060 | Yes@0.016 No@0.990 | liq=1559.58125 | Will the highest temperature in Taipei be 34°C on September 
+  1.0080 | Yes@0.009 No@0.999 | liq=545.37802 | Will Khamenei post 40-44 posts from September 29 to October 
+  1.0090 | Yes@0.011 No@0.998 | liq=489.64713 | Will Netflix, Inc. (NFLX) hit (HIGH) $105 in September?
+  1.0100 | Yes@0.390 No@0.620 | liq=637.5488 | Will any player have 1,750+ receiving yards in the 2026-27 N
+  1.0150 | Yes@0.021 No@0.994 | liq=2400.4348 | Exact Score: FC Tulsa 5 - 1 New Mexico United?
+  1.0200 | Yes@0.220 No@0.800 | liq=3164.662 | Russia vs. IR Iran: Russia O/U 2.5
+  1.0200 | Yes@0.190 No@0.830 | liq=12273.7882 | Will CS Cienciano vs. CD Los Chankas end in a draw?
+Brackets (sum<1.00): 0

@@ -1,0 +1,16 @@
+{
+  "markets": 500,
+  "scan_time": 48.3,
+  "floor": 1.001,
+  "floor_market": "Will the 5-year Treasury yield dip below 4.10% before 2027?",
+  "brackets_min_ask": [],
+  "near_misses_min_ask": [
+    [
+      1.001,
+      "Will the 5-year Treasury yield dip below 4.10% bef",
+      0.033,
+      0.968,
+      15610.35706
+    ]
+  ]
+}
