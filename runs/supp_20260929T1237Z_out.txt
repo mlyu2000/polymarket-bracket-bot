@@ -1,0 +1,5 @@
+[supp min-ask] 500 markets (88 priced) in 52.4s
+[supp min-ask] Near-misses (sum<=1.005): 3
+  1.001 | Yes@0.004 No@0.997 | liq=3693.98706 | Will ByteDance be the second-best Chinese AI compa
+  1.001 | Yes@0.033 No@0.968 | liq=15649.1855 | Will the 5-year Treasury yield dip below 4.10% bef
+  1.002 | Yes@0.020 No@0.982 | liq=59733.93664 | Exact Score: Mozambique 0 - 2 Sudan?
