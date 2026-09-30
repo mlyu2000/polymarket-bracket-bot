@@ -1,42 +1,32 @@
 {
- "scan_utc": "2026-09-30T14:55Z",
+ "scan_utc": "2026-09-30T15:11Z",
  "markets": 500,
- "scan_time_s": 52.7,
+ "scan_time_s": 57.8,
  "brackets_true_minask": 0,
- "near_misses_true_minask": 4,
+ "near_misses_true_minask": 3,
  "best_ask_floor": 1.001,
- "priced_markets": 87,
+ "priced_markets": 83,
  "top_true_sums": [
   {
    "sum": 1.001,
    "yes": 0.002,
    "no": 0.999,
-   "liq": 68813.0,
+   "liq": 68484.0,
    "q": "Will Yehude Simón Munaro win the next Lima mayoral"
   },
   {
    "sum": 1.001,
    "yes": 0.032,
    "no": 0.969,
-   "liq": 13375.0,
+   "liq": 13233.0,
    "q": "Will the 5-year Treasury yield dip below 4.10% bef"
-  },
-  {
-   "sum": 1.003,
-   "yes": 0.998,
-   "no": 0.005,
-   "liq": 19077.0,
-   "q": "Nothing Ever Happens: September"
   },
   {
    "sum": 1.004,
    "yes": 0.104,
    "no": 0.9,
-   "liq": 32234.0,
+   "liq": 33248.0,
    "q": "Will the Democratic Party win the TX-32 House seat"
   }
- ],
- "brackets_verbatim": 0,
- "near_misses_verbatim_asks0": 0,
- "scan_time_verbatim_s": 49.0
+ ]
 }
