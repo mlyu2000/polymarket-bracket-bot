@@ -1,0 +1,20 @@
+priced 93
+floor 1.0010 Will Yehude Simón Munaro win the next Lima mayoral elections
+brackets 0
+near_1.000_1.005 5
+   1.0010 Y@0.002 N@0.999 liq 25684.34154 vol 9991.165646 | Will Yehude Simón Munaro win the next Lima mayoral elections
+   1.0010 Y@0.002 N@0.999 liq 2490.51879 vol 99.99200499999999 | Will the highest temperature in Chengdu be 30°C on October 1
+   1.0020 Y@0.033 N@0.969 liq 14505.58788 vol 9994.638762999999 | Will the 5-year Treasury yield dip below 4.10% before 2027?
+   1.0050 Y@0.998 N@0.007 liq 17860.00076 vol 9989.904021000002 | Nothing Ever Happens: September
+   1.0050 Y@0.006 N@0.999 liq 748.84922 vol 99.994 | Will the lowest temperature in Lucknow be 19°C or below on S
+top10
+   1.0010 Y@0.002 N@0.999 liq 25684.34154 | Will Yehude Simón Munaro win the next Lima mayoral elections
+   1.0010 Y@0.002 N@0.999 liq 2490.51879 | Will the highest temperature in Chengdu be 30°C on October 1
+   1.0020 Y@0.033 N@0.969 liq 14505.58788 | Will the 5-year Treasury yield dip below 4.10% before 2027?
+   1.0050 Y@0.998 N@0.007 liq 17860.00076 | Nothing Ever Happens: September
+   1.0050 Y@0.006 N@0.999 liq 748.84922 | Will the lowest temperature in Lucknow be 19°C or below on S
+   1.0100 Y@0.660 N@0.350 liq 15909.0923 | CS Cienciano vs. CD Los Chankas: O/U 2.5
+   1.0100 Y@0.430 N@0.580 liq 36479.9616 | Set Handicap: Novak Djokovic (-1.5) vs Nuno Borges (+1.5)
+   1.0100 Y@0.370 N@0.640 liq 3744.9439 | Will Albirex Niigata win on 2026-10-03?
+   1.0140 Y@0.015 N@0.999 liq 7326.14606 | Exact Score: Eritrea 3 - 0 South Africa?
+   1.0140 Y@0.016 N@0.998 liq 3404.44091 | Will the highest temperature in Helsinki be 12°C on October 
