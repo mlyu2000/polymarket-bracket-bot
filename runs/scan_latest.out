@@ -1,11 +1,11 @@
-🔍 Scan: 500 markets in 53.9s
+🔍 Scan: 500 markets in 48.3s
 ✅ BRACKETS (sum < 1.00): 0
 📊 Near-misses (≤1.005): 0
 [supp min-ask]
-[min-ask corrected] 87/500 markets priced, scan 42.3s
-[floor] min sum(Yes+No best asks) = 1.0010 | Will the 5-year Treasury yield dip below 4.10% before 2027?
+[min-ask corrected] 89/500 markets priced
+[floor] min sum(Yes+No best asks) = 1.0010 | Will Yehude Simón Munaro win the next Lima mayoral election?
 [brackets sum<1.00 via corrected min-ask]: 0
 [near-misses <=1.005 corrected]: 3
-  1.0010 | Yes@0.002 No@0.999 | liq=68958.36713 | Will Yehude Simón Munaro win the next Lima mayoral
-  1.0010 | Yes@0.032 No@0.969 | liq=12895.96986 | Will the 5-year Treasury yield dip below 4.10% bef
-  1.0040 | Yes@0.104 No@0.900 | liq=32521.7149 | Will the Democratic Party win the TX-32 House seat
+  1.0010 | Yes@0.002 No@0.999 | liq=69567.84504 | Will Yehude Simón Munaro win the next Lima mayoral
+  1.0010 | Yes@0.032 No@0.969 | liq=13617.60585 | Will the 5-year Treasury yield dip below 4.10% bef
+  1.0040 | Yes@0.104 No@0.900 | liq=33605.84376 | Will the Democratic Party win the TX-32 House seat?
