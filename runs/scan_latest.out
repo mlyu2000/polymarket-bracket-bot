@@ -1,3 +1,4 @@
-🔍 Scan: 500 markets in 51.4s
-✅ BRACKETS (sum < 1.00): 0
-📊 Near-misses (≤1.005): 0
+Scan: 500 markets in 50.9s
+BRACKETS (sum < 1.00): 0
+Near-misses (asks[0], <=1.005): 0
+[supp min-ask] 84 priced, floor 1.001, 4 near-misses <=1.005
