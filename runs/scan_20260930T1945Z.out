@@ -1,0 +1,8 @@
+Scan: 500 markets in 48.2s
+BRACKETS (sum < 1.00): 0
+Near-misses asks[0] verbatim (<=1.005): 0
+Near-misses BEST-ASK (<=1.005): 3
+  1.001 | Yes@0.002 No@0.999 | liq=69368.72184 | Will Yehude Simón Munaro win the next Lima mayoral
+  1.001 | Yes@0.032 No@0.969 | liq=13474.2056 | Will the 5-year Treasury yield dip below 4.10% bef
+  1.003 | Yes@0.051 No@0.952 | liq=168123.75233 | Will Chelsea win the 2026-27 English Premier Leagu
+Floor: 1.0010 | Yes@0.032 No@0.969 | Will the 5-year Treasury yield dip below 4.10% before 2027?
