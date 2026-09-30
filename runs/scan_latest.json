@@ -1,22 +1,7 @@
 {
-  "ts_utc": "2026-09-30T0831Z",
-  "scan_verbatim": {
-    "markets": 500,
-    "scan_time_s": 50.7,
-    "brackets": 0,
-    "near_misses_asks0": 0
-  },
-  "supp_minask": {
-    "priced": 88,
-    "true_floor": 1.001,
-    "floor_market": "Will Yehude Simón Munaro win the next Lima mayoral elections",
-    "brackets_minask": 0,
-    "sums_le_1.005": [
-      { "sum": 1.001, "yes": 0.002, "no": 0.999, "liq": 70813.98, "q": "Will Yehude Simón Munaro win the next Lima mayoral" },
-      { "sum": 1.001, "yes": 0.032, "no": 0.969, "liq": 14521.18, "q": "Will the 5-year Treasury yield dip below 4.10% before 2027?" },
-      { "sum": 1.001, "yes": 0.005, "no": 0.996, "liq": 1437.78, "q": "Will the highest temperature in Jeddah be 38°C on September" },
-      { "sum": 1.001, "yes": 0.002, "no": 0.999, "liq": 3622.70, "q": "Will the highest temperature in Paris be 15°C or below on Oct" },
-      { "sum": 1.005, "yes": 0.998, "no": 0.007, "liq": 17579.18, "q": "Nothing Ever Happens: September" }
-    ]
-  }
+ "markets": 500,
+ "scan_time_s": 51.2,
+ "brackets": 0,
+ "near_misses_asks0": 0,
+ "raw_out": "\ud83d\udd0d Scan: 500 markets in 44.9s\n\u2705 BRACKETS (sum < 1.00): 0\n\ud83d\udcca Near-misses (\u22641.005): 0\n"
 }
