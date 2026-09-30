@@ -1,0 +1,18 @@
+scan 20260930T2023Z (UTC)
+
+=== verbatim cron script output ===
+Scan: 500 markets in 44.4s
+BRACKETS (sum < 1.00): 0
+Near-misses (<=1.005, asks[0] method): 0
+
+=== min-ask cross-check ===
+MIN-ASK cross-check: 86 priced markets of 500
+Lowest 8 Yes+No best-ask sums:
+  1.0010 | Yes@0.002 No@0.999 | liq=69816.44098 | Will Yehude Simón Munaro win the next Lima mayoral elections 
+  1.0010 | Yes@0.032 No@0.969 | liq=13315.28947 | Will the 5-year Treasury yield dip below 4.10% before 2027? 
+  1.0030 | Yes@0.051 No@0.952 | liq=165368.5235 | Will Chelsea win the 2026-27 English Premier League (EPL) Ch 
+  1.0060 | Yes@0.013 No@0.993 | liq=10104.47143 | Greece vs. Netherlands: O/U 7.5 
+  1.0070 | Yes@0.012 No@0.995 | liq=2086.62079 | FK Austria Wien vs. FC Internazionale Milano: O/U 7.5 
+  1.0090 | Yes@0.010 No@0.999 | liq=3582.24368 | Spread: Sporting Kansas City (-3.5) 
+  1.0100 | Yes@0.370 No@0.640 | liq=9671.4649 | Will Albirex Niigata win on 2026-10-03? 
+  1.0130 | Yes@0.014 No@0.999 | liq=5319.63876 | Exact Score: Sacramento Republic FC 3 - 3 Las Vegas Lights? 
