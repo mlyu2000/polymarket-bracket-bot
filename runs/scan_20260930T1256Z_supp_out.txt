@@ -1,0 +1,13 @@
+[best-ask supplement] 500 markets in 48.7s
+BRACKETS (sum < 1.00): 0
+Near-misses (<=1.005): 4
+  1.001 | Yes@0.002 No@0.999 | Will Yehude Simón Munaro win the next Lima mayoral
+  1.001 | Yes@0.032 No@0.969 | Will the 5-year Treasury yield dip below 4.10% bef
+  1.003 | Yes@0.998 No@0.005 | Nothing Ever Happens: September
+  1.004 | Yes@0.104 No@0.900 | Will the Democratic Party win the TX-32 House seat
+Best-ask floor across 86 priced markets:
+  1.001 | Yes@0.002 No@0.999 | liq=69475 | Will Yehude Simón Munaro win the next Lima mayoral
+  1.001 | Yes@0.032 No@0.969 | liq=14065 | Will the 5-year Treasury yield dip below 4.10% bef
+  1.003 | Yes@0.998 No@0.005 | liq=18977 | Nothing Ever Happens: September
+  1.004 | Yes@0.104 No@0.900 | liq=32382 | Will the Democratic Party win the TX-32 House seat
+  1.008 | Yes@0.009 No@0.999 | liq=15679 | Exact Score: Eritrea 3 - 0 South Africa?
