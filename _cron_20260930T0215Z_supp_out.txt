@@ -1,0 +1,20 @@
+priced 84
+floor 1.0010 Will Yehude Simón Munaro win the next Lima mayoral elections
+brackets 0
+near_1.000_1.005 5
+   1.0010 Y@0.002 N@0.999 liq 26216.14172 vol 9991.165646 | Will Yehude Simón Munaro win the next Lima mayoral elections
+   1.0010 Y@0.002 N@0.999 liq 1805.71743 vol 99.99200499999999 | Will the highest temperature in Chengdu be 30°C on October 1
+   1.0020 Y@0.033 N@0.969 liq 14782.01901 vol 9994.638762999999 | Will the 5-year Treasury yield dip below 4.10% before 2027?
+   1.0050 Y@0.998 N@0.007 liq 17859.9807 vol 9999.924062000002 | Nothing Ever Happens: September
+   1.0050 Y@0.006 N@0.999 liq 641.63405 vol 99.994 | Will the lowest temperature in Lucknow be 19°C or below on S
+top10
+   1.0010 Y@0.002 N@0.999 liq 26216.14172 | Will Yehude Simón Munaro win the next Lima mayoral elections
+   1.0010 Y@0.002 N@0.999 liq 1805.71743 | Will the highest temperature in Chengdu be 30°C on October 1
+   1.0020 Y@0.033 N@0.969 liq 14782.01901 | Will the 5-year Treasury yield dip below 4.10% before 2027?
+   1.0050 Y@0.998 N@0.007 liq 17859.9807 | Nothing Ever Happens: September
+   1.0050 Y@0.006 N@0.999 liq 641.63405 | Will the lowest temperature in Lucknow be 19°C or below on S
+   1.0100 Y@0.750 N@0.260 liq 293.9254 | BNB Up or Down - September 29, 8:00PM-12:00AM ET
+   1.0100 Y@0.660 N@0.350 liq 15018.8972 | CS Cienciano vs. CD Los Chankas: O/U 2.5
+   1.0100 Y@0.370 N@0.640 liq 3747.9007 | Will Albirex Niigata win on 2026-10-03?
+   1.0150 Y@0.016 N@0.999 liq 6703.82772 | Exact Score: Eritrea 3 - 0 South Africa?
+   1.0150 Y@0.020 N@0.995 liq 8800.58183 | Exact Score: FC Tulsa 1 - 4 New Mexico United?
