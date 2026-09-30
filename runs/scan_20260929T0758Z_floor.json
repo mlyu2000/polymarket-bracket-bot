@@ -1,0 +1,77 @@
+{
+  "markets": 500,
+  "priced": 76,
+  "brackets": [],
+  "floor_rows": [
+    [
+      1.001,
+      "Will the 5-year Treasury yield dip below 4.10% bef",
+      0.033,
+      0.968,
+      16164.08156
+    ],
+    [
+      1.002,
+      "Will ByteDance be the second-best Chinese AI compa",
+      0.005,
+      0.997,
+      3456.05588
+    ],
+    [
+      1.007,
+      "Will Trump meet with Mohammed bin Salman in Septem",
+      0.009,
+      0.998,
+      13820.51349
+    ],
+    [
+      1.008,
+      "Will Khamenei post 40-44 posts from September 29 t",
+      0.009,
+      0.999,
+      743.69568
+    ],
+    [
+      1.009,
+      "Will Netflix, Inc. (NFLX) hit (HIGH) $105 in Septe",
+      0.011,
+      0.998,
+      487.65613
+    ],
+    [
+      1.01,
+      "Cagliari Calcio vs. Juventus FC: O/U 2.5",
+      0.48,
+      0.53,
+      4772.5589
+    ],
+    [
+      1.01,
+      "Comoros vs. Namibia: 1st Half O/U 3.5",
+      0.023,
+      0.987,
+      866.10322
+    ],
+    [
+      1.01,
+      "Will any player have 1,750+ receiving yards in the",
+      0.39,
+      0.62,
+      689.5888
+    ],
+    [
+      1.013,
+      "Spread: Niger (-2.5)",
+      0.014,
+      0.999,
+      2446.43508
+    ],
+    [
+      1.015,
+      "Exact Score: FC Tulsa 5 - 1 New Mexico United?",
+      0.021,
+      0.994,
+      2572.5996
+    ]
+  ]
+}

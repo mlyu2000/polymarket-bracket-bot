@@ -1,4 +1,14 @@
-🔍 Scan: 500 markets in 56.2s
+🔍 Scan: 500 markets in 50.7s
 ✅ BRACKETS (sum < 1.00): 0
-📊 Near-misses (≤1.005, verbatim asks[0] block): 0
-[supp min-ask] priced 79/500; true best-ask floor 1.001; 4 markets <=1.005
+📊 Near-misses (≤1.005): 0
+
+[supp min-ask]
+priced 88
+floor 1.0010 Will Yehude Simón Munaro win the next Lima mayoral elections
+brackets 0
+near_1.000_1.005 5
+   1.0010 Y@0.002 N@0.999 liq 70813.98403 | Will Yehude Simón Munaro win the next Lima mayoral elections
+   1.0010 Y@0.032 N@0.969 liq 14521.17796 | Will the 5-year Treasury yield dip below 4.10% before 2027?
+   1.0010 Y@0.005 N@0.996 liq 1437.77895 | Will the highest temperature in Jeddah be 38°C on September 
+   1.0010 Y@0.002 N@0.999 liq 3622.69812 | Will the highest temperature in Paris be 15°C or below on Oc
+   1.0050 Y@0.998 N@0.007 liq 17579.18066 | Nothing Ever Happens: September

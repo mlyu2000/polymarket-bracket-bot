@@ -1,0 +1,78 @@
+{
+ "ts": "20260929T040908Z",
+ "markets": 500,
+ "priced": 76,
+ "brackets": 0,
+ "top_min_ask_sums": [
+  [
+   1.001,
+   0.004,
+   0.997,
+   "Will ByteDance be the second-best Chinese AI company at the ",
+   3759.3737
+  ],
+  [
+   1.001,
+   0.033,
+   0.968,
+   "Will the 5-year Treasury yield dip below 4.10% before 2027?",
+   16014.13073
+  ],
+  [
+   1.005,
+   0.01,
+   0.995,
+   "Will the highest temperature in Atlanta be between 94-95\u00b0F o",
+   3651.37657
+  ],
+  [
+   1.008,
+   0.009,
+   0.999,
+   "Will Khamenei post 40-44 posts from September 29 to October ",
+   463.45219
+  ],
+  [
+   1.009,
+   0.011,
+   0.998,
+   "Will Netflix, Inc. (NFLX) hit (HIGH) $105 in September?",
+   487.65613
+  ],
+  [
+   1.01,
+   0.37,
+   0.64,
+   "Will Albirex Niigata win on 2026-10-03?",
+   2898.2216
+  ],
+  [
+   1.01,
+   0.39,
+   0.62,
+   "Will any player have 1,750+ receiving yards in the 2026-27 N",
+   657.3488
+  ],
+  [
+   1.015,
+   0.021,
+   0.994,
+   "Exact Score: FC Tulsa 5 - 1 New Mexico United?",
+   2406.8164
+  ],
+  [
+   1.02,
+   0.19,
+   0.83,
+   "Will CS Cienciano vs. CD Los Chankas end in a draw?",
+   11503.5432
+  ],
+  [
+   1.021,
+   0.022,
+   0.999,
+   "Exact Score: Sacramento Republic FC 3 - 3 Las Vegas Lights?",
+   2388.41497
+  ]
+ ]
+}

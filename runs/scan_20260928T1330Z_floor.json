@@ -1,0 +1,14 @@
+{
+  "scan": "20260928T1330Z",
+  "markets_fetched": 500,
+  "priced_markets_best_ask": 75,
+  "brackets_sum_lt_1": 0,
+  "detector_gated_brackets": 0,
+  "near_miss_le_1p005": 2,
+  "min_best_ask_sum": 1.0010,
+  "near_misses": [
+    {"sum": 1.0010, "yes": 0.033, "no": 0.968, "liq": 9733.82, "q": "Will the 5-year Treasury yield dip below 4.10% before 2027?"},
+    {"sum": 1.0030, "yes": 0.006, "no": 0.997, "liq": 50439.88, "q": "Georgia vs. Ukraine: O/U 7.5"}
+  ],
+  "notes": "detector.py internally uses min-ask (correct); cron-script verbatim near-miss block uses asks[0] which is DESC-worst ask -> always 0 near-misses. Supplement corrected. Paper executor fired 0 trades."
+}

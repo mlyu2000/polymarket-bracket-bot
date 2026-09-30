@@ -1,0 +1,4 @@
+priced markets: 76/500
+floor (min sum via min-ask): 1.0010
+min-ask near-misses (<=1.005): 1
+  1.001 | Yes@0.033 No@0.968 | liq=14376 | Will the 5-year Treasury yield dip below 4.10% bef

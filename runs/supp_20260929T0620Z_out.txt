@@ -1,0 +1,12 @@
+markets=500 priced=76 detector_brackets=0
+TOP min-ask sums (true floor):
+  1.001 | YesMin@0.033 NoMin@0.968 | liq=16163.11896 | Will the 5-year Treasury yield dip below 4.10% bef
+  1.002 | YesMin@0.005 NoMin@0.997 | liq=4032.77964 | Will ByteDance be the second-best Chinese AI compa
+  1.007 | YesMin@0.009 NoMin@0.998 | liq=13818.63104 | Will Trump meet with Mohammed bin Salman in Septem
+  1.008 | YesMin@0.009 NoMin@0.999 | liq=711.96666 | Will Khamenei post 40-44 posts from September 29 t
+  1.009 | YesMin@0.011 NoMin@0.998 | liq=489.64713 | Will Netflix, Inc. (NFLX) hit (HIGH) $105 in Septe
+  1.010 | YesMin@0.390 NoMin@0.620 | liq=672.4888 | Will any player have 1,750+ receiving yards in the
+  1.019 | YesMin@0.020 NoMin@0.999 | liq=3305.78547 | Exact Score: Sacramento Republic FC 3 - 3 Las Vega
+  1.020 | YesMin@0.480 NoMin@0.540 | liq=4541.7089 | Cagliari Calcio vs. Juventus FC: O/U 2.5
+  1.020 | YesMin@0.021 NoMin@0.999 | liq=3660.0286 | Exact Score: FC Tulsa 5 - 1 New Mexico United?
+  1.020 | YesMin@0.090 NoMin@0.930 | liq=7957.5654 | Exact Score: South Sudan 0 - 4 Egypt?

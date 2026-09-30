@@ -1,0 +1,30 @@
+{
+  "ts_utc": "2026-09-29T15:49Z",
+  "scan_verbatim": {
+    "markets": 500,
+    "scan_time_s": 49.1,
+    "brackets": 0,
+    "near_misses_asks0": 0
+  },
+  "supp_minask": {
+    "priced": 97,
+    "true_floor": 1.001,
+    "sums_le_1.005": [
+      {
+        "sum": 1.001,
+        "yes": 0.033,
+        "no": 0.968,
+        "liq": 14005.8,
+        "q": "Will the 5-year Treasury yield dip below 4.10% before..."
+      },
+      {
+        "sum": 1.003,
+        "yes": 0.01,
+        "no": 0.993,
+        "liq": 843.86,
+        "q": "Moldova vs. Faroe Islands: Faroe Islands 1st Half..."
+      }
+    ]
+  },
+  "paper_trades_executed": 0
+}

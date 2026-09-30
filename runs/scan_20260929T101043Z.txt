@@ -1,0 +1,6 @@
+⏱ corrected sweep: 500 markets in 49.2s
+✅ DETECTOR BRACKETS (min-ask, sum<1.00): 0
+📊 NEAR-MISSES ≤1.005 (corrected min-ask): 2
+  1.0010 | Yes@0.004 No@0.997 | liq=4070.79611 | Will ByteDance be the second-best Chinese AI company at the 
+  1.0010 | Yes@0.033 No@0.968 | liq=15741.05874 | Will the 5-year Treasury yield dip below 4.10% before 2027?
+BEST FLOOR: 1.0010
