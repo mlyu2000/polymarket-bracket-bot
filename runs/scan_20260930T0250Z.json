@@ -1,0 +1,15 @@
+{
+  "ts": "2026-09-30T02:50Z",
+  "markets_scanned": 500,
+  "scan_time_s": 51.9,
+  "brackets_sum_lt_1": 0,
+  "priced_books_min_ask_method": "84/500",
+  "floor": [
+    {"sum": 1.001, "yes": 0.002, "no": 0.999, "liq": 28124, "q": "Will Yehude Simón Munaro win the next Lima mayoral elections"},
+    {"sum": 1.001, "yes": 0.002, "no": 0.999, "liq": 1990, "q": "Will the highest temperature in Chengdu be 30°C on October 1"},
+    {"sum": 1.002, "yes": 0.033, "no": 0.969, "liq": 14554, "q": "Will the 5-year Treasury yield dip below 4.10% before 2027?"},
+    {"sum": 1.005, "yes": 0.998, "no": 0.007, "liq": 17860, "q": "Nothing Ever Happens: September"}
+  ],
+  "summary": {"lt_1_000": 0, "near_1_000_to_1_005": 4},
+  "verdict": "INCONCLUSIVE - no actionable bracket; floor 1.001 unchanged vs 2026-09-21 measurement"
+}
