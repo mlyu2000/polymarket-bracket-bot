@@ -1,3 +1,8 @@
-🔍 Scan: 500 markets in 50.8s
+🔍 Scan: 500 markets in 48.5s
 ✅ BRACKETS (sum < 1.00): 0
-📊 Near-misses (≤1.005): 0
+📊 Near-misses (asks[0] ≤1.005): 0 (asks[0] is worst ask; see min-ask below)
+[supp min-ask] 90 priced; BRACKETS: 0; floor 1.001; near-misses ≤1.005: 4
+  1.001 | Yes@0.002 No@0.999 | liq=70364.0 | Will Yehude Simón Munaro win the next Lima mayoral
+  1.001 | Yes@0.032 No@0.969 | liq=14510.0 | Will the 5-year Treasury yield dip below 4.10% bef
+  1.003 | Yes@0.998 No@0.005 | liq=19077.0 | Nothing Ever Happens: September
+  1.004 | Yes@0.104 No@0.900 | liq=31934.0 | Will the Democratic Party win the TX-32 House seat
