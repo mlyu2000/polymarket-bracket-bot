@@ -1,0 +1,6 @@
+supp: 92 priced markets in 46.5s (best-ask totals)
+true floor: 1.0010
+sum<1.00 best-ask (true brackets): 0
+near-misses (1.000-1.005 best-ask): 2
+  1.0010 | Yes@0.002(sz430) No@0.999(sz210) | liq=62725.77292 | Will Yehude Simón Munaro win the next Lima mayoral elec
+  1.0040 | Yes@0.005(sz1003) No@0.999(sz1000) | liq=4107.50472 | Spread: CA Platense (-3.5)
