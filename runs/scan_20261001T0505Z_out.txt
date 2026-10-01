@@ -1,0 +1,20 @@
+=== verbatim scan (asks[0] near-miss) ===
+🔍 Scan: 500 markets in 50.5s
+✅ BRACKETS (sum < 1.00): 0
+📊 Near-misses (≤1.005): 0
+
+=== min-ask ground truth ===
+priced markets: 83
+brackets (best-ask sum < 1.00): 0
+near-misses (<=1.005): 2
+--- top 10 lowest sums ---
+  1.0010 | Yes@0.002 No@0.999 | liq=58005.79748 | Will Yehude Simón Munaro win the next Lima mayoral elections
+  1.0010 | Yes@0.032 No@0.969 | liq=13782.58893 | Will the 5-year Treasury yield dip below 4.10% before 2027?
+  1.0090 | Yes@0.010 No@0.999 | liq=4290.58314 | Spread: CA Platense (-3.5)
+  1.0090 | Yes@0.010 No@0.999 | liq=3649.92495 | Spread: Sporting Kansas City (-3.5)
+  1.0100 | Yes@0.300 No@0.710 | liq=2074.7144 | Nicaragua vs. Costa Rica: Nicaragua 1st Half O/U 0.5
+  1.0100 | Yes@0.260 No@0.750 | liq=8860.6734 | Will the next Google Gemini Pro model be released by October
+  1.0130 | Yes@0.014 No@0.999 | liq=2156.25828 | FK Austria Wien vs. FC Internazionale Milano: O/U 7.5
+  1.0130 | Yes@0.015 No@0.998 | liq=11201.6697 | Greece vs. Netherlands: O/U 7.5
+  1.0200 | Yes@0.570 No@0.450 | liq=2803.7781 | Nicaragua vs. Costa Rica: Nicaragua O/U 0.5
+  1.0200 | Yes@0.580 No@0.440 | liq=598.4232 | St. Lucia vs. Guadeloupe: Guadeloupe O/U 1.5
