@@ -1,0 +1,14 @@
+priced=94 skipped_no_best_ask=406
+FLOOR best-ask-sum = 1.001
+Top-10 lowest best-ask sums:
+  1.001 | Yes@0.002 No@0.999 | liq=62026.18072 | Will Yehude Simón Munaro win the next Lima mayoral elections
+  1.004 | Yes@0.005 No@0.999 | liq=4464.5317 | Spread: CA Platense (-3.5)
+  1.006 | Yes@0.010 No@0.996 | liq=2865.52435 | FK Austria Wien vs. FC Internazionale Milano: O/U 7.5
+  1.009 | Yes@0.010 No@0.999 | liq=13821.0222 | Azerbaijan vs. Liechtenstein: Liechtenstein O/U 2.5
+  1.009 | Yes@0.010 No@0.999 | liq=5679.65527 | Spread: Sporting Kansas City (-3.5)
+  1.009 | Yes@0.029 No@0.980 | liq=455.6288 | Will Moonshot be the third-best AI lab at the end of Novembe
+  1.010 | Yes@0.360 No@0.650 | liq=7615.3436 | Republic of Ireland vs. Austria: Republic of Ireland 1st Hal
+  1.010 | Yes@0.520 No@0.490 | liq=335460.9622 | Steelers vs. Browns: O/U 37.5
+  1.017 | Yes@0.020 No@0.997 | liq=50.45904 | Azerbaijan vs. Liechtenstein: Liechtenstein 1st Half O/U 1.5
+  1.018 | Yes@0.020 No@0.998 | liq=2367.52891 | Exact Score: Helmond Sport 3 - 0 Heracles Almelo?
+near-misses(best-ask, <=1.005): 2 | sum<1.000 raw: 0
