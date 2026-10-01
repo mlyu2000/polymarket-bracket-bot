@@ -1,0 +1,6 @@
+priced markets: 85 / 500
+true floor (min-ask sum): 1.001
+min-ask near-misses (<=1.005): 3
+  1.001 | Yes@0.002 No@0.999 | liq=56712.41242 | Will Yehude Simón Munaro win the next Lima mayoral
+  1.001 | Yes@0.032 No@0.969 | liq=13736.5832 | Will the 5-year Treasury yield dip below 4.10% bef
+  1.005 | Yes@0.010 No@0.995 | liq=2726.47144 | Azerbaijan vs. Liechtenstein: Liechtenstein O/U 2.
