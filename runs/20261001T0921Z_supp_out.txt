@@ -1,0 +1,6 @@
+⏱ min-ask scan: 500 markets (82 priced) in 41.1s
+✅ BRACKETS (detector, net_edge >= margin): 0
+📊 Near-misses (min-ask ≤ 1.005): 2
+  1.0010 | Yes@0.002 No@0.999 | liq=56668.82731 | Will Yehude Simón Munaro win the next Lima mayoral
+  1.0040 | Yes@0.013 No@0.991 | liq=17128.57435 | Greece vs. Netherlands: O/U 7.5
+📉 Best-ask floor: 1.0010 | Yes@0.002 No@0.999 | Will Yehude Simón Munaro win the next Lima mayoral
