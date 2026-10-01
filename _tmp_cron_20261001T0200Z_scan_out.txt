@@ -1,0 +1,10 @@
+scan 20261001T0200Z: 500 markets in 48.0s
+brackets(sum<1.00): 0
+near-miss asks[0]: 0
+min-ask near-miss (1.00<s<=1.005): 5
+  1.0010 | Yes@0.002 No@0.999 | liq=66470.84 | Will Yehude Simón Munaro win the next Lima mayoral race
+  1.0010 | Yes@0.004 No@0.997 | liq=79533.98 | Will Z.ai have the best AI model at the end of December 2026
+  1.0010 | Yes@0.032 No@0.969 | liq=13539.62 | Will the 5-year Treasury yield dip below 4.10% before ...
+  1.0030 | Yes@0.004 No@0.999 | liq=2054.32 | Will the highest temperature in Istanbul be 22°C on ...
+  1.0050 | Yes@0.013 No@0.992 | liq=15118.87 | Greece vs. Netherlands: O/U 7.5
+global min best-ask sum: 1.0010
