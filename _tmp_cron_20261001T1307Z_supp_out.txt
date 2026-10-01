@@ -1,0 +1,7 @@
+min-ask scan: 500 markets, 96 priced both sides
+floor: 1.0010
+brackets (min-ask sum < 1.00): 0
+near-misses (<=1.005):
+  1.0010 | Yes@0.002 No@0.999 | liq=66067.31288 | Will Yehude Simón Munaro win the next Lima mayoral elections
+  1.0020 | Yes@0.028 No@0.974 | liq=60816.1979 | Will Czechia win on 2026-10-03?
+  1.0040 | Yes@0.005 No@0.999 | liq=3159.70657 | Spread: CA Platense (-3.5)
