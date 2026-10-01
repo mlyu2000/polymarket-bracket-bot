@@ -1,0 +1,14 @@
+elapsed=50.8s markets=500 detector_brackets=0 priced=83
+true floor (min-ask sums), lowest 10:
+  1.0010 | Yes@0.002 No@0.999 | liq=62533 | Will Yehude Simón Munaro win the next Lima mayoral elec
+  1.0010 | Yes@0.032 No@0.969 | liq=13392 | Will the 5-year Treasury yield dip below 4.10% before 2
+  1.0030 | Yes@0.004 No@0.999 | liq=1936 | Will the highest temperature in Istanbul be 22°C on Oct
+  1.0060 | Yes@0.014 No@0.992 | liq=9228 | Greece vs. Netherlands: O/U 7.5
+  1.0070 | Yes@0.012 No@0.995 | liq=2295 | FK Austria Wien vs. FC Internazionale Milano: O/U 7.5
+  1.0090 | Yes@0.010 No@0.999 | liq=4986 | Spread: Sporting Kansas City (-3.5)
+  1.0100 | Yes@0.370 No@0.640 | liq=7936 | Will Albirex Niigata win on 2026-10-03?
+  1.0180 | Yes@0.019 No@0.999 | liq=2091 | Spread: CA Platense (-3.5)
+  1.0190 | Yes@0.055 No@0.964 | liq=2714 | Will Elon Musk post 780-799 tweets in October 2026?
+  1.0200 | Yes@0.580 No@0.440 | liq=5112 | Nicaragua vs. Costa Rica: Nicaragua O/U 0.5
+count sum<1.00: 0
+count sum<=1.005: 3
