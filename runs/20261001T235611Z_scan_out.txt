@@ -1,0 +1,13 @@
+Scan: 500 markets in 49.7s
+BRACKETS (detector, net_edge>=margin): 0
+Near-misses verbatim asks[0] (<=1.005): 0
+
+--- best-ask (min) floor: valid pairs ---
+priced_markets=84
+  1.0090 | Yes@0.011 No@0.998 | liq=5719 sz=30 | Exact Score: Helmond Sport 3 - 0 Heracles Almelo?
+  1.0090 | Yes@0.010 No@0.999 | liq=7870 sz=960 | Spread: CA Platense (-3.5)
+  1.0090 | Yes@0.010 No@0.999 | liq=9319 sz=1055 | Spread: Sporting Kansas City (-3.5)
+  1.0100 | Yes@0.450 No@0.560 | liq=7941 sz=250 | CA Independiente vs. Instituto AC Córdoba: Both Teams to Sco
+  1.0100 | Yes@0.170 No@0.840 | liq=19709 sz=467 | Dreamcash FDV above $20M one day after launch?
+best-ask sums <1.00: 0 | in [1.00,1.005]: 0
+data persisted -> runs/20261001T235611Z_scan_data.json

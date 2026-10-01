@@ -1,0 +1,38 @@
+{
+ "markets": 500,
+ "scan_time_s": 49.7,
+ "brackets_detector": 0,
+ "bracket_opps": [],
+ "near_misses_verbatim_asks0": 0,
+ "near_misses_verbatim": [],
+ "brackets_true_minask": 0,
+ "near_misses_true_minask": 0,
+ "best_ask_floor": 1.009,
+ "priced_markets": 84,
+ "top_true_sums": [
+  {
+   "sum": 1.009,
+   "yes": 0.011,
+   "no": 0.998,
+   "liq": 5719,
+   "sz": 30,
+   "q": "Exact Score: Helmond Sport 3 - 0 Heracles Almelo?"
+  },
+  {
+   "sum": 1.009,
+   "yes": 0.01,
+   "no": 0.999,
+   "liq": 7870,
+   "sz": 960,
+   "q": "Spread: CA Platense (-3.5)"
+  },
+  {
+   "sum": 1.009,
+   "yes": 0.01,
+   "no": 0.999,
+   "liq": 9319,
+   "sz": 1055,
+   "q": "Spread: Sporting Kansas City (-3.5)"
+  }
+ ]
+}
