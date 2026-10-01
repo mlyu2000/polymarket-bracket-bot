@@ -1,0 +1,8 @@
+supp: 92 priced markets in 46.6s (best-ask totals)
+true floor: 1.0010
+sum<1.00 best-ask (true brackets): 0
+near-misses (1.000-1.005 best-ask): 4
+  1.0010 | Yes@0.028(sz305) No@0.973(sz300) | liq=65640.94744 | Will Czechia win on 2026-10-03?
+  1.0010 | Yes@0.002(sz430) No@0.999(sz210) | liq=63482.04202 | Will Yehude Simón Munaro win the next Lima mayoral elec
+  1.0040 | Yes@0.005(sz1003) No@0.999(sz1000) | liq=2948.7475 | Spread: CA Platense (-3.5)
+  1.0050 | Yes@0.040(sz2798) No@0.965(sz1508) | liq=39490.94517 | Spread: Denmark (-2.5)
