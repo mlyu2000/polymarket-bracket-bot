@@ -1,0 +1,6 @@
+min-ask supplementary: 500 markets, 84 priced, 45.7s
+min-ask BRACKETS (sum<1.0): 0
+top 8 closest (sum<=1.005):
+  1.0010 | Yes@0.002 No@0.999 | liq=59679.65705 | Will Yehude Simón Munaro win the next Lima mayoral elections?
+  1.0040 | Yes@0.005 No@0.999 | liq=5650.44442 | Spread: CA Platense (-3.5)
+overall floor: 1.001
