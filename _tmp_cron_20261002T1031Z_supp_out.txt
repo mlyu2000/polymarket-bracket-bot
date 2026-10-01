@@ -1,0 +1,13 @@
+Supp (min-ask, correct best ask): 500 markets (86 priced) in 46.1s
+Brackets sum<1.000: 0
+Near-misses <=1.005: 2
+  1.001 | Yes@0.002 No@0.999 | liq=51894.94483 | Will Yehude Simón Munaro win the next Lima mayoral elections
+  1.005 | Yes@0.010 No@0.995 | liq=951.55853 | Greece vs. Netherlands: Netherlands O/U 5.5
+  1.007 | Yes@0.011 No@0.996 | liq=1824.97928 | FK Austria Wien vs. FC Internazionale Milano: O/U 7.5
+  1.009 | Yes@0.010 No@0.999 | liq=2922.80692 | Spread: CA Platense (-3.5)
+  1.009 | Yes@0.010 No@0.999 | liq=4797.06559 | Spread: Sporting Kansas City (-3.5)
+  1.010 | Yes@0.710 No@0.300 | liq=24791.9839 | Malta vs. Gibraltar: O/U 1.5
+  1.010 | Yes@0.240 No@0.770 | liq=12845.238 | Spread: Germany (-3.5)
+  1.010 | Yes@0.370 No@0.640 | liq=6365.3394 | Will Albirex Niigata win on 2026-10-03?
+  1.010 | Yes@0.270 No@0.740 | liq=163457.6083 | Will Republic of Ireland win on 2026-10-01?
+  1.020 | Yes@0.022 No@0.998 | liq=6538.36656 | Exact Score: Helmond Sport 3 - 0 Heracles Almelo?
