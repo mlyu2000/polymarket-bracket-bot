@@ -1,0 +1,14 @@
+priced markets: 83
+brackets (best-ask sum < 1.00): 0
+near-misses (<=1.005): 3
+--- top 10 lowest sums ---
+  1.0010 | Yes@0.002 No@0.999 | liq=58056.35654 | Will Yehude Simón Munaro win the next Lima mayoral elections
+  1.0010 | Yes@0.032 No@0.969 | liq=13707.95441 | Will the 5-year Treasury yield dip below 4.10% before 2027?
+  1.0040 | Yes@0.010 No@0.994 | liq=2662.14864 | Azerbaijan vs. Liechtenstein: Liechtenstein O/U 2.5
+  1.0090 | Yes@0.010 No@0.999 | liq=3141.05287 | Spread: CA Platense (-3.5)
+  1.0090 | Yes@0.010 No@0.999 | liq=3652.59999 | Spread: Sporting Kansas City (-3.5)
+  1.0100 | Yes@0.300 No@0.710 | liq=2074.1944 | Nicaragua vs. Costa Rica: Nicaragua 1st Half O/U 0.5
+  1.0100 | Yes@0.260 No@0.750 | liq=9185.0995 | Will the next Google Gemini Pro model be released by October
+  1.0140 | Yes@0.015 No@0.999 | liq=9407.67822 | Greece vs. Netherlands: O/U 7.5
+  1.0200 | Yes@0.370 No@0.650 | liq=7166.4129 | Will Albirex Niigata win on 2026-10-03?
+  1.0240 | Yes@0.025 No@0.999 | liq=2291.20168 | Exact Score: Helmond Sport 4 - 2 Heracles Almelo?
