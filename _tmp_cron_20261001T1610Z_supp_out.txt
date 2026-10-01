@@ -1,0 +1,9 @@
+markets=500 priced_pairs=95 detector_hits=0 true_floor=1.0010
+TRUE near-misses (min-ask sum<=1.01): 7
+  1.0010 | Yes@0.002 No@0.999 | liq=62928.30121 active=True closed=False | Will Yehude Simón Munaro win the next Lima mayoral elections
+  1.0040 | Yes@0.005 No@0.999 | liq=4471.05341 active=True closed=False | Spread: CA Platense (-3.5)
+  1.0050 | Yes@0.010 No@0.995 | liq=2878.67436 active=True closed=False | FK Austria Wien vs. FC Internazionale Milano: O/U 7.5
+  1.0090 | Yes@0.010 No@0.999 | liq=5683.51227 active=True closed=False | Spread: Sporting Kansas City (-3.5)
+  1.0100 | Yes@0.360 No@0.650 | liq=7631.1188 active=True closed=False | Republic of Ireland vs. Austria: Republic of Ireland 1st Hal
+  1.0100 | Yes@0.520 No@0.490 | liq=379717.4275 active=True closed=False | Steelers vs. Browns: O/U 37.5
+  1.0100 | Yes@0.370 No@0.640 | liq=7844.0882 active=True closed=False | Will Albirex Niigata win on 2026-10-03?
