@@ -1,9 +1,10 @@
 {
- "scan_utc": "2026-10-01T20:07Z",
  "markets": 500,
  "scan_time_s": 47.5,
- "brackets_verbatim": 0,
+ "brackets_detector": 0,
+ "bracket_opps": [],
  "near_misses_verbatim_asks0": 0,
+ "near_misses_verbatim": [],
  "brackets_true_minask": 0,
  "near_misses_true_minask": 1,
  "best_ask_floor": 1.001,
