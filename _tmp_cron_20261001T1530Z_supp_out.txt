@@ -1,0 +1,12 @@
+MIN-ASK true brackets (sum<1.00): 0
+MIN-ASK near-misses (1.00<sum<=1.005): 1
+  1.001 | Yes@0.002 No@0.999 | liq=62779 | Will Yehude Simón Munaro win the next Lima mayoral
+Best min-ask totals overall:
+  1.001 | Yes@0.002 No@0.999 | liq=62779 | Will Yehude Simón Munaro win the next Lima mayoral
+  1.006 | Yes@0.010 No@0.996 | liq=2842 | FK Austria Wien vs. FC Internazionale Milano: O/U 
+  1.009 | Yes@0.010 No@0.999 | liq=5519 | Spread: Sporting Kansas City (-3.5)
+  1.009 | Yes@0.029 No@0.980 | liq=432 | Will Moonshot be the third-best AI lab at the end 
+  1.010 | Yes@0.300 No@0.710 | liq=2541 | Nicaragua vs. Costa Rica: Nicaragua 1st Half O/U 0
+  1.010 | Yes@0.360 No@0.650 | liq=7620 | Republic of Ireland vs. Austria: Republic of Irela
+  1.010 | Yes@0.520 No@0.490 | liq=300713 | Steelers vs. Browns: O/U 37.5
+  1.010 | Yes@0.370 No@0.640 | liq=7231 | Will Albirex Niigata win on 2026-10-03?
