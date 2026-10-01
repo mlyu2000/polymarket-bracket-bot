@@ -1,0 +1,11 @@
+🔍 Scan: 500 markets in 48.0s
+✅ BRACKETS (sum < 1.00): 0
+📊 Near-misses (≤1.005): 0
+---- SUPPLEMENT (true best-ask min() sums; asks[0] is worst ask on DESC-sorted CLOB books) ----
+Min-ask near-misses (1.00 < sum <= 1.005): 5
+  1.0010 | Yes@0.002 No@0.999 | liq=61473.259 | Will Yehude Simón Munaro win the next Lima mayoral
+  1.0010 | Yes@0.004 No@0.997 | liq=79542.69983 | Will Z.ai have the best AI model at the end of Dec
+  1.0010 | Yes@0.032 No@0.969 | liq=13138.82593 | Will the 5-year Treasury yield dip below 4.10% bef
+  1.0030 | Yes@0.004 No@0.999 | liq=1999.11776 | Will the highest temperature in Istanbul be 22°C o
+  1.0050 | Yes@0.013 No@0.992 | liq=15284.35 | Greece vs. Netherlands: O/U 7.5
+Global min best-ask sum: 1.0010 | Will the 5-year Treasury yield dip below 4.10% bef
