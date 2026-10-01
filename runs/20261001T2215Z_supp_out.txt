@@ -1,0 +1,4 @@
+markets: 500 | priced books: 76
+true brackets (best asks sum<1.00, liq ok): 0
+near-misses on best asks (<=1.005): 0
+global floor: 1.0090 | Yes@0.010 No@0.999 | liq=6457.1821 | Spread: Sporting Kansas City (-3.5)
