@@ -1,0 +1,6 @@
+markets=500 scan_time=45.8s
+detector_brackets=0
+min-ask floor=1.0010  p1=1.0050  p5=1.0090  median=1.0690
+min-ask near-misses (<=1.005): 2
+  1.0010 | Yes@0.002 No@0.999 | liq=58061.18162 | Will Yehude Simón Munaro win the next Lima mayoral
+  1.0050 | Yes@0.010 No@0.995 | liq=4089.2303 | Greece vs. Netherlands: Netherlands O/U 5.5
