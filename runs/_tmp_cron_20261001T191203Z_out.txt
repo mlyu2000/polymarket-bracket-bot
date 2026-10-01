@@ -1,0 +1,13 @@
+Scan: 500 markets in 56.2s
+BRACKETS (sum < 1.00): 0
+Near-misses (<=1.005, verbatim asks[0]): 0
+
+--- SUPPLEMENT: best-ask (min) scan ---
+Markets with valid best-ask pair: 84
+Floor (5 lowest best-ask sums):
+  1.0010 | Yes@0.002 No@0.999 | liq=61179.41426 | Will Yehude Simón Munaro win the next Lima mayoral elections
+  1.0020 | Yes@0.004 No@0.998 | liq=17604.33638 | Will Elon Musk post 80-99 tweets from October 2 to October 9
+  1.0090 | Yes@0.010 No@0.999 | liq=5244.23829 | Spread: CA Platense (-3.5)
+  1.0090 | Yes@0.010 No@0.999 | liq=5747.87658 | Spread: Sporting Kansas City (-3.5)
+  1.0100 | Yes@0.170 No@0.840 | liq=19671.0299 | Dreamcash FDV above $20M one day after launch?
+Best-ask sums < 1.00: 0 | in [1.00,1.005]: 2
