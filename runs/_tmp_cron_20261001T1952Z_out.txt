@@ -1,0 +1,14 @@
+Scan: 500 markets in 48.6s
+BRACKETS (detector, net_edge>=margin): 0
+Near-misses verbatim asks[0] (<=1.005): 0
+
+--- best-ask (min) floor: valid pairs=82 ---
+  1.0010 | Yes@0.003 No@0.998 | liq=17892 sz=449 | Will Elon Musk post 80-99 tweets from October 2 to Octo
+  1.0090 | Yes@0.010 No@0.999 | liq=5234 sz=960 | Spread: CA Platense (-3.5)
+  1.0090 | Yes@0.010 No@0.999 | liq=5760 sz=1055 | Spread: Sporting Kansas City (-3.5)
+  1.0100 | Yes@0.170 No@0.840 | liq=12727 sz=426 | Dreamcash FDV above $20M one day after launch?
+  1.0100 | Yes@0.012 No@0.998 | liq=3733 sz=188 | Exact Score: Helmond Sport 3 - 0 Heracles Almelo?
+  1.0100 | Yes@0.290 No@0.720 | liq=3636 sz=50 | Nicaragua vs. Costa Rica: Nicaragua 1st Half O/U 0.5
+  1.0200 | Yes@0.450 No@0.570 | liq=3272 sz=100 | CA Independiente vs. Instituto AC Córdoba: Both Teams t
+  1.0200 | Yes@0.700 No@0.320 | liq=1623 sz=5 | Deportivo Maldonado vs. Central Espanol FC: O/U 1.5
+best-ask sums < 1.00: 0 | in [1.000,1.005]: 1
