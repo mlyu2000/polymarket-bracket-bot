@@ -1,0 +1,5 @@
+Markets with both books priced (min-ask): 84
+Near-misses (min-ask sum <= 1.005): 3
+  1.001 | Yes@0.002 No@0.999 | liq=57921.46548 | Will Yehude Simón Munaro win the next Lima mayoral
+  1.001 | Yes@0.032 No@0.969 | liq=13708.16441 | Will the 5-year Treasury yield dip below 4.10% bef
+  1.003 | Yes@0.010 No@0.993 | liq=3212.28164 | Azerbaijan vs. Liechtenstein: Liechtenstein O/U 2.
