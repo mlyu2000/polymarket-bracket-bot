@@ -1,0 +1,14 @@
+priced markets: 84
+brackets (best-ask sum < 1.00): 0
+near-misses (<=1.005): 3
+--- top 10 lowest sums ---
+  1.001 | Yes@0.002 No@0.999 | liq=56864.52475 | Will Yehude Simón Munaro win the next Lima mayoral elections
+  1.001 | Yes@0.032 No@0.969 | liq=13687.73257 | Will the 5-year Treasury yield dip below 4.10% before 2027?
+  1.005 | Yes@0.010 No@0.995 | liq=2760.85322 | Azerbaijan vs. Liechtenstein: Liechtenstein O/U 2.5
+  1.009 | Yes@0.010 No@0.999 | liq=3094.89914 | Spread: CA Platense (-3.5)
+  1.009 | Yes@0.010 No@0.999 | liq=3896.77761 | Spread: Sporting Kansas City (-3.5)
+  1.010 | Yes@0.240 No@0.770 | liq=8881.5054 | Spread: Germany (-3.5)
+  1.010 | Yes@0.370 No@0.640 | liq=7644.3189 | Will Albirex Niigata win on 2026-10-03?
+  1.010 | Yes@0.190 No@0.820 | liq=8911.6758 | Will Fleetwood Town FC win on 2026-10-03?
+  1.010 | Yes@0.050 No@0.960 | liq=1594.3345 | Will the highest temperature in Wellington be 12°C on Octobe
+  1.014 | Yes@0.015 No@0.999 | liq=11108.78457 | Greece vs. Netherlands: O/U 7.5
