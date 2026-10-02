@@ -1,0 +1,7 @@
+scan 20261002T1655Z (UTC)
+markets: 500, scan_time: 45.4s
+verbatim script near-ask branch: 0 brackets, 0 near-misses (asks[0] worst-side artifact)
+min-ask corrected: 0 brackets (sum<1.00), floor=1.0010, 1 near-miss <=1.005:
+  1.0010 | Yes@0.004 No@0.997 | liq=2958 | Will US unemployment reach at least 6.0% in 2026?
+change vs prior run (1512Z): no bracket openings; US-unemployment 6.0% market persists at floor 1.0010 (liq 2958 vs 2958, unchanged); no paper trades
+paper trades executed this run: 0
