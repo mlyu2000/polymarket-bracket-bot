@@ -1,0 +1,8 @@
+Scan 2026-10-02T05:02Z (cron, verbatim script + min-ask supplementary)
+- Verbatim cron script: 500 markets in 51.5s -> 0 brackets (sum<1.00), 0 near-misses (asks[0] <=1.005)
+- Supplementary (best-ask via min(), all priced markets): 68 priced markets, floor 1.0100, 0 brackets, 0 near-misses <=1.005
+- Detector (min-ask, net_edge>=margin): 0 opportunities, no paper executions
+- Floor (1.0100): "Exact Score: Helmond Sport 3 - 0 Heracles Almelo?" Yes@0.012 No@0.998 liq=5145
+- 2nd 1.0180 Albirex Niigata 3-3 (liq=6257); 3rd 1.0190 Helmond Sport 4-2 (liq=9456); 1.0200 Alexandrova game spread (liq=20816), Cote d'Ivoire vs Cameroon draw (liq=8291)
+- Notable sub-1.03: Gemini 4.0 released by Oct 5 (1.0240, liq=1504)
+- Trend vs 04:45Z run: floor unchanged 1.0100; priced 68; no arbitrage anywhere near 1.005
