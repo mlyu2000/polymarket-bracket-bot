@@ -1,0 +1,4 @@
+Scan 2026-10-02T00:51Z (cron, verbatim script + min-ask supplementary)
+- Verbatim cron script: 500 markets in 47.1s -> 0 brackets (sum<1.00), 0 near-misses (asks[0] <=1.005)
+- Supplementary (best-ask via min(), liq>0): 85 priced markets, floor 1.0090, 0 near-misses <=1.005
+- Detector (min-ask, net_edge>=margin): 0 opportunities, no paper executions
