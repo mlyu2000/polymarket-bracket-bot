@@ -1,0 +1,534 @@
+{
+  "markets": 500,
+  "opps": [],
+  "near_misses": [],
+  "best_all": [
+    [
+      1.001,
+      "Will US unemployment reach at least 6.0% in 2026?",
+      0.004,
+      0.997,
+      2955.529
+    ],
+    [
+      1.001,
+      "Will there be exactly 2 ChatGPT outages in September 2026?",
+      0.999,
+      0.002,
+      1005.91317
+    ],
+    [
+      1.01,
+      "Counter-Strike: MOUZ vs M80 - Map 1 Winner",
+      0.71,
+      0.3,
+      13845.2425
+    ],
+    [
+      1.01,
+      "Exact Score: BV Borussia 09 Dortmund 2 - 4 SV Werder Bremen?",
+      0.011,
+      0.999,
+      767.34282
+    ],
+    [
+      1.01,
+      "Spread: Toledo (-20.5)",
+      0.53,
+      0.48,
+      68978.4597
+    ],
+    [
+      1.01,
+      "Will C\u00f4te d'Ivoire vs. Cameroon end in a draw?",
+      0.29,
+      0.72,
+      12495.1462
+    ],
+    [
+      1.01,
+      "Will the highest temperature in Qingdao be 23\u00b0C on October 4",
+      0.41,
+      0.6,
+      2800.4761
+    ],
+    [
+      1.012,
+      "Exact Score: Racing Club de Lens 5 - 2 Olympique Lyonnais?",
+      0.013,
+      0.999,
+      1222.21519
+    ],
+    [
+      1.013,
+      "Exact Score: Albirex Niigata 3 - 3 Tokushima Vortis?",
+      0.019,
+      0.994,
+      7410.38256
+    ],
+    [
+      1.013,
+      "Exact Score: Stroemsgodset IF 0 - 2 Aasane Fotball?",
+      0.014,
+      0.999,
+      4609.29127
+    ],
+    [
+      1.014,
+      "Will Esteban Ocon win the 2026 F1 Bahrain Grand Prix?",
+      0.015,
+      0.999,
+      2564.19798
+    ],
+    [
+      1.018,
+      "Exact Score: Blaublitz Akita 3 - 3 Sagan Tosu?",
+      0.019,
+      0.999,
+      3275.81928
+    ],
+    [
+      1.02,
+      "CA Mineiro vs. Red Bull Bragantino: O/U 3.5",
+      0.31,
+      0.71,
+      17716.6685
+    ],
+    [
+      1.02,
+      "Exact Score: Bonaire 0 - 1 Grenada?",
+      0.14,
+      0.88,
+      9337.9421
+    ],
+    [
+      1.02,
+      "Greece vs. Germany: Both Teams to Score",
+      0.6,
+      0.42,
+      11300.9881
+    ],
+    [
+      1.022,
+      "Exact Score: Stroemmen IF 4 - 4 Sandnes Ulf?",
+      0.023,
+      0.999,
+      3307.57485
+    ],
+    [
+      1.025,
+      "Exact Score: Stroemsgodset IF 0 - 0 Aasane Fotball?",
+      0.027,
+      0.998,
+      4477.98971
+    ],
+    [
+      1.029,
+      "Will Cadillac have the highest constructor score at the 2026",
+      0.03,
+      0.999,
+      103.1237
+    ],
+    [
+      1.029,
+      "Will Lance Stroll get pole position at the 2026 F1 Bahrain G",
+      0.03,
+      0.999,
+      228.63799
+    ],
+    [
+      1.03,
+      "Cagliari Calcio vs. Juventus FC: O/U 2.5",
+      0.49,
+      0.54,
+      5528.3628
+    ],
+    [
+      1.03,
+      "C\u00f4te d'Ivoire vs. Cameroon: C\u00f4te d'Ivoire O/U 1.5",
+      0.44,
+      0.59,
+      1245.1017
+    ],
+    [
+      1.03,
+      "Exact Score: Sint Maarten 0 - 1 St. Vincent and the Grenadin",
+      0.14,
+      0.89,
+      4535.2928
+    ],
+    [
+      1.03,
+      "Exact Score: Sint Maarten 1 - 2 St. Vincent and the Grenadin",
+      0.12,
+      0.91,
+      4175.1453
+    ],
+    [
+      1.03,
+      "Will Curico Unido win on 2026-10-03?",
+      0.23,
+      0.8,
+      6670.3069
+    ],
+    [
+      1.03,
+      "Will USD/JPY hit 190 (High) in 2026?",
+      0.07,
+      0.96,
+      338.6729
+    ],
+    [
+      1.032,
+      "Will Parker Messick win the 2026 AL Rookie of the Year award",
+      0.06,
+      0.972,
+      3791.97996
+    ],
+    [
+      1.038,
+      "Exact Score: FK Haugesund 0 - 4 Stabaek IF?",
+      0.039,
+      0.999,
+      3163.70233
+    ],
+    [
+      1.038,
+      "Exact Score: FK Haugesund 4 - 4 Stabaek IF?",
+      0.039,
+      0.999,
+      2501.04843
+    ],
+    [
+      1.038,
+      "Exact Score: Hoedd IL 4 - 4 Odds BK?",
+      0.039,
+      0.999,
+      3176.81229
+    ],
+    [
+      1.038,
+      "Exact Score: Stroemsgodset IF 2 - 4 Aasane Fotball?",
+      0.039,
+      0.999,
+      2492.56691
+    ],
+    [
+      1.039,
+      "Exact Score: Hoedd IL 4 - 0 Odds BK?",
+      0.04,
+      0.999,
+      3218.11894
+    ],
+    [
+      1.04,
+      "Will Los Angeles Chargers finish the 2026-27 NFL regular sea",
+      0.041,
+      0.999,
+      195.00547
+    ],
+    [
+      1.047,
+      "Exact Score: Hoedd IL 5 - 2 Odds BK?",
+      0.048,
+      0.999,
+      2452.72741
+    ],
+    [
+      1.049,
+      "Exact Score: AS Nancy-Lorraine 4 - 4 En Avant Guingamp?",
+      0.05,
+      0.999,
+      528.94343
+    ],
+    [
+      1.049,
+      "Exact Score: FC Sochaux-Montb\u00e9liard 2 - 4 US Boulogne C\u00f4te d",
+      0.05,
+      0.999,
+      51.36499
+    ],
+    [
+      1.049,
+      "Exact Score: FC Sochaux-Montb\u00e9liard 4 - 4 US Boulogne C\u00f4te d",
+      0.05,
+      0.999,
+      468.10163
+    ],
+    [
+      1.049,
+      "Exact Score: Montpellier HSC 4 - 4 Grenoble Foot 38?",
+      0.05,
+      0.999,
+      528.94063
+    ],
+    [
+      1.049,
+      "Exact Score: Pau FC 4 - 4 Stade Lavallois Mayenne FC?",
+      0.05,
+      0.999,
+      467.8887
+    ],
+    [
+      1.049,
+      "Exact Score: USL Dunkerque 3 - 4 FC Annecy?",
+      0.05,
+      0.999,
+      58.46485
+    ],
+    [
+      1.049,
+      "Exact Score: USL Dunkerque 4 - 4 FC Annecy?",
+      0.05,
+      0.999,
+      468.10083
+    ],
+    [
+      1.05,
+      "United States vs. Mexico: Mexico O/U 1.5",
+      0.42,
+      0.63,
+      366.3499
+    ],
+    [
+      1.056,
+      "Exact Score: Santa Cruz FC PE 4 - 0 Maringa FC PR?",
+      0.057,
+      0.999,
+      1671.78602
+    ],
+    [
+      1.057,
+      "Will Philadelphia Eagles finish the 2026-27 NFL regular seas",
+      0.058,
+      0.999,
+      192.80599
+    ],
+    [
+      1.058,
+      "Aldershot Town FC vs. Carlisle United FC: Aldershot Town FC ",
+      0.059,
+      0.999,
+      443.14316
+    ],
+    [
+      1.059,
+      "Exact Score: AS Nancy-Lorraine 2 - 4 En Avant Guingamp?",
+      0.06,
+      0.999,
+      55.11888
+    ],
+    [
+      1.059,
+      "Exact Score: Pau FC 2 - 4 Stade Lavallois Mayenne FC?",
+      0.06,
+      0.999,
+      114.26092
+    ],
+    [
+      1.067,
+      "Ava\u00ed FC vs. Cear\u00e1 SC: O/U 7.5",
+      0.068,
+      0.999,
+      1009.54382
+    ],
+    [
+      1.069,
+      "Exact Score: BV Borussia 09 Dortmund 4 - 4 SV Werder Bremen?",
+      0.07,
+      0.999,
+      68.75
+    ],
+    [
+      1.069,
+      "Exact Score: Racing Club de Lens 4 - 4 Olympique Lyonnais?",
+      0.07,
+      0.999,
+      373.49629
+    ],
+    [
+      1.072,
+      "Will Moonshot be the third-best AI lab at the end of Novembe",
+      0.092,
+      0.98,
+      128.97399
+    ],
+    [
+      1.079,
+      "Exact Score: CA Paranaense 5 - 5 CA Mineiro?",
+      0.08,
+      0.999,
+      212.27047
+    ],
+    [
+      1.079,
+      "Exact Score: Racing Club de Lens 5 - 5 Olympique Lyonnais?",
+      0.08,
+      0.999,
+      391.30729
+    ],
+    [
+      1.079,
+      "Exact Score: Santos FC 5 - 5 CR Flamengo?",
+      0.08,
+      0.999,
+      213.61433
+    ],
+    [
+      1.089,
+      "Exact Score: AS Nancy-Lorraine 5 - 2 En Avant Guingamp?",
+      0.09,
+      0.999,
+      314.00792
+    ],
+    [
+      1.089,
+      "Exact Score: USL Dunkerque 5 - 2 FC Annecy?",
+      0.09,
+      0.999,
+      373.16494
+    ],
+    [
+      1.109,
+      "Exact Score: West Ham United FC 4 - 4 Queens Park Rangers FC",
+      0.11,
+      0.999,
+      373.69773
+    ],
+    [
+      1.164,
+      "Finland vs. Albania: Albania O/U 4.5",
+      0.166,
+      0.998,
+      1568.2961
+    ],
+    [
+      1.19,
+      "Chicago Fire FC vs. Vancouver Whitecaps FC: Vancouver Whitec",
+      0.21,
+      0.98,
+      349.3838
+    ],
+    [
+      1.203,
+      "Finland vs. Albania: Finland O/U 4.5",
+      0.208,
+      0.995,
+      2045.85311
+    ],
+    [
+      1.26,
+      "Will Jack Eichel record 30+ goals in the 2026-27 regular sea",
+      0.64,
+      0.62,
+      32.7823
+    ],
+    [
+      1.32,
+      "Will Christian McCaffrey have 8.5+ rushing touchdowns in the",
+      0.91,
+      0.41,
+      63.9678
+    ],
+    [
+      1.374,
+      "Ava\u00ed FC vs. Cear\u00e1 SC: Ava\u00ed FC O/U 4.5",
+      0.379,
+      0.995,
+      944.08244
+    ],
+    [
+      1.478,
+      "Exact Score: FC Sochaux-Montb\u00e9liard 5 - 2 US Boulogne C\u00f4te d",
+      0.479,
+      0.999,
+      412.60693
+    ],
+    [
+      1.58,
+      "Spread: HNK Hajduk Split (-2.5)",
+      0.59,
+      0.99,
+      23.846
+    ],
+    [
+      1.585,
+      "EC Juventude vs. Oper\u00e1rio Ferrovi\u00e1rio EC: EC Juventude 1st H",
+      0.588,
+      0.997,
+      13.64354
+    ],
+    [
+      1.587,
+      "Boreham Wood FC vs. Altrincham FC: Altrincham FC O/U 4.5",
+      0.59,
+      0.997,
+      287.89797
+    ],
+    [
+      1.62,
+      "Spread: R\u012bga FC (-4.5)",
+      0.63,
+      0.99,
+      101.5663
+    ],
+    [
+      1.63,
+      "Spread: AFC Ajax (-5.5)",
+      0.64,
+      0.99,
+      9.5062
+    ],
+    [
+      1.7,
+      "Spread: KAA Gent (-4.5)",
+      0.71,
+      0.99,
+      7.5973
+    ],
+    [
+      1.73,
+      "Will Aston Martin have the highest constructor score at the ",
+      0.74,
+      0.99,
+      106.0944
+    ],
+    [
+      1.9,
+      "Racing Club de Lens vs. Sporting CP: Sporting CP O/U 4.5",
+      0.92,
+      0.98,
+      2.079
+    ],
+    [
+      1.9,
+      "Sabah FK vs. SK Slavia Praha: SK Slavia Praha O/U 5.5",
+      0.92,
+      0.98,
+      4.6589
+    ],
+    [
+      1.93,
+      "Sabah FK vs. SK Slavia Praha: Sabah FK 1st Half O/U 2.5",
+      0.95,
+      0.98,
+      7.7794
+    ],
+    [
+      1.96,
+      "FC Nordsj\u00e6lland vs. Odense BK: O/U 8.5",
+      0.97,
+      0.99,
+      1.6299
+    ],
+    [
+      1.98,
+      "Spread: PFC Ludogorets 1945 Razgrad (-4.5)",
+      0.99,
+      0.99,
+      0.7297
+    ]
+  ],
+  "best_opps": [],
+  "scan_time": 45.023019552230835
+}
