@@ -1,0 +1,16 @@
+🔍 Scan: 500 markets in 47.3s
+✅ BRACKETS (sum < 1.00): 0
+📊 Near-misses (≤1.005): 0  [verbatim script uses asks[0]; CLOB asks are DESC-sorted → always ~0.999+0.999, known limitation]
+
+=== SUPPLEMENT (separate fetch, TRUE best ask = min price) ===
+markets=500 priced=65 time=47.0s
+sum<1.00 on best asks: 0
+true floor = 1.0010
+near-misses on best asks (<=1.005): 1
+  1.001 | Yes@0.004 No@0.997 | liq=5412.06 | Will US unemployment reach at least 6.0% in 2026?
+Top-5 lowest totals on best asks:
+  1.001 | Yes@0.004 No@0.997 | liq=5412.06 | Will US unemployment reach at least 6.0% in 2026?
+  1.010 | Yes@0.170 No@0.840 | liq=11640.66 | Dreamcash FDV above $20M one day after launch?
+  1.010 | Yes@0.012 No@0.998 | liq=5065.92 | Exact Score: Helmond Sport 3 - 0 Heracles Almelo?
+  1.018 | Yes@0.019 No@0.999 | liq=4216.36 | Exact Score: Albirex Niigata 3 - 3 Tokushima Vortis?
+  1.019 | Yes@0.020 No@0.999 | liq=10453.62 | Exact Score: Helmond Sport 4 - 2 Heracles Almelo?
