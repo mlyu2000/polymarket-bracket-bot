@@ -1,0 +1,7 @@
+Scan 2026-10-02T03:46Z (cron, verbatim script + min-ask supplementary)
+- Verbatim cron script: 500 markets in 49.5s -> 0 brackets (sum<1.00), 0 near-misses (asks[0] <=1.005)
+- Supplementary (best-ask via min(), all priced markets): 67 priced markets, floor 1.0100, 0 brackets, 0 near-misses <=1.005
+- Detector (min-ask, net_edge>=margin): 0 opportunities, no paper executions
+- Floor markets (tie at 1.0100): Yes@0.012 No@0.998 liq=3760 "Exact Score: Helmond Sport 3 - 0 Heracles Almelo?" | Yes@0.540 No@0.470 liq=16130 "Game Spread: Ekaterina Alexandrova (-1.5) vs Aliaksandr Sasnovich"
+- 3rd: 1.0120 | Yes@0.032 No@0.980 | AD Cali vs. Alianza FC: O/U 8.5 | liq=2732
+- Change vs prior run (02:02Z): floor drifted down 1.011 -> 1.010 (Helmond Sport again at the line); priced count 69 -> 67; still zero arbitrage pressure anywhere near 1.005
