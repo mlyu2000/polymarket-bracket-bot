@@ -1,0 +1,7 @@
+Scan 2026-10-02T02:02Z (cron, verbatim script + min-ask supplementary)
+- Verbatim cron script: 500 markets in 43.9s -> 0 brackets (sum<1.00), 0 near-misses (asks[0] <=1.005)
+- Supplementary (best-ask via min(), all priced markets): 69 priced markets, floor 1.0110, 0 brackets, 0 near-misses <=1.005
+- Detector (min-ask, net_edge>=margin): 0 opportunities, no paper executions
+- Floor market: 1.0110 | Yes@0.012 No@0.999 | Exact Score: Helmond Sport 3 - 0 Heracles Almelo? | liq=3746
+- Runner-up: 1.0190 | Yes@0.020 No@0.999 | Exact Score: Helmond Sport 4 - 2 Heracles Almelo? | liq=7038
+- Change vs prior runs: floor drifted up 1.009 -> 1.011; priced count 73 -> 69 (no arbitrage pressure near the line)
