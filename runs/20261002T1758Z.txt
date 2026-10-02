@@ -1,0 +1,6 @@
+scan 20261002T1758Z (UTC)
+markets: 500, scan_time: 47.7s
+verbatim script near-ask branch: 0 brackets, 0 near-misses (asks[0] worst-side artifact)
+min-ask corrected: 83 priced, floor 1.0010, 3 near-miss <=1.005 (ChatGPT 2 outages Sep: Yes@0.999 No@0.002; US unemployment 6.0% 2026: Yes@0.004 No@0.997; Helmond 3-0 Heracles: Yes@0.010 No@0.994)
+verdict: NO-GO (no bracket sum<1.00; floor 1.001 = known true floor)
+unchanged vs 1715Z
