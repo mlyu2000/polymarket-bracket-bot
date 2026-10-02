@@ -1,0 +1,6 @@
+Scan: 500 markets in 43.9s
+BRACKETS (detector, sum<1.00 net-edge gated): 0
+Absolute floor (min best asks): 1.0010 | Yes@0.002 No@0.999 | liq=54245 | Will Pepa Millán be the next Prime Minister of Spain?
+Near-miss min-ask <=1.005: 2
+  1.0010 | Yes@0.002 No@0.999 | liq=54245 | Will Pepa Millán be the next Prime Minister of Spa
+  1.0010 | Yes@0.004 No@0.997 | liq=2958 | Will US unemployment reach at least 6.0% in 2026?
