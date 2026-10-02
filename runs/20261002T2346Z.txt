@@ -1,0 +1,7 @@
+scan 20261002T2346Z (UTC)
+markets: 500, scan_time: 48.8s
+verbatim script near-ask branch: 0 brackets, 0 near-misses (asks[0] worst-side artifact)
+min-ask corrected: floor 1.0010, 2 near-miss <=1.005 (Pepa Millán next PM Spain: Yes@0.002 No@0.999 liq=42884; US unemployment >=6.0% 2026: Yes@0.004 No@0.997 liq=2958)
+best-ask sums < 1.000: 0
+change vs 2332Z: Lance Stroll Bahrain GP (was 1.004) dropped out of <=1.005 near-miss band; near-miss count 3 -> 2
+unchanged: floor 1.001 (Pepa Millán, US unemployment both still 1.001); no brackets (NO-GO)
