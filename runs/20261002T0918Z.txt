@@ -1,0 +1,14 @@
+scan_utc: 20261002T0918Z
+
+--- VERBATIM cron script (asks[0]; CLOB asks DESC-sorted → known limitation) ---
+🔍 Scan: 500 markets in 49.3s
+✅ BRACKETS (sum < 1.00): 0
+📊 Near-misses (≤1.005): 0
+
+--- SUPPLEMENT (true best ask = min(price)) ---
+[min-ask check] markets=500
+[min-ask check] true brackets (min-ask sum<1): 0
+[min-ask check] near-misses (min-ask sum<=1.005): 1
+  1.0010 | Yes@0.004 No@0.997 | liq=4484.10287 | Will US unemployment reach at least 6.0% in 2026?
+
+verdict: INCONCLUSIVE — no executable arb (floor 1.001 unchanged; 0.1c gross near-miss < fees/slippage)
