@@ -1,0 +1,7 @@
+Scan 2026-10-02T01:05Z (cron, verbatim script + min-ask supplementary)
+- Verbatim cron script: 500 markets in 42.5s -> 0 brackets (sum<1.00), 0 near-misses (asks[0] <=1.005)
+- Supplementary (best-ask via min(), all priced markets): 73 priced markets, floor 1.0090, 0 near-misses <=1.005
+- Detector (min-ask, net_edge>=margin): 0 opportunities, no paper executions
+- Floor market: 1.0090 | Yes@0.010 No@0.999 | Spread: Sporting Kansas City (-3.5) | liq=8357
+- Runner-up: 1.0100 | Yes@0.170 No@0.840 | Dreamcash FDV above $20M one day after launch? | liq=12481
+- Unchanged vs prior runs: floor pinned at 1.009 (spread of ~0.9c above the 1.00 line)
