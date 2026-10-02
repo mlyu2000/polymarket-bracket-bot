@@ -1,0 +1,21 @@
+🔍 Scan: 500 markets in 48.5s
+✅ BRACKETS (sum < 1.00): 0
+📊 Near-misses (≤1.005): 0  [verbatim script uses asks[0]; CLOB asks are DESC-sorted → always ~0.999+0.999, known limitation]
+
+=== SUPPLEMENT (separate fetch, TRUE best ask = min price) ===
+priced=74
+sum<1.00 on best asks: 0
+true floor = 1.0010
+near-misses on best asks (<=1.005): 1
+  1.001 | Yes@0.004 No@0.997 | liq=5068 | Will US unemployment reach at least 6.0% in 2026?
+Top-10 lowest totals on best asks:
+  1.001 | Yes@0.004 No@0.997 | liq=5068 | Will US unemployment reach at least 6.0% in 2026?
+  1.010 | Yes@0.170 No@0.840 | liq=18665 | Dreamcash FDV above $20M one day after launch?
+  1.010 | Yes@0.012 No@0.998 | liq=24020 | Exact Score: Helmond Sport 3 - 0 Heracles Almelo?
+  1.010 | Yes@0.390 No@0.620 | liq=6567 | HPK Hameenlinna vs. JYP Jyvaskyla
+  1.010 | Yes@0.290 No@0.720 | liq=13970 | Will Côte d'Ivoire vs. Cameroon end in a draw?
+  1.013 | Yes@0.019 No@0.994 | liq=5420 | Exact Score: Albirex Niigata 3 - 3 Tokushima Vortis?
+  1.019 | Yes@0.020 No@0.999 | liq=7054 | Exact Score: Helmond Sport 4 - 2 Heracles Almelo?
+  1.020 | Yes@0.021 No@0.999 | liq=3054 | Exact Score: Blaublitz Akita 3 - 3 Sagan Tosu?
+  1.020 | Yes@0.590 No@0.430 | liq=4442 | Greece vs. Germany: Both Teams to Score
+  1.020 | Yes@0.330 No@0.690 | liq=903 | Greece vs. Germany: Greece O/U 1.5
