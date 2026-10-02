@@ -1,0 +1,7 @@
+scan 20261002T1715Z (UTC)
+markets: 500, scan_time: 49.0s
+verbatim script near-ask branch: 0 brackets, 0 near-misses (asks[0] worst-side artifact)
+min-ask corrected: 85 priced, floor 1.0010, 1 near-miss <=1.005 (US unemployment 6.0% 2026: Yes@0.004 No@0.997, liq=2957)
+next sums: 1.0060 Helmond Sport 3-0 Heracles; 1.0100 Bonaire 0-1 Grenada / Greece-Germany BTTS / CIV-CMR draw / KL 27C
+verdict: NO-GO (no bracket sum<1.00; floor 1.001 = known true floor)
+unchanged vs 1648Z
