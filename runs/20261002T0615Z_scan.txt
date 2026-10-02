@@ -1,0 +1,18 @@
+🔍 Scan: 500 markets in 46.7s
+✅ BRACKETS (sum < 1.00): 0
+📊 Near-misses (≤1.005): 0
+
+=== SUPPLEMENT (same fetch, BEST ask = min price) ===
+sum<1.00 on best asks: 0
+Top-10 lowest totals on best asks (all markets, priced):
+  1.0010 | Yes@0.004 No@0.997 | liq=5065.48827 | Will US unemployment reach at least 6.0% in 2026?
+  1.0100 | Yes@0.170 No@0.840 | liq=18761.7695 | Dreamcash FDV above $20M one day after launch?
+  1.0100 | Yes@0.012 No@0.998 | liq=5212.83106 | Exact Score: Helmond Sport 3 - 0 Heracles Almelo?
+  1.0100 | Yes@0.350 No@0.660 | liq=1557.3377 | Will María Corina Machado enter Venezuela by October 31?
+  1.0180 | Yes@0.019 No@0.999 | liq=4278.50024 | Exact Score: Albirex Niigata 3 - 3 Tokushima Vortis?
+  1.0190 | Yes@0.020 No@0.999 | liq=9625.21107 | Exact Score: Helmond Sport 4 - 2 Heracles Almelo?
+  1.0200 | Yes@0.021 No@0.999 | liq=2937.65738 | Exact Score: Blaublitz Akita 3 - 3 Sagan Tosu?
+  1.0200 | Yes@0.300 No@0.720 | liq=8029.414 | Will Côte d'Ivoire vs. Cameroon end in a draw?
+  1.0210 | Yes@0.022 No@0.999 | liq=10561.61874 | Exact Score: Helmond Sport 5 - 1 Heracles Almelo?
+  1.0240 | Yes@0.035 No@0.989 | liq=1510.59871 | Gemini 4.0 released by October 5, 2026?
+Near-misses on best asks (<=1.005): 1
