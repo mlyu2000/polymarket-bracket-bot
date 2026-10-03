@@ -1,0 +1,12 @@
+priced markets: 93
+true floor (min-sum): 1.002
+top 8 best sums (min-ask method):
+  1.002 | Yes@0.003 No@0.999 | liq=3196.8225 | Agropecuario Argentino vs. CA Ferrocarril Midland: O/U 7.5
+  1.002 | Yes@0.005 No@0.997 | liq=3650.09838 | Will US unemployment reach at least 6.0% in 2026?
+  1.003 | Yes@0.004 No@0.999 | liq=4922.75107 | Real Sociedad de Fútbol B vs. Granada CF: O/U 8.5
+  1.005 | Yes@0.009 No@0.996 | liq=1978.0464 | Exact Score: BV Borussia 09 Dortmund 0 - 3 SV Werder Bremen?
+  1.010 | Yes@0.030 No@0.980 | liq=757.32373 | Chicago Fire FC vs. Vancouver Whitecaps FC: Vancouver Whitec
+  1.010 | Yes@0.240 No@0.770 | liq=1527.7303 | Malta vs. Andorra: Andorra 1st Half O/U 0.5
+  1.012 | Yes@0.013 No@0.999 | liq=1745.48109 | Exact Score: Racing Club de Lens 5 - 2 Olympique Lyonnais?
+  1.012 | Yes@0.013 No@0.999 | liq=1807.4487 | Will the highest temperature in Paris be 20°C or below on Oc
+count sum<1.00: 0 | count sum<=1.005: 4
