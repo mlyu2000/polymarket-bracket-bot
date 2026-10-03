@@ -1,0 +1,17 @@
+Scan run: 20261003T08Z (UTC)
+
+== Verbatim cron script (asks[0] near-miss method) ==
+Scan: 500 markets in 48.7s
+BRACKETS (sum < 1.00): 0
+Near-misses (<=1.005): 0   [asks[0] is worst DESC ask -> known 0, informational only]
+
+== Supplementary min-ask (true best-ask) pass ==
+[min-ask] 500 markets (55 priced) in 45.7s
+[min-ask] TRUE BRACKETS (best-ask sum < 1.0): 0
+[min-ask] near-misses (best-ask <= 1.005): 3
+  1.0010 | Yes@0.002 No@0.999 | liq=62286.01593 | Will Pepa Millán be the next Prime Minister of Spa
+  1.0010 | Yes@0.004 No@0.997 | liq=2895.77888 | Will US unemployment reach at least 6.0% in 2026?
+  1.0040 | Yes@0.005 No@0.999 | liq=3174.01432 | Avaí FC vs. Ceará SC: O/U 7.5
+
+Floor unchanged at 1.001. Diff vs 0700Z run: identical near-miss set (Pepa Millán, US unemployment, Avaí O/U 7.5) — 3rd consecutive run with same set, no new entrants, nothing tightened below floor. Liquidity drift only: Pepa Millán 63602→62286, US unemp 2894→2896, Avaí 3793→3174. No brackets executed; paper ledger untouched.
+PASS
