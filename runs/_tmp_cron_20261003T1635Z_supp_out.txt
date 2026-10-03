@@ -1,0 +1,11 @@
+both-sides-priced (liq>0): 60
+TRUE best-ask floor sums (min over levels):
+  1.001 | Yes@0.004 No@0.997 | liq=3419.13375 | Will US unemployment reach at least 6.0% in 2026?
+  1.007 | Yes@0.008 No@0.999 | liq=36047.78949 | Exact Score: Santa Cruz FC PE 3 - 3 Maringa FC PR?
+  1.010 | Yes@0.030 No@0.980 | liq=602.8832 | Chicago Fire FC vs. Vancouver Whitecaps FC: Vancouver Whitec
+  1.010 | Yes@0.080 No@0.930 | liq=784.8901 | Will the Ornn H200 Index be between $4.50 and $5.00 on Octob
+  1.012 | Yes@0.013 No@0.999 | liq=2200.60819 | Will the highest temperature in Paris be 20°C or below on Oc
+  1.014 | Yes@0.015 No@0.999 | liq=1889.90908 | Belize vs. French Guiana: O/U 6.5
+  1.018 | Yes@0.019 No@0.999 | liq=5014.5291 | Exact Score: Blaublitz Akita 3 - 3 Sagan Tosu?
+  1.020 | Yes@0.430 No@0.590 | liq=2803.9763 | Côte d'Ivoire vs. Cameroon: Côte d'Ivoire O/U 1.5
+sums < 1.000: 0

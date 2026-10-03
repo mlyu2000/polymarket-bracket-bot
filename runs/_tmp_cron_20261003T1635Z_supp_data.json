@@ -1,0 +1,62 @@
+{
+ "both_priced": 60,
+ "floor_rows": [
+  [
+   1.001,
+   "Will US unemployment reach at least 6.0% in 2026?",
+   0.004,
+   0.997,
+   3419.13375
+  ],
+  [
+   1.007,
+   "Exact Score: Santa Cruz FC PE 3 - 3 Maringa FC PR?",
+   0.008,
+   0.999,
+   36047.78949
+  ],
+  [
+   1.01,
+   "Chicago Fire FC vs. Vancouver Whitecaps FC: Vancouver Whitec",
+   0.03,
+   0.98,
+   602.8832
+  ],
+  [
+   1.01,
+   "Will the Ornn H200 Index be between $4.50 and $5.00 on Octob",
+   0.08,
+   0.93,
+   784.8901
+  ],
+  [
+   1.012,
+   "Will the highest temperature in Paris be 20\u00b0C or below on Oc",
+   0.013,
+   0.999,
+   2200.60819
+  ],
+  [
+   1.014,
+   "Belize vs. French Guiana: O/U 6.5",
+   0.015,
+   0.999,
+   1889.90908
+  ],
+  [
+   1.018,
+   "Exact Score: Blaublitz Akita 3 - 3 Sagan Tosu?",
+   0.019,
+   0.999,
+   5014.5291
+  ],
+  [
+   1.02,
+   "C\u00f4te d'Ivoire vs. Cameroon: C\u00f4te d'Ivoire O/U 1.5",
+   0.43,
+   0.59,
+   2803.9763
+  ]
+ ],
+ "sub1_count": 0
+}
