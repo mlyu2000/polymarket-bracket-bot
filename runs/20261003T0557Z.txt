@@ -1,0 +1,24 @@
+Scan 20261003T0557Z (UTC)
+=========================
+Verbatim cron script (asks[0] near-miss block):
+  500 markets in 44.2s
+  BRACKETS (sum < 1.00): 0
+  Near-misses (<=1.005, asks[0]-based): 0  [asks[0] is worst ask on DESC-sorted books — always ~0.999, so this block reports 0]
+
+Supplementary best-ask (min) pass:
+  500 markets in 47.4s
+  TRUE BRACKETS (best-ask sum < 1.0): 0
+  Floor: 1.001
+  Top closest sums (best-ask):
+    1.0010 | Yes@0.002 No@0.999 | liq=58701.54 | Will Pepa Millán be the next Prime Minister of Spain?
+    1.0010 | Yes@0.004 No@0.997 | liq=2943.80  | Will US unemployment reach at least 6.0% in 2026?
+    1.0040 | Yes@0.005 No@0.999 | liq=2720.93  | Avaí FC vs. Ceará SC: O/U 7.5
+    1.0040 | Yes@0.005 No@0.999 | liq=3394.67  | Ōita Trinita vs. Montedio Yamagata: O/U 8.5
+    1.0090 | Yes@0.010 No@0.999 | liq=1826.35  | Albion FC vs. Defensor Sporting: O/U 8.5
+    1.0090 | Yes@0.010 No@0.999 | liq=1932.87  | Chesterfield FC vs. Tranmere Rovers FC: O/U 8.5
+    1.0090 | Yes@0.010 No@0.999 | liq=1673.00  | Exact Score: BV Borussia 09 Dortmund 2 - 4 SV Werder Bremen?
+    1.0090 | Yes@0.010 No@0.999 | liq=1713.14  | Stroemmen IF vs. Sandnes Ulf: O/U 8.5
+
+Near-misses (best-ask <= 1.005): 4 (Pepa Millán 1.0010, US unemployment 1.0010, Avaí 1.0040, Ōita 1.0040)
+Vs prior run 20261003T0527Z: identical set — market structure stable, no tightening below 1.001 floor.
+PASS
