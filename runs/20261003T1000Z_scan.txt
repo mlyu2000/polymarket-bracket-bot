@@ -1,0 +1,17 @@
+🔍 Scan: 500 markets in 46.8s
+✅ BRACKETS (sum < 1.00): 0
+📊 Near-misses (≤1.005): 0
+
+=== SUPPLEMENT (same fetch, BEST ask = min price) ===
+true brackets on best asks (sum < 1.00): 0
+Top-10 lowest totals on best asks (all priced markets):
+  1.0010 | Yes@0.002 No@0.999 | liq=61064.15231 | Will Pepa Millán be the next Prime Minister of Spain?
+  1.0010 | Yes@0.004 No@0.997 | liq=3418.52792 | Will US unemployment reach at least 6.0% in 2026?
+  1.0040 | Yes@0.005 No@0.999 | liq=3714.75173 | Avaí FC vs. Ceará SC: O/U 7.5
+  1.0070 | Yes@0.014 No@0.993 | liq=3502.17075 | Chesterfield FC vs. Tranmere Rovers FC: O/U 7.5
+  1.0090 | Yes@0.010 No@0.999 | liq=1298.48649 | Albion FC vs. Defensor Sporting: O/U 8.5
+  1.0090 | Yes@0.010 No@0.999 | liq=3270.04057 | Chesterfield FC vs. Tranmere Rovers FC: O/U 8.5
+  1.0090 | Yes@0.010 No@0.999 | liq=815.60489 | Exact Score: BV Borussia 09 Dortmund 2 - 4 SV Werder Bremen?
+  1.0090 | Yes@0.010 No@0.999 | liq=2287.93505 | Stroemmen IF vs. Sandnes Ulf: O/U 8.5
+  1.0100 | Yes@0.650 No@0.360 | liq=23546.844 | CE Sabadell FC vs. FC Andorra: 1st Half O/U 0.5
+  1.0100 | Yes@0.560 No@0.450 | liq=103769.5211 | Chicago White Sox vs. Cleveland Guardians: O/U 6.5
