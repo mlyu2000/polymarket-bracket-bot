@@ -1,0 +1,9 @@
+🔍 Scan: 500 markets in 64.5s
+✅ BRACKETS (sum < 1.00): 0
+📊 Near-misses (≤1.005): 0
+📉 Floor (best-ask min, ≤1.010): 7 | both-sides-priced=102
+  1.002 | Yes@0.005 No@0.997 | liq=3680.9685 | Will US unemployment reach at least 6.0% in 2026?
+  1.003 | Yes@0.007 No@0.996 | liq=69.10964 | CA Tucumán vs. CA Barracas Central: CA Tucumán O/U
+  1.003 | Yes@0.004 No@0.999 | liq=4260.81967 | Will the highest temperature in Amsterdam be 15°C 
+  1.007 | Yes@0.008 No@0.999 | liq=2557.19613 | Will the highest temperature in Amsterdam be 25°C 
+  1.010 | Yes@0.030 No@0.980 | liq=562.31973 | Chicago Fire FC vs. Vancouver Whitecaps FC: Vancou
