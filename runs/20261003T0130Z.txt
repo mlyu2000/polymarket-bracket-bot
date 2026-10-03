@@ -1,0 +1,9 @@
+scan 20261003T0130Z (UTC)
+markets: 500, scan_time: 48.0s
+verbatim script near-ask branch: 0 brackets, 0 near-misses (asks[0] worst-side artifact)
+min-ask corrected: floor 1.0010, 2 near-miss <=1.005 (Pepa Millán next PM Spain: Yes@0.002 No@0.999 liq=51490; US unemployment >=6.0% 2026: Yes@0.004 No@0.997 liq=2956)
+priced markets (min-ask basis): 72
+best-ask sums < 1.000: 0
+change vs 20261003T0045Z: none — same floor 1.001, same 2 near-miss markets, 0 brackets; priced 74->72, liquidity drift only
+unchanged: no brackets (NO-GO)
+note: prior run 20261003T011335Z failed (missing scan script), this scan covers that gap
