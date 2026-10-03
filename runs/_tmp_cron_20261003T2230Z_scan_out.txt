@@ -1,0 +1,4 @@
+Scan: 500 markets in 90.4s
+BRACKETS (sum < 1.00): 0
+Near-misses (<=1.005): 1
+  1.002 | Yes@0.005 No@0.997 | liq=3538.30888 | Will US unemployment reach at least 6.0% in 2026?
