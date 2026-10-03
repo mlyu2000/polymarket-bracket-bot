@@ -1,0 +1,13 @@
+🔍 Scan: 500 markets in 54.4s
+✅ BRACKETS (sum < 1.00): 0
+📊 Near-misses (≤1.005): 0
+
+=== SUPPLEMENT (same fetch, BEST ask = min price) ===
+
+markets priced on both sides: 69
+true brackets on best asks (sum < 1.00): 0
+top best-ask floors (floor=1.0010 Pepa Millan):
+  1.001 | Yes@0.002 No@0.999 | liq=56697.58 | Will Pepa Millán be the next Prime Minister of Spain?
+  1.001 | Yes@0.004 No@0.997 | liq=3416.14 | Will US unemployment reach at least 6.0% in 2026?
+  1.001 | Yes@0.002 No@0.999 | liq=3768.17 | Will the highest temperature in Paris be 22°C on Octobe
+  1.004 | Yes@0.005 No@0.999 | liq=3595.09 | Avaí FC vs. Ceará SC: O/U 7.5
