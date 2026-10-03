@@ -1,0 +1,9 @@
+🔍 Scan: 500 markets in 46.3s
+✅ BRACKETS (sum < 1.00): 0
+📊 Near-misses (≤1.005): 0
+📉 Floor (best-ask min, ≤1.010): 6 | both-sides-priced=85
+  1.002 | Yes@0.005 No@0.997 | liq=3945.04616 | Will US unemployment reach at least 6.0% in 2026?
+  1.007 | Yes@0.008 No@0.999 | liq=10454.15062 | Will Fernando Alonso win the 2026 F1 Bahrain Grand
+  1.008 | Yes@0.009 No@0.999 | liq=36843.97288 | Exact Score: Santa Cruz FC PE 3 - 3 Maringa FC PR?
+  1.010 | Yes@0.710 No@0.300 | liq=18481.8506 | Games Total: O/U 3.5
+  1.010 | Yes@0.230 No@0.780 | liq=19732.1677 | Raja Club Athletic vs. RCA Zemamra: O/U 3.5
