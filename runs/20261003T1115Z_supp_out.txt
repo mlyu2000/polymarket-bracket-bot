@@ -1,0 +1,13 @@
+🔍 Scan: 500 markets in 41.8s
+✅ BRACKETS (sum < 1.00): 0
+📊 Near-misses (≤1.005): 0
+
+=== SUPPLEMENT (same fetch, BEST ask = min price) ===
+markets priced on both sides: 71
+true brackets on best asks (sum < 1.00): 0
+top-5 best-ask floors:
+  1.0010 | Yes@0.002 No@0.999 | liq=65854.34397 | Will Pepa Millán be the next Prime Minister of Spain?
+  1.0010 | Yes@0.004 No@0.997 | liq=3418.06873 | Will US unemployment reach at least 6.0% in 2026?
+  1.0040 | Yes@0.005 No@0.999 | liq=16122.03985 | Avaí FC vs. Ceará SC: O/U 7.5
+  1.0090 | Yes@0.010 No@0.999 | liq=3740.24074 | Chesterfield FC vs. Tranmere Rovers FC: O/U 8.5
+  1.0090 | Yes@0.010 No@0.999 | liq=1018.61475 | Exact Score: BV Borussia 09 Dortmund 2 - 4 SV Werder Bremen?
