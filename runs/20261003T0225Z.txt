@@ -1,0 +1,14 @@
+scan_ts: 2026-10-03T02:25Z (UTC)
+script: _tmp_cron_20261003T0225Z_scan_verbatim.py (verbatim cron script) + _tmp_cron_20261003T0225Z_supp_minask.py (best-ask supplement)
+markets_scanned: 500
+scan_time_s: 48.5
+brackets(sum<1.00 net of buffers): 0
+verbatim near-misses(asks[0], <=1.005): 0  [known bias: asks[0] is worst ask in DESC-sorted /book]
+priced_markets_liq_gt0_both_asks: 62
+best_floor_seen: 1.0010
+near_misses_bestask:
+  1.0010 Yes@0.002 No@0.999 liq=57820 | Will Pepa Millán be the next Prime Minister of Spain?
+  1.0010 Yes@0.004 No@0.997 liq=2956 | Will US unemployment reach at least 6.0% in 2026?
+  1.0040 Yes@0.005 No@0.999 liq=4273 | Ōita Trinita vs. Montedio Yamagata: O/U 8.5
+paper_executions: 0 (no opportunities passed detector gates)
+verdict: NO-GO (floor 1.001 unchanged vs 2026-09-21 measured floor; no actionable bracket)
