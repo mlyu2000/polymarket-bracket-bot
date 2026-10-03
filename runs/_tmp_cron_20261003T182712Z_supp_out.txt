@@ -1,0 +1,15 @@
+best-ask floor: 1.0060 (Will US unemployment reach at least 6.0% in 2026?)
+markets=500 priced=84
+count sum<=1.000: 0
+count sum<=1.001: 0
+count sum<=1.005: 0
+count sum<=1.010: 6
+top-8 best-ask totals:
+  1.0060 | Yes@0.009 No@0.997 | liq=3201.23489 | Will US unemployment reach at least 6.0% in 2026?
+  1.0080 | Yes@0.009 No@0.999 | liq=36442.36526 | Exact Score: Santa Cruz FC PE 3 - 3 Maringa FC PR?
+  1.0100 | Yes@0.180 No@0.830 | liq=24.81 | FC Eindhoven vs. De Graafschap: 1st Half O/U 2.5
+  1.0100 | Yes@0.710 No@0.300 | liq=18631.8792 | Games Total: O/U 3.5
+  1.0100 | Yes@0.230 No@0.780 | liq=21192.3425 | Raja Club Athletic vs. RCA Zemamra: O/U 3.5
+  1.0100 | Yes@0.080 No@0.930 | liq=893.2361 | Will the Ornn H200 Index be between $4.50 and $5.00 on 
+  1.0120 | Yes@0.013 No@0.999 | liq=2182.61252 | Will the highest temperature in Paris be 20°C or below 
+  1.0140 | Yes@0.015 No@0.999 | liq=2281.5148 | Belize vs. French Guiana: O/U 6.5
