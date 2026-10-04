@@ -1,0 +1,19 @@
+Scan: 500 markets in 49.2s
+BRACKETS (sum < 1.00): 0
+Near-misses verbatim asks[0] (<=1.005): 0
+Near-misses min-ask (1.000<=sum<=1.005): 3
+  1.0020 | Yes@0.005 No@0.997 | liq=3547.21011 | Will US unemployment reach at least 6.0% in 2026?
+  1.0040 | Yes@0.005 No@0.999 | liq=7719.19774 | Vegalta Sendai vs. Júbilo Iwata: O/U 8.5
+  1.0050 | Yes@0.009 No@0.996 | liq=2520.61888 | Exact Score: BV Borussia 09 Dortmund 0 - 3 SV Werd
+Priced both-sides: 94 | count<=1.010: 7
+Top-10 lowest best-ask totals:
+  1.0020 | liq=3547.21011 | Will US unemployment reach at least 6.0% in 2026?
+  1.0040 | liq=7719.19774 | Vegalta Sendai vs. Júbilo Iwata: O/U 8.5
+  1.0050 | liq=2520.61888 | Exact Score: BV Borussia 09 Dortmund 0 - 3 SV Werd
+  1.0060 | liq=4764.2012 | CA Bucaramanga vs. CDP Junior FC: O/U 7.5
+  1.0070 | liq=11019.21893 | Vegalta Sendai vs. Júbilo Iwata: O/U 7.5
+  1.0100 | liq=1021.74979 | Chicago Fire FC vs. Vancouver Whitecaps FC: Vancou
+  1.0100 | liq=234469.9253 | Will the Democrats win the Texas Senate race in 20
+  1.0120 | liq=1773.48919 | Exact Score: Racing Club de Lens 5 - 2 Olympique L
+  1.0130 | liq=10623.09807 | Exact Score: Blaublitz Akita 3 - 3 Sagan Tosu?
+  1.0190 | liq=8868.30684 | Agropecuario Argentino vs. CA Ferrocarril Midland:
