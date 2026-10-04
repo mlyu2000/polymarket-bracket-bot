@@ -1,0 +1,24 @@
+🔍 Scan: 500 markets in 49.2s
+✅ BRACKETS (sum < 1.00): 0
+📊 Near-misses (≤1.005, provided asks[0] method): 0
+--- Supplement: min-ask method ---
+Both-sides-priced: 97
+Min-ask near-misses (≤1.005): 5
+  1.0020 | Yes@0.0050 No@0.9970 | liq=4007.93521 | Will US unemployment reach at least 6.0% in 2026?
+  1.0040 | Yes@0.0050 No@0.9990 | liq=8933.32882 | Vegalta Sendai vs. Júbilo Iwata: O/U 8.5
+  1.0050 | Yes@0.0090 No@0.9960 | liq=2330.276 | Exact Score: BV Borussia 09 Dortmund 0 - 3 SV Werd
+  1.0050 | Yes@0.0110 No@0.9940 | liq=16333.39159 | Exact Score: Blaublitz Akita 3 - 3 Sagan Tosu?
+  1.0050 | Yes@0.0120 No@0.9930 | liq=6400.75456 | Real Sporting de Gijón vs. Celta Fortuna: O/U 7.5
+count sum<=1.010: 9
+Lowest 10 min-ask sums (floor):
+  1.0020 | Yes@0.0050 No@0.9970 | liq=4007.93521 | Will US unemployment reach at least 6.0% in 2026?
+  1.0040 | Yes@0.0050 No@0.9990 | liq=8933.32882 | Vegalta Sendai vs. Júbilo Iwata: O/U 8.5
+  1.0050 | Yes@0.0090 No@0.9960 | liq=2330.276 | Exact Score: BV Borussia 09 Dortmund 0 - 3 SV Werder Br
+  1.0050 | Yes@0.0110 No@0.9940 | liq=16333.39159 | Exact Score: Blaublitz Akita 3 - 3 Sagan Tosu?
+  1.0050 | Yes@0.0120 No@0.9930 | liq=6400.75456 | Real Sporting de Gijón vs. Celta Fortuna: O/U 7.5
+  1.0060 | Yes@0.0090 No@0.9970 | liq=4752.76962 | CA Bucaramanga vs. CDP Junior FC: O/U 7.5
+  1.0090 | Yes@0.0100 No@0.9990 | liq=8805.99107 | Vegalta Sendai vs. Júbilo Iwata: O/U 7.5
+  1.0100 | Yes@0.0300 No@0.9800 | liq=693.73899 | Chicago Fire FC vs. Vancouver Whitecaps FC: Vancouver W
+  1.0100 | Yes@0.6500 No@0.3600 | liq=234736.8384 | Will the Democrats win the Texas Senate race in 2026?
+  1.0120 | Yes@0.0130 No@0.9990 | liq=1770.73419 | Exact Score: Racing Club de Lens 5 - 2 Olympique Lyonna
+rescan EXIT=0
