@@ -1,0 +1,24 @@
+Scan: 500 markets in 48.0s
+BRACKETS (sum < 1.00): 0
+Near-misses (<=1.005, provided asks[0] method): 0
+--- Supplement: min-ask method ---
+Both-sides-priced: 120
+Min-ask near-misses (<=1.005): 6
+  1.0020 | Yes@0.0050 No@0.9970 | liq=3985.84948 | Will US unemployment reach at least 6.0% in 2026?
+  1.0030 | Yes@0.0060 No@0.9970 | liq=5806.98222 | CA Bucaramanga vs. CDP Junior FC: O/U 7.5
+  1.0040 | Yes@0.0050 No@0.9990 | liq=2162.86543 | Atletico de Rafaela vs. CA Atlanta: O/U 8.5
+  1.0040 | Yes@0.0120 No@0.9920 | liq=2098.16912 | CD Castellón vs. AD Ceuta FC: AD Ceuta FC O/U 3.5
+  1.0040 | Yes@0.0120 No@0.9920 | liq=2901.84609 | CD Castellón vs. AD Ceuta FC: AD Ceuta FC O/U 3.5
+  1.0050 | Yes@0.0090 No@0.9960 | liq=1800.80883 | Exact Score: BV Borussia 09 Dortmund 0 - 3 SV Werd
+count sum<=1.010: 13
+Lowest 10 min-ask sums (floor):
+  1.0020 | Yes@0.0050 No@0.9970 | liq=3985.84948 | Will US unemployment reach at least 6.0% in 2026?
+  1.0030 | Yes@0.0060 No@0.9970 | liq=5806.98222 | CA Bucaramanga vs. CDP Junior FC: O/U 7.5
+  1.0040 | Yes@0.0050 No@0.9990 | liq=2162.86543 | Atletico de Rafaela vs. CA Atlanta: O/U 8.5
+  1.0040 | Yes@0.0120 No@0.9920 | liq=2098.16912 | CD Castellón vs. AD Ceuta FC: AD Ceuta FC O/U 3.5
+  1.0040 | Yes@0.0120 No@0.9920 | liq=2901.84609 | CD Castellón vs. AD Ceuta FC: AD Ceuta FC O/U 3.5
+  1.0050 | Yes@0.0090 No@0.9960 | liq=1800.80883 | Exact Score: BV Borussia 09 Dortmund 0 - 3 SV Werder Br
+  1.0090 | Yes@0.0100 No@0.9990 | liq=1808.94735 | San Martin de San Juan vs. Club Almagro: O/U 8.5
+  1.0090 | Yes@0.0100 No@0.9990 | liq=3148.23282 | Will the highest temperature in Beijing be 20°C or belo
+  1.0100 | Yes@0.4700 No@0.5400 | liq=19679.2818 | CA Talleres vs. CA Belgrano: Both Teams to Score
+  1.0100 | Yes@0.0300 No@0.9800 | liq=543.31429 | Chicago Fire FC vs. Vancouver Whitecaps FC: Vancouver W
