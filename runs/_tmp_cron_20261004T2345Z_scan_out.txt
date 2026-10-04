@@ -1,0 +1,20 @@
+Scan: 500 markets in 47.0s
+BRACKETS (sum < 1.00): 0
+Near-misses (<=1.005, provided asks[0] method): 0
+--- Supplement: min-ask method ---
+Both-sides-priced: 128
+Min-ask near-misses (<=1.005): 2
+  1.0010 | Yes@0.0060 No@0.9950 | liq=4100.21223 | Will US unemployment reach at least 6.0% in 2026?
+  1.0040 | Yes@0.0080 No@0.9960 | liq=2066.18083 | Exact Score: BV Borussia 09 Dortmund 0 - 3 SV Werd
+count sum<=1.010: 10
+Lowest 10 min-ask sums (floor):
+  1.0010 | Yes@0.0060 No@0.9950 | liq=4100.21223 | Will US unemployment reach at least 6.0% in 2026?
+  1.0040 | Yes@0.0080 No@0.9960 | liq=2066.18083 | Exact Score: BV Borussia 09 Dortmund 0 - 3 SV Werder Br
+  1.0060 | Yes@0.0140 No@0.9920 | liq=1476.68465 | Exact Score: Lille OSC 1 - 3 Le Havre AC?
+  1.0070 | Yes@0.0080 No@0.9990 | liq=4166.36982 | Comunicaciones FC vs. CSD Suchitepéquez: O/U 7.5
+  1.0090 | Yes@0.0100 No@0.9990 | liq=3125.45071 | Comunicaciones FC vs. CSD Suchitepéquez: O/U 8.5
+  1.0090 | Yes@0.0100 No@0.9990 | liq=1664.59199 | Exact Score: TSG 1899 Hoffenheim 5 - 3 Hamburger SV?
+  1.0100 | Yes@0.4800 No@0.5300 | liq=11022.6114 | Cagliari Calcio vs. Juventus FC: O/U 2.5
+  1.0100 | Yes@0.0110 No@0.9990 | liq=644.37399 | Exact Score: AS Monaco FC 2 - 4 Toulouse FC?
+  1.0100 | Yes@0.7100 No@0.3000 | liq=9299.2221 | Spread: Cowboys (-3.5)
+  1.0100 | Yes@0.0120 No@0.9980 | liq=2283.70873 | Will the highest temperature in Austin be between 80-81
