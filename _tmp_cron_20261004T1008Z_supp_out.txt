@@ -1,0 +1,12 @@
+both-sides-priced: 120/500
+detector brackets (min-ask): 0
+floor sum: 1.002 | Yes@0.005 No@0.997 | liq=4177.7181 | Will US unemployment reach at least 6.0% in 2026?
+min-ask near-misses <=1.005:
+  count=7
+  1.002 | Yes@0.005 No@0.997 | liq=4177.7181 | Will US unemployment reach at least 6.0% in 2026?
+  1.004 | Yes@0.005 No@0.999 | liq=3669.4163 | Atletico de Rafaela vs. CA Atlanta: O/U 8.5
+  1.004 | Yes@0.005 No@0.999 | liq=2218.85646 | CA Cerro vs. Montevideo Wanderers: O/U 8.5
+  1.004 | Yes@0.012 No@0.992 | liq=2481.38505 | CD Castellón vs. AD Ceuta FC: AD Ceuta FC O/U 3.5
+  1.005 | Yes@0.009 No@0.996 | liq=3239.30216 | CA Bucaramanga vs. CDP Junior FC: O/U 7.5
+  1.005 | Yes@0.009 No@0.996 | liq=2102.00577 | Exact Score: BV Borussia 09 Dortmund 0 - 3 SV Werder Br
+  1.005 | Yes@0.010 No@0.995 | liq=8450.96719 | Real Sporting de Gijón vs. Celta Fortuna: O/U 7.5
