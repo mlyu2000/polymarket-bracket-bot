@@ -1,0 +1,25 @@
+Scan: 500 markets in 49.2s
+BRACKETS (sum < 1.00): 0
+Near-misses (<=1.005, provided asks[0] method): 0
+--- Supplement: min-ask method ---
+Both-sides-priced: 123
+Min-ask near-misses (<=1.005): 7
+  1.0020 | Yes@0.0050 No@0.9970 | liq=3999.39441 | Will US unemployment reach at least 6.0% in 2026?
+  1.0030 | Yes@0.0080 No@0.9950 | liq=11907.74926 | Real Sporting de Gijón vs. Celta Fortuna: O/U 7.5
+  1.0040 | Yes@0.0050 No@0.9990 | liq=2115.41266 | Atletico de Rafaela vs. CA Atlanta: O/U 8.5
+  1.0040 | Yes@0.0050 No@0.9990 | liq=2237.16046 | CA Cerro vs. Montevideo Wanderers: O/U 8.5
+  1.0040 | Yes@0.0080 No@0.9960 | liq=1923.94881 | Will the highest temperature in Houston be between
+  1.0050 | Yes@0.0090 No@0.9960 | liq=3210.96342 | CA Bucaramanga vs. CDP Junior FC: O/U 7.5
+  1.0050 | Yes@0.0090 No@0.9960 | liq=2099.47677 | Exact Score: BV Borussia 09 Dortmund 0 - 3 SV Werd
+count sum<=1.010: 10
+Lowest 10 min-ask sums (floor):
+  1.0020 | Yes@0.0050 No@0.9970 | liq=3999.39441 | Will US unemployment reach at least 6.0% in 2026?
+  1.0030 | Yes@0.0080 No@0.9950 | liq=11907.74926 | Real Sporting de Gijón vs. Celta Fortuna: O/U 7.5
+  1.0040 | Yes@0.0050 No@0.9990 | liq=2115.41266 | Atletico de Rafaela vs. CA Atlanta: O/U 8.5
+  1.0040 | Yes@0.0050 No@0.9990 | liq=2237.16046 | CA Cerro vs. Montevideo Wanderers: O/U 8.5
+  1.0040 | Yes@0.0080 No@0.9960 | liq=1923.94881 | Will the highest temperature in Houston be between 80-8
+  1.0050 | Yes@0.0090 No@0.9960 | liq=3210.96342 | CA Bucaramanga vs. CDP Junior FC: O/U 7.5
+  1.0050 | Yes@0.0090 No@0.9960 | liq=2099.47677 | Exact Score: BV Borussia 09 Dortmund 0 - 3 SV Werder Br
+  1.0100 | Yes@0.0300 No@0.9800 | liq=543.76309 | Chicago Fire FC vs. Vancouver Whitecaps FC: Vancouver W
+  1.0100 | Yes@0.7100 No@0.3000 | liq=3467.6307 | Spread: Guyana (-1.5)
+  1.0100 | Yes@0.0200 No@0.9900 | liq=1942.11096 | West Ham United FC vs. Chelsea FC: O/U 8.5
