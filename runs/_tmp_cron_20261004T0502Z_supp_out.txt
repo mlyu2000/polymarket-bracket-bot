@@ -1,0 +1,6 @@
+min-ask TRUE brackets (sum<1.000): 0
+min-ask near-misses (1.000-1.005): 3
+  1.0020 | Yes@0.005 No@0.997 | liq=3580.20388 | Will US unemployment reach at least 6.0% in 2026?
+  1.0050 | Yes@0.009 No@0.996 | liq=2283.32588 | Exact Score: BV Borussia 09 Dortmund 0 - 3 SV Werder Br
+  1.0050 | Yes@0.012 No@0.993 | liq=7236.03331 | Real Sporting de Gijón vs. Celta Fortuna: O/U 7.5
+best overall sum: 1.0020
