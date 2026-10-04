@@ -1,0 +1,22 @@
+Scan: 500 markets in 49.5s
+BRACKETS (sum < 1.00): 0
+Near-misses (<=1.005, provided asks[0] method): 0
+--- Supplement: min-ask method ---
+Both-sides-priced: 119
+Min-ask near-misses (<=1.005): 4
+  1.0020 | Yes@0.0060 No@0.9960 | liq=3549.26756 | CD Castellón vs. AD Ceuta FC: AD Ceuta FC O/U 3.5
+  1.0020 | Yes@0.0050 No@0.9970 | liq=4007.24776 | Will US unemployment reach at least 6.0% in 2026?
+  1.0040 | Yes@0.0050 No@0.9990 | liq=2294.94781 | Atletico de Rafaela vs. CA Atlanta: O/U 8.5
+  1.0050 | Yes@0.0090 No@0.9960 | liq=1799.03652 | Exact Score: BV Borussia 09 Dortmund 0 - 3 SV Werd
+count sum<=1.010: 10
+Lowest 10 min-ask sums (floor):
+  1.0020 | Yes@0.0060 No@0.9960 | liq=3549.26756 | CD Castellón vs. AD Ceuta FC: AD Ceuta FC O/U 3.5
+  1.0020 | Yes@0.0050 No@0.9970 | liq=4007.24776 | Will US unemployment reach at least 6.0% in 2026?
+  1.0040 | Yes@0.0050 No@0.9990 | liq=2294.94781 | Atletico de Rafaela vs. CA Atlanta: O/U 8.5
+  1.0050 | Yes@0.0090 No@0.9960 | liq=1799.03652 | Exact Score: BV Borussia 09 Dortmund 0 - 3 SV Werder Br
+  1.0060 | Yes@0.0090 No@0.9970 | liq=3250.02322 | CA Bucaramanga vs. CDP Junior FC: O/U 7.5
+  1.0060 | Yes@0.0140 No@0.9920 | liq=1230.58354 | Exact Score: Lille OSC 1 - 3 Le Havre AC?
+  1.0090 | Yes@0.0100 No@0.9990 | liq=1910.90656 | San Martin de San Juan vs. Club Almagro: O/U 8.5
+  1.0100 | Yes@0.3500 No@0.6600 | liq=18195.7242 | Chacarita Juniors vs. CA Patronato Parana: O/U 2.5
+  1.0100 | Yes@0.0300 No@0.9800 | liq=693.66669 | Chicago Fire FC vs. Vancouver Whitecaps FC: Vancouver W
+  1.0100 | Yes@0.0900 No@0.9200 | liq=101932.3789 | Exact Score: Netherlands 3 - 1 Serbia?
