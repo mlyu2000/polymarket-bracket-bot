@@ -1,0 +1,21 @@
+Scan 20261004T1310Z: 500 markets in 48.2s
+BRACKETS (sum<1.00): 0
+best-ask-0 near-misses (<=1.005): 0
+min-ask near-misses (<=1.005): 5
+  1.0020 Yes@0.0050 No@0.9970 liq=4101.03722 Will US unemployment reach at least 6.0% in 2026?
+  1.0040 Yes@0.0050 No@0.9990 liq=2174.26947 Atletico de Rafaela vs. CA Atlanta: O/U 8.5
+  1.0040 Yes@0.0080 No@0.9960 liq=11479.85242 Real Sporting de Gijón vs. Celta Fortuna: O/U 7.5
+  1.0050 Yes@0.0090 No@0.9960 liq=3382.92775 CA Bucaramanga vs. CDP Junior FC: O/U 7.5
+  1.0050 Yes@0.0090 No@0.9960 liq=2094.17876 Exact Score: BV Borussia 09 Dortmund 0 - 3 SV Werd
+both-sides-priced: 108  count sum<=1.010: 9
+lowest min-ask sums:
+  1.0020 Yes@0.0050 No@0.9970 liq=4101.03722 Will US unemployment reach at least 6.0% in 2026?
+  1.0040 Yes@0.0050 No@0.9990 liq=2174.26947 Atletico de Rafaela vs. CA Atlanta: O/U 8.5
+  1.0040 Yes@0.0080 No@0.9960 liq=11479.85242 Real Sporting de Gijón vs. Celta Fortuna: O/U 7.5
+  1.0050 Yes@0.0090 No@0.9960 liq=3382.92775 CA Bucaramanga vs. CDP Junior FC: O/U 7.5
+  1.0050 Yes@0.0090 No@0.9960 liq=2094.17876 Exact Score: BV Borussia 09 Dortmund 0 - 3 SV Werder Br
+  1.0090 Yes@0.0100 No@0.9990 liq=1678.63823 San Martin de San Juan vs. Club Almagro: O/U 8.5
+  1.0100 Yes@0.4700 No@0.5400 liq=10941.6302 CA Talleres vs. CA Belgrano: Both Teams to Score
+  1.0100 Yes@0.8300 No@0.1800 liq=23811.488 Will Anthropic IPO by December 31, 2026?
+  1.0100 Yes@0.5000 No@0.5100 liq=6.975 Will John Lucian Goins qualify for the 2027 PPA Tour Fi
+  1.0120 Yes@0.0130 No@0.9990 liq=1799.0198 Exact Score: Racing Club de Lens 5 - 2 Olympique Lyonna
