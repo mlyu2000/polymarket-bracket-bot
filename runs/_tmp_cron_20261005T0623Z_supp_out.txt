@@ -1,0 +1,6 @@
+Supplement (best-ask via min): 126 priced markets in 50.1s
+TRUE brackets (best-ask sum < 1.000): 0
+Near-misses (sum <= 1.005): 2
+  1.0030 | Yes@0.006 No@0.997 | liq=4077 | Will US unemployment reach at least 6.0% in 2026?
+  1.0040 | Yes@0.008 No@0.996 | liq=2073 | Exact Score: BV Borussia 09 Dortmund 0 - 3 SV Werder Bremen?
+Floor: 1.0030
