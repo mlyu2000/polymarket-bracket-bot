@@ -1,0 +1,272 @@
+[
+ {
+  "total": 1.003,
+  "q": "Will US unemployment reach at least 6.0% in 2026?",
+  "yes": 0.006,
+  "no": 0.997,
+  "liq": 4002.52449,
+  "yes_size": 297,
+  "no_size": 1555
+ },
+ {
+  "total": 1.004,
+  "q": "Exact Score: BV Borussia 09 Dortmund 0 - 3 SV Werder Bremen?",
+  "yes": 0.008,
+  "no": 0.996,
+  "liq": 2669.84183,
+  "yes_size": 300,
+  "no_size": 18
+ },
+ {
+  "total": 1.006,
+  "q": "Exact Score: Lille OSC 1 - 3 Le Havre AC?",
+  "yes": 0.014,
+  "no": 0.992,
+  "liq": 1690.49565,
+  "yes_size": 100,
+  "no_size": 795
+ },
+ {
+  "total": 1.007,
+  "q": "Will the highest temperature in Austin be between 80-81\u00b0F on",
+  "yes": 0.009,
+  "no": 0.998,
+  "liq": 1595.0637,
+  "yes_size": 115,
+  "no_size": 437
+ },
+ {
+  "total": 1.009,
+  "q": "Chicago Fire FC vs. Vancouver Whitecaps FC: Vancouver Whitec",
+  "yes": 0.029,
+  "no": 0.98,
+  "liq": 823.1916,
+  "yes_size": 5,
+  "no_size": 5
+ },
+ {
+  "total": 1.009,
+  "q": "Exact Score: TSG 1899 Hoffenheim 5 - 3 Hamburger SV?",
+  "yes": 0.01,
+  "no": 0.999,
+  "liq": 2282.40359,
+  "yes_size": 310,
+  "no_size": 5
+ },
+ {
+  "total": 1.01,
+  "q": "Cagliari Calcio vs. Juventus FC: O/U 2.5",
+  "yes": 0.48,
+  "no": 0.53,
+  "liq": 11570.3815,
+  "yes_size": 758,
+  "no_size": 30
+ },
+ {
+  "total": 1.01,
+  "q": "Will the Buffalo Bills have more than 12.5 wins during the 2",
+  "yes": 0.41,
+  "no": 0.6,
+  "liq": 211.2581,
+  "yes_size": 119,
+  "no_size": 99
+ },
+ {
+  "total": 1.011,
+  "q": "Exact Score: Club Nacional de Football 1 - 4 Montevideo City",
+  "yes": 0.017,
+  "no": 0.994,
+  "liq": 9671.25725,
+  "yes_size": 50,
+  "no_size": 1780
+ },
+ {
+  "total": 1.012,
+  "q": "Exact Score: AS Monaco FC 4 - 3 Toulouse FC?",
+  "yes": 0.013,
+  "no": 0.999,
+  "liq": 1935.78059,
+  "yes_size": 310,
+  "no_size": 5
+ },
+ {
+  "total": 1.012,
+  "q": "Exact Score: Racing Club de Lens 5 - 2 Olympique Lyonnais?",
+  "yes": 0.013,
+  "no": 0.999,
+  "liq": 1535.41345,
+  "yes_size": 210,
+  "no_size": 28
+ },
+ {
+  "total": 1.02,
+  "q": "Spread: Boise State (-6.5)",
+  "yes": 0.48,
+  "no": 0.54,
+  "liq": 9130.8994,
+  "yes_size": 9,
+  "no_size": 1165
+ },
+ {
+  "total": 1.02,
+  "q": "Spread: Uruguay (-4.5)",
+  "yes": 0.38,
+  "no": 0.64,
+  "liq": 160.0596,
+  "yes_size": 22,
+  "no_size": 5
+ },
+ {
+  "total": 1.02,
+  "q": "Stade Rennais FC 1901 vs. AJ Auxerre: Both Teams to Score",
+  "yes": 0.58,
+  "no": 0.44,
+  "liq": 8291.9244,
+  "yes_size": 396,
+  "no_size": 790
+ },
+ {
+  "total": 1.02,
+  "q": "Will the lowest temperature in Hong Kong be 24\u00b0C on October ",
+  "yes": 0.14,
+  "no": 0.88,
+  "liq": 2172.1352,
+  "yes_size": 5,
+  "no_size": 100
+ },
+ {
+  "total": 1.024,
+  "q": "Exact Score: FC Sochaux-Montb\u00e9liard 4 - 4 US Boulogne C\u00f4te d",
+  "yes": 0.025,
+  "no": 0.999,
+  "liq": 668.3777,
+  "yes_size": 50,
+  "no_size": 28
+ },
+ {
+  "total": 1.024,
+  "q": "Exact Score: Montpellier HSC 4 - 4 Grenoble Foot 38?",
+  "yes": 0.025,
+  "no": 0.999,
+  "liq": 677.37554,
+  "yes_size": 50,
+  "no_size": 33
+ },
+ {
+  "total": 1.026,
+  "q": "Exact Score: AS Nancy-Lorraine 4 - 4 En Avant Guingamp?",
+  "yes": 0.027,
+  "no": 0.999,
+  "liq": 722.90038,
+  "yes_size": 75,
+  "no_size": 33
+ },
+ {
+  "total": 1.027,
+  "q": "Exact Score: Racing Club de Lens 4 - 4 Olympique Lyonnais?",
+  "yes": 0.028,
+  "no": 0.999,
+  "liq": 1187.10259,
+  "yes_size": 200,
+  "no_size": 28
+ },
+ {
+  "total": 1.028,
+  "q": "Exact Score: BV Borussia 09 Dortmund 4 - 4 SV Werder Bremen?",
+  "yes": 0.029,
+  "no": 0.999,
+  "liq": 1159.15393,
+  "yes_size": 431,
+  "no_size": 28
+ },
+ {
+  "total": 1.028,
+  "q": "Exact Score: West Ham United FC 4 - 4 Queens Park Rangers FC",
+  "yes": 0.029,
+  "no": 0.999,
+  "liq": 867.19345,
+  "yes_size": 150,
+  "no_size": 33
+ },
+ {
+  "total": 1.029,
+  "q": "Exact Score: West Ham United FC 1 - 4 Queens Park Rangers FC",
+  "yes": 0.03,
+  "no": 0.999,
+  "liq": 233.63486,
+  "yes_size": 100,
+  "no_size": 5
+ },
+ {
+  "total": 1.03,
+  "q": "OGC Nice vs. RC Strasbourg Alsace: Both Teams to Score",
+  "yes": 0.61,
+  "no": 0.42,
+  "liq": 6750.8878,
+  "yes_size": 676,
+  "no_size": 737
+ },
+ {
+  "total": 1.03,
+  "q": "Will Eintracht Braunschweig win on 2026-10-09?",
+  "yes": 0.36,
+  "no": 0.67,
+  "liq": 5577.354,
+  "yes_size": 880,
+  "no_size": 305
+ },
+ {
+  "total": 1.03,
+  "q": "Will Maccabi Petah Tikva FC win on 2026-10-10?",
+  "yes": 0.29,
+  "no": 0.74,
+  "liq": 1659.0505,
+  "yes_size": 9,
+  "no_size": 35
+ },
+ {
+  "total": 1.03,
+  "q": "Will USD/JPY hit 190 (High) in 2026?",
+  "yes": 0.07,
+  "no": 0.96,
+  "liq": 358.8812,
+  "yes_size": 13,
+  "no_size": 25
+ },
+ {
+  "total": 1.032,
+  "q": "Exact Score: Montpellier HSC 3 - 3 Grenoble Foot 38?",
+  "yes": 0.033,
+  "no": 0.999,
+  "liq": 336.67284,
+  "yes_size": 75,
+  "no_size": 5
+ },
+ {
+  "total": 1.033,
+  "q": "Will the price of Bitcoin be between $92,000 and $94,000 on ",
+  "yes": 0.039,
+  "no": 0.994,
+  "liq": 7086.22617,
+  "yes_size": 5370,
+  "no_size": 5390
+ },
+ {
+  "total": 1.038,
+  "q": "Exact Score: Pau FC 4 - 4 Stade Lavallois Mayenne FC?",
+  "yes": 0.039,
+  "no": 0.999,
+  "liq": 442.49204,
+  "yes_size": 50,
+  "no_size": 33
+ },
+ {
+  "total": 1.04,
+  "q": "Blackburn Rovers FC vs. Cardiff City FC: Both Teams to Score",
+  "yes": 0.64,
+  "no": 0.4,
+  "liq": 1433.413,
+  "yes_size": 338,
+  "no_size": 31
+ }
+]
