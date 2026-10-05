@@ -1,0 +1,272 @@
+[
+ {
+  "total": 1.002,
+  "q": "Will Microsoft be the largest company in the world by market",
+  "yes": 0.007,
+  "no": 0.995,
+  "liq": 91632.62463,
+  "yes_size": 5530,
+  "no_size": 98153
+ },
+ {
+  "total": 1.004,
+  "q": "Will US unemployment reach at least 6.0% in 2026?",
+  "yes": 0.006,
+  "no": 0.998,
+  "liq": 3905.83592,
+  "yes_size": 297,
+  "no_size": 4847
+ },
+ {
+  "total": 1.005,
+  "q": "Exact Score: Lille OSC 1 - 3 Le Havre AC?",
+  "yes": 0.014,
+  "no": 0.991,
+  "liq": 2244.19153,
+  "yes_size": 200,
+  "no_size": 145
+ },
+ {
+  "total": 1.006,
+  "q": "Korea Republic vs. Uzbekistan: O/U 7.5",
+  "yes": 0.011,
+  "no": 0.995,
+  "liq": 1405.45055,
+  "yes_size": 6,
+  "no_size": 940
+ },
+ {
+  "total": 1.01,
+  "q": "Club Nacional de Football vs. Montevideo City Torque: O/U 3.",
+  "yes": 0.31,
+  "no": 0.7,
+  "liq": 24336.6231,
+  "yes_size": 296,
+  "no_size": 874
+ },
+ {
+  "total": 1.01,
+  "q": "Stade Brestois 29 vs. Angers SCO: Both Teams to Score",
+  "yes": 0.58,
+  "no": 0.43,
+  "liq": 5826.7489,
+  "yes_size": 449,
+  "no_size": 5
+ },
+ {
+  "total": 1.01,
+  "q": "Stade Rennais FC 1901 vs. AJ Auxerre: Both Teams to Score",
+  "yes": 0.58,
+  "no": 0.43,
+  "liq": 5700.8802,
+  "yes_size": 445,
+  "no_size": 5
+ },
+ {
+  "total": 1.01,
+  "q": "Will the Carolina Panthers have more than 7.5 wins during th",
+  "yes": 0.48,
+  "no": 0.53,
+  "liq": 1534.4214,
+  "yes_size": 239,
+  "no_size": 80
+ },
+ {
+  "total": 1.016,
+  "q": "Will the highest temperature in Chongqing be 23\u00b0C on October",
+  "yes": 0.018,
+  "no": 0.998,
+  "liq": 2088.6751,
+  "yes_size": 30,
+  "no_size": 5
+ },
+ {
+  "total": 1.019,
+  "q": "Will the price of Bitcoin be between $92,000 and $94,000 on ",
+  "yes": 0.02,
+  "no": 0.999,
+  "liq": 7841.85006,
+  "yes_size": 5468,
+  "no_size": 420
+ },
+ {
+  "total": 1.02,
+  "q": "Atalanta BC vs. Venezia FC: Both Teams to Score",
+  "yes": 0.59,
+  "no": 0.43,
+  "liq": 5805.0598,
+  "yes_size": 746,
+  "no_size": 1046
+ },
+ {
+  "total": 1.02,
+  "q": "Elche CF vs. RC Celta de Vigo: Both Teams to Score",
+  "yes": 0.54,
+  "no": 0.48,
+  "liq": 6274.1456,
+  "yes_size": 1432,
+  "no_size": 1469
+ },
+ {
+  "total": 1.02,
+  "q": "England vs. Czechia: Czechia O/U 0.5",
+  "yes": 0.43,
+  "no": 0.59,
+  "liq": 7717.155,
+  "yes_size": 5,
+  "no_size": 981
+ },
+ {
+  "total": 1.02,
+  "q": "OGC Nice vs. RC Strasbourg Alsace: Both Teams to Score",
+  "yes": 0.61,
+  "no": 0.41,
+  "liq": 5112.396,
+  "yes_size": 625,
+  "no_size": 875
+ },
+ {
+  "total": 1.02,
+  "q": "Real Sociedad de F\u00fatbol vs. RC Deportivo A Coru\u00f1a: Both Team",
+  "yes": 0.55,
+  "no": 0.47,
+  "liq": 4753.7523,
+  "yes_size": 1750,
+  "no_size": 300
+ },
+ {
+  "total": 1.02,
+  "q": "Will Eintracht Braunschweig win on 2026-10-09?",
+  "yes": 0.36,
+  "no": 0.66,
+  "liq": 5630.9754,
+  "yes_size": 250,
+  "no_size": 804
+ },
+ {
+  "total": 1.022,
+  "q": "Ukraine vs. Hungary: 1st Half O/U 4.5",
+  "yes": 0.024,
+  "no": 0.998,
+  "liq": 1573.96933,
+  "yes_size": 348,
+  "no_size": 11185
+ },
+ {
+  "total": 1.024,
+  "q": "Estudiantes de La Plata vs. CA Gimnasia y Esgrima de Mendoza",
+  "yes": 0.028,
+  "no": 0.996,
+  "liq": 1716.7142,
+  "yes_size": 100,
+  "no_size": 7020
+ },
+ {
+  "total": 1.029,
+  "q": "Will NVIDIA (NVDA) close above $235 on October 5?",
+  "yes": 0.99,
+  "no": 0.039,
+  "liq": 2602.4495,
+  "yes_size": 10,
+  "no_size": 509
+ },
+ {
+  "total": 1.03,
+  "q": "Bosnia and Herzegovina vs. Poland: 1st Half O/U 4.5",
+  "yes": 0.034,
+  "no": 0.996,
+  "liq": 1468.68462,
+  "yes_size": 314,
+  "no_size": 8260
+ },
+ {
+  "total": 1.03,
+  "q": "Derby County FC vs. Wrexham AFC: Both Teams to Score",
+  "yes": 0.54,
+  "no": 0.49,
+  "liq": 2286.6891,
+  "yes_size": 265,
+  "no_size": 732
+ },
+ {
+  "total": 1.03,
+  "q": "Kyle Pitts Sr.: Receiving Yards O/U 29.5",
+  "yes": 0.54,
+  "no": 0.49,
+  "liq": 1114.025,
+  "yes_size": 700,
+  "no_size": 5
+ },
+ {
+  "total": 1.03,
+  "q": "Will China PR vs. Tajikistan end in a draw?",
+  "yes": 0.25,
+  "no": 0.78,
+  "liq": 3465.6554,
+  "yes_size": 133,
+  "no_size": 103
+ },
+ {
+  "total": 1.03,
+  "q": "Will USD/JPY hit 190 (High) in 2026?",
+  "yes": 0.07,
+  "no": 0.96,
+  "liq": 339.4801,
+  "yes_size": 13,
+  "no_size": 25
+ },
+ {
+  "total": 1.039,
+  "q": "Exact Score: Racing Club de Lens 4 - 4 Olympique Lyonnais?",
+  "yes": 0.04,
+  "no": 0.999,
+  "liq": 967.27549,
+  "yes_size": 200,
+  "no_size": 28
+ },
+ {
+  "total": 1.04,
+  "q": "Exact Score: Pau FC 4 - 4 Stade Lavallois Mayenne FC?",
+  "yes": 0.041,
+  "no": 0.999,
+  "liq": 444.6126,
+  "yes_size": 50,
+  "no_size": 28
+ },
+ {
+  "total": 1.04,
+  "q": "Liechtenstein vs. Gibraltar: Gibraltar O/U 3.5 Corners",
+  "yes": 0.58,
+  "no": 0.46,
+  "liq": 1648.6077,
+  "yes_size": 14,
+  "no_size": 35
+ },
+ {
+  "total": 1.04,
+  "q": "Suns vs. Pistons: O/U 219.5",
+  "yes": 0.49,
+  "no": 0.55,
+  "liq": 3309.5234,
+  "yes_size": 5,
+  "no_size": 21
+ },
+ {
+  "total": 1.041,
+  "q": "Will Atlanta Falcons finish the 2026-27 NFL regular season w",
+  "yes": 0.042,
+  "no": 0.999,
+  "liq": 243.93625,
+  "yes_size": 80,
+  "no_size": 5
+ },
+ {
+  "total": 1.041,
+  "q": "Will Carolina Panthers finish the 2026-27 NFL regular season",
+  "yes": 0.042,
+  "no": 0.999,
+  "liq": 228.32297,
+  "yes_size": 80,
+  "no_size": 5
+ }
+]
