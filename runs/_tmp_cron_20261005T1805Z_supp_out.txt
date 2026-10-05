@@ -1,0 +1,16 @@
+both_sides_priced=96
+TOP best-ask totals:
+  1.002 | yes 0.007 x5680 / no 0.995 x98294 | ov=5680 | liq=90319.46708 | Will Microsoft be the largest company in the world by market
+  1.004 | yes 0.006 x297 / no 0.998 x4847 | ov=297 | liq=4364.33804 | Will US unemployment reach at least 6.0% in 2026?
+  1.005 | yes 0.014 x200 / no 0.991 x145 | ov=145 | liq=2244.19653 | Exact Score: Lille OSC 1 - 3 Le Havre AC?
+  1.006 | yes 0.011 x6 / no 0.995 x940 | ov=6 | liq=1434.06444 | Korea Republic vs. Uzbekistan: O/U 7.5
+  1.010 | yes 0.310 x296 / no 0.700 x874 | ov=296 | liq=24311.9482 | Club Nacional de Football vs. Montevideo City Torque: O/U 3.5
+  1.010 | yes 0.590 x109 / no 0.420 x455 | ov=109 | liq=74951.727 | Counter-Strike: Vitality vs Team Falcons (BO3) - ESL Pro Lea
+  1.010 | yes 0.580 x449 / no 0.430 x5 | ov=5 | liq=5611.9889 | Stade Brestois 29 vs. Angers SCO: Both Teams to Score
+  1.010 | yes 0.580 x445 / no 0.430 x5 | ov=5 | liq=5797.5302 | Stade Rennais FC 1901 vs. AJ Auxerre: Both Teams to Score
+  1.010 | yes 0.480 x239 / no 0.530 x80 | ov=80 | liq=1478.7456 | Will the Carolina Panthers have more than 7.5 wins during th
+  1.012 | yes 0.013 x310 / no 0.999 x5 | ov=5 | liq=1526.9063 | Exact Score: AS Monaco FC 4 - 3 Toulouse FC?
+  1.016 | yes 0.018 x30 / no 0.998 x5 | ov=5 | liq=2021.61807 | Will the highest temperature in Chongqing be 23°C on October
+  1.019 | yes 0.020 x5453 / no 0.999 x420 | ov=420 | liq=8081.65316 | Will the price of Bitcoin be between $92,000 and $94,000 on 
+true_brackets_min_ask=0
+band<=1.005_count=3
