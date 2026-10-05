@@ -1,0 +1,9 @@
+elapsed 45.0s | markets 500 | both-sides-priced 114
+BRACKETS (min-ask sum<1.00): 0
+floor sum: 1.002 | Will US unemployment reach at least 6.0% in 2026? | Yes@0.005 No@0.997 | liq 4161.87783
+near-misses (<=1.005): 5
+   (1.002, 'Will US unemployment reach at least 6.0% in 2026?', 0.005, 0.997, 4161.87783)
+   (1.004, 'CA Cerro vs. Montevideo Wanderers: O/U 8.5', 0.005, 0.999, 2117.62765)
+   (1.004, 'CD Castellón vs. AD Ceuta FC: AD Ceuta FC O/U 3.5', 0.012, 0.992, 2482.04905)
+   (1.005, 'Exact Score: BV Borussia 09 Dortmund 0 - 3 SV Werd', 0.009, 0.996, 2102.00577)
+   (1.005, 'Real Sporting de Gijón vs. Celta Fortuna: O/U 7.5', 0.01, 0.995, 8276.94971)
