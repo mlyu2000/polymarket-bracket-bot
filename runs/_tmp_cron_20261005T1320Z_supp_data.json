@@ -1,0 +1,110 @@
+[
+ {
+  "sum": 1.001,
+  "q": "Will Ethereum reach $4,500 in October?",
+  "yes": 0.006,
+  "no": 0.995,
+  "liq": 79365.06346,
+  "yes_sz": 5,
+  "no_sz": 5876
+ },
+ {
+  "sum": 1.003,
+  "q": "Will US unemployment reach at least 6.0% in 2026?",
+  "yes": 0.006,
+  "no": 0.997,
+  "liq": 4188.67825,
+  "yes_sz": 302,
+  "no_sz": 1562
+ },
+ {
+  "sum": 1.006,
+  "q": "Exact Score: Ipswich Town FC 1 - 5 Fulham FC?",
+  "yes": 0.009,
+  "no": 0.997,
+  "liq": 1598.78299,
+  "yes_sz": 200,
+  "no_sz": 10530
+ },
+ {
+  "sum": 1.007,
+  "q": "Exact Score: Ipswich Town FC 0 - 5 Fulham FC?",
+  "yes": 0.008,
+  "no": 0.999,
+  "liq": 2217.06819,
+  "yes_sz": 310,
+  "no_sz": 5
+ },
+ {
+  "sum": 1.008,
+  "q": "Exact Score: Lille OSC 1 - 3 Le Havre AC?",
+  "yes": 0.015,
+  "no": 0.993,
+  "liq": 3081.04692,
+  "yes_sz": 100,
+  "no_sz": 1084
+ },
+ {
+  "sum": 1.009,
+  "q": "Exact Score: Ipswich Town FC 4 - 0 Fulham FC?",
+  "yes": 0.016,
+  "no": 0.993,
+  "liq": 1533.99799,
+  "yes_sz": 200,
+  "no_sz": 7890
+ },
+ {
+  "sum": 1.009,
+  "q": "Exact Score: TSG 1899 Hoffenheim 5 - 3 Hamburger SV?",
+  "yes": 0.01,
+  "no": 0.999,
+  "liq": 2536.00669,
+  "yes_sz": 310,
+  "no_sz": 5
+ },
+ {
+  "sum": 1.01,
+  "q": "Chicago Fire FC vs. Vancouver Whitecaps FC: Vancouver Whitec",
+  "yes": 0.03,
+  "no": 0.98,
+  "liq": 1106.07543,
+  "yes_sz": 9,
+  "no_sz": 5
+ },
+ {
+  "sum": 1.01,
+  "q": "Stade Brestois 29 vs. Angers SCO: Both Teams to Score",
+  "yes": 0.58,
+  "no": 0.43,
+  "liq": 9180.2888,
+  "yes_sz": 448,
+  "no_sz": 5
+ },
+ {
+  "sum": 1.01,
+  "q": "Stade Rennais FC 1901 vs. AJ Auxerre: Both Teams to Score",
+  "yes": 0.58,
+  "no": 0.43,
+  "liq": 7857.6072,
+  "yes_sz": 613,
+  "no_sz": 5
+ },
+ {
+  "sum": 1.01,
+  "q": "Will Eintracht Braunschweig win on 2026-10-09?",
+  "yes": 0.36,
+  "no": 0.65,
+  "liq": 9885.003,
+  "yes_sz": 250,
+  "no_sz": 202
+ },
+ {
+  "sum": 1.01,
+  "q": "Will the Carolina Panthers have more than 7.5 wins during th",
+  "yes": 0.48,
+  "no": 0.53,
+  "liq": 1462.8071,
+  "yes_sz": 71,
+  "no_sz": 20
+ }
+]
