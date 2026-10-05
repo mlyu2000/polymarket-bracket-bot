@@ -1,0 +1,6 @@
+[min-ask supplement] 500 markets (76 priced) in 46.3s
+BRACKETS (detector, net_edge>=margin): 0
+Near-misses (best-ask sum <= 1.005): 2
+  1.002 | Yes@0.007 No@0.995 | ov=5551 liq=93135.27698 | Will Microsoft be the largest company in the world
+  1.004 | Yes@0.006 No@0.998 | ov=297 liq=3805.23024 | Will US unemployment reach at least 6.0% in 2026?
+FLOOR: 1.002
