@@ -1,0 +1,18 @@
+both_sides_priced=83 markets=500
+min_sum=1.002
+TOP15:
+  1.002 | Y@0.003 N@0.999 ov=425 liq=4205.35704 | Will the highest temperature in Los Angeles be between 86-87°F on Octo
+  1.002 | Y@0.007 N@0.995 ov=5551 liq=92624.81478 | Will Microsoft be the largest company in the world by market cap on De
+  1.004 | Y@0.006 N@0.998 ov=297 liq=4365.51446 | Will US unemployment reach at least 6.0% in 2026?
+  1.005 | Y@0.014 N@0.991 ov=145 liq=2249.15053 | Exact Score: Lille OSC 1 - 3 Le Havre AC?
+  1.008 | Y@0.025 N@0.983 ov=2368 liq=8953.9968 | Bosnia and Herzegovina vs. Poland: Bosnia and Herzegovina O/U 2.5
+  1.010 | Y@0.680 N@0.330 ov=472 liq=3514.5563 | 1. FSV Mainz 05 vs. Bayer 04 Leverkusen: Both Teams to Score
+  1.010 | Y@0.580 N@0.430 ov=5 liq=5302.6089 | Stade Brestois 29 vs. Angers SCO: Both Teams to Score
+  1.010 | Y@0.580 N@0.430 ov=5 liq=5515.0154 | Stade Rennais FC 1901 vs. AJ Auxerre: Both Teams to Score
+  1.010 | Y@0.480 N@0.530 ov=60 liq=1499.022 | Will the Carolina Panthers have more than 7.5 wins during the 2026 NFL
+  1.010 | Y@0.360 N@0.650 ov=250 liq=5820.537 | Will Eintracht Braunschweig win on 2026-10-09?
+  1.011 | Y@0.012 N@0.999 ov=5 liq=1119.46042 | Korea Republic vs. Uzbekistan: O/U 7.5
+  1.016 | Y@0.018 N@0.998 ov=5 liq=2605.39792 | Will the highest temperature in Chongqing be 23°C on October 7?
+  1.019 | Y@0.039 N@0.980 ov=5 liq=1624.51689 | Chicago Fire FC vs. Vancouver Whitecaps FC: Vancouver Whitecaps FC O/U
+  1.020 | Y@0.540 N@0.480 ov=1432 liq=6312.6268 | Elche CF vs. RC Celta de Vigo: Both Teams to Score
+  1.020 | Y@0.590 N@0.430 ov=746 liq=5688.6598 | Atalanta BC vs. Venezia FC: Both Teams to Score
