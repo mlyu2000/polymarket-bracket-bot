@@ -1,0 +1,272 @@
+[
+ {
+  "total": 1.003,
+  "q": "Will US unemployment reach at least 6.0% in 2026?",
+  "yes": 0.006,
+  "no": 0.997,
+  "liq": 4079.32793,
+  "yes_size": 302,
+  "no_size": 1562
+ },
+ {
+  "total": 1.004,
+  "q": "Exact Score: BV Borussia 09 Dortmund 0 - 3 SV Werder Bremen?",
+  "yes": 0.008,
+  "no": 0.996,
+  "liq": 2069.28583,
+  "yes_size": 300,
+  "no_size": 18
+ },
+ {
+  "total": 1.006,
+  "q": "Exact Score: Ipswich Town FC 0 - 5 Fulham FC?",
+  "yes": 0.008,
+  "no": 0.998,
+  "liq": 2243.87159,
+  "yes_size": 310,
+  "no_size": 14085
+ },
+ {
+  "total": 1.006,
+  "q": "Exact Score: Lille OSC 1 - 3 Le Havre AC?",
+  "yes": 0.014,
+  "no": 0.992,
+  "liq": 1255.50065,
+  "yes_size": 100,
+  "no_size": 795
+ },
+ {
+  "total": 1.007,
+  "q": "Exact Score: Ipswich Town FC 3 - 4 Fulham FC?",
+  "yes": 0.01,
+  "no": 0.997,
+  "liq": 831.10192,
+  "yes_size": 200,
+  "no_size": 14280
+ },
+ {
+  "total": 1.009,
+  "q": "Exact Score: TSG 1899 Hoffenheim 5 - 3 Hamburger SV?",
+  "yes": 0.01,
+  "no": 0.999,
+  "liq": 1835.12159,
+  "yes_size": 310,
+  "no_size": 5
+ },
+ {
+  "total": 1.01,
+  "q": "Chicago Fire FC vs. Vancouver Whitecaps FC: Vancouver Whitec",
+  "yes": 0.03,
+  "no": 0.98,
+  "liq": 535.37591,
+  "yes_size": 9,
+  "no_size": 5
+ },
+ {
+  "total": 1.01,
+  "q": "RB Leipzig vs. Eintracht Frankfurt: Both Teams to Score",
+  "yes": 0.68,
+  "no": 0.33,
+  "liq": 3397.5515,
+  "yes_size": 15,
+  "no_size": 776
+ },
+ {
+  "total": 1.012,
+  "q": "Exact Score: AS Monaco FC 4 - 3 Toulouse FC?",
+  "yes": 0.013,
+  "no": 0.999,
+  "liq": 1693.69699,
+  "yes_size": 310,
+  "no_size": 5
+ },
+ {
+  "total": 1.012,
+  "q": "Exact Score: Racing Club de Lens 5 - 2 Olympique Lyonnais?",
+  "yes": 0.013,
+  "no": 0.999,
+  "liq": 1689.73765,
+  "yes_size": 210,
+  "no_size": 28
+ },
+ {
+  "total": 1.013,
+  "q": "Exact Score: Club Nacional de Football 1 - 4 Montevideo City",
+  "yes": 0.019,
+  "no": 0.994,
+  "liq": 7079.30164,
+  "yes_size": 50,
+  "no_size": 1730
+ },
+ {
+  "total": 1.02,
+  "q": "Spread: Boise State (-6.5)",
+  "yes": 0.48,
+  "no": 0.54,
+  "liq": 7194.4292,
+  "yes_size": 9,
+  "no_size": 1268
+ },
+ {
+  "total": 1.024,
+  "q": "Estudiantes de La Plata vs. CA Gimnasia y Esgrima de Mendoza",
+  "yes": 0.028,
+  "no": 0.996,
+  "liq": 177.53279,
+  "yes_size": 100,
+  "no_size": 2067
+ },
+ {
+  "total": 1.029,
+  "q": "Will the price of Bitcoin be between $92,000 and $94,000 on ",
+  "yes": 0.04,
+  "no": 0.989,
+  "liq": 7583.0037,
+  "yes_size": 5370,
+  "no_size": 405
+ },
+ {
+  "total": 1.03,
+  "q": "Cuba vs. St. Kitts and Nevis: St. Kitts and Nevis O/U 1.5",
+  "yes": 0.36,
+  "no": 0.67,
+  "liq": 3486.1282,
+  "yes_size": 5,
+  "no_size": 579
+ },
+ {
+  "total": 1.03,
+  "q": "OGC Nice vs. RC Strasbourg Alsace: Both Teams to Score",
+  "yes": 0.61,
+  "no": 0.42,
+  "liq": 4009.5677,
+  "yes_size": 676,
+  "no_size": 737
+ },
+ {
+  "total": 1.03,
+  "q": "Stade Rennais FC 1901 vs. AJ Auxerre: Both Teams to Score",
+  "yes": 0.59,
+  "no": 0.44,
+  "liq": 5617.8705,
+  "yes_size": 489,
+  "no_size": 790
+ },
+ {
+  "total": 1.03,
+  "q": "Will Eintracht Braunschweig win on 2026-10-09?",
+  "yes": 0.36,
+  "no": 0.67,
+  "liq": 6229.3925,
+  "yes_size": 880,
+  "no_size": 300
+ },
+ {
+  "total": 1.03,
+  "q": "Will Maccabi Petah Tikva FC win on 2026-10-10?",
+  "yes": 0.29,
+  "no": 0.74,
+  "liq": 1612.571,
+  "yes_size": 9,
+  "no_size": 35
+ },
+ {
+  "total": 1.03,
+  "q": "Will USD/JPY hit 190 (High) in 2026?",
+  "yes": 0.07,
+  "no": 0.96,
+  "liq": 346.0656,
+  "yes_size": 13,
+  "no_size": 25
+ },
+ {
+  "total": 1.038,
+  "q": "Bosnia and Herzegovina vs. Poland: 1st Half O/U 4.5",
+  "yes": 0.043,
+  "no": 0.995,
+  "liq": 189.28619,
+  "yes_size": 100,
+  "no_size": 8072
+ },
+ {
+  "total": 1.04,
+  "q": "Real Sociedad de F\u00fatbol vs. RC Deportivo A Coru\u00f1a: Both Team",
+  "yes": 0.56,
+  "no": 0.48,
+  "liq": 2982.8138,
+  "yes_size": 65,
+  "no_size": 1211
+ },
+ {
+  "total": 1.041,
+  "q": "Will Atlanta Falcons finish the 2026-27 NFL regular season w",
+  "yes": 0.042,
+  "no": 0.999,
+  "liq": 194.77903,
+  "yes_size": 80,
+  "no_size": 5
+ },
+ {
+  "total": 1.041,
+  "q": "Will Carolina Panthers finish the 2026-27 NFL regular season",
+  "yes": 0.042,
+  "no": 0.999,
+  "liq": 193.05995,
+  "yes_size": 80,
+  "no_size": 5
+ },
+ {
+  "total": 1.041,
+  "q": "Will Denver Broncos finish the 2026-27 NFL regular season wi",
+  "yes": 0.042,
+  "no": 0.999,
+  "liq": 194.994,
+  "yes_size": 80,
+  "no_size": 5
+ },
+ {
+  "total": 1.041,
+  "q": "Will Jacksonville Jaguars finish the 2026-27 NFL regular sea",
+  "yes": 0.042,
+  "no": 0.999,
+  "liq": 192.929,
+  "yes_size": 80,
+  "no_size": 5
+ },
+ {
+  "total": 1.041,
+  "q": "Will Kansas City Chiefs finish the 2026-27 NFL regular seaso",
+  "yes": 0.042,
+  "no": 0.999,
+  "liq": 196.13601,
+  "yes_size": 80,
+  "no_size": 5
+ },
+ {
+  "total": 1.041,
+  "q": "Will Las Vegas Raiders finish the 2026-27 NFL regular season",
+  "yes": 0.042,
+  "no": 0.999,
+  "liq": 193.05996,
+  "yes_size": 80,
+  "no_size": 5
+ },
+ {
+  "total": 1.041,
+  "q": "Will New Orleans Saints finish the 2026-27 NFL regular seaso",
+  "yes": 0.042,
+  "no": 0.999,
+  "liq": 196.59298,
+  "yes_size": 80,
+  "no_size": 5
+ },
+ {
+  "total": 1.041,
+  "q": "Will Pittsburgh Steelers finish the 2026-27 NFL regular seas",
+  "yes": 0.042,
+  "no": 0.999,
+  "liq": 192.97757,
+  "yes_size": 80,
+  "no_size": 5
+ }
+]

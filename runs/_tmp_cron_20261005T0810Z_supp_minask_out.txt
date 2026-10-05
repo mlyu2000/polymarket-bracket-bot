@@ -1,0 +1,16 @@
+markets=500 both_sides_priced=123 scan_time=47.8s
+top12 best-ask totals:
+  1.003 | yes 0.006 x302 no 0.997 x1562 | liq 4079.32793 | Will US unemployment reach at least 6.0% in 2026?
+  1.004 | yes 0.008 x300 no 0.996 x18 | liq 2069.28583 | Exact Score: BV Borussia 09 Dortmund 0 - 3 SV Werder Bremen?
+  1.006 | yes 0.008 x310 no 0.998 x14085 | liq 2243.87159 | Exact Score: Ipswich Town FC 0 - 5 Fulham FC?
+  1.006 | yes 0.014 x100 no 0.992 x795 | liq 1255.50065 | Exact Score: Lille OSC 1 - 3 Le Havre AC?
+  1.007 | yes 0.010 x200 no 0.997 x14280 | liq 831.10192 | Exact Score: Ipswich Town FC 3 - 4 Fulham FC?
+  1.009 | yes 0.010 x310 no 0.999 x5 | liq 1835.12159 | Exact Score: TSG 1899 Hoffenheim 5 - 3 Hamburger SV?
+  1.010 | yes 0.030 x9 no 0.980 x5 | liq 535.37591 | Chicago Fire FC vs. Vancouver Whitecaps FC: Vancouver Whitec
+  1.010 | yes 0.680 x15 no 0.330 x776 | liq 3397.5515 | RB Leipzig vs. Eintracht Frankfurt: Both Teams to Score
+  1.012 | yes 0.013 x310 no 0.999 x5 | liq 1693.69699 | Exact Score: AS Monaco FC 4 - 3 Toulouse FC?
+  1.012 | yes 0.013 x210 no 0.999 x28 | liq 1689.73765 | Exact Score: Racing Club de Lens 5 - 2 Olympique Lyonnais?
+  1.013 | yes 0.019 x50 no 0.994 x1730 | liq 7079.30164 | Exact Score: Club Nacional de Football 1 - 4 Montevideo City
+  1.020 | yes 0.480 x9 no 0.540 x1268 | liq 7194.4292 | Spread: Boise State (-6.5)
+best-ask brackets (<1.000): 0
+band <=1.010 count: 8
