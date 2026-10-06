@@ -1,5 +1,5 @@
 {
- "run": "20261006T0918Z",
+ "run": "20261006T0949Z",
  "markets": 500,
  "brackets_minask": 0,
  "band_1.000_1.005": 2,
@@ -11,56 +11,56 @@
    "q": "Will Microsoft be the largest company in the world by market",
    "yes": 0.007,
    "no": 0.995,
-   "liq": 92043.38391
+   "liq": 92046.44391
   },
   {
    "sum": 1.004,
    "q": "Will US unemployment reach at least 6.0% in 2026?",
    "yes": 0.006,
    "no": 0.998,
-   "liq": 3902.56276
+   "liq": 3900.58273
   },
   {
    "sum": 1.006,
    "q": "Exact Score: Lille OSC 1 - 3 Le Havre AC?",
    "yes": 0.014,
    "no": 0.992,
-   "liq": 2417.38306
+   "liq": 2272.16106
   },
   {
    "sum": 1.007,
    "q": "Exact Score: West Ham United FC 0 - 3 Queens Park Rangers FC",
    "yes": 0.009,
    "no": 0.998,
-   "liq": 1383.25771
+   "liq": 1382.71671
   },
   {
    "sum": 1.008,
    "q": "Exact Score: Racing Club de Lens 4 - 3 Olympique Lyonnais?",
    "yes": 0.013,
    "no": 0.995,
-   "liq": 1195.51186
+   "liq": 1198.86186
   },
   {
    "sum": 1.008,
    "q": "Exact Score: Stade Brestois 29 2 - 4 Angers SCO?",
    "yes": 0.013,
    "no": 0.995,
-   "liq": 726.22382
+   "liq": 746.20781
+  },
+  {
+   "sum": 1.009,
+   "q": "Exact Score: Stade Brestois 29 1 - 4 Angers SCO?",
+   "yes": 0.014,
+   "no": 0.995,
+   "liq": 1099.26627
   },
   {
    "sum": 1.01,
-   "q": "Elche CF vs. RC Celta de Vigo: Both Teams to Score",
-   "yes": 0.54,
-   "no": 0.47,
-   "liq": 6720.6809
-  },
-  {
-   "sum": 1.01,
-   "q": "Atalanta BC vs. Venezia FC: Both Teams to Score",
-   "yes": 0.58,
-   "no": 0.43,
-   "liq": 6686.9275
+   "q": "Trump renames ICE to NICE by December 31?",
+   "yes": 0.06,
+   "no": 0.95,
+   "liq": 11032.592
   }
  ],
  "band_entries": [
@@ -69,14 +69,14 @@
    "q": "Will Microsoft be the largest company in the world by market",
    "yes": 0.007,
    "no": 0.995,
-   "liq": 92043.38391
+   "liq": 92046.44391
   },
   {
    "sum": 1.004,
    "q": "Will US unemployment reach at least 6.0% in 2026?",
    "yes": 0.006,
    "no": 0.998,
-   "liq": 3902.56276
+   "liq": 3900.58273
   }
  ]
 }
