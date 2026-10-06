@@ -1,10 +1,10 @@
 {
- "run": "20261006T222258Z",
- "floor": 1.003,
- "market": "Will US unemployment reach at least 6.0% in 2026?",
- "yes": 0.006,
- "no": 0.997,
- "liq": 3513.53137,
+ "run": "20261006T223858Z",
+ "floor": 1.002,
+ "market": "Will the highest temperature in New York City be between 62-",
+ "yes": 0.999,
+ "no": 0.003,
+ "liq": 807.10713,
  "prev_floor": 1.003,
- "prev_run": "20261006T220456Z"
+ "prev_run": "20261006T222258Z"
 }
