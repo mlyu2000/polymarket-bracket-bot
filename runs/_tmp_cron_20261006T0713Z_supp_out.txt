@@ -1,0 +1,11 @@
+priced markets: 89/500
+TRUE best-ask floors (sum=Yes+No), 8 lowest:
+  sum=1.0020 | Yes@0.007(x5232) No@0.995(x98128) | liq=89237.54723 | Will Microsoft be the largest company in the world by market
+  sum=1.0040 | Yes@0.006(x297) No@0.998(x4947) | liq=3416.95965 | Will US unemployment reach at least 6.0% in 2026?
+  sum=1.0060 | Yes@0.014(x200) No@0.992(x145) | liq=2401.9807 | Exact Score: Lille OSC 1 - 3 Le Havre AC?
+  sum=1.0070 | Yes@0.009(x100) No@0.998(x211) | liq=1512.52671 | Exact Score: West Ham United FC 0 - 3 Queens Park Rangers FC
+  sum=1.0080 | Yes@0.013(x200) No@0.995(x1670) | liq=1198.02686 | Exact Score: Racing Club de Lens 4 - 3 Olympique Lyonnais?
+  sum=1.0080 | Yes@0.014(x310) No@0.994(x1585) | liq=678.96883 | Exact Score: Stade Brestois 29 1 - 4 Angers SCO?
+  sum=1.0090 | Yes@0.014(x200) No@0.995(x1374) | liq=662.00578 | Exact Score: Racing Club de Lens 3 - 4 Olympique Lyonnais?
+  sum=1.0100 | Yes@0.680(x441) No@0.330(x631) | liq=3728.4808 | 1. FSV Mainz 05 vs. Bayer 04 Leverkusen: Both Teams to Score
+sum<1.00: 0 | band[1.000,1.005]: 2
