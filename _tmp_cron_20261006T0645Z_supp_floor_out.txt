@@ -1,0 +1,9 @@
+priced=89 of 500; brackets=0; band<=1.005=2
+  1.002 | Yes@0.007 No@0.995 | liq=91466.80902 | Will Microsoft be the largest company in the world by market
+  1.004 | Yes@0.006 No@0.998 | liq=3900.58286 | Will US unemployment reach at least 6.0% in 2026?
+top-5 true sums:
+  1.002 | Yes@0.007 No@0.995 | liq=91466.80902 | Will Microsoft be the largest company in the world by market
+  1.004 | Yes@0.006 No@0.998 | liq=3900.58286 | Will US unemployment reach at least 6.0% in 2026?
+  1.007 | Yes@0.009 No@0.998 | liq=1503.98771 | Exact Score: West Ham United FC 0 - 3 Queens Park Rangers FC
+  1.008 | Yes@0.013 No@0.995 | liq=1195.52186 | Exact Score: Racing Club de Lens 4 - 3 Olympique Lyonnais?
+  1.008 | Yes@0.014 No@0.994 | liq=653.50198 | Exact Score: Stade Brestois 29 1 - 4 Angers SCO?
