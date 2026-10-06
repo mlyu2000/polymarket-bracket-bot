@@ -1,6 +1,6 @@
 {
  "markets": 500,
- "priced": 89,
+ "priced": 88,
  "floor": 1.002,
  "brackets_minask": 0,
  "band_minask": 2,
@@ -17,54 +17,54 @@
    "q": "Will US unemployment reach at least 6.0% in 2026?",
    "yes": 0.006,
    "no": 0.998,
-   "liq": 4264.16488
+   "liq": 3902.56276
   },
   {
    "sum": 1.006,
    "q": "Exact Score: Lille OSC 1 - 3 Le Havre AC?",
    "yes": 0.014,
    "no": 0.992,
-   "liq": 2232.75306
+   "liq": 2417.38306
   },
   {
    "sum": 1.007,
    "q": "Exact Score: West Ham United FC 0 - 3 Queens Park Rangers FC",
    "yes": 0.009,
    "no": 0.998,
-   "liq": 1379.31271
+   "liq": 1383.25771
   },
   {
    "sum": 1.008,
    "q": "Exact Score: Racing Club de Lens 4 - 3 Olympique Lyonnais?",
    "yes": 0.013,
    "no": 0.995,
-   "liq": 1197.01486
+   "liq": 1195.51186
   },
   {
    "sum": 1.008,
    "q": "Exact Score: Stade Brestois 29 2 - 4 Angers SCO?",
    "yes": 0.013,
    "no": 0.995,
-   "liq": 726.23481
+   "liq": 726.22382
   },
   {
    "sum": 1.01,
    "q": "Elche CF vs. RC Celta de Vigo: Both Teams to Score",
    "yes": 0.54,
    "no": 0.47,
-   "liq": 6387.9886
+   "liq": 6720.6809
   },
   {
    "sum": 1.01,
    "q": "Atalanta BC vs. Venezia FC: Both Teams to Score",
    "yes": 0.58,
    "no": 0.43,
-   "liq": 6690.4075
+   "liq": 6686.9275
   }
  ],
- "run": "20261006T0903Z",
- "ts": "2026-10-06T09:05:58.202100+00:00",
- "scan_time_s": 47.2,
+ "run": "20261006T0918Z",
+ "ts": "2026-10-06T09:22:42.608204+00:00",
+ "scan_time_s": 47.0,
  "brackets_detector": 0,
  "near_misses_verbatim_asks0": 0,
  "opps": []

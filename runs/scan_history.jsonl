@@ -21,3 +21,4 @@
 {"ts": "2026-10-06T08:18Z", "markets": 500, "scan_time_s": 46.8, "brackets": 0, "brackets_true_minask": 0, "near_misses_minask": 2, "best_ask_floor": 1.002, "priced_markets": 93}
 {"ts": "2026-10-06T08:49Z", "markets": 500, "scan_time_s": 50.4, "brackets": 0, "brackets_true_minask": 0, "near_misses_minask": 2, "best_ask_floor": 1.002, "priced_markets": 89}
 {"ts": "2026-10-06T09:03Z", "markets": 500, "scan_time_s": 47.2, "brackets": 0, "brackets_true_minask": 0, "near_misses_minask": 2, "best_ask_floor": 1.002, "priced_markets": 89}
+{"ts": "2026-10-06T09:18Z", "markets": 500, "scan_time_s": 47.0, "brackets": 0, "brackets_true_minask": 0, "near_misses_minask": 2, "best_ask_floor": 1.002, "priced_markets": 88}
