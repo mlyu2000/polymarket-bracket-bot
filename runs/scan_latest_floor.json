@@ -1,66 +1,66 @@
 {
- "run": "20261006T0818Z",
+ "run": "20261006T0849Z",
  "markets": 500,
  "brackets_minask": 0,
  "band_1.000_1.005": 2,
  "floor": 1.002,
- "priced": 93,
+ "priced": 89,
  "top": [
   {
    "sum": 1.002,
    "q": "Will Microsoft be the largest company in the world by market",
    "yes": 0.007,
    "no": 0.995,
-   "liq": 92949.55596
+   "liq": 92043.09594
   },
   {
    "sum": 1.004,
    "q": "Will US unemployment reach at least 6.0% in 2026?",
    "yes": 0.006,
    "no": 0.998,
-   "liq": 3901.97094
+   "liq": 4361.06488
   },
   {
    "sum": 1.006,
    "q": "Exact Score: Lille OSC 1 - 3 Le Havre AC?",
    "yes": 0.014,
    "no": 0.992,
-   "liq": 2669.74906
+   "liq": 2228.34506
   },
   {
    "sum": 1.007,
    "q": "Exact Score: West Ham United FC 0 - 3 Queens Park Rangers FC",
    "yes": 0.009,
    "no": 0.998,
-   "liq": 1506.69271
+   "liq": 1479.26771
   },
   {
    "sum": 1.008,
    "q": "Exact Score: Racing Club de Lens 4 - 3 Olympique Lyonnais?",
    "yes": 0.013,
    "no": 0.995,
-   "liq": 1202.58086
+   "liq": 1221.85686
   },
   {
    "sum": 1.008,
    "q": "Exact Score: AS Monaco FC 4 - 3 Toulouse FC?",
    "yes": 0.012,
    "no": 0.996,
-   "liq": 1680.34397
+   "liq": 1766.73399
+  },
+  {
+   "sum": 1.008,
+   "q": "Exact Score: AS Monaco FC 5 - 2 Toulouse FC?",
+   "yes": 0.013,
+   "no": 0.995,
+   "liq": 615.813
   },
   {
    "sum": 1.008,
    "q": "Exact Score: Stade Brestois 29 2 - 4 Angers SCO?",
    "yes": 0.013,
    "no": 0.995,
-   "liq": 1178.1129
-  },
-  {
-   "sum": 1.009,
-   "q": "Exact Score: Racing Club de Lens 3 - 4 Olympique Lyonnais?",
-   "yes": 0.014,
-   "no": 0.995,
-   "liq": 1019.01707
+   "liq": 707.38991
   }
  ],
  "band_entries": [
@@ -69,14 +69,14 @@
    "q": "Will Microsoft be the largest company in the world by market",
    "yes": 0.007,
    "no": 0.995,
-   "liq": 92949.55596
+   "liq": 92043.09594
   },
   {
    "sum": 1.004,
    "q": "Will US unemployment reach at least 6.0% in 2026?",
    "yes": 0.006,
    "no": 0.998,
-   "liq": 3901.97094
+   "liq": 4361.06488
   }
  ]
 }
