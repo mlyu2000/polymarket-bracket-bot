@@ -1,10 +1,10 @@
 {
- "run": "20261006T132915Z",
- "floor": 1.002,
- "market": "Will Microsoft be the largest company in the world by market",
- "yes": 0.007,
- "no": 0.995,
- "liq": 90049.94399,
+ "run": "20261006T141544Z",
+ "floor": 1.003,
+ "market": "Will US unemployment reach at least 6.0% in 2026?",
+ "yes": 0.005,
+ "no": 0.998,
+ "liq": 3891.30994,
  "prev_floor": 1.002,
- "prev_run": "20261006T130000Z"
+ "prev_run": "20261006T132915Z"
 }
