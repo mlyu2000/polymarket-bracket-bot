@@ -1,6 +1,6 @@
 {
  "markets": 500,
- "priced": 90,
+ "priced": 93,
  "floor": 1.002,
  "brackets_minask": 0,
  "band_minask": 2,
@@ -10,61 +10,61 @@
    "q": "Will Microsoft be the largest company in the world by market",
    "yes": 0.007,
    "no": 0.995,
-   "liq": 91145.31641
+   "liq": 92949.55596
   },
   {
    "sum": 1.004,
    "q": "Will US unemployment reach at least 6.0% in 2026?",
    "yes": 0.006,
    "no": 0.998,
-   "liq": 4360.47306
+   "liq": 3901.97094
   },
   {
    "sum": 1.006,
    "q": "Exact Score: Lille OSC 1 - 3 Le Havre AC?",
    "yes": 0.014,
    "no": 0.992,
-   "liq": 2230.54906
+   "liq": 2669.74906
   },
   {
    "sum": 1.007,
    "q": "Exact Score: West Ham United FC 0 - 3 Queens Park Rangers FC",
    "yes": 0.009,
    "no": 0.998,
-   "liq": 1510.36271
+   "liq": 1506.69271
   },
   {
    "sum": 1.008,
    "q": "Exact Score: Racing Club de Lens 4 - 3 Olympique Lyonnais?",
    "yes": 0.013,
    "no": 0.995,
-   "liq": 1200.03086
+   "liq": 1202.58086
   },
   {
    "sum": 1.008,
-   "q": "Exact Score: Stade Brestois 29 1 - 4 Angers SCO?",
-   "yes": 0.014,
-   "no": 0.994,
-   "liq": 715.41088
+   "q": "Exact Score: AS Monaco FC 4 - 3 Toulouse FC?",
+   "yes": 0.012,
+   "no": 0.996,
+   "liq": 1680.34397
   },
   {
    "sum": 1.008,
    "q": "Exact Score: Stade Brestois 29 2 - 4 Angers SCO?",
    "yes": 0.013,
    "no": 0.995,
-   "liq": 663.07585
+   "liq": 1178.1129
   },
   {
    "sum": 1.009,
    "q": "Exact Score: Racing Club de Lens 3 - 4 Olympique Lyonnais?",
    "yes": 0.014,
    "no": 0.995,
-   "liq": 957.40988
+   "liq": 1019.01707
   }
  ],
- "run": "20261006T0805Z",
- "ts": "2026-10-06T08:07:11.351466+00:00",
- "scan_time_s": 44.8,
+ "run": "20261006T0818Z",
+ "ts": "2026-10-06T08:23:01.871271+00:00",
+ "scan_time_s": 46.8,
  "brackets_detector": 0,
  "near_misses_verbatim_asks0": 0,
  "opps": []

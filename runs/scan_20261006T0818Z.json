@@ -1,10 +1,9 @@
 {
- "run": "20261006T0818Z",
  "markets": 500,
- "brackets_minask": 0,
- "band_1.000_1.005": 2,
- "floor": 1.002,
  "priced": 93,
+ "floor": 1.002,
+ "brackets_minask": 0,
+ "band_minask": 2,
  "top": [
   {
    "sum": 1.002,
@@ -61,22 +60,6 @@
    "yes": 0.014,
    "no": 0.995,
    "liq": 1019.01707
-  }
- ],
- "band_entries": [
-  {
-   "sum": 1.002,
-   "q": "Will Microsoft be the largest company in the world by market",
-   "yes": 0.007,
-   "no": 0.995,
-   "liq": 92949.55596
-  },
-  {
-   "sum": 1.004,
-   "q": "Will US unemployment reach at least 6.0% in 2026?",
-   "yes": 0.006,
-   "no": 0.998,
-   "liq": 3901.97094
   }
  ]
 }
