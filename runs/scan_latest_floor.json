@@ -1,10 +1,10 @@
 {
- "run": "20261006T124539Z",
+ "run": "20261006T130000Z",
  "floor": 1.002,
  "market": "Will Microsoft be the largest company in the world by market",
  "yes": 0.007,
  "no": 0.995,
  "liq": 90465.23684,
  "prev_floor": 1.002,
- "prev_run": "20261006T123013Z"
+ "prev_run": "20261006T124539Z"
 }
