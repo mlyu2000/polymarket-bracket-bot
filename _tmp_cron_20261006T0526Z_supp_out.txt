@@ -1,0 +1,5 @@
+BRACKETS via min-ask (sum<1.00): 0
+BEST-ASK NEAR-MISS TOP (<=1.005): 2
+  1.0020 | Yes@0.007 No@0.995 | liq=91065.37491 | Will Microsoft be the largest company in the world by market
+  1.0040 | Yes@0.006 No@0.998 | liq=4358.59677 | Will US unemployment reach at least 6.0% in 2026?
+FLOOR: 1.0020
