@@ -1,0 +1,29 @@
+{
+ "run": "20261006T172237Z",
+ "ts": "2026-10-06T17:22:37Z",
+ "markets": 500,
+ "priced": 105,
+ "floor": 1.004,
+ "floor_q": "Will US unemployment reach at least 6.0% in 2026?",
+ "band_le_1005": 2,
+ "brackets_minask": 0,
+ "top10": [
+  [
+   1.004,
+   "Will US unemployment reach at least 6.0% in 2026?",
+   0.006,
+   0.998,
+   3757.36755,
+   false
+  ],
+  [
+   1.005,
+   "Antigua and Barbuda vs. Aruba: O/U 7.5",
+   0.009,
+   0.996,
+   2980.40179,
+   false
+  ]
+ ],
+ "scan_time_s": 50.8
+}
