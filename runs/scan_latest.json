@@ -1,70 +1,70 @@
 {
  "markets": 500,
- "priced": 92,
+ "priced": 95,
  "floor": 1.002,
  "brackets_minask": 0,
- "band_minask": 3,
+ "band_minask": 5,
  "top": [
   {
    "sum": 1.002,
    "q": "Will Microsoft be the largest company in the world by market",
    "yes": 0.007,
    "no": 0.995,
-   "liq": 92046.11622
+   "liq": 91727.99506
   },
   {
    "sum": 1.004,
    "q": "Will US unemployment reach at least 6.0% in 2026?",
    "yes": 0.006,
    "no": 0.998,
-   "liq": 3900.58273
+   "liq": 3804.40657
+  },
+  {
+   "sum": 1.004,
+   "q": "Exact Score: West Ham United FC 0 - 3 Queens Park Rangers FC",
+   "yes": 0.009,
+   "no": 0.995,
+   "liq": 1378.33871
   },
   {
    "sum": 1.004,
    "q": "Exact Score: Ipswich Town FC 5 - 0 Fulham FC?",
    "yes": 0.006,
    "no": 0.998,
-   "liq": 2671.94699
+   "liq": 1808.66699
+  },
+  {
+   "sum": 1.005,
+   "q": "Antigua and Barbuda vs. Aruba: O/U 7.5",
+   "yes": 0.009,
+   "no": 0.996,
+   "liq": 2747.87602
   },
   {
    "sum": 1.006,
    "q": "Exact Score: Lille OSC 1 - 3 Le Havre AC?",
    "yes": 0.014,
    "no": 0.992,
-   "liq": 2229.73406
+   "liq": 2225.81406
   },
   {
    "sum": 1.006,
    "q": "Exact Score: Ipswich Town FC 1 - 5 Fulham FC?",
    "yes": 0.009,
    "no": 0.997,
-   "liq": 1335.95026
-  },
-  {
-   "sum": 1.007,
-   "q": "Exact Score: West Ham United FC 0 - 3 Queens Park Rangers FC",
-   "yes": 0.009,
-   "no": 0.998,
-   "liq": 1382.71671
+   "liq": 1443.60764
   },
   {
    "sum": 1.008,
    "q": "Exact Score: Racing Club de Lens 4 - 3 Olympique Lyonnais?",
    "yes": 0.013,
    "no": 0.995,
-   "liq": 1197.07486
-  },
-  {
-   "sum": 1.008,
-   "q": "Exact Score: Ipswich Town FC 4 - 0 Fulham FC?",
-   "yes": 0.015,
-   "no": 0.993,
-   "liq": 1848.08997
+   "liq": 1193.74486
   }
  ],
- "run": "20261006T1004Z",
- "ts": "2026-10-06T10:08:05.982144+00:00",
- "scan_time_s": 47.4,
+ "run": "20261006T102024Z",
+ "ts": "2026-10-06T10:24:45.273068+00:00",
+ "scan_time_s": 48.6,
  "brackets_detector": 0,
  "near_misses_verbatim_asks0": 0,
  "opps": []

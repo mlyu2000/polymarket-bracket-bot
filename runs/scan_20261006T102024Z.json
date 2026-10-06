@@ -1,10 +1,9 @@
 {
- "run": "20261006T102024Z",
  "markets": 500,
- "brackets_minask": 0,
- "band_1.000_1.005": 5,
- "floor": 1.002,
  "priced": 95,
+ "floor": 1.002,
+ "brackets_minask": 0,
+ "band_minask": 5,
  "top": [
   {
    "sum": 1.002,
@@ -61,43 +60,6 @@
    "yes": 0.013,
    "no": 0.995,
    "liq": 1193.74486
-  }
- ],
- "band_entries": [
-  {
-   "sum": 1.002,
-   "q": "Will Microsoft be the largest company in the world by market",
-   "yes": 0.007,
-   "no": 0.995,
-   "liq": 91727.99506
-  },
-  {
-   "sum": 1.004,
-   "q": "Will US unemployment reach at least 6.0% in 2026?",
-   "yes": 0.006,
-   "no": 0.998,
-   "liq": 3804.40657
-  },
-  {
-   "sum": 1.004,
-   "q": "Exact Score: West Ham United FC 0 - 3 Queens Park Rangers FC",
-   "yes": 0.009,
-   "no": 0.995,
-   "liq": 1378.33871
-  },
-  {
-   "sum": 1.004,
-   "q": "Exact Score: Ipswich Town FC 5 - 0 Fulham FC?",
-   "yes": 0.006,
-   "no": 0.998,
-   "liq": 1808.66699
-  },
-  {
-   "sum": 1.005,
-   "q": "Antigua and Barbuda vs. Aruba: O/U 7.5",
-   "yes": 0.009,
-   "no": 0.996,
-   "liq": 2747.87602
   }
  ]
 }
