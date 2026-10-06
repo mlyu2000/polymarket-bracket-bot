@@ -1,10 +1,10 @@
 {
- "run": "20261006T210621Z",
+ "run": "20261006T212108Z",
  "floor": 1.003,
- "market": "Antigua and Barbuda vs. Aruba: O/U 7.5",
- "yes": 0.008,
- "no": 0.995,
- "liq": 3936.98711,
- "prev_floor": 1.004,
- "prev_run": "20261006T203554Z"
+ "market": "Will US unemployment reach at least 6.0% in 2026?",
+ "yes": 0.006,
+ "no": 0.997,
+ "liq": 3559.85158,
+ "prev_floor": 1.003,
+ "prev_run": "20261006T210621Z"
 }
