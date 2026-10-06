@@ -61,11 +61,5 @@
    "no": 0.993,
    "liq": 1848.08997
   }
- ],
- "run": "20261006T1004Z",
- "ts": "2026-10-06T10:08:05.982144+00:00",
- "scan_time_s": 47.4,
- "brackets_detector": 0,
- "near_misses_verbatim_asks0": 0,
- "opps": []
+ ]
 }

@@ -1,4 +1,4 @@
-Scan: 500 markets in 46.7s
+Scan: 500 markets in 47.4s
 BRACKETS (detector, net_edge>=margin): 0
 Near-misses verbatim asks[0] (<=1.005): 0
-Min-ask floor: 1.002 over 88 priced markets; brackets(sum<1.00)=0; band<=1.005=2
+Min-ask floor: 1.002 over 92 priced markets; brackets(sum<1.00)=0; band<=1.005=3

@@ -1,0 +1,11 @@
+[persist] runs/scan_20261006T0949Z.json + latest + floor + history + out written
+[persist] markets=500 priced=88 floor=1.002 brackets_minask=0 band=2 detector_opps=0 near_asks0=0
+[persist] top entries:
+  1.0020 | Yes@0.007 No@0.995 | liq=92046.44391 | Will Microsoft be the largest company in the world by market
+  1.0040 | Yes@0.006 No@0.998 | liq=3900.58273 | Will US unemployment reach at least 6.0% in 2026?
+  1.0060 | Yes@0.014 No@0.992 | liq=2272.16106 | Exact Score: Lille OSC 1 - 3 Le Havre AC?
+  1.0070 | Yes@0.009 No@0.998 | liq=1382.71671 | Exact Score: West Ham United FC 0 - 3 Queens Park Rangers FC
+  1.0080 | Yes@0.013 No@0.995 | liq=1198.86186 | Exact Score: Racing Club de Lens 4 - 3 Olympique Lyonnais?
+  1.0080 | Yes@0.013 No@0.995 | liq=746.20781 | Exact Score: Stade Brestois 29 2 - 4 Angers SCO?
+  1.0090 | Yes@0.014 No@0.995 | liq=1099.26627 | Exact Score: Stade Brestois 29 1 - 4 Angers SCO?
+  1.0100 | Yes@0.060 No@0.950 | liq=11032.592 | Trump renames ICE to NICE by December 31?

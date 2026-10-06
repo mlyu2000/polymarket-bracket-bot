@@ -1,17 +1,17 @@
 {
- "run": "20261006T0949Z",
+ "run": "20261006T1004Z",
  "markets": 500,
  "brackets_minask": 0,
- "band_1.000_1.005": 2,
+ "band_1.000_1.005": 3,
  "floor": 1.002,
- "priced": 88,
+ "priced": 92,
  "top": [
   {
    "sum": 1.002,
    "q": "Will Microsoft be the largest company in the world by market",
    "yes": 0.007,
    "no": 0.995,
-   "liq": 92046.44391
+   "liq": 92046.11622
   },
   {
    "sum": 1.004,
@@ -21,11 +21,25 @@
    "liq": 3900.58273
   },
   {
+   "sum": 1.004,
+   "q": "Exact Score: Ipswich Town FC 5 - 0 Fulham FC?",
+   "yes": 0.006,
+   "no": 0.998,
+   "liq": 2671.94699
+  },
+  {
    "sum": 1.006,
    "q": "Exact Score: Lille OSC 1 - 3 Le Havre AC?",
    "yes": 0.014,
    "no": 0.992,
-   "liq": 2272.16106
+   "liq": 2229.73406
+  },
+  {
+   "sum": 1.006,
+   "q": "Exact Score: Ipswich Town FC 1 - 5 Fulham FC?",
+   "yes": 0.009,
+   "no": 0.997,
+   "liq": 1335.95026
   },
   {
    "sum": 1.007,
@@ -39,28 +53,14 @@
    "q": "Exact Score: Racing Club de Lens 4 - 3 Olympique Lyonnais?",
    "yes": 0.013,
    "no": 0.995,
-   "liq": 1198.86186
+   "liq": 1197.07486
   },
   {
    "sum": 1.008,
-   "q": "Exact Score: Stade Brestois 29 2 - 4 Angers SCO?",
-   "yes": 0.013,
-   "no": 0.995,
-   "liq": 746.20781
-  },
-  {
-   "sum": 1.009,
-   "q": "Exact Score: Stade Brestois 29 1 - 4 Angers SCO?",
-   "yes": 0.014,
-   "no": 0.995,
-   "liq": 1099.26627
-  },
-  {
-   "sum": 1.01,
-   "q": "Trump renames ICE to NICE by December 31?",
-   "yes": 0.06,
-   "no": 0.95,
-   "liq": 11032.592
+   "q": "Exact Score: Ipswich Town FC 4 - 0 Fulham FC?",
+   "yes": 0.015,
+   "no": 0.993,
+   "liq": 1848.08997
   }
  ],
  "band_entries": [
@@ -69,7 +69,7 @@
    "q": "Will Microsoft be the largest company in the world by market",
    "yes": 0.007,
    "no": 0.995,
-   "liq": 92046.44391
+   "liq": 92046.11622
   },
   {
    "sum": 1.004,
@@ -77,6 +77,13 @@
    "yes": 0.006,
    "no": 0.998,
    "liq": 3900.58273
+  },
+  {
+   "sum": 1.004,
+   "q": "Exact Score: Ipswich Town FC 5 - 0 Fulham FC?",
+   "yes": 0.006,
+   "no": 0.998,
+   "liq": 2671.94699
   }
  ]
 }
