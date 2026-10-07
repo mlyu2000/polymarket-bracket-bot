@@ -1,10 +1,10 @@
 {
- "run": "20261007T090931Z",
+ "run": "20261007T092509Z",
  "floor": 1.004,
  "market": "Cruzeiro EC vs. S\u00e3o Paulo FC: O/U 8.5",
  "yes": 0.005,
  "no": 0.999,
- "liq": 6248.48768,
- "prev_floor": 1.003,
- "prev_run": "20261007T082625Z"
+ "liq": 6270.89768,
+ "prev_floor": 1.004,
+ "prev_run": "20261007T090931Z"
 }
