@@ -1,10 +1,10 @@
 {
- "run": "20261007T002533Z",
+ "run": "20261007T004150Z",
  "floor": 1.003,
  "market": "Will the highest temperature in Chongqing be 24\u00b0C on October",
  "yes": 0.006,
  "no": 0.997,
- "liq": 1350.87411,
- "prev_floor": 1.004,
- "prev_run": "20261006T234135Z"
+ "liq": 1637.12362,
+ "prev_floor": 1.003,
+ "prev_run": "20261007T002533Z"
 }
