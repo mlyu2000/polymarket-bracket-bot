@@ -1,10 +1,10 @@
 {
- "run": "20261007T181440Z",
+ "run": "20261007T184308Z",
  "floor": 1.003,
  "market": "Will US unemployment reach at least 6.0% in 2026?",
  "yes": 0.006,
  "no": 0.997,
  "liq": 3196.15965,
- "prev_floor": 1.004,
- "prev_run": "20261007T171451Z"
+ "prev_floor": 1.003,
+ "prev_run": "20261007T181440Z"
 }
