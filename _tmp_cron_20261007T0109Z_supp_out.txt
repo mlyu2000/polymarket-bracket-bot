@@ -1,0 +1,18 @@
+markets=500 both_sides_priced=88 scan_time=48.1s
+top12 best-ask totals:
+  1.002 | yes 0.005 x93 no 0.997 x25 | liq 1515.56404 | Will the highest temperature in Chongqing be 24°C on October
+  1.005 | yes 0.008 x297 no 0.997 x200 | liq 3443.01179 | Will US unemployment reach at least 6.0% in 2026?
+  1.006 | yes 0.014 x200 no 0.992 x1351 | liq 2363.74821 | Exact Score: Lille OSC 1 - 3 Le Havre AC?
+  1.007 | yes 0.011 x200 no 0.996 x2027 | liq 1838.90105 | Exact Score: AS Monaco FC 4 - 3 Toulouse FC?
+  1.007 | yes 0.009 x100 no 0.998 x211 | liq 8296.13576 | Exact Score: West Ham United FC 0 - 3 Queens Park Rangers FC
+  1.008 | yes 0.013 x200 no 0.995 x1572 | liq 1343.53709 | Exact Score: AS Monaco FC 5 - 2 Toulouse FC?
+  1.008 | yes 0.013 x200 no 0.995 x1638 | liq 1384.41299 | Exact Score: Lille OSC 5 - 2 Le Havre AC?
+  1.010 | yes 0.680 x637 no 0.330 x155 | liq 5710.3376 | 1. FSV Mainz 05 vs. Bayer 04 Leverkusen: Both Teams to Score
+  1.010 | yes 0.580 x100 no 0.430 x500 | liq 10590.391 | Atalanta BC vs. Venezia FC: Both Teams to Score
+  1.010 | yes 0.540 x1489 no 0.470 x100 | liq 9407.6092 | Elche CF vs. RC Celta de Vigo: Both Teams to Score
+  1.010 | yes 0.015 x100 no 0.995 x2422 | liq 8392.11766 | Exact Score: West Ham United FC 4 - 3 Queens Park Rangers FC
+  1.010 | yes 0.470 x100 no 0.540 x3513 | liq 15880.6967 | Levante UD vs. Sevilla FC: O/U 2.5
+best-ask brackets (<1.000): 0
+band <=1.005 count: 2
+  band: 1.002 | yes 0.005 x93 no 0.997 x25 | liq 1515.56404 | Will the highest temperature in Chongqing be 24°C on October
+  band: 1.005 | yes 0.008 x297 no 0.997 x200 | liq 3443.01179 | Will US unemployment reach at least 6.0% in 2026?
