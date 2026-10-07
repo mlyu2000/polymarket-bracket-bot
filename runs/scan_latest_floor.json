@@ -1,10 +1,10 @@
 {
- "run": "20261007T201523Z",
- "floor": 1.005,
- "market": "Cruzeiro EC vs. S\u00e3o Paulo FC: O/U 7.5",
- "yes": 0.009,
- "no": 0.996,
- "liq": 3824.93518,
+ "run": "20261007T212529Z",
+ "floor": 1.003,
+ "market": "Exact Score: Ipswich Town FC 4 - 4 Fulham FC?",
+ "yes": 0.004,
+ "no": 0.999,
+ "liq": 27240.34679,
  "prev_floor": 1.005,
- "prev_run": "20261007T200003Z"
+ "prev_run": "20261007T201523Z"
 }
