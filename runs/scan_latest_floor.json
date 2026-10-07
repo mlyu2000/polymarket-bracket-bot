@@ -1,10 +1,10 @@
 {
- "run": "20261007T184308Z",
- "floor": 1.003,
- "market": "Will US unemployment reach at least 6.0% in 2026?",
- "yes": 0.006,
- "no": 0.997,
- "liq": 3196.15965,
+ "run": "20261007T185901Z",
+ "floor": 1.005,
+ "market": "Cruzeiro EC vs. S\u00e3o Paulo FC: O/U 7.5",
+ "yes": 0.009,
+ "no": 0.996,
+ "liq": 5151.51518,
  "prev_floor": 1.003,
- "prev_run": "20261007T181440Z"
+ "prev_run": "20261007T184308Z"
 }
