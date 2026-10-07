@@ -1,10 +1,10 @@
 {
- "run": "20261007T055210Z",
+ "run": "20261007T060703Z",
  "floor": 1.003,
- "market": "Will Elon Musk post 140-159 tweets from October 2 to October",
- "yes": 0.079,
- "no": 0.924,
- "liq": 19055.50581,
+ "market": "Cruzeiro EC vs. S\u00e3o Paulo FC: O/U 8.5",
+ "yes": 0.004,
+ "no": 0.999,
+ "liq": 6929.93968,
  "prev_floor": 1.003,
- "prev_run": "20261007T052455Z"
+ "prev_run": "20261007T055210Z"
 }
