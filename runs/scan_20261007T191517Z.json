@@ -1,6 +1,6 @@
 {
- "run": "20261007T193039Z",
- "ts": "2026-10-07T19:30:39Z",
+ "run": "20261007T191517Z",
+ "ts": "2026-10-07T19:15:17Z",
  "markets": 500,
  "priced": 109,
  "floor": 1.005,
@@ -13,14 +13,14 @@
    "q": "Cruzeiro EC vs. S\u00e3o Paulo FC: O/U 7.5",
    "yes": 0.009,
    "no": 0.996,
-   "liq": 3976.99218
+   "liq": 6683.24318
   },
   {
    "sum": 1.005,
    "q": "Exact Score: West Ham United FC 0 - 3 Queens Park Rangers FC",
    "yes": 0.008,
    "no": 0.997,
-   "liq": 8721.77897
+   "liq": 8711.84354
   },
   {
    "sum": 1.005,
@@ -48,21 +48,21 @@
    "q": "Exact Score: Ipswich Town FC 4 - 3 Fulham FC?",
    "yes": 0.009,
    "no": 0.996,
-   "liq": 14831.46046
+   "liq": 14816.87246
   },
   {
    "sum": 1.006,
    "q": "Will US unemployment reach at least 6.0% in 2026?",
    "yes": 0.009,
    "no": 0.997,
-   "liq": 3398.96925
+   "liq": 3200.86065
   },
   {
    "sum": 1.006,
    "q": "Exact Score: Racing Club de Lens 1 - 5 Olympique Lyonnais?",
    "yes": 0.01,
    "no": 0.996,
-   "liq": 9359.05099
+   "liq": 9349.05169
   }
  ],
  "band_rows": [
@@ -71,14 +71,14 @@
    "q": "Cruzeiro EC vs. S\u00e3o Paulo FC: O/U 7.5",
    "yes": 0.009,
    "no": 0.996,
-   "liq": 3976.99218
+   "liq": 6683.24318
   },
   {
    "sum": 1.005,
    "q": "Exact Score: West Ham United FC 0 - 3 Queens Park Rangers FC",
    "yes": 0.008,
    "no": 0.997,
-   "liq": 8721.77897
+   "liq": 8711.84354
   },
   {
    "sum": 1.005,
@@ -106,8 +106,8 @@
    "q": "Exact Score: Ipswich Town FC 4 - 3 Fulham FC?",
    "yes": 0.009,
    "no": 0.996,
-   "liq": 14831.46046
+   "liq": 14816.87246
   }
  ],
- "scan_time_s": 47.6
+ "scan_time_s": 43.9
 }
