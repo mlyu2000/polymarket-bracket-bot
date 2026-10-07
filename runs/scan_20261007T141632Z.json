@@ -1,39 +1,32 @@
 {
- "run": "20261007T143115Z",
- "ts": "2026-10-07T14:31:15Z",
+ "run": "20261007T141632Z",
+ "ts": "2026-10-07T14:16:32Z",
  "markets": 500,
- "priced": 96,
- "floor": 1.004,
+ "priced": 99,
+ "floor": 1.005,
  "brackets_minask": 0,
- "band": 7,
+ "band": 6,
  "top8": [
-  {
-   "sum": 1.004,
-   "q": "Will Split be the fewest played map at VALORANT Champions 20",
-   "yes": 0.006,
-   "no": 0.998,
-   "liq": 1254.93138
-  },
-  {
-   "sum": 1.004,
-   "q": "Red Bull Bragantino vs. Mirassol FC: Red Bull Bragantino O/U",
-   "yes": 0.014,
-   "no": 0.99,
-   "liq": 1172.89844
-  },
   {
    "sum": 1.005,
    "q": "Cruzeiro EC vs. S\u00e3o Paulo FC: O/U 7.5",
    "yes": 0.009,
    "no": 0.996,
-   "liq": 9020.34799
+   "liq": 8148.02073
   },
   {
    "sum": 1.005,
    "q": "Will US unemployment reach at least 6.0% in 2026?",
    "yes": 0.009,
    "no": 0.996,
-   "liq": 3281.0544
+   "liq": 2352.06051
+  },
+  {
+   "sum": 1.005,
+   "q": "Exact Score: West Ham United FC 0 - 3 Queens Park Rangers FC",
+   "yes": 0.008,
+   "no": 0.997,
+   "liq": 8198.57924
   },
   {
    "sum": 1.005,
@@ -47,21 +40,28 @@
    "q": "Exact Score: Ipswich Town FC 5 - 1 Fulham FC?",
    "yes": 0.008,
    "no": 0.997,
-   "liq": 17008.71805
+   "liq": 16108.92205
   },
   {
    "sum": 1.005,
    "q": "Exact Score: Ipswich Town FC 3 - 4 Fulham FC?",
    "yes": 0.009,
    "no": 0.996,
-   "liq": 13208.1597
+   "liq": 13685.16015
   },
   {
    "sum": 1.006,
-   "q": "Exact Score: West Ham United FC 0 - 3 Queens Park Rangers FC",
-   "yes": 0.008,
-   "no": 0.998,
-   "liq": 8198.57924
+   "q": "Exact Score: SC Paderborn 07 4 - 3 VfB Stuttgart?",
+   "yes": 0.011,
+   "no": 0.995,
+   "liq": 9397.70499
+  },
+  {
+   "sum": 1.006,
+   "q": "Exact Score: Stade Brestois 29 4 - 3 Angers SCO?",
+   "yes": 0.01,
+   "no": 0.996,
+   "liq": 1451.06553
   }
  ]
 }

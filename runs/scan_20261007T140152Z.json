@@ -1,0 +1,67 @@
+{
+ "run": "20261007T140152Z",
+ "ts": "2026-10-07T14:01:52Z",
+ "markets": 500,
+ "priced": 101,
+ "floor": 1.003,
+ "brackets_minask": 0,
+ "band": 9,
+ "top8": [
+  {
+   "sum": 1.003,
+   "q": "Cruzeiro EC vs. S\u00e3o Paulo FC: O/U 8.5",
+   "yes": 0.004,
+   "no": 0.999,
+   "liq": 9512.30608
+  },
+  {
+   "sum": 1.004,
+   "q": "W35 Lagos: Isis Louise Van den Broek vs Kristina Novak",
+   "yes": 0.974,
+   "no": 0.03,
+   "liq": 25075.3049
+  },
+  {
+   "sum": 1.004,
+   "q": "Will US unemployment reach at least 6.0% in 2026?",
+   "yes": 0.008,
+   "no": 0.996,
+   "liq": 3437.38126
+  },
+  {
+   "sum": 1.004,
+   "q": "Red Bull Bragantino vs. Mirassol FC: Mirassol FC O/U 4.5",
+   "yes": 0.006,
+   "no": 0.998,
+   "liq": 924.44023
+  },
+  {
+   "sum": 1.004,
+   "q": "Exact Score: FC Augsburg 2 - 0 FC Bayern M\u00fcnchen?",
+   "yes": 0.009,
+   "no": 0.995,
+   "liq": 7735.28457
+  },
+  {
+   "sum": 1.005,
+   "q": "Cruzeiro EC vs. S\u00e3o Paulo FC: O/U 7.5",
+   "yes": 0.009,
+   "no": 0.996,
+   "liq": 6343.75769
+  },
+  {
+   "sum": 1.005,
+   "q": "Exact Score: West Ham United FC 0 - 3 Queens Park Rangers FC",
+   "yes": 0.008,
+   "no": 0.997,
+   "liq": 8212.64524
+  },
+  {
+   "sum": 1.005,
+   "q": "Exact Score: Ipswich Town FC 0 - 5 Fulham FC?",
+   "yes": 0.008,
+   "no": 0.997,
+   "liq": 1791.86361
+  }
+ ]
+}

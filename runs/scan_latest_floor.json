@@ -1,10 +1,11 @@
 {
- "run": "20261007T134647Z",
- "floor": 1.003,
- "market": "Cruzeiro EC vs. S\u00e3o Paulo FC: O/U 8.5",
- "yes": 0.004,
- "no": 0.999,
- "liq": 6562.17492,
- "prev_floor": 1.003,
- "prev_run": "20261007T131459Z"
+ "run": "20261007T143115Z",
+ "floor": 1.004,
+ "market": "Will Split be the fewest played map at VALORANT Champions 20",
+ "yes": 0.006,
+ "no": 0.998,
+ "liq": 1254.93138,
+ "co_floor": "Red Bull Bragantino vs. Mirassol FC: Red Bull Bragantino O/U yes 0.014 no 0.99 liq 1172.89844",
+ "prev_floor": 1.005,
+ "prev_run": "20261007T141632Z"
 }
