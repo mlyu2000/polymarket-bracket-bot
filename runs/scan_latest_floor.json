@@ -1,10 +1,10 @@
 {
- "run": "20261007T162516Z",
- "floor": 1.002,
- "market": "Will Split be the fewest played map at VALORANT Champions 20",
- "yes": 0.007,
- "no": 0.995,
- "liq": 455.40264,
- "prev_floor": 1.005,
- "prev_run": "20261007T161005Z"
+ "run": "20261007T164317Z",
+ "floor": 1.004,
+ "market": "Will US unemployment reach at least 6.0% in 2026?",
+ "yes": 0.008,
+ "no": 0.996,
+ "liq": 3393.6558,
+ "prev_floor": 1.002,
+ "prev_run": "20261007T162516Z"
 }
