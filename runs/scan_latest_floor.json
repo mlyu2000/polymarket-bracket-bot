@@ -1,10 +1,10 @@
 {
- "run": "20261007T161005Z",
- "floor": 1.005,
- "market": "Cruzeiro EC vs. S\u00e3o Paulo FC: O/U 7.5",
- "yes": 0.009,
- "no": 0.996,
- "liq": 5216.86099,
+ "run": "20261007T162516Z",
+ "floor": 1.002,
+ "market": "Will Split be the fewest played map at VALORANT Champions 20",
+ "yes": 0.007,
+ "no": 0.995,
+ "liq": 455.40264,
  "prev_floor": 1.005,
- "prev_run": "20261007T155309Z"
+ "prev_run": "20261007T161005Z"
 }
