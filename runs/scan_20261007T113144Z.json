@@ -1,8 +1,8 @@
 {
- "run": "20261007T121504Z",
- "ts": "2026-10-07T12:15:04Z",
+ "run": "20261007T113144Z",
+ "ts": "2026-10-07T11:31:44Z",
  "markets": 500,
- "priced": 97,
+ "priced": 93,
  "floor": 1.003,
  "brackets_minask": 0,
  "detector_opps": 0,
@@ -13,56 +13,56 @@
    "q": "Cruzeiro EC vs. S\u00e3o Paulo FC: O/U 8.5",
    "yes": 0.004,
    "no": 0.999,
-   "liq": 6822.96869
+   "liq": 6827.92769
+  },
+  {
+   "sum": 1.004,
+   "q": "Will US unemployment reach at least 6.0% in 2026?",
+   "yes": 0.007,
+   "no": 0.997,
+   "liq": 3475.07274
   },
   {
    "sum": 1.005,
    "q": "Cruzeiro EC vs. S\u00e3o Paulo FC: O/U 7.5",
    "yes": 0.009,
    "no": 0.996,
-   "liq": 5029.83099
-  },
-  {
-   "sum": 1.005,
-   "q": "Exact Score: West Ham United FC 0 - 3 Queens Park Rangers FC",
-   "yes": 0.008,
-   "no": 0.997,
-   "liq": 8363.17194
+   "liq": 5034.78999
   },
   {
    "sum": 1.005,
    "q": "Exact Score: Ipswich Town FC 0 - 5 Fulham FC?",
    "yes": 0.008,
    "no": 0.997,
-   "liq": 1819.45882
+   "liq": 1747.39006
   },
   {
    "sum": 1.005,
    "q": "Exact Score: Ipswich Town FC 5 - 1 Fulham FC?",
    "yes": 0.008,
    "no": 0.997,
-   "liq": 1669.22897
+   "liq": 1602.99297
   },
   {
    "sum": 1.005,
    "q": "Exact Score: Ipswich Town FC 3 - 4 Fulham FC?",
    "yes": 0.009,
    "no": 0.996,
-   "liq": 1977.04865
-  },
-  {
-   "sum": 1.006,
-   "q": "Will US unemployment reach at least 6.0% in 2026?",
-   "yes": 0.009,
-   "no": 0.997,
-   "liq": 3297.31586
+   "liq": 1854.65972
   },
   {
    "sum": 1.006,
    "q": "Exact Score: SC Paderborn 07 4 - 1 VfB Stuttgart?",
    "yes": 0.012,
    "no": 0.994,
-   "liq": 1832.72189
+   "liq": 1833.31189
+  },
+  {
+   "sum": 1.007,
+   "q": "Exact Score: BV Borussia 09 Dortmund 0 - 3 SV Werder Bremen?",
+   "yes": 0.008,
+   "no": 0.999,
+   "liq": 4222.08019
   }
  ],
  "band_rows": [
@@ -71,43 +71,43 @@
    "q": "Cruzeiro EC vs. S\u00e3o Paulo FC: O/U 8.5",
    "yes": 0.004,
    "no": 0.999,
-   "liq": 6822.96869
+   "liq": 6827.92769
+  },
+  {
+   "sum": 1.004,
+   "q": "Will US unemployment reach at least 6.0% in 2026?",
+   "yes": 0.007,
+   "no": 0.997,
+   "liq": 3475.07274
   },
   {
    "sum": 1.005,
    "q": "Cruzeiro EC vs. S\u00e3o Paulo FC: O/U 7.5",
    "yes": 0.009,
    "no": 0.996,
-   "liq": 5029.83099
-  },
-  {
-   "sum": 1.005,
-   "q": "Exact Score: West Ham United FC 0 - 3 Queens Park Rangers FC",
-   "yes": 0.008,
-   "no": 0.997,
-   "liq": 8363.17194
+   "liq": 5034.78999
   },
   {
    "sum": 1.005,
    "q": "Exact Score: Ipswich Town FC 0 - 5 Fulham FC?",
    "yes": 0.008,
    "no": 0.997,
-   "liq": 1819.45882
+   "liq": 1747.39006
   },
   {
    "sum": 1.005,
    "q": "Exact Score: Ipswich Town FC 5 - 1 Fulham FC?",
    "yes": 0.008,
    "no": 0.997,
-   "liq": 1669.22897
+   "liq": 1602.99297
   },
   {
    "sum": 1.005,
    "q": "Exact Score: Ipswich Town FC 3 - 4 Fulham FC?",
    "yes": 0.009,
    "no": 0.996,
-   "liq": 1977.04865
+   "liq": 1854.65972
   }
  ],
- "scan_time_s": 46.8
+ "scan_time_s": 50.6
 }
