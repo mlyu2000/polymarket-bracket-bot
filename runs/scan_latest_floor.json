@@ -1,10 +1,10 @@
 {
- "run": "20261007T124420Z",
+ "run": "20261007T131459Z",
  "floor": 1.003,
- "market": "Cruzeiro EC vs. S\u00e3o Paulo FC: O/U 8.5",
- "yes": 0.004,
- "no": 0.999,
- "liq": 6833.91603,
+ "market": "Will the highest temperature in Paris be 21\u00b0C on October 7?",
+ "yes": 0.008,
+ "no": 0.995,
+ "liq": 742.09964,
  "prev_floor": 1.003,
- "prev_run": "20261007T121504Z"
+ "prev_run": "20261007T124420Z"
 }
