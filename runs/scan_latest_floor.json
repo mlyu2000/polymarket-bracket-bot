@@ -1,10 +1,10 @@
 {
- "run": "20261007T233850Z",
+ "run": "20261008T013358Z",
  "floor": 1.002,
- "market": "CR Brasil vs. AC Goianiense: CR Brasil O/U 5.5",
- "yes": 0.005,
- "no": 0.997,
- "liq": 116.4077,
+ "market": "CA Paranaense vs. CA Mineiro: O/U 7.5",
+ "yes": 0.006,
+ "no": 0.996,
+ "liq": 8656.014,
  "prev_floor": 1.002,
- "prev_run": "20261007T230714Z"
+ "prev_run": "20261007T233850Z"
 }
