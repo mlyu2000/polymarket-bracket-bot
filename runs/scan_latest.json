@@ -1,8 +1,8 @@
 {
- "run": "20261008T120309Z",
- "ts": "2026-10-08T~12:03Z scan (verbatim + minask supp)",
+ "run": "20261008T124803Z",
+ "ts": "2026-10-08T~12:48Z scan (verbatim + minask supp)",
  "markets": 500,
- "priced": 106,
+ "priced": 107,
  "floor": 1.002,
  "brackets_minask": 0,
  "detector_opps": 0,
@@ -13,14 +13,14 @@
    "q": "Exact Score: West Ham United FC 0 - 3 Queens Park Rangers FC",
    "yes": 0.008,
    "no": 0.994,
-   "liq": 10467.29503
+   "liq": 10467.39103
   },
   {
    "sum": 1.005,
    "q": "SE Palmeiras vs. EC Bahia: O/U 7.5",
-   "yes": 0.014,
-   "no": 0.991,
-   "liq": 7552.63546
+   "yes": 0.015,
+   "no": 0.99,
+   "liq": 7522.99593
   },
   {
    "sum": 1.005,
@@ -32,23 +32,23 @@
   {
    "sum": 1.005,
    "q": "CA Paranaense vs. CA Mineiro: O/U 7.5",
-   "yes": 0.008,
-   "no": 0.997,
-   "liq": 4731.78901
+   "yes": 0.009,
+   "no": 0.996,
+   "liq": 4727.66902
   },
   {
    "sum": 1.005,
    "q": "Kashiwa Reysol vs. Vissel K\u014dbe: O/U 7.5",
    "yes": 0.01,
    "no": 0.995,
-   "liq": 3455.17111
+   "liq": 3291.49193
   },
   {
    "sum": 1.006,
    "q": "Exact Score: BV Borussia 09 Dortmund 0 - 3 SV Werder Bremen?",
    "yes": 0.007,
    "no": 0.999,
-   "liq": 6967.30235
+   "liq": 6957.09335
   },
   {
    "sum": 1.006,
@@ -62,7 +62,7 @@
    "q": "Exact Score: Ipswich Town FC 4 - 3 Fulham FC?",
    "yes": 0.009,
    "no": 0.997,
-   "liq": 15434.47918
+   "liq": 15440.49118
   }
  ]
 }
