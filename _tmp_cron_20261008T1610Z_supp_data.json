@@ -1,0 +1,34 @@
+{
+ "near": [
+  [
+   1.003,
+   "Exact Score: West Ham United FC 0 - 3 Queens Park ",
+   0.008,
+   0.995,
+   10525.62456
+  ],
+  [
+   1.005,
+   "CA Paranaense vs. CA Mineiro: O/U 7.5",
+   0.009,
+   0.996,
+   4708.12678
+  ],
+  [
+   1.005,
+   "Kashiwa Reysol vs. Vissel K\u014dbe: O/U 7.5",
+   0.01,
+   0.995,
+   3294.23224
+  ],
+  [
+   1.005,
+   "SE Palmeiras vs. EC Bahia: O/U 7.5",
+   0.015,
+   0.99,
+   7482.09593
+  ]
+ ],
+ "opps": [],
+ "priced": 111
+}
