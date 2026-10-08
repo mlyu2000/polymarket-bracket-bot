@@ -1,0 +1,14 @@
+min-ask scan: 500 markets (104 priced) in 45.2s
+BRACKETS (detector, sum<1.00): 0
+Near-misses (<=1.005, true min-ask): 10
+  1.001 | Yes@0.004 No@0.997 | liq=8009.38853 | Will US unemployment reach at least 6.0% in 2026?
+  1.002 | Yes@0.005 No@0.997 | liq=35317.09569 | Exact Score: BV Borussia 09 Dortmund 0 - 3 SV Werd
+  1.003 | Yes@0.008 No@0.995 | liq=26715.99525 | Exact Score: West Ham United FC 0 - 3 Queens Park 
+  1.003 | Yes@0.013 No@0.990 | liq=2030.94604 | FC Nordsjælland vs. Odense BK: O/U 8.5
+  1.004 | Yes@0.008 No@0.996 | liq=16645.70518 | CA Paranaense vs. CA Mineiro: O/U 7.5
+  1.005 | Yes@0.007 No@0.998 | liq=5469.66433 | Exact Score: BV Borussia 09 Dortmund 2 - 4 SV Werd
+  1.005 | Yes@0.009 No@0.996 | liq=8838.01744 | Exact Score: Montpellier HSC 0 - 3 Grenoble Foot 3
+  1.005 | Yes@0.010 No@0.995 | liq=9941.00509 | Exact Score: Montpellier HSC 3 - 3 Grenoble Foot 3
+  1.005 | Yes@0.008 No@0.997 | liq=12061.62565 | Exact Score: West Ham United FC 2 - 4 Queens Park 
+  1.005 | Yes@0.010 No@0.995 | liq=3064.58554 | Kashiwa Reysol vs. Vissel Kōbe: O/U 7.5
+True floor across priced markets: 1.001
