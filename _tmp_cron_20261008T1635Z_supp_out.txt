@@ -1,0 +1,7 @@
+⏱ supp min-ask scan: 500 markets (112 with 2 books) in 49.7s
+✅ detector BRACKETS: 0
+📊 near-misses (min-ask sum ≤1.005): 3
+  1.003 | Yes@0.008 No@0.995 | liq=10699.67465 | Exact Score: West Ham United FC 0 - 3 Queens Park 
+  1.005 | Yes@0.009 No@0.996 | liq=5138.46941 | CA Paranaense vs. CA Mineiro: O/U 7.5
+  1.005 | Yes@0.010 No@0.995 | liq=3499.28115 | Kashiwa Reysol vs. Vissel Kōbe: O/U 7.5
+FLOOR: 1.003
