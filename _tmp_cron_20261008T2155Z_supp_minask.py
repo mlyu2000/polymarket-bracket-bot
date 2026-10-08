@@ -1,0 +1,57 @@
+import asyncio, logging, json, time
+from config import Config
+from polymarket_api import PolymarketAPI
+from detector import BracketDetector
+
+logging.basicConfig(level=logging.ERROR)
+
+async def scan():
+    Config.validate()
+    api = PolymarketAPI()
+    detector = BracketDetector()
+
+    t0 = time.time()
+    markets = await api.fetch_active_markets()
+    token_pairs = [(m.clob_token_ids[0], m.clob_token_ids[1]) for m in markets]
+    all_books = await api.fetch_order_books_batch(token_pairs)
+    scan_time = time.time() - t0
+
+    opps = []
+    near = []
+    priced = 0
+    floors = []
+    for m, (yes_book, no_book) in zip(markets, all_books):
+        opp = detector.detect(m, yes_book, no_book)
+        if opp:
+            opps.append({
+                'q': m.question[:60],
+                'yes': opp.yes_price, 'no': opp.no_price,
+                'sum': opp.total_cost, 'edge': opp.net_edge,
+                'shares': opp.max_shares, 'liq': m.liquidity,
+            })
+        if yes_book and no_book and yes_book.asks and no_book.asks:
+            priced += 1
+            ya = min(float(a['price']) for a in yes_book.asks)
+            na = min(float(a['price']) for a in no_book.asks)
+            total = ya + na
+            floors.append(total)
+            if total <= 1.005:
+                near.append((total, m.question[:50], ya, na, m.liquidity))
+    near.sort()
+    return {
+        'markets': len(markets), 'priced': priced, 'scan_time': scan_time,
+        'opps': opps, 'near': near,
+        'true_floor': min(floors) if floors else None,
+    }
+
+result = asyncio.run(scan())
+print(f"min-ask scan: {result['markets']} markets ({result['priced']} priced) in {result['scan_time']:.1f}s")
+print(f"BRACKETS (detector, sum<1.00): {len(result['opps'])}")
+for o in result['opps']:
+    print(f"  sum={o['sum']:.3f} edge={o['edge']:.4f} Yes@{o['yes']:.3f} No@{o['no']:.3f} {o['shares']}sh liq={o['liq']} | {o['q']}")
+print(f"Near-misses (<=1.005, true min-ask): {len(result['near'])}")
+for total, q, yp, np, liq in result['near'][:10]:
+    print(f"  {total:.3f} | Yes@{yp:.3f} No@{np:.3f} | liq={liq} | {q}")
+print(f"True floor across priced markets: {result['true_floor']}")
+with open('_tmp_cron_20261008T2155Z_supp_data.json', 'w') as f:
+    json.dump(result, f, default=str)
