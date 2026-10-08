@@ -1,99 +1,68 @@
 {
- "run": "20261008T102205Z",
- "ts": "2026-10-08T10:22:05Z",
+ "run": "20261008T1048Z",
+ "ts": "2026-10-08T10:48:21Z (scan finished ~10:50Z)",
  "markets": 500,
- "priced": 103,
- "floor": 1.004,
+ "priced": 104,
+ "floor": 1.002,
  "brackets_minask": 0,
  "detector_opps": 0,
- "band": 4,
+ "band": 6,
  "top8": [
   {
+   "sum": 1.002,
+   "q": "Will the price of Ethereum be above $2,400 on October 10?",
+   "yes": 0.978,
+   "no": 0.024,
+   "liq": 35948.32417
+  },
+  {
    "sum": 1.004,
-   "q": "Will US unemployment reach at least 6.0% in 2026?",
+   "q": "CA Paranaense vs. CA Mineiro: O/U 7.5",
    "yes": 0.008,
    "no": 0.996,
-   "liq": 3379.82896
+   "liq": 4776.66694
+  },
+  {
+   "sum": 1.004,
+   "q": "Exact Score: TSG 1899 Hoffenheim 0 - 3 Hamburger SV?",
+   "yes": 0.008,
+   "no": 0.996,
+   "liq": 11247.39285
   },
   {
    "sum": 1.005,
-   "q": "CA Paranaense vs. CA Mineiro: O/U 7.5",
+   "q": "Will US unemployment reach at least 6.0% in 2026?",
    "yes": 0.009,
    "no": 0.996,
-   "liq": 4364.72122
+   "liq": 3184.60371
   },
   {
    "sum": 1.005,
    "q": "Kashiwa Reysol vs. Vissel K\u014dbe: O/U 7.5",
    "yes": 0.01,
    "no": 0.995,
-   "liq": 2989.76864
+   "liq": 3136.1507
   },
   {
    "sum": 1.005,
    "q": "Exact Score: West Ham United FC 0 - 3 Queens Park Rangers FC",
    "yes": 0.008,
    "no": 0.997,
-   "liq": 5139.32441
+   "liq": 10250.22905
   },
   {
    "sum": 1.006,
    "q": "FC CFR 1907 Cluj vs. FC Universitatea Cluj: O/U 7.5",
    "yes": 0.013,
    "no": 0.993,
-   "liq": 60075.62185
+   "liq": 59952.32625
   },
   {
    "sum": 1.006,
    "q": "Exact Score: BV Borussia 09 Dortmund 0 - 3 SV Werder Bremen?",
    "yes": 0.007,
    "no": 0.999,
-   "liq": 6961.23735
-  },
-  {
-   "sum": 1.006,
-   "q": "Exact Score: West Ham United FC 2 - 4 Queens Park Rangers FC",
-   "yes": 0.009,
-   "no": 0.997,
-   "liq": 2468.35942
-  },
-  {
-   "sum": 1.006,
-   "q": "Exact Score: Ipswich Town FC 2 - 5 Fulham FC?",
-   "yes": 0.008,
-   "no": 0.998,
-   "liq": 16666.14778
+   "liq": 6956.22735
   }
- ],
- "band_rows": [
-  {
-   "sum": 1.004,
-   "q": "Will US unemployment reach at least 6.0% in 2026?",
-   "yes": 0.008,
-   "no": 0.996,
-   "liq": 3379.82896
-  },
-  {
-   "sum": 1.005,
-   "q": "CA Paranaense vs. CA Mineiro: O/U 7.5",
-   "yes": 0.009,
-   "no": 0.996,
-   "liq": 4364.72122
-  },
-  {
-   "sum": 1.005,
-   "q": "Kashiwa Reysol vs. Vissel K\u014dbe: O/U 7.5",
-   "yes": 0.01,
-   "no": 0.995,
-   "liq": 2989.76864
-  },
-  {
-   "sum": 1.005,
-   "q": "Exact Score: West Ham United FC 0 - 3 Queens Park Rangers FC",
-   "yes": 0.008,
-   "no": 0.997,
-   "liq": 5139.32441
-  }
- ],
- "scan_time_s": 46.8
+ ]
 }
