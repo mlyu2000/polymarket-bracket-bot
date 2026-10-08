@@ -1,10 +1,10 @@
 {
- "run": "20261008T083905Z",
- "floor": 1.001,
- "market": "Will Sudan's Emergency Response Rooms win the Nobel Peace Pr",
- "yes": 0.155,
- "no": 0.846,
- "liq": 86536.10162,
- "prev_floor": 1.002,
- "prev_run": "20261008T030521Z"
+ "run": "20261008T102205Z",
+ "floor": 1.004,
+ "market": "Will US unemployment reach at least 6.0% in 2026?",
+ "yes": 0.008,
+ "no": 0.996,
+ "liq": 3379.82896,
+ "prev_floor": 1.001,
+ "prev_run": "20261008T083905Z"
 }
