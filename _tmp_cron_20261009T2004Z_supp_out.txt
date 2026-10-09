@@ -1,0 +1,13 @@
+priced markets (min-ask): 51/500
+best 8 min-ask totals:
+  1.003 | Yes@0.004 No@0.999 | liq=4758.83615 | Will the highest temperature in Paris be 12°C on October 10?
+  1.005 | Yes@0.009 No@0.996 | liq=1386.26039 | Clermont Foot 63 vs. Red Star FC: O/U 7.5
+  1.005 | Yes@0.006 No@0.999 | liq=7932.46736 | Gimnasia y Esgrima de La Plata vs. CA Tucumán: O/U 7.5
+  1.005 | Yes@0.010 No@0.995 | liq=4072.84364 | Kyōto Sanga FC vs. FC Machida Zelvia: O/U 7.5
+  1.006 | Yes@0.010 No@0.996 | liq=1747.45699 | FK Chornomorets Odesa vs. FK Kharkiv: O/U 7.5
+  1.006 | Yes@0.012 No@0.994 | liq=837.18131 | Falkirk FC vs. Dundee FC: O/U 7.5
+  1.006 | Yes@0.013 No@0.993 | liq=1498.35925 | South Melbourne FC vs. Melbourne Victory FC: O/U 7.5
+  1.008 | Yes@0.990 No@0.018 | liq=258.50754 | Will the highest temperature in Miami be between 88-89°F on 
+min-ask sum <=1.00: 0
+min-ask sum <=1.005: 4
+supp time: 52.3s
