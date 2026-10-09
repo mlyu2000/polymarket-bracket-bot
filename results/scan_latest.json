@@ -1,10 +1,10 @@
 {
-  "ts_utc": "2026-10-09T09:41Z",
+  "ts_utc": "2026-10-09T10:27Z",
   "markets": 500,
-  "scan_time_s": 43.9,
+  "scan_time_s": 45.4,
   "brackets_verbatim": 0,
   "near_misses_verbatim_asks0": 0,
-  "priced_minask": 83,
+  "priced_minask": 78,
   "best_ask_floor": 1.002,
   "near_1.000_1.005": [
     [
@@ -12,37 +12,44 @@
       "Exact Score: West Ham United FC 0 - 3 Queens Park ",
       0.007,
       0.995,
-      32325.46888
+      46195.22488
     ],
     [
       1.003,
-      "Will the price of Bitcoin be between $78,000 and $",
-      0.02,
-      0.983,
-      24249.45915
+      "Exact Score: FC Sochaux-Montb\u00e9liard 3 - 3 US Boulo",
+      0.009,
+      0.994,
+      13073.78974
     ],
     [
-      1.004,
+      1.005,
       "Exact Score: Montpellier HSC 0 - 3 Grenoble Foot 3",
       0.009,
-      0.995,
-      8588.72333
+      0.996,
+      9255.74446
     ],
     [
       1.005,
       "Exact Score: Montpellier HSC 3 - 3 Grenoble Foot 3",
       0.01,
       0.995,
-      9353.85868
+      17119.12794
     ],
     [
       1.005,
       "FC Nordsj\u00e6lland vs. Odense BK: O/U 8.5",
       0.015,
       0.99,
-      5801.74966
+      6224.93466
+    ],
+    [
+      1.005,
+      "Ky\u014dto Sanga FC vs. FC Machida Zelvia: O/U 7.5",
+      0.01,
+      0.995,
+      3210.1567
     ]
   ],
   "brackets_minask": 0,
-  "note": "verbatim asks[0] near-miss block reports 0 (known DESC-sort artifact); min-ask floor authoritative. FLOOR 1.002->1.002 held. Band 5->5: adds ['FC Nordsj\u00e6lland vs. Odense BK: O/U 8.5', 'Will the price of Bitcoin be between $78,000 and $'], drops ['Exact Score: Racing Club de Lens 0 - 4 Olympique L', 'Kashiwa Reysol vs. Vissel K\u014dbe: O/U 7.5']. Priced 101->83. Detector (true min-ask, sum<1.00): 0 brackets \u2014 no actionable arb. Paper trades 0."
+  "note": "verbatim asks[0] near-miss block reports 0 (known DESC-sort artifact); min-ask floor authoritative. FLOOR 1.002->1.002 held. Band 5->6: adds ['Exact Score: FC Sochaux-Montb\u00e9liard 3 - 3 US Boulo', 'Ky\u014dto Sanga FC vs. FC Machida Zelvia: O/U 7.5'], drops ['Will the price of Bitcoin be between $78,000 and $']. Priced 83->78. Detector (true min-ask, sum<1.00): 0 brackets \u2014 no actionable arb. Paper trades 0."
 }
