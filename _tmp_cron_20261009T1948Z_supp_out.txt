@@ -1,0 +1,13 @@
+priced markets (min-ask): 52/500
+best 8 min-ask totals:
+  1.003 | Yes@0.004 No@0.999 | liq=4801.94571 | Will the highest temperature in Paris be 12°C on October 10?
+  1.005 | Yes@0.009 No@0.996 | liq=1312.19681 | Clermont Foot 63 vs. Red Star FC: O/U 7.5
+  1.005 | Yes@0.006 No@0.999 | liq=7078.82764 | Gimnasia y Esgrima de La Plata vs. CA Tucumán: O/U 7.5
+  1.005 | Yes@0.010 No@0.995 | liq=3798.90364 | Kyōto Sanga FC vs. FC Machida Zelvia: O/U 7.5
+  1.006 | Yes@0.010 No@0.996 | liq=1620.52756 | FK Chornomorets Odesa vs. FK Kharkiv: O/U 7.5
+  1.006 | Yes@0.012 No@0.994 | liq=773.03892 | Falkirk FC vs. Dundee FC: O/U 7.5
+  1.006 | Yes@0.013 No@0.993 | liq=1498.35925 | South Melbourne FC vs. Melbourne Victory FC: O/U 7.5
+  1.010 | Yes@0.080 No@0.930 | liq=35475.3776 | Exact Score: Alianza FC 1 - 2 Águilas Doradas Rionegro?
+min-ask sum <=1.00: 0
+min-ask sum <=1.005: 4
+supp time: 48.7s
