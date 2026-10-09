@@ -1,0 +1,3 @@
+Scan: 500 markets in 50.4s
+BRACKETS (sum < 1.00): 0
+Near-misses (<=1.005, asks[0]): 0
