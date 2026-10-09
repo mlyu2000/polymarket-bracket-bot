@@ -1,0 +1,12 @@
+markets: 500 | priced(min-ask): 96 | elapsed: 50.9s | detector_opps: 0
+true brackets (<1.00): 0
+near-misses (1.00-1.005): 8
+  1.0030 | Yes@0.008 No@0.995 | liq=46143.48187 | Exact Score: West Ham United FC 0 - 3 Queens Park Rangers FC
+  1.0030 | Yes@0.007 No@0.996 | liq=65472.65078 | Exact Score: Montpellier HSC 0 - 3 Grenoble Foot 38?
+  1.0030 | Yes@0.008 No@0.995 | liq=20335.8303 | Exact Score: Montpellier HSC 3 - 3 Grenoble Foot 38?
+  1.0040 | Yes@0.013 No@0.991 | liq=38905.05593 | Exact Score: Racing Club de Lens 0 - 4 Olympique Lyonnais?
+  1.0040 | Yes@0.010 No@0.994 | liq=13482.75573 | Exact Score: FC Sochaux-Montbéliard 3 - 3 US Boulogne Côte d
+  1.0050 | Yes@0.015 No@0.990 | liq=6314.59809 | FC Nordsjælland vs. Odense BK: O/U 8.5
+  1.0050 | Yes@0.010 No@0.995 | liq=4331.88459 | Kyōto Sanga FC vs. FC Machida Zelvia: O/U 7.5
+  1.0050 | Yes@0.009 No@0.996 | liq=1760.01436 | Clermont Foot 63 vs. Red Star FC: O/U 7.5
+absolute floor: 1.0030 | Exact Score: West Ham United FC 0 - 3 Queens Park Rangers FC
