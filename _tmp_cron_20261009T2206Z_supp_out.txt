@@ -1,0 +1,13 @@
+priced markets: 60
+TRUE sum<1.00: 0 | sum<=1.005: 2
+--- floor top 10 ---
+  1.005 | Y@0.010 N@0.995 | sz 17/3383 | liq 3958.30306 | Kyōto Sanga FC vs. FC Machida Zelvia: O/U 7.5
+  1.005 | Y@0.009 N@0.996 | sz 9/2350 | liq 1970.0203 | Clermont Foot 63 vs. Red Star FC: O/U 7.5
+  1.006 | Y@0.012 N@0.994 | sz 9/1566 | liq 1569.05984 | Falkirk FC vs. Dundee FC: O/U 7.5
+  1.006 | Y@0.010 N@0.996 | sz 6/1175 | liq 1899.45503 | FK Chornomorets Odesa vs. FK Kharkiv: O/U 7.5
+  1.010 | Y@0.060 N@0.950 | sz 40/41 | liq 43.8875 | Will Fernando Mendoza have 3,500+ passing yards in the 2026-27 NFL reg
+  1.010 | Y@0.170 N@0.840 | sz 30714/149 | liq 137959.359 | Kent State vs. Western Michigan
+  1.010 | Y@0.170 N@0.840 | sz 1785/416 | liq 11059.1648 | Spread: Real Madrid CF (-3.5)
+  1.010 | Y@0.120 N@0.890 | sz 850/50 | liq 54521.1565 | Will Washington Capitals be the 2027 NHL Eastern Conference Champion?
+  1.010 | Y@0.410 N@0.600 | sz 13608/12507 | liq 107466.3306 | Will 1. FC Union Berlin win on 2026-10-10?
+  1.016 | Y@0.998 N@0.018 | sz 105/7 | liq 175.41987 | Will Dplus KIA Qualify for Worlds 2026?
