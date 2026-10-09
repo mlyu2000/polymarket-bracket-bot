@@ -1,48 +1,55 @@
 {
-  "ts_utc": "2026-10-09T07:22Z",
+  "ts_utc": "2026-10-09T08:56Z",
   "markets": 500,
-  "scan_time_s": 48.2,
+  "scan_time_s": 45.8,
   "brackets_verbatim": 0,
   "near_misses_verbatim_asks0": 0,
-  "priced_minask": 85,
-  "best_ask_floor": 1.002,
+  "priced_minask": 101,
+  "best_ask_floor": 1.003,
   "near_1.000_1.005": [
     [
-      1.002,
-      "Exact Score: BV Borussia 09 Dortmund 0 - 3 SV Werd",
-      0.005,
-      0.997,
-      65179.55669
+      1.003,
+      "Exact Score: Montpellier HSC 3 - 3 Grenoble Foot 3",
+      0.01,
+      0.993,
+      29165.10892
+    ],
+    [
+      1.003,
+      "Exact Score: West Ham United FC 0 - 3 Queens Park ",
+      0.008,
+      0.995,
+      28975.62388
+    ],
+    [
+      1.003,
+      "Kashiwa Reysol vs. Vissel K\u014dbe: O/U 7.5",
+      0.01,
+      0.993,
+      23612.72022
+    ],
+    [
+      1.004,
+      "Exact Score: BV Borussia 09 Dortmund 1 - 4 SV Werd",
+      0.006,
+      0.998,
+      7092.57566
     ],
     [
       1.004,
       "Exact Score: Montpellier HSC 0 - 3 Grenoble Foot 3",
-      0.008,
-      0.996,
-      8290.7841
+      0.009,
+      0.995,
+      16179.76998
     ],
     [
       1.004,
-      "Exact Score: West Ham United FC 0 - 3 Queens Park ",
-      0.008,
-      0.996,
-      29334.30827
-    ],
-    [
-      1.005,
-      "FC Nordsj\u00e6lland vs. Odense BK: O/U 8.5",
-      0.015,
-      0.99,
-      7465.27157
-    ],
-    [
-      1.005,
-      "Kashiwa Reysol vs. Vissel K\u014dbe: O/U 7.5",
-      0.01,
-      0.995,
-      32311.14305
+      "Exact Score: Racing Club de Lens 0 - 4 Olympique L",
+      0.012,
+      0.992,
+      48490.95695
     ]
   ],
   "paper_trades": 0,
-  "note": "verbatim asks[0] near-miss block reports 0 (known DESC-sort artifact); min-ask floor authoritative. FLOOR 1.002->1.002 held. Band 4->5: adds ['FC Nordsj\u00e6lland vs. Odense BK: O/U 8.5'], drops none. Priced 86->85. Detector (true min-ask, sum<1.00): 0 brackets \u2014 no actionable arb. Paper trades 0."
+  "note": "verbatim asks[0] near-miss block reports 0 (known DESC-sort artifact); min-ask floor authoritative. FLOOR 1.002->1.003 rose. Band 7->6: adds ['Exact Score: BV Borussia 09 Dortmund 1 - 4 SV Werd', 'Exact Score: Montpellier HSC 3 - 3 Grenoble Foot 3'], drops ['Exact Score: BV Borussia 09 Dortmund 0 - 3 SV Werd', 'Exact Score: BV Borussia 09 Dortmund 2 - 4 SV Werd', 'Exact Score: BV Borussia 09 Dortmund 3 - 4 SV Werd']. Priced 101->101. Detector (true min-ask, sum<1.00): 0 brackets \u2014 no actionable arb. Paper trades 0."
 }
