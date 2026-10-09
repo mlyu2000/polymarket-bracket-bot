@@ -1,0 +1,12 @@
+markets priced: 85
+best 8 by min-ask sum:
+  1.0020 | Yes@0.005 No@0.997 | liq=65179.55669 | Exact Score: BV Borussia 09 Dortmund 0 - 3 SV Werder Bremen?
+  1.0040 | Yes@0.008 No@0.996 | liq=8290.7841 | Exact Score: Montpellier HSC 0 - 3 Grenoble Foot 38?
+  1.0040 | Yes@0.008 No@0.996 | liq=29334.30827 | Exact Score: West Ham United FC 0 - 3 Queens Park Rangers FC
+  1.0050 | Yes@0.015 No@0.990 | liq=7465.27157 | FC Nordsjælland vs. Odense BK: O/U 8.5
+  1.0050 | Yes@0.010 No@0.995 | liq=32311.14305 | Kashiwa Reysol vs. Vissel Kōbe: O/U 7.5
+  1.0060 | Yes@0.011 No@0.995 | liq=11243.39137 | Exact Score: FC Sochaux-Montbéliard 3 - 3 US Boulogne Côte d
+  1.0060 | Yes@0.010 No@0.996 | liq=9312.98096 | Exact Score: Montpellier HSC 3 - 3 Grenoble Foot 38?
+  1.0080 | Yes@0.014 No@0.994 | liq=4329.94481 | FC Sochaux-Montbéliard vs. US Boulogne Côte d'Opale: O/U 6.5
+true brackets sum<1.0: 0
+true near-miss <=1.005: 5
