@@ -1,0 +1,192 @@
+{
+ "markets": 500,
+ "priced": 60,
+ "floor": 1.004,
+ "floor_q": "Chicago Fire FC vs. New York City FC: New York City FC O/U 4",
+ "brackets": 0,
+ "band": [
+  [
+   1.004,
+   "Chicago Fire FC vs. New York City FC: New York City FC O/U 4",
+   0.011,
+   0.993,
+   148.84779
+  ],
+  [
+   1.005,
+   "JEF United Ichihara Chiba vs. V-Varen Nagasaki: O/U 7.5",
+   0.01,
+   0.995,
+   3766.59824
+  ],
+  [
+   1.005,
+   "Konyaspor vs. Rams Ba\u015fak\u015fehir FK: O/U 7.5",
+   0.012,
+   0.993,
+   2901.05826
+  ]
+ ],
+ "next_tier": [
+  [
+   1.006,
+   "CA River Plate vs. AA Estudiantes: O/U 7.5",
+   0.011,
+   0.995,
+   3036.15252
+  ],
+  [
+   1.006,
+   "FK LNZ Cherkasy vs. FK Kudrivka: O/U 7.5",
+   0.012,
+   0.994,
+   1625.449
+  ],
+  [
+   1.006,
+   "Silkeborg IF vs. AC Horsens: O/U 7.5",
+   0.012,
+   0.994,
+   1729.37933
+  ],
+  [
+   1.007,
+   "CA Tigre vs. CA Banfield: O/U 6.5",
+   0.014,
+   0.993,
+   2987.48958
+  ],
+  [
+   1.007,
+   "FK Dynamo Kyiv vs. FK Karpaty Lviv: O/U 7.5",
+   0.013,
+   0.994,
+   456.40231
+  ],
+  [
+   1.007,
+   "VfL Bochum vs. DSC Arminia Bielefeld: O/U 7.5",
+   0.014,
+   0.993,
+   2438.22631
+  ],
+  [
+   1.01,
+   "Atalanta BC vs. Venezia FC: O/U 2.5",
+   0.63,
+   0.38,
+   64302.5757
+  ],
+  [
+   1.01,
+   "Club Almagro vs. Chacarita Juniors: O/U 1.5",
+   0.61,
+   0.4,
+   18411.7657
+  ],
+  [
+   1.01,
+   "KRC Genk vs. KV Kortrijk: O/U 5.5",
+   0.12,
+   0.89,
+   25973.2423
+  ],
+  [
+   1.01,
+   "Spread: Ohio State (-41.5)",
+   0.3,
+   0.71,
+   11379.0048
+  ]
+ ],
+ "one_sided": 417,
+ "both_empty": 23,
+ "both_sided": 60,
+ "fetch_fail": 0,
+ "top12": [
+  [
+   1.004,
+   "Chicago Fire FC vs. New York City FC: New York City FC O/U 4",
+   0.011,
+   0.993,
+   148.84779
+  ],
+  [
+   1.005,
+   "JEF United Ichihara Chiba vs. V-Varen Nagasaki: O/U 7.5",
+   0.01,
+   0.995,
+   3766.59824
+  ],
+  [
+   1.005,
+   "Konyaspor vs. Rams Ba\u015fak\u015fehir FK: O/U 7.5",
+   0.012,
+   0.993,
+   2901.05826
+  ],
+  [
+   1.006,
+   "CA River Plate vs. AA Estudiantes: O/U 7.5",
+   0.011,
+   0.995,
+   3036.15252
+  ],
+  [
+   1.006,
+   "FK LNZ Cherkasy vs. FK Kudrivka: O/U 7.5",
+   0.012,
+   0.994,
+   1625.449
+  ],
+  [
+   1.006,
+   "Silkeborg IF vs. AC Horsens: O/U 7.5",
+   0.012,
+   0.994,
+   1729.37933
+  ],
+  [
+   1.007,
+   "CA Tigre vs. CA Banfield: O/U 6.5",
+   0.014,
+   0.993,
+   2987.48958
+  ],
+  [
+   1.007,
+   "FK Dynamo Kyiv vs. FK Karpaty Lviv: O/U 7.5",
+   0.013,
+   0.994,
+   456.40231
+  ],
+  [
+   1.007,
+   "VfL Bochum vs. DSC Arminia Bielefeld: O/U 7.5",
+   0.014,
+   0.993,
+   2438.22631
+  ],
+  [
+   1.01,
+   "Atalanta BC vs. Venezia FC: O/U 2.5",
+   0.63,
+   0.38,
+   64302.5757
+  ],
+  [
+   1.01,
+   "Club Almagro vs. Chacarita Juniors: O/U 1.5",
+   0.61,
+   0.4,
+   18411.7657
+  ],
+  [
+   1.01,
+   "KRC Genk vs. KV Kortrijk: O/U 5.5",
+   0.12,
+   0.89,
+   25973.2423
+  ]
+ ]
+}
