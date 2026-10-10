@@ -1,0 +1,13 @@
+🔍 Scan: 500 markets in 49.3s
+✅ BRACKETS (sum < 1.00): 0
+📊 Near-misses (≤1.005): 0  [verbatim asks0 — known DESC-sort artifact]
+
+[supp min-ask pass — authoritative]
+priced markets: 70
+TRUE brackets (min-ask sum < 1.0): 0
+top 5 best sums (min-ask):
+  1.0010 | Yes@0.041 No@0.960 | liq=86376.72363 | Exact Score: Manchester United FC 0 - 0 Tottenham Hotspur FC
+  1.0050 | Yes@0.009 No@0.996 | liq=2541.02249 | Clermont Foot 63 vs. Red Star FC: O/U 7.5
+  1.0050 | Yes@0.010 No@0.995 | liq=5094.26738 | FK Chornomorets Odesa vs. FK Kharkiv: O/U 7.5
+  1.0050 | Yes@0.010 No@0.995 | liq=6754.95159 | Kyōto Sanga FC vs. FC Machida Zelvia: O/U 7.5
+  1.0050 | Yes@0.012 No@0.993 | liq=7600.41479 | South Melbourne FC vs. Melbourne Victory FC: O/U 7.5
