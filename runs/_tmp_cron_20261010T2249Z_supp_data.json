@@ -1,0 +1,92 @@
+{
+ "ts": "2026-10-10T2249Z",
+ "markets": 500,
+ "priced": 96,
+ "one_sided": 382,
+ "both_empty": 22,
+ "scan_time": 93.31857824325562,
+ "floor": 1.003,
+ "floor_q": "CA San Lorenzo de Almagro vs. CD Riestra: O/U 7.5",
+ "brackets": 0,
+ "band": [
+  [
+   1.003,
+   "CA San Lorenzo de Almagro vs. CD Riestra: O/U 7.5",
+   0.005,
+   0.998,
+   215.0371
+  ],
+  [
+   1.005,
+   "Calcio Padova vs. Carrarese Calcio: O/U 7.5",
+   0.01,
+   0.995,
+   3039.14265
+  ],
+  [
+   1.005,
+   "FK LNZ Cherkasy vs. FK Kudrivka: O/U 7.5",
+   0.012,
+   0.993,
+   2670.86739
+  ],
+  [
+   1.005,
+   "Gaziantep FK vs. \u00c7orum FK: O/U 7.5",
+   0.01,
+   0.995,
+   4255.95594
+  ],
+  [
+   1.005,
+   "JEF United Ichihara Chiba vs. V-Varen Nagasaki: O/U 7.5",
+   0.01,
+   0.995,
+   4484.68111
+  ],
+  [
+   1.005,
+   "Modena FC 2018 vs. Hellas Verona FC: O/U 7.5",
+   0.009,
+   0.996,
+   1478.22831
+  ]
+ ],
+ "next_tier": [
+  [
+   1.006,
+   "Al Fayha Saudi Club vs. Al Riyadh Saudi Club: O/U 7.5",
+   0.01,
+   0.996,
+   2251.23396
+  ],
+  [
+   1.006,
+   "Konyaspor vs. Rams Ba\u015fak\u015fehir FK: O/U 7.5",
+   0.012,
+   0.994,
+   3435.68581
+  ],
+  [
+   1.006,
+   "Silkeborg IF vs. AC Horsens: O/U 7.5",
+   0.011,
+   0.995,
+   2852.11904
+  ],
+  [
+   1.007,
+   "FK Dynamo Kyiv vs. FK Karpaty Lviv: O/U 7.5",
+   0.013,
+   0.994,
+   1395.43058
+  ],
+  [
+   1.008,
+   "VfL Bochum vs. DSC Arminia Bielefeld: O/U 7.5",
+   0.014,
+   0.994,
+   2985.70744
+  ]
+ ]
+}
