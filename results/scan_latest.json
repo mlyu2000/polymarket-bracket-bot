@@ -1,55 +1,21 @@
 {
-  "ts_utc": "2026-10-09T10:27Z",
-  "markets": 500,
-  "scan_time_s": 45.4,
-  "brackets_verbatim": 0,
-  "near_misses_verbatim_asks0": 0,
-  "priced_minask": 78,
-  "best_ask_floor": 1.002,
-  "near_1.000_1.005": [
-    [
-      1.002,
-      "Exact Score: West Ham United FC 0 - 3 Queens Park ",
-      0.007,
-      0.995,
-      46195.22488
-    ],
-    [
-      1.003,
-      "Exact Score: FC Sochaux-Montb\u00e9liard 3 - 3 US Boulo",
-      0.009,
-      0.994,
-      13073.78974
-    ],
-    [
-      1.005,
-      "Exact Score: Montpellier HSC 0 - 3 Grenoble Foot 3",
-      0.009,
-      0.996,
-      9255.74446
-    ],
-    [
-      1.005,
-      "Exact Score: Montpellier HSC 3 - 3 Grenoble Foot 3",
-      0.01,
-      0.995,
-      17119.12794
-    ],
-    [
-      1.005,
-      "FC Nordsj\u00e6lland vs. Odense BK: O/U 8.5",
-      0.015,
-      0.99,
-      6224.93466
-    ],
-    [
-      1.005,
-      "Ky\u014dto Sanga FC vs. FC Machida Zelvia: O/U 7.5",
-      0.01,
-      0.995,
-      3210.1567
-    ]
-  ],
-  "brackets_minask": 0,
-  "note": "verbatim asks[0] near-miss block reports 0 (known DESC-sort artifact); min-ask floor authoritative. FLOOR 1.002->1.002 held. Band 5->6: adds ['Exact Score: FC Sochaux-Montb\u00e9liard 3 - 3 US Boulo', 'Ky\u014dto Sanga FC vs. FC Machida Zelvia: O/U 7.5'], drops ['Will the price of Bitcoin be between $78,000 and $']. Priced 83->78. Detector (true min-ask, sum<1.00): 0 brackets \u2014 no actionable arb. Paper trades 0."
+ "ts_utc": "2026-10-11T0800Z",
+ "markets": 500,
+ "scan_time_s": 55.7,
+ "brackets_verbatim": 0,
+ "near_misses_verbatim_asks0": 0,
+ "priced_minask": 45,
+ "best_ask_floor": 1.005,
+ "near_1.000_1.005": [
+  [
+   1.005,
+   "CA River Plate vs. AA Estudiantes: O/U 7.5",
+   0.01,
+   0.995,
+   2783.61307
+  ]
+ ],
+ "detector_opps": 0,
+ "paper_trades": 0,
+ "note": "verbatim asks[0] near-miss block reports 0 (known DESC-sort artifact); min-ask floor authoritative. SECOND run at this label (prior 15:09Z commit at same label recorded floor 1.004 / band n=2); this run: FLOOR 1.005, band shrank n=2->1 \u2014 L.R. Vicenza vs Pisa SC O/U 4.5 (1.004) climbed out, sole remaining member CA River Plate vs. AA Estudiantes: O/U 7.5 1.005 Yes@0.010 No@0.995 liq 2783.6. priced 52->45 (-7, normal inter-call variance 45-69). Next tier CA Tigre vs. CA Banfield O/U 6.5 1.007, then a wide 1.010 tier (AEK, Atalanta/Venezia, Troyes/OM, Bohemians exact-score). Book health: 383/500 one-sided, 69 both-empty-asks, 47 both-sided, 1 fetch failure \u2014 API healthy, one-sided book dominance unchanged."
 }

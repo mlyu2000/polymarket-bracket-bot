@@ -20,7 +20,22 @@ async def scan():
 
     opps = []
     near_misses = []
+    both = 0
+    one_sided = 0
+    empty_both = 0
+    fetch_fail = 0
     for m, (yes_book, no_book) in zip(markets, all_books):
+        if yes_book is None or no_book is None:
+            fetch_fail += 1
+            continue
+        y_asks = yes_book.asks if yes_book else []
+        n_asks = no_book.asks if no_book else []
+        if y_asks and n_asks:
+            both += 1
+        elif y_asks or n_asks:
+            one_sided += 1
+        else:
+            empty_both += 1
         opp = detector.detect(m, yes_book, no_book)
         if opp:
             opps.append({
@@ -47,6 +62,10 @@ async def scan():
         'opps': opps,
         'near_misses': near_misses,
         'scan_time': scan_time,
+        'both': both,
+        'one_sided': one_sided,
+        'empty_both': empty_both,
+        'fetch_fail': fetch_fail,
     }
 
 result = asyncio.run(scan())
@@ -57,3 +76,4 @@ for o in result['opps']:
 print(f"📊 Near-misses (≤1.005): {len(result['near_misses'])}")
 for total, q, yp, np, liq in result['near_misses'][:5]:
     print(f"  {total:.3f} | Yes@{yp:.3f} No@{np:.3f} | {q}")
+print(f"BOOKS: both-sided={result['both']} one-sided={result['one_sided']} empty-both={result['empty_both']} fetch-fail={result['fetch_fail']}")

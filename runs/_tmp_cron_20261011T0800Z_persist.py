@@ -1,0 +1,37 @@
+import json
+supp = json.load(open('runs/_tmp_cron_20261011T0800Z_supp_data.json'))
+prev = None
+for l in open('results/cron_scan_history.jsonl').read().strip().split('\n'):
+    if not l.strip():
+        continue
+    try:
+        d = json.loads(l)
+    except json.JSONDecodeError:
+        continue
+    if d.get('ts_utc') == '2026-10-11T0800Z':
+        prev = d
+entry = {
+    'ts_utc': '2026-10-11T0800Z',
+    'markets': supp['markets'],
+    'scan_time_s': 55.7,
+    'brackets_verbatim': 0,
+    'near_misses_verbatim_asks0': 0,
+    'priced_minask': supp['priced'],
+    'best_ask_floor': supp['floor'],
+    'near_1.000_1.005': [list(r) for r in supp['band']],
+    'detector_opps': 0,
+    'paper_trades': 0,
+    'note': ("verbatim asks[0] near-miss block reports 0 (known DESC-sort artifact); "
+             "min-ask floor authoritative. SECOND run at this label (prior 15:09Z commit at "
+             "same label recorded floor 1.004 / band n=2); this run: FLOOR 1.005, band shrank "
+             "n=2->1 — L.R. Vicenza vs Pisa SC O/U 4.5 (1.004) climbed out, sole remaining "
+             "member CA River Plate vs. AA Estudiantes: O/U 7.5 1.005 Yes@0.010 No@0.995 "
+             "liq 2783.6. priced 52->45 (-7, normal inter-call variance 45-69). "
+             "Next tier CA Tigre vs. CA Banfield O/U 6.5 1.007, then a wide 1.010 tier "
+             "(AEK, Atalanta/Venezia, Troyes/OM, Bohemians exact-score). "
+             "Book health: 383/500 one-sided, 69 both-empty-asks, 47 both-sided, 1 fetch "
+             "failure — API healthy, one-sided book dominance unchanged."),
+}
+with open('results/cron_scan_history.jsonl', 'a') as f:
+    f.write(json.dumps(entry) + '\n')
+print('appended entry for', entry['ts_utc'], '| floor', entry['best_ask_floor'], '| prev same-label floor', prev['best_ask_floor'] if prev else 'n/a')
