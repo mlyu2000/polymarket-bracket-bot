@@ -1,0 +1,9 @@
+🔍 Scan: 500 markets in 48.2s
+✅ BRACKETS (sum < 1.00): 0
+📊 Near-misses (≤1.005, verbatim asks0): 0 [known DESC artifact]
+--- supp min-ask (authoritative) ---
+priced markets: 61
+TRUE brackets (min-ask sum < 1.0): 0
+floor: 1.005 HELD
+band n=3 (was 4): Clermont 1.005, Kyoto 1.005, South Melbourne 1.005
+Chornomorets/Kharkiv DEMOTED 1.005->1.006
