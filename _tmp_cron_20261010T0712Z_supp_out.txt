@@ -1,0 +1,11 @@
+priced markets: 59/500
+TRUE FLOOR (min-ask sum): 1.0050 | Kyōto Sanga FC vs. FC Machida Zelvia: O/U 7.5 | Yes@0.010 No@0.995 | liq=8952.13145
+true brackets (sum<1.00): 0
+band <=1.005: 1
+  1.0050 | Kyōto Sanga FC vs. FC Machida Zelvia: O/U 7.5 | Yes@0.010 No@0.995 | liq=8952.13145
+next tier (1.005,1.01]:
+  1.0060 | Clermont Foot 63 vs. Red Star FC: O/U 7.5 | Yes@0.009 No@0.997 | liq=2560.45301
+  1.0060 | FK Chornomorets Odesa vs. FK Kharkiv: O/U 7.5 | Yes@0.010 No@0.996 | liq=3069.73879
+  1.0060 | FK Kolos Kovalivka vs. FK Epitsentr Dunaivtsi: O/U 6.5 | Yes@0.014 No@0.992 | liq=2540.40405
+  1.0060 | Falkirk FC vs. Dundee FC: O/U 7.5 | Yes@0.012 No@0.994 | liq=3539.15324
+  1.0060 | South Melbourne FC vs. Melbourne Victory FC: O/U 7.5 | Yes@0.015 No@0.991 | liq=15397.7694
