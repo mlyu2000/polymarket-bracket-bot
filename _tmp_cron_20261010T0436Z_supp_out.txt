@@ -1,0 +1,7 @@
+markets=500 priced=63
+TRUE_BRACKETS(min-ask sum<1.000)=0
+NEAR_MISS(<=1.005)=4
+  1.0010 | Yes@0.011 No@0.990 | liq=5183.27593 | Feyenoord Rotterdam vs. AZ: O/U 8.5
+  1.0050 | Yes@0.009 No@0.996 | liq=2390.58843 | Clermont Foot 63 vs. Red Star FC: O/U 7.5
+  1.0050 | Yes@0.010 No@0.995 | liq=26270.69152 | Kyōto Sanga FC vs. FC Machida Zelvia: O/U 7.5
+  1.0050 | Yes@0.012 No@0.993 | liq=5992.68555 | South Melbourne FC vs. Melbourne Victory FC: O/U 7.5
