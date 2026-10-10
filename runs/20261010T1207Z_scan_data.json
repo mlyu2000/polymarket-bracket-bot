@@ -1,0 +1,21 @@
+{
+  "ts_utc": "2026-10-10T12:07Z",
+  "markets": 500,
+  "scan_time_s": 47.7,
+  "brackets_verbatim": 0,
+  "near_misses_verbatim_asks0": 0,
+  "priced_minask": 66,
+  "best_ask_floor": 1.005,
+  "near_1.000_1.005": [
+    [
+      1.005,
+      "Falkirk FC vs. Dundee FC: O/U 7.5",
+      0.012,
+      0.993,
+      3830.49132
+    ]
+  ],
+  "detector_opps": 0,
+  "paper_trades": 0,
+  "note": "verbatim asks[0] near-miss block reports 0 (known DESC-sort artifact); min-ask floor authoritative. FLOOR REGRESSED 1.002->1.005 (worse by 0.003). Band 2->1: adds ['Falkirk FC vs. Dundee FC: O/U 7.5'], drops ['Clermont Foot 63 vs. Red Star FC: O/U 7.5' (was 1.002)], ['Notts County FC vs. Oxford United FC: Oxford United FC O/U 4' (was 1.005, ultra-low-liq 30.5)]. Sole holder Falkirk 1.005 Yes@0.012 No@0.993 liq 3830.5. priced 70->66 (-4). next tier Hajduk/Dinamo 1.009, Al Ettifaq 1.008, NE Revolution exact-score 1.009, AEK Athens 1.010. detector-opps 0, paper 0 executions; no sum < 1.00 anywhere = zero positive gross edge, no actionable arb; floor 1.005, best gross edge -0.005, still 0.025 above 0.98 actionable threshold."
+}

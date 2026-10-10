@@ -1,0 +1,8 @@
+priced markets: 66
+TRUE brackets (min-ask sum < 1.0): 0
+top 5 best sums (min-ask):
+  1.0050 | Yes@0.012 No@0.993 | liq=3830.49132 | Falkirk FC vs. Dundee FC: O/U 7.5
+  1.0080 | Yes@0.017 No@0.991 | liq=2862.64759 | Al Ettifaq Saudi Club vs. Al Khaleej Saudi Club: O/U 7.5
+  1.0090 | Yes@0.016 No@0.993 | liq=2701.38218 | Exact Score: New England Revolution 4 - 3 Seattle Sounders F
+  1.0090 | Yes@0.018 No@0.991 | liq=3172.52254 | HNK Hajduk Split vs. GNK Dinamo Zagreb: O/U 7.5
+  1.0100 | Yes@0.640 No@0.370 | liq=30661.5605 | AEK Athens vs. OFI Crete: O/U 2.5
