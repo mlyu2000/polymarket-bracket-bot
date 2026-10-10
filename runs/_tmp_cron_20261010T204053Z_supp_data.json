@@ -1,0 +1,42 @@
+{
+ "ts": "20261010T204053Z",
+ "markets": 500,
+ "priced": 65,
+ "scan_time": 54.97462439537048,
+ "both_sided": 65,
+ "one_sided": 408,
+ "both_empty": 27,
+ "floor": 1.005,
+ "floor_q": "Al Fayha Saudi Club vs. Al Riyadh Saudi Club: O/U 7.5",
+ "brackets": 0,
+ "band": [
+  [
+   1.005,
+   "Al Fayha Saudi Club vs. Al Riyadh Saudi Club: O/U 7.5",
+   0.009,
+   0.996,
+   2192.60876
+  ],
+  [
+   1.005,
+   "CA River Plate vs. AA Estudiantes: O/U 7.5",
+   0.01,
+   0.995,
+   6146.55363
+  ],
+  [
+   1.005,
+   "Calcio Padova vs. Carrarese Calcio: O/U 7.5",
+   0.01,
+   0.995,
+   2352.20648
+  ],
+  [
+   1.005,
+   "JEF United Ichihara Chiba vs. V-Varen Nagasaki: O/U 7.5",
+   0.01,
+   0.995,
+   4160.03811
+  ]
+ ]
+}
