@@ -1,0 +1,19 @@
+priced markets: 93/500 | one-sided: 381 | both-empty: 26 | scan 61.8s
+TRUE FLOOR (min-ask sum): 1.0030 | CA San Lorenzo de Almagro vs. CD Riestra: O/U 7.5 | Yes@0.005 No@0.998 | liq=907.47
+true brackets (sum<1.00): 0
+band <=1.005: 7
+  1.0030 | CA San Lorenzo de Almagro vs. CD Riestra: O/U 7.5 | Yes@0.005 No@0.998 | liq=907.47
+  1.0040 | New York Red Bulls vs. San Diego FC: New York Red Bulls O/U  | Yes@0.014 No@0.990 | liq=982.63
+  1.0040 | Real Betis Balompié vs. CA Osasuna: CA Osasuna O/U 3.5 | Yes@0.012 No@0.992 | liq=1851.55
+  1.0050 | Calcio Padova vs. Carrarese Calcio: O/U 7.5 | Yes@0.010 No@0.995 | liq=4154.67
+  1.0050 | Gaziantep FK vs. Çorum FK: O/U 7.5 | Yes@0.010 No@0.995 | liq=4264.04
+  1.0050 | JEF United Ichihara Chiba vs. V-Varen Nagasaki: O/U 7.5 | Yes@0.010 No@0.995 | liq=3584.67
+  1.0050 | Modena FC 2018 vs. Hellas Verona FC: O/U 7.5 | Yes@0.009 No@0.996 | liq=2095.67
+tier 1.006-1.008: 7
+  1.0060 | Al Fayha Saudi Club vs. Al Riyadh Saudi Club: O/U 7.5 | Yes@0.010 No@0.996 | liq=2251.23
+  1.0060 | Konyaspor vs. Rams Başakşehir FK: O/U 7.5 | Yes@0.012 No@0.994 | liq=3435.69
+  1.0070 | FK Dynamo Kyiv vs. FK Karpaty Lviv: O/U 7.5 | Yes@0.013 No@0.994 | liq=1395.43
+  1.0070 | FK LNZ Cherkasy vs. FK Kudrivka: O/U 7.5 | Yes@0.013 No@0.994 | liq=2670.87
+  1.0070 | NK Slaven Belupo vs. HNK Rijeka: O/U 7.5 | Yes@0.012 No@0.995 | liq=1803.55
+  1.0070 | Silkeborg IF vs. AC Horsens: O/U 7.5 | Yes@0.012 No@0.995 | liq=2893.51
+supp data written
