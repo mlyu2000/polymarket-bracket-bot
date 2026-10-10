@@ -1,0 +1,15 @@
+priced markets: 68/500
+TRUE FLOOR (min-ask sum): 1.0050 | Calcio Padova vs. Carrarese Calcio: O/U 7.5 | Yes@0.010 No@0.995 | liq=3028.79065
+true brackets (sum<1.00): 0
+band <=1.005: 3
+  1.0050 | Calcio Padova vs. Carrarese Calcio: O/U 7.5 | Yes@0.010 No@0.995 | liq=3028.79065
+  1.0050 | Gaziantep FK vs. Çorum FK: O/U 7.5 | Yes@0.010 No@0.995 | liq=4106.14599
+  1.0050 | JEF United Ichihara Chiba vs. V-Varen Nagasaki: O/U 7.5 | Yes@0.010 No@0.995 | liq=4270.01061
+next tier (>1.005):
+  1.0060 | Al Fayha Saudi Club vs. Al Riyadh Saudi Club: O/U 7.5 | Yes@0.010 No@0.996 | liq=2249.71096
+  1.0060 | FK LNZ Cherkasy vs. FK Kudrivka: O/U 7.5 | Yes@0.012 No@0.994 | liq=2675.37639
+  1.0060 | Silkeborg IF vs. AC Horsens: O/U 7.5 | Yes@0.011 No@0.995 | liq=2830.09304
+  1.0070 | FK Dynamo Kyiv vs. FK Karpaty Lviv: O/U 7.5 | Yes@0.013 No@0.994 | liq=1394.92958
+  1.0080 | VfL Bochum vs. DSC Arminia Bielefeld: O/U 7.5 | Yes@0.014 No@0.994 | liq=2981.53944
+  1.0100 | Atalanta BC vs. Venezia FC: O/U 2.5 | Yes@0.630 No@0.380 | liq=66116.4598
+detector-opps: 0 | paper executions: 0
