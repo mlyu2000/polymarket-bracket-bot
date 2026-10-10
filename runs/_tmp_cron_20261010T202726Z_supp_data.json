@@ -1,0 +1,78 @@
+{
+  "ts": "20261010T202726Z",
+  "markets": 500,
+  "two_sided": 64,
+  "one_sided": 436,
+  "floor_top": [
+    {
+      "sum": 1.005,
+      "yes": 0.009,
+      "no": 0.996,
+      "liq": 2167.66076,
+      "q": "Al Fayha Saudi Club vs. Al Riyadh Saudi Club: O/U 7.5"
+    },
+    {
+      "sum": 1.005,
+      "yes": 0.01,
+      "no": 0.995,
+      "liq": 1468.37948,
+      "q": "Calcio Padova vs. Carrarese Calcio: O/U 7.5"
+    },
+    {
+      "sum": 1.005,
+      "yes": 0.01,
+      "no": 0.995,
+      "liq": 4160.04351,
+      "q": "JEF United Ichihara Chiba vs. V-Varen Nagasaki: O/U 7.5"
+    },
+    {
+      "sum": 1.005,
+      "yes": 0.01,
+      "no": 0.995,
+      "liq": 5945.62483,
+      "q": "CA River Plate vs. AA Estudiantes: O/U 7.5"
+    },
+    {
+      "sum": 1.006,
+      "yes": 0.01,
+      "no": 0.996,
+      "liq": 3430.85501,
+      "q": "Gaziantep FK vs. \u00c7orum FK: O/U 7.5"
+    },
+    {
+      "sum": 1.006,
+      "yes": 0.011,
+      "no": 0.995,
+      "liq": 2027.13221,
+      "q": "Silkeborg IF vs. AC Horsens: O/U 7.5"
+    },
+    {
+      "sum": 1.006,
+      "yes": 0.012,
+      "no": 0.994,
+      "liq": 2238.78464,
+      "q": "FK LNZ Cherkasy vs. FK Kudrivka: O/U 7.5"
+    },
+    {
+      "sum": 1.006,
+      "yes": 0.012,
+      "no": 0.994,
+      "liq": 3427.094,
+      "q": "Konyaspor vs. Rams Ba\u015fak\u015fehir FK: O/U 7.5"
+    },
+    {
+      "sum": 1.007,
+      "yes": 0.013,
+      "no": 0.994,
+      "liq": 1063.76858,
+      "q": "FK Dynamo Kyiv vs. FK Karpaty Lviv: O/U 7.5"
+    },
+    {
+      "sum": 1.007,
+      "yes": 0.014,
+      "no": 0.993,
+      "liq": 3120.12136,
+      "q": "CA Tigre vs. CA Banfield: O/U 6.5"
+    }
+  ]
+}
