@@ -1,0 +1,15 @@
+priced markets: 64/500
+TRUE FLOOR (min-ask sum): 1.0020 | TSG 1899 Hoffenheim vs. Hamburger SV: Hamburger SV O/U 4.5 | Yes@0.006 No@0.996 | liq=3286.64
+true brackets (sum<1.00): 0
+band <=1.005: 3
+  1.0020 | TSG 1899 Hoffenheim vs. Hamburger SV: Hamburger SV O/U 4.5 | Yes@0.006 No@0.996 | liq=3286.64
+  1.0040 | Genoa CFC vs. ACF Fiorentina: Genoa CFC O/U 5.5 | Yes@0.010 No@0.994 | liq=1008.9
+  1.0050 | Falkirk FC vs. Dundee FC: O/U 7.5 | Yes@0.012 No@0.993 | liq=2629.22558
+next tier (>1.005):
+  1.0070 | Al Ettifaq Saudi Club vs. Al Khaleej Saudi Club: O/U 7.5 | Yes@0.017 No@0.990 | liq=3162.7384
+  1.0100 | AEK Athens vs. OFI Crete: O/U 2.5 | Yes@0.640 No@0.370 | liq=11193.0663
+  1.0100 | Atalanta BC vs. Venezia FC: O/U 2.5 | Yes@0.630 No@0.380 | liq=47433.2011
+  1.0100 | ES Troyes AC vs. Olympique de Marseille: O/U 2.5 | Yes@0.620 No@0.390 | liq=51739.3661
+  1.0100 | Exact Score: Bohemians Praha 1905 1 - 2 FC Baník Ostrava? | Yes@0.080 No@0.930 | liq=12636.1857
+  1.0100 | Hornchurch FC vs. Eastleigh FC: O/U 3.5 | Yes@0.330 No@0.680 | liq=11332.9174
+detector-opps: 0 | paper executions: 0
