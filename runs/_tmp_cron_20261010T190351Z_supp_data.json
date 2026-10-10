@@ -1,0 +1,83 @@
+{
+ "markets": 500,
+ "scan_time": 50.5,
+ "floor": [
+  1.001,
+  "Will the highest temperature in Amsterdam be 12°C on October 11?",
+  0.002,
+  0.999,
+  3931.97
+ ],
+ "band": [
+  [
+   1.001,
+   "Will the highest temperature in Amsterdam be 12°C on October 11?",
+   0.002,
+   0.999,
+   3931.97
+  ],
+  [
+   1.002,
+   "Exact Score: AS Monaco FC 2 - 4 Toulouse FC?",
+   0.004,
+   0.998,
+   3216.28
+  ],
+  [
+   1.002,
+   "Exact Score: AS Monaco FC 5 - 2 Toulouse FC?",
+   0.005,
+   0.997,
+   3164.63
+  ]
+ ],
+ "next_tiers": [
+  [
+   1.005,
+   "Al Fayha Saudi Club vs. Al Riyadh Saudi Club: O/U 7.5",
+   0.01,
+   0.995,
+   2001.66
+  ],
+  [
+   1.005,
+   "CA River Plate vs. AA Estudiantes: O/U 7.5",
+   0.01,
+   0.995,
+   5283.04
+  ],
+  [
+   1.005,
+   "CA Tigre vs. CA Banfield: O/U 6.5",
+   0.012,
+   0.993,
+   5506.28
+  ],
+  [
+   1.005,
+   "Exact Score: AFC Ajax 4 - 2 NEC?",
+   0.033,
+   0.972,
+   1871.54
+  ],
+  [
+   1.005,
+   "JEF United Ichihara Chiba vs. V-Varen Nagasaki: O/U 7.5",
+   0.01,
+   0.995,
+   3505.37
+  ],
+  [
+   1.005,
+   "Real Betis Balompié vs. CA Osasuna: CA Osasuna O/U 3.5",
+   0.013,
+   0.992,
+   2292.14
+  ]
+ ],
+ "priced": 470,
+ "both_sided": 71,
+ "one_sided": 399,
+ "both_empty": 30,
+ "fetch_fail": 0
+}
