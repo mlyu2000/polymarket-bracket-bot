@@ -1,0 +1,16 @@
+=== verbatim scan (asks0) 2026-10-10T2245Z ===
+🔍 Scan: 500 markets in 49.3s
+✅ BRACKETS (sum < 1.00): 0
+📊 Near-misses (≤1.005, verbatim asks[0]): 0 (known DESC artifact)
+📊 Near-misses (≤1.005, best-ask min, first scan pass): 5
+  1.0010 | Yes@0.041 No@0.960 | liq=89150.8 | Exact Score: Manchester United FC 0 - 0 Tottenham Hotspur FC
+  1.0010 | Yes@0.011 No@0.990 | liq=5180.7 | Feyenoord Rotterdam vs. AZ: O/U 8.5
+  1.0050 | Yes@0.009 No@0.996 | liq=2541.0 | Clermont Foot 63 vs. Red Star FC: O/U 7.5
+  1.0050 | Yes@0.010 No@0.995 | liq=4654.3 | FK Chornomorets Odesa vs. FK Kharkiv: O/U 7.5
+  1.0050 | Yes@0.010 No@0.995 | liq=6993.5 | Kyōto Sanga FC vs. FC Machida Zelvia: O/U 7.5
+
+=== supp minask (second pass, ~3 min later) ===
+priced markets: 66
+TRUE brackets (min-ask sum < 1.0): 0
+band (<=1.005) n=4: Man Utd 1.0010 liq=89150.8; Clermont 1.0050 liq=2541.0; Chornomorets 1.0050 liq=4654.3; Kyoto 1.0050 liq=6993.5
+Feyenoord 1.001 EXITED band between the two passes; South Melbourne 1.005->1.006 demoted (liq 5772.8); next tier 1.006 Falkirk/Dundee liq=3209.3, South Melbourne liq=5772.8
