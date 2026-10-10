@@ -1,0 +1,106 @@
+{
+ "ts": "2026-10-10T2330Z",
+ "markets": 500,
+ "priced": 90,
+ "one_sided": 380,
+ "both_empty": 30,
+ "scan_time": 48.620673179626465,
+ "floor": 1.004,
+ "floor_q": "JEF United Ichihara Chiba vs. V-Varen Nagasaki: O/U 7.5",
+ "brackets": 0,
+ "band": [
+  [
+   1.004,
+   "JEF United Ichihara Chiba vs. V-Varen Nagasaki: O/U 7.5",
+   0.009,
+   0.995,
+   6535.68901
+  ],
+  [
+   1.004,
+   "JEF United Ichihara Chiba vs. V-Varen Nagasaki: O/U 8.5",
+   0.005,
+   0.999,
+   5624.54123
+  ],
+  [
+   1.004,
+   "Real Betis Balompi\u00e9 vs. CA Osasuna: CA Osasuna O/U 3.5",
+   0.012,
+   0.992,
+   2520.87026
+  ],
+  [
+   1.005,
+   "Calcio Padova vs. Carrarese Calcio: O/U 7.5",
+   0.01,
+   0.995,
+   4388.68911
+  ],
+  [
+   1.005,
+   "Gaziantep FK vs. \u00c7orum FK: O/U 7.5",
+   0.01,
+   0.995,
+   4262.41491
+  ],
+  [
+   1.005,
+   "Gr\u00eamio FBPA vs. SC Internacional: O/U 7.5",
+   0.007,
+   0.998,
+   6978.70365
+  ],
+  [
+   1.005,
+   "Modena FC 2018 vs. Hellas Verona FC: O/U 7.5",
+   0.009,
+   0.996,
+   2542.22015
+  ]
+ ],
+ "next_tier": [
+  [
+   1.006,
+   "Al Fayha Saudi Club vs. Al Riyadh Saudi Club: O/U 7.5",
+   0.01,
+   0.996,
+   2254.23996
+  ],
+  [
+   1.006,
+   "FK LNZ Cherkasy vs. FK Kudrivka: O/U 7.5",
+   0.012,
+   0.994,
+   2689.95459
+  ],
+  [
+   1.006,
+   "Konyaspor vs. Rams Ba\u015fak\u015fehir FK: O/U 7.5",
+   0.012,
+   0.994,
+   3427.25381
+  ],
+  [
+   1.007,
+   "FK Dynamo Kyiv vs. FK Karpaty Lviv: O/U 7.5",
+   0.013,
+   0.994,
+   1392.92558
+  ],
+  [
+   1.007,
+   "NK Slaven Belupo vs. HNK Rijeka: O/U 7.5",
+   0.012,
+   0.995,
+   1957.09752
+  ],
+  [
+   1.007,
+   "Silkeborg IF vs. AC Horsens: O/U 7.5",
+   0.012,
+   0.995,
+   2888.65579
+  ]
+ ]
+}

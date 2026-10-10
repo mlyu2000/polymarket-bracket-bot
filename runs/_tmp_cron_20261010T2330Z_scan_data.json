@@ -1,0 +1,8 @@
+{
+ "ts": "2026-10-10T2330Z",
+ "markets": 500,
+ "scan_time": 48.7,
+ "opps": 0,
+ "near_misses_asks0": 0,
+ "note": "verbatim script asks[0] near-miss check: 0 (known DESC artifact); true floor from supp minask: 1.0040"
+}
