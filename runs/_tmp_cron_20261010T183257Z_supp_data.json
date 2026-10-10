@@ -1,0 +1,69 @@
+{
+ "markets": 500,
+ "scan_time": 73.5,
+ "floor": [
+  1.005,
+  "CA River Plate vs. AA Estudiantes: O/U 7.5",
+  0.01,
+  0.995,
+  4913.15112
+ ],
+ "band": [
+  [
+   1.005,
+   "CA River Plate vs. AA Estudiantes: O/U 7.5",
+   0.01,
+   0.995,
+   4913.15112
+  ],
+  [
+   1.005,
+   "CA Tigre vs. CA Banfield: O/U 6.5",
+   0.012,
+   0.993,
+   2250.03638
+  ],
+  [
+   1.005,
+   "JEF United Ichihara Chiba vs. V-Varen Nagasaki: O/U 7.5",
+   0.01,
+   0.995,
+   3632.40784
+  ],
+  [
+   1.005,
+   "Real Betis Balompi\u00e9 vs. CA Osasuna: CA Osasuna O/U 3.5",
+   0.013,
+   0.992,
+   1402.38899
+  ]
+ ],
+ "next_tiers": [
+  [
+   1.006,
+   "FK LNZ Cherkasy vs. FK Kudrivka: O/U 7.5",
+   0.012,
+   0.994,
+   1614.229
+  ],
+  [
+   1.006,
+   "Gaziantep FK vs. \u00c7orum FK: O/U 7.5",
+   0.011,
+   0.995,
+   3049.97414
+  ],
+  [
+   1.006,
+   "Konyaspor vs. Rams Ba\u015fak\u015fehir FK: O/U 7.5",
+   0.012,
+   0.994,
+   2885.68326
+  ]
+ ],
+ "priced": 465,
+ "both_sided": 71,
+ "one_sided": 394,
+ "both_empty": 29,
+ "fetch_fail": 6
+}
