@@ -1,0 +1,76 @@
+{
+  "ts": "20261011T041354Z",
+  "markets": 500,
+  "scan_time_s": 59.7,
+  "priced": 97,
+  "one_sided": 383,
+  "no_asks": 20,
+  "best_floor": 1.004,
+  "band_le_1_005": 9,
+  "detector_opps": 0,
+  "band_members": [
+    [
+      1.004,
+      "CA Talleres vs. CA Independiente: O/U 8.5",
+      0.005,
+      0.999,
+      1837.11714
+    ],
+    [
+      1.004,
+      "Spread: Cagliari Calcio (-2.5)",
+      0.01,
+      0.994,
+      12179.34652
+    ],
+    [
+      1.005,
+      "CA Platense vs. AA Argentinos Juniors: O/U 6.5",
+      0.009,
+      0.996,
+      3558.20191
+    ],
+    [
+      1.005,
+      "CR Flamengo vs. Fluminense FC: O/U 7.5",
+      0.012,
+      0.993,
+      4958.63068
+    ],
+    [
+      1.005,
+      "Calcio Padova vs. Carrarese Calcio: O/U 7.5",
+      0.01,
+      0.995,
+      4276.0006
+    ],
+    [
+      1.005,
+      "Gaziantep FK vs. \u00c7orum FK: O/U 7.5",
+      0.01,
+      0.995,
+      5329.07991
+    ],
+    [
+      1.005,
+      "Gr\u00eamio FBPA vs. SC Internacional: O/U 7.5",
+      0.009,
+      0.996,
+      4158.21623
+    ],
+    [
+      1.005,
+      "Modena FC 2018 vs. Hellas Verona FC: O/U 7.5",
+      0.009,
+      0.996,
+      3249.0765
+    ],
+    [
+      1.005,
+      "Silkeborg IF vs. AC Horsens: O/U 7.5",
+      0.011,
+      0.994,
+      5341.78155
+    ]
+  ]
+}
