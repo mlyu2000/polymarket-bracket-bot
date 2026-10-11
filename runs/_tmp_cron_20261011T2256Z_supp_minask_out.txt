@@ -1,0 +1,18 @@
+priced markets: 60/500
+TRUE FLOOR (min-ask sum): 1.0030 | Will the price of Bitcoin be above $90,000 on October 14? | Yes@0.015 No@0.988 | liq=40545.3988
+true brackets (sum<1.00): 0
+band <=1.005: 4
+  1.0030 | Will the price of Bitcoin be above $90,000 on October 14? | Yes@0.015 No@0.988 | liq=40545.3988
+  1.0030 | Will the price of Ethereum be between $3,000 and $3,100 on O | Yes@0.004 No@0.999 | liq=3847.00111
+  1.0050 | Real Valladolid CF vs. Albacete Balompié: O/U 7.5 | Yes@0.010 No@0.995 | liq=3204.76342
+  1.0050 | Spread: Viking FK (-1.5) | Yes@0.015 No@0.990 | liq=15010.73241
+next tier (>1.005):
+  1.0070 | Spread: Galatasaray SK (-2.5) | Yes@0.014 No@0.993 | liq=6167.14188
+  1.0080 | Spread: Los Angeles Galaxy (-3.5) | Yes@0.009 No@0.999 | liq=13311.37006
+  1.0080 | Spread: Venezia FC (-3.5) | Yes@0.010 No@0.998 | liq=6401.80542
+  1.0100 | Aarhus GF vs. Sønderjyske Fodbold: O/U 4.5 | Yes@0.240 No@0.770 | liq=8797.5359
+  1.0100 | Exact Score: Red Bull Bragantino 1 - 2 Cruzeiro EC? | Yes@0.080 No@0.930 | liq=7259.5324
+  1.0100 | Spread: Real Madrid CF (-2.5) | Yes@0.360 No@0.650 | liq=13127.3429
+tiers: <=1.005 n=4 <=1.010 n=15 <=1.020 n=23 <=1.030 n=28
+structural: two-sided 60 | yes_only 425 | no_only 2 | empty 13
+detector-opps: 0 | paper executions: 0
