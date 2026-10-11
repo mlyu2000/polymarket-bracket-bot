@@ -1,0 +1,73 @@
+{
+ "run": "cron_supp_floor",
+ "ts": "20261011T092124Z",
+ "markets": 500,
+ "two_sided": 103,
+ "floor": 1.001,
+ "n_band": 9,
+ "band": [
+  [
+   1.001,
+   "Will the highest temperature in Paris be 16\u00b0C on O",
+   0.003,
+   0.998,
+   3926.91324
+  ],
+  [
+   1.004,
+   "CA Talleres vs. CA Independiente: O/U 8.5",
+   0.005,
+   0.999,
+   3091.96056
+  ],
+  [
+   1.004,
+   "FK LNZ Cherkasy vs. FK Kudrivka: O/U 7.5",
+   0.007,
+   0.997,
+   6810.29398
+  ],
+  [
+   1.004,
+   "Konyaspor vs. Rams Ba\u015fak\u015fehir FK: O/U 7.5",
+   0.011,
+   0.993,
+   5205.20558
+  ],
+  [
+   1.005,
+   "Al Fayha Saudi Club vs. Al Riyadh Saudi Club: O/U ",
+   0.009,
+   0.996,
+   3873.09059
+  ],
+  [
+   1.005,
+   "Calcio Padova vs. Carrarese Calcio: O/U 7.5",
+   0.01,
+   0.995,
+   5168.97958
+  ],
+  [
+   1.005,
+   "Gaziantep FK vs. \u00c7orum FK: O/U 7.5",
+   0.012,
+   0.993,
+   5483.17538
+  ],
+  [
+   1.005,
+   "Modena FC 2018 vs. Hellas Verona FC: O/U 7.5",
+   0.009,
+   0.996,
+   3623.32726
+  ],
+  [
+   1.005,
+   "Silkeborg IF vs. AC Horsens: O/U 7.5",
+   0.011,
+   0.994,
+   5333.39641
+  ]
+ ]
+}
