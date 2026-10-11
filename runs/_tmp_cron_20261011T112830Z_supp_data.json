@@ -1,0 +1,22 @@
+{
+  "timestamp_utc": "2026-10-11T11:28:30.195106+00:00",
+  "run_id": "20261011T112830Z",
+  "scan": {
+    "markets": 500,
+    "scan_time_s": 53.8,
+    "brackets": 0,
+    "near_misses_asks0": 0
+  },
+  "true_floor_minask": {
+    "floor": null,
+    "floor_question": null,
+    "priced_markets": null,
+    "total_markets": null,
+    "true_brackets": null,
+    "band_le_1005": null,
+    "detector_opps": null,
+    "executions": null
+  },
+  "verdict": "FAIL",
+  "notes": "verbatim cron script; asks[0] near-miss known-invalid (DESC sort). True floor from min-ask supplement. Floor 1.0040 sits above 1.00 bracket threshold; no edge. 103/500 markets priced (ask-only books dominate)."
+}
