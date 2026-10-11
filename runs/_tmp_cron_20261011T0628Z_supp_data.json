@@ -1,0 +1,48 @@
+{
+  "markets": 500,
+  "priced": 90,
+  "yes_only": 394,
+  "both_empty": 16,
+  "floor": 1.001,
+  "median": 1.03,
+  "band_le_1005_n": 10,
+  "actionable_lt_098": 0,
+  "best_edge": -0.001,
+  "band_top5": [
+    {
+      "q": "Will the highest temperature in Paris be 16\u00b0C on October 12?",
+      "yes_ask": 0.004,
+      "no_ask": 0.997,
+      "sum": 1.001,
+      "liq": 3865.05601
+    },
+    {
+      "q": "Spread: Viking FK (-1.5)",
+      "yes_ask": 0.01,
+      "no_ask": 0.992,
+      "sum": 1.002,
+      "liq": 1630.03707
+    },
+    {
+      "q": "Spread: Cagliari Calcio (-2.5)",
+      "yes_ask": 0.009,
+      "no_ask": 0.994,
+      "sum": 1.003,
+      "liq": 13562.17655
+    },
+    {
+      "q": "CA Talleres vs. CA Independiente: O/U 8.5",
+      "yes_ask": 0.005,
+      "no_ask": 0.999,
+      "sum": 1.004,
+      "liq": 3301.21453
+    },
+    {
+      "q": "Al Fayha Saudi Club vs. Al Riyadh Saudi Club: O/U 7.5",
+      "yes_ask": 0.009,
+      "no_ask": 0.996,
+      "sum": 1.005,
+      "liq": 4069.38475
+    }
+  ]
+}
