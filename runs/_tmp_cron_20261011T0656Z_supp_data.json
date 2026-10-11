@@ -1,0 +1,85 @@
+{
+ "ts": "20261011T0656Z",
+ "markets": 500,
+ "two_sided": 88,
+ "yes_only": 397,
+ "no_only": 0,
+ "both_empty": 15,
+ "floor_min": 1.001,
+ "floor_median": 1.039,
+ "band_le_1.005_n": 10,
+ "actionable_below_0.98": 0,
+ "best_gross_edge": 0.0009999999999998899,
+ "band": [
+  [
+   1.001,
+   0.004,
+   0.997,
+   4720.44442,
+   "Will the highest temperature in Paris be 16\u00b0C on October 12?"
+  ],
+  [
+   1.004,
+   0.005,
+   0.999,
+   3294.44853,
+   "CA Talleres vs. CA Independiente: O/U 8.5"
+  ],
+  [
+   1.004,
+   0.01,
+   0.994,
+   6042.88176,
+   "Gaziantep FK vs. \u00c7orum FK: O/U 7.5"
+  ],
+  [
+   1.004,
+   0.01,
+   0.994,
+   13399.68445,
+   "Spread: Cagliari Calcio (-2.5)"
+  ],
+  [
+   1.005,
+   0.009,
+   0.996,
+   4063.03878,
+   "Al Fayha Saudi Club vs. Al Riyadh Saudi Club: O/U 7.5"
+  ],
+  [
+   1.005,
+   0.01,
+   0.995,
+   6661.59098,
+   "CR Flamengo vs. Fluminense FC: O/U 7.5"
+  ],
+  [
+   1.005,
+   0.01,
+   0.995,
+   4170.52224,
+   "Calcio Padova vs. Carrarese Calcio: O/U 7.5"
+  ],
+  [
+   1.005,
+   0.011,
+   0.994,
+   5426.75297,
+   "Konyaspor vs. Rams Ba\u015fak\u015fehir FK: O/U 7.5"
+  ],
+  [
+   1.005,
+   0.009,
+   0.996,
+   3630.95926,
+   "Modena FC 2018 vs. Hellas Verona FC: O/U 7.5"
+  ],
+  [
+   1.005,
+   0.011,
+   0.994,
+   5311.66419,
+   "Silkeborg IF vs. AC Horsens: O/U 7.5"
+  ]
+ ]
+}
