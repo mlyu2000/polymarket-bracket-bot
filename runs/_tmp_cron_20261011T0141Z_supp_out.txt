@@ -1,0 +1,12 @@
+markets=500 two_sided=88 one_sided_yes_only=382 one_sided_no_only=1 both_empty=29
+TRUE FLOOR (min-ask) top 8:
+  1.0030 | Yes@0.004 No@0.999 | liq 6072.99 | JEF United Ichihara Chiba vs. V-Varen Nagasaki: O/U 8.5
+  1.0040 | Yes@0.009 No@0.995 | liq 6778.53 | JEF United Ichihara Chiba vs. V-Varen Nagasaki: O/U 7.5
+  1.0050 | Yes@0.010 No@0.995 | liq 3063.52 | Calcio Padova vs. Carrarese Calcio: O/U 7.5
+  1.0050 | Yes@0.010 No@0.995 | liq 3232.42 | FC Arouca vs. CF Estrela da Amadora: O/U 7.5
+  1.0050 | Yes@0.009 No@0.996 | liq 2374.28 | Grêmio FBPA vs. SC Internacional: O/U 7.5
+  1.0050 | Yes@0.009 No@0.996 | liq 2244.84 | Modena FC 2018 vs. Hellas Verona FC: O/U 7.5
+  1.0060 | Yes@0.010 No@0.996 | liq 2287.73 | Al Fayha Saudi Club vs. Al Riyadh Saudi Club: O/U 7.5
+  1.0060 | Yes@0.010 No@0.996 | liq 2432.55 | CA Platense vs. AA Argentinos Juniors: O/U 6.5
+floor_min=1.0030 floor_median=1.0390
+actionable(<0.98): 0

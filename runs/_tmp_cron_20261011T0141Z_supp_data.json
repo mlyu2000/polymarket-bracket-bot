@@ -1,0 +1,31 @@
+{
+  "ts": "20261011T0141Z",
+  "markets": 500,
+  "scan_time_s": 51.4,
+  "brackets": 0,
+  "paper_executions": 0,
+  "near_misses_le_1.005": 0,
+  "near_miss_note": "cron-script near-miss block uses asks[0] (DESC artifact, known broken); true floor computed via min-ask supplement",
+  "book_shape": {
+    "two_sided": 88,
+    "one_sided_yes_only": 382,
+    "one_sided_no_only": 1,
+    "both_empty": 29
+  },
+  "true_floor": {
+    "min": 1.0030,
+    "median": 1.0390,
+    "actionable_below_0.98": 0,
+    "top": [
+      {"floor": 1.0030, "yes": 0.004, "no": 0.999, "liq": 6072.99, "q": "JEF United Ichihara Chiba vs. V-Varen Nagasaki: O/U 8.5"},
+      {"floor": 1.0040, "yes": 0.009, "no": 0.995, "liq": 6778.53, "q": "JEF United Ichihara Chiba vs. V-Varen Nagasaki: O/U 7.5"},
+      {"floor": 1.0050, "yes": 0.01, "no": 0.995, "liq": 3063.52, "q": "Calcio Padova vs. Carrarese Calcio: O/U 7.5"},
+      {"floor": 1.0050, "yes": 0.01, "no": 0.995, "liq": 3232.42, "q": "FC Arouca vs. CF Estrela da Amadora: O/U 7.5"},
+      {"floor": 1.0050, "yes": 0.009, "no": 0.996, "liq": 2374.28, "q": "Gremio FBPA vs. SC Internacional: O/U 7.5"},
+      {"floor": 1.0050, "yes": 0.009, "no": 0.996, "liq": 2244.84, "q": "Modena FC 2018 vs. Hellas Verona FC: O/U 7.5"},
+      {"floor": 1.0060, "yes": 0.01, "no": 0.996, "liq": 2287.73, "q": "Al Fayha Saudi Club vs. Al Riyadh Saudi Club: O/U 7.5"},
+      {"floor": 1.0060, "yes": 0.01, "no": 0.996, "liq": 2432.55, "q": "CA Platense vs. AA Argentinos Juniors: O/U 6.5"}
+    ]
+  },
+  "delta_vs_20261011T0115Z": "floor HELD at 1.0030 (JEF United Ichihara Chiba vs. V-Varen Nagasaki: O/U 8.5 Yes@0.004 No@0.999 liq 14343.87->6072.99; JEF O/U 7.5 held 1.0040 liq 14595.47->6778.53); two_sided 67->88; one_sided 411->383 (yes-only 375->382, no-only 1); both_empty 38->29; median 1.0410->1.0390; actionable still 0"
+}
