@@ -1,0 +1,46 @@
+{
+  "ts_utc": "2026-10-11T21:42Z",
+  "best_ask_floor": 1.002,
+  "floor_mkt": "Will the price of Bitcoin be above $90,000 on October 14?",
+  "floor_yes": 0.014,
+  "floor_no": 0.988,
+  "floor_liq": 40308.61,
+  "band_n": 4,
+  "band": [
+    {
+      "sum": 1.002,
+      "q": "Will the price of Bitcoin be above $90,000 on October 14?",
+      "y": 0.014,
+      "n": 0.988,
+      "liq": 40308.61
+    },
+    {
+      "sum": 1.003,
+      "q": "Spread: Galatasaray SK (-2.5)",
+      "y": 0.01,
+      "n": 0.993,
+      "liq": 3306.7
+    },
+    {
+      "sum": 1.003,
+      "q": "Will the price of Ethereum be between $3,000 and $3,100 on Oct 1",
+      "y": 0.004,
+      "n": 0.999,
+      "liq": 3448.16
+    },
+    {
+      "sum": 1.005,
+      "q": "Real Valladolid CF vs. Albacete Balompi\u00e9: O/U 7.5",
+      "y": 0.01,
+      "n": 0.995,
+      "liq": 3193.79
+    }
+  ],
+  "two_sided": 60,
+  "yes_only": 422,
+  "no_only": 2,
+  "empty": 16,
+  "detector_opps": 0,
+  "paper_execs": 0,
+  "scan_time_s": 63.8
+}
