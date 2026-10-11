@@ -1,0 +1,23 @@
+{
+  "run": "2026-10-11T1937Z",
+  "markets": 500,
+  "scan_time_s": 62.6,
+  "brackets": 0,
+  "detector_opps": 0,
+  "executions": 0,
+  "near_miss_block_reported": 0,
+  "near_miss_block_is_true_zero": true,
+  "true_floor_min_ask": 1.0030,
+  "floor_ties_all_time_low": true,
+  "floor_history": "1559Z 1.0030 -> ~04:15Z 1.0600 -> 1804Z 1.0050 (n=2) -> 1820Z 1.0040 -> 1837Z 1.0030 -> 1704Z/1920Z/1937Z 1.0030 (flat since 1837Z)",
+  "band_le_1_005": [
+    {"total": 1.0030, "yes": 0.004, "no": 0.999, "y_lev": 25, "n_lev": 1, "q": "Will the price of Ethereum be between $3,000 and $3,100 on October 11?"},
+    {"total": 1.0040, "yes": 0.010, "no": 0.994, "y_lev": 31, "n_lev": 2, "q": "Levante UD vs. Sevilla FC: Sevilla FC O/U 4.5"},
+    {"total": 1.0050, "yes": 0.010, "no": 0.995, "y_lev": 43, "n_lev": 5, "q": "Real Valladolid CF vs. Albacete Balompie: O/U 7.5"}
+  ],
+  "tier_le_1_020_count_note": "next after 1.0050: Venezia -3.5 @ 1.0080; 1.0090 Lille -1.5; 1.0090 LA Galaxy -3.5; then 1.0100 x5",
+  "book_shape": {"two_sided_priced": 59, "yes_only": 404, "no_only": 5, "empty": 32},
+  "priced_books_trend": "70 (1837Z) -> 66 (1704Z) -> 58 (1920Z) -> 59 (1937Z); still shrinking, fewer bracket-able books",
+  "structural_note": "~86% of active mkt books NOT bracket-able (yes_only dominates — NO cannot be acquired by hitting YES bids, separate token book, so ask-only bracket check is complete)",
+  "floor_stays_above_threshold": 0.98
+}
