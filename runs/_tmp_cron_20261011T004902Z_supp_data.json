@@ -1,0 +1,13 @@
+{
+  "ts": "20261011T004902Z",
+  "trigger": "cron",
+  "markets": 500,
+  "two_sided": 80,
+  "one_sided_no_ask": 420,
+  "brackets": 0,
+  "near_misses": 0,
+  "min_observed_sum": 1.97,
+  "avg_two_sided_sum": 1.9903,
+  "scan_time_s": 51.4,
+  "note": "one-sided books dominate (420/500); ask-only bracket check complete (NO is separate token book)"
+}
