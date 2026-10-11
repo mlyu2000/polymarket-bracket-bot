@@ -1,0 +1,32 @@
+import json
+
+entry = {
+    'ts_utc': '2026-10-11T0356Z',
+    'markets': 500,
+    'scan_time_s': 50.8,
+    'brackets_verbatim': 0,
+    'near_misses_verbatim_asks0': 0,
+    'priced_minask': 93,
+    'best_ask_floor': 1.004,
+    'near_1.000_1.005': [
+        [1.004, 'Spread: Cagliari Calcio (-2.5)', 0.01, 0.994, 11989.43272],
+        [1.005, 'Calcio Padova vs. Carrarese Calcio: O/U 7.5', 0.01, 0.995, 3295.05269],
+        [1.005, 'Grêmio FBPA vs. SC Internacional: O/U 7.5', 0.009, 0.996, 3000.33893],
+        [1.005, 'Modena FC 2018 vs. Hellas Verona FC: O/U 7.5', 0.009, 0.996, 2132.28981],
+    ],
+    'detector_opps': 0,
+    'paper_trades': 0,
+    'note': ("verbatim asks[0] near-miss block reports 0 (known DESC-sort artifact); min-ask floor authoritative. "
+             "FLOOR TIGHTENED 1.005->1.004 (Cagliari Calcio -2.5 spread at 1.0040 Yes@0.010 No@0.994 liq 11989.4 "
+             "displaces previous sole band member CA River Plate O/U 7.5 which dropped out); band n=1->4 "
+             "(Calcio Padova, Grêmio, Modena all join at 1.0050). priced 45->93 (+48, high side of normal 45-97 "
+             "variance). Next tier 1.006 (6 mkts: Al Fayha, Platense, Arouca, Midtjylland, LNZ, Gaziantep). "
+             "detector-opps 0, paper 0 executions; no sum < 1.00 anywhere = zero positive gross edge, no "
+             "actionable arb; floor 1.004, best gross edge -0.004, still 0.024 above the 0.98 actionable "
+             "threshold."),
+}
+with open('results/cron_scan_history.jsonl', 'a') as f:
+    f.write(json.dumps(entry) + '\n')
+with open('results/scan_latest.json', 'w') as f:
+    json.dump(entry, f, indent=1)
+print('appended:', json.dumps(entry)[:140], '...')
