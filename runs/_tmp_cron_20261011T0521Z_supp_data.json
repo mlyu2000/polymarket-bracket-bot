@@ -1,0 +1,95 @@
+{
+  "ts": "20261011T0521Z",
+  "markets": 500,
+  "scan_time_s": 59.0,
+  "brackets": 0,
+  "paper_executions": 0,
+  "near_misses_le_1.005": 0,
+  "near_miss_note": "asks[0] near-miss block is a known DESC artifact (asks[0]=worst ~0.999) -> always 0; detector uses min() correctly",
+  "book_shape": {
+    "two_sided": 93,
+    "one_sided_yes_only": 395,
+    "one_sided_no_only": 0,
+    "both_empty": 12
+  },
+  "true_floor": {
+    "min": 1.004,
+    "median": 1.036,
+    "actionable_below_0.98": 0,
+    "band_le_1.005": 10,
+    "top": [
+      {
+        "floor": 1.004,
+        "yes": 0.005,
+        "no": 0.999,
+        "liq": 2891.89295,
+        "q": "CA Talleres vs. CA Independiente: O/U 8.5"
+      },
+      {
+        "floor": 1.004,
+        "yes": 0.01,
+        "no": 0.994,
+        "liq": 12394.73887,
+        "q": "Spread: Cagliari Calcio (-2.5)"
+      },
+      {
+        "floor": 1.005,
+        "yes": 0.01,
+        "no": 0.995,
+        "liq": 5873.56832,
+        "q": "Gaziantep FK vs. \u00c7orum FK: O/U 7.5"
+      },
+      {
+        "floor": 1.005,
+        "yes": 0.011,
+        "no": 0.994,
+        "liq": 5317.19402,
+        "q": "Silkeborg IF vs. AC Horsens: O/U 7.5"
+      },
+      {
+        "floor": 1.005,
+        "yes": 0.009,
+        "no": 0.996,
+        "liq": 3830.25246,
+        "q": "Modena FC 2018 vs. Hellas Verona FC: O/U 7.5"
+      },
+      {
+        "floor": 1.005,
+        "yes": 0.01,
+        "no": 0.995,
+        "liq": 4390.00224,
+        "q": "Calcio Padova vs. Carrarese Calcio: O/U 7.5"
+      },
+      {
+        "floor": 1.005,
+        "yes": 0.011,
+        "no": 0.994,
+        "liq": 5363.1787,
+        "q": "CR Flamengo vs. Fluminense FC: O/U 7.5"
+      },
+      {
+        "floor": 1.005,
+        "yes": 0.01,
+        "no": 0.995,
+        "liq": 5828.63313,
+        "q": "FC Arouca vs. CF Estrela da Amadora: O/U 7.5"
+      },
+      {
+        "floor": 1.005,
+        "yes": 0.009,
+        "no": 0.996,
+        "liq": 3835.13253,
+        "q": "CA Platense vs. AA Argentinos Juniors: O/U 6.5"
+      },
+      {
+        "floor": 1.005,
+        "yes": 0.008,
+        "no": 0.997,
+        "liq": 4576.67775,
+        "q": "Gr\u00eamio FBPA vs. SC Internacional: O/U 7.5"
+      }
+    ]
+  },
+  "delta_vs_20261011T1030Z": "floor TIGHTENED 1.005->1.0040 (CA Talleres vs CA Independiente O/U 8.5 Yes@0.005 No@0.999 liq 2935.62; Cagliari -2.5 spread also 1.0040); band<=1.005 n=8->10; two-sided 67->93",
+  "delta_vs_20261011T0450Z": "floor HELD 1.0040, band<=1.005 HELD n=10 (CA Talleres O/U 8.5 Yes@0.005 No@0.999; Cagliari -2.5 spread 1.0040); two-sided 94->93 (one mkt flipped to yes-only); median 1.0390->1.0360; 0 brackets, 0 actionable, 0 paper executions; no action"
+}
