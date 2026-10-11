@@ -1,0 +1,20 @@
+priced markets: 94/500
+TRUE FLOOR (min-ask sum): 1.0040 | CA Talleres vs. CA Independiente: O/U 8.5 | Yes@0.005 No@0.999 | liq=2935.62179
+true brackets (sum<1.00): 0
+band <=1.005: 10
+  1.0040 | CA Talleres vs. CA Independiente: O/U 8.5 | Yes@0.005 No@0.999 | liq=2935.62179
+  1.0040 | Spread: Cagliari Calcio (-2.5) | Yes@0.010 No@0.994 | liq=12150.98829
+  1.0050 | CA Platense vs. AA Argentinos Juniors: O/U 6.5 | Yes@0.009 No@0.996 | liq=3618.03319
+  1.0050 | CR Flamengo vs. Fluminense FC: O/U 7.5 | Yes@0.012 No@0.993 | liq=5147.75632
+  1.0050 | Calcio Padova vs. Carrarese Calcio: O/U 7.5 | Yes@0.010 No@0.995 | liq=4471.45879
+  1.0050 | FC Arouca vs. CF Estrela da Amadora: O/U 7.5 | Yes@0.010 No@0.995 | liq=5290.03149
+  1.0050 | Gaziantep FK vs. Çorum FK: O/U 7.5 | Yes@0.010 No@0.995 | liq=5341.753
+  1.0050 | Grêmio FBPA vs. SC Internacional: O/U 7.5 | Yes@0.008 No@0.997 | liq=4151.25476
+next tier (>1.005):
+  1.0060 | Al Fayha Saudi Club vs. Al Riyadh Saudi Club: O/U 7.5 | Yes@0.010 No@0.996 | liq=3602.08305
+  1.0060 | FC Midtjylland vs. FC København: O/U 8.5 | Yes@0.007 No@0.999 | liq=5505.63192
+  1.0060 | FK LNZ Cherkasy vs. FK Kudrivka: O/U 7.5 | Yes@0.012 No@0.994 | liq=3746.60072
+  1.0060 | Konyaspor vs. Rams Başakşehir FK: O/U 7.5 | Yes@0.012 No@0.994 | liq=5146.42184
+  1.0070 | FK Dynamo Kyiv vs. FK Karpaty Lviv: O/U 7.5 | Yes@0.013 No@0.994 | liq=2914.47083
+  1.0070 | NK Lokomotiva Zagreb vs. NK Varaždin: O/U 7.5 | Yes@0.012 No@0.995 | liq=2818.10481
+detector-opps: 0 | paper executions: 0
