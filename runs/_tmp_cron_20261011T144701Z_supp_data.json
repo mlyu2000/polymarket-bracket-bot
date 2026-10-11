@@ -1,0 +1,85 @@
+{
+ "ts_utc": "2026-10-11T14:48:26Z",
+ "markets": 500,
+ "two_sided": 86,
+ "yes_only": 376,
+ "no_only": 3,
+ "empty": 35,
+ "median": 1.041,
+ "bracketable_lt1": 0,
+ "le_1005": 5,
+ "le_1010": 16,
+ "le_1050": 59,
+ "floor": [
+  {
+   "sum": 1.003,
+   "q": "Modena FC 2018 vs. Hellas Verona FC: O/U 7.5",
+   "yes": 0.008,
+   "no": 0.995,
+   "liq": 20762.82757
+  },
+  {
+   "sum": 1.004,
+   "q": "CR Flamengo vs. Fluminense FC: O/U 7.5",
+   "yes": 0.01,
+   "no": 0.994,
+   "liq": 8135.49012
+  },
+  {
+   "sum": 1.005,
+   "q": "FC Midtjylland vs. FC K\u00f8benhavn: O/U 8.5",
+   "yes": 0.006,
+   "no": 0.999,
+   "liq": 13852.10993
+  },
+  {
+   "sum": 1.005,
+   "q": "NK Slaven Belupo vs. HNK Rijeka: O/U 7.5",
+   "yes": 0.011,
+   "no": 0.994,
+   "liq": 4622.5259
+  },
+  {
+   "sum": 1.005,
+   "q": "Spread: ES Troyes AC (-3.5)",
+   "yes": 0.015,
+   "no": 0.99,
+   "liq": 7239.43899
+  },
+  {
+   "sum": 1.006,
+   "q": "MFK Ru\u017eomberok vs. M\u0160K \u017dilina: MFK Ru\u017eomberok O/U 5.5",
+   "yes": 0.016,
+   "no": 0.99,
+   "liq": 1094.3841
+  },
+  {
+   "sum": 1.007,
+   "q": "Spread: Cagliari Calcio (-2.5)",
+   "yes": 0.009,
+   "no": 0.998,
+   "liq": 49370.56384
+  },
+  {
+   "sum": 1.008,
+   "q": "Spread: Venezia FC (-3.5)",
+   "yes": 0.01,
+   "no": 0.998,
+   "liq": 6595.97502
+  },
+  {
+   "sum": 1.009,
+   "q": "Spread: Lille OSC (-1.5)",
+   "yes": 0.02,
+   "no": 0.989,
+   "liq": 2593.11799
+  },
+  {
+   "sum": 1.009,
+   "q": "Spread: Los Angeles Galaxy (-3.5)",
+   "yes": 0.01,
+   "no": 0.999,
+   "liq": 4472.01771
+  }
+ ]
+}
