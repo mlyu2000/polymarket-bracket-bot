@@ -1,0 +1,102 @@
+{
+ "markets": 500,
+ "priced": 93,
+ "yes_only": 349,
+ "no_only": 3,
+ "both_empty": 55,
+ "floor": 1.003,
+ "floor_q": "Al Fayha Saudi Club vs. Al Riyadh Saudi Club: O/U 7.5",
+ "median_floor": 1.039,
+ "brackets": 0,
+ "band_1005": 6,
+ "band": [
+  [
+   1.003,
+   "Al Fayha Saudi Club vs. Al Riyadh Saudi Club: O/U 7.5",
+   0.007,
+   0.996,
+   23335.01177
+  ],
+  [
+   1.004,
+   "CR Flamengo vs. Fluminense FC: O/U 7.5",
+   0.01,
+   0.994,
+   8775.86322
+  ],
+  [
+   1.005,
+   "FC Midtjylland vs. FC K\u00f8benhavn: O/U 8.5",
+   0.006,
+   0.999,
+   6929.44207
+  ],
+  [
+   1.005,
+   "Modena FC 2018 vs. Hellas Verona FC: O/U 7.5",
+   0.01,
+   0.995,
+   5385.39036
+  ],
+  [
+   1.005,
+   "NK Slaven Belupo vs. HNK Rijeka: O/U 7.5",
+   0.011,
+   0.994,
+   4229.7873
+  ],
+  [
+   1.005,
+   "Spread: ES Troyes AC (-3.5)",
+   0.015,
+   0.99,
+   6102.73041
+  ]
+ ],
+ "next_tier": [
+  [
+   1.006,
+   "Spread: Cagliari Calcio (-2.5)",
+   0.008,
+   0.998,
+   20578.20044
+  ],
+  [
+   1.008,
+   "Calcio Padova vs. Carrarese Calcio: O/U 7.5",
+   0.009,
+   0.999,
+   9352.24303
+  ],
+  [
+   1.009,
+   "Spread: Los Angeles Galaxy (-3.5)",
+   0.01,
+   0.999,
+   3949.87811
+  ],
+  [
+   1.009,
+   "Spread: Venezia FC (-3.5)",
+   0.01,
+   0.999,
+   5722.57277
+  ],
+  [
+   1.01,
+   "Bursaspor vs. Mardin 1969 Spor: O/U 3.5",
+   0.29,
+   0.72,
+   17223.6978
+  ],
+  [
+   1.01,
+   "CR Flamengo vs. Fluminense FC: O/U 5.5",
+   0.07,
+   0.94,
+   8677.811
+  ]
+ ],
+ "detector_opps": 0,
+ "executions": 0
+}
