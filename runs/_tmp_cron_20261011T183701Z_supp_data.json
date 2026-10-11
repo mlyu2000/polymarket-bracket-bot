@@ -1,0 +1,35 @@
+{
+  "ts": "20261011T183701Z",
+  "markets": 500,
+  "priced": 70,
+  "scan_time": 54.7,
+  "one_sided": {
+    "yes_only": 403,
+    "no_only": 4,
+    "empty": 23,
+    "both": 70
+  },
+  "floor": 1.003,
+  "floor_q": "Will the price of Ethereum be between $3,000 and $3,100 on October 12?",
+  "floor_yes": 0.004,
+  "floor_no": 0.999,
+  "floor_liq": 4213.74879,
+  "band": [
+    [
+      1.003,
+      "Will the price of Ethereum be between $3,000 and $3,100 on October 12?",
+      0.004,
+      0.999,
+      4213.74879
+    ],
+    [
+      1.005,
+      "Real Valladolid CF vs. Albacete Balompi\u00e9: O/U 7.5",
+      0.01,
+      0.995,
+      3269.65741
+    ]
+  ],
+  "brackets": [],
+  "detector_opps": 0
+}
