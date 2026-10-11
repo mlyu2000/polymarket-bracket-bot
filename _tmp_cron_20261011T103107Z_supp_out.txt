@@ -1,0 +1,20 @@
+priced markets: 106/500
+TRUE FLOOR (min-ask sum): 1.0040 | Al Fayha Saudi Club vs. Al Riyadh Saudi Club: O/U 7.5 | Yes@0.009 No@0.995 | liq=12315.72019
+true brackets (sum<1.00): 0
+band <=1.005: 7
+  1.0040 | Al Fayha Saudi Club vs. Al Riyadh Saudi Club: O/U 7.5 | Yes@0.009 No@0.995 | liq=12315.72019
+  1.0040 | CA Talleres vs. CA Independiente: O/U 8.5 | Yes@0.005 No@0.999 | liq=3093.84874
+  1.0040 | Will the highest temperature in Seattle be between 66-67°F o | Yes@0.007 No@0.997 | liq=2003.74606
+  1.0050 | Calcio Padova vs. Carrarese Calcio: O/U 7.5 | Yes@0.010 No@0.995 | liq=5881.36179
+  1.0050 | Gaziantep FK vs. Çorum FK: O/U 7.5 | Yes@0.012 No@0.993 | liq=6292.09228
+  1.0050 | Modena FC 2018 vs. Hellas Verona FC: O/U 7.5 | Yes@0.009 No@0.996 | liq=4278.4119
+  1.0050 | Silkeborg IF vs. AC Horsens: O/U 7.5 | Yes@0.011 No@0.994 | liq=6925.05214
+next tier (>1.005):
+  1.0060 | CR Flamengo vs. Fluminense FC: O/U 7.5 | Yes@0.012 No@0.994 | liq=6664.24747
+  1.0060 | NK Lokomotiva Zagreb vs. NK Varaždin: O/U 7.5 | Yes@0.011 No@0.995 | liq=4241.0437
+  1.0060 | NK Slaven Belupo vs. HNK Rijeka: O/U 7.5 | Yes@0.012 No@0.994 | liq=3070.5824
+  1.0060 | Spread: Cagliari Calcio (-2.5) | Yes@0.008 No@0.998 | liq=13825.91644
+  1.0090 | FC Midtjylland vs. FC København: O/U 8.5 | Yes@0.010 No@0.999 | liq=6712.50484
+  1.0090 | Spread: Los Angeles Galaxy (-3.5) | Yes@0.010 No@0.999 | liq=3172.82594
+structural: two_sided 106, yes_only 376, no_only 0, both_empty 18
+detector-opps: 0 | paper executions: 0
