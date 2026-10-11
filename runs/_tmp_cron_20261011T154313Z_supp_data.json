@@ -1,0 +1,85 @@
+{
+ "ts_utc": "2026-10-11T15:44:07Z",
+ "markets": 500,
+ "two_sided": 80,
+ "yes_only": 368,
+ "no_only": 4,
+ "empty": 48,
+ "median": 1.0335,
+ "bracketable_lt1": 0,
+ "le_1005": 5,
+ "le_1010": 15,
+ "le_1050": 62,
+ "floor": [
+  {
+   "sum": 1.002,
+   "q": "SC Freiburg vs. FC Schalke 04: FC Schalke 04 O/U 4.5",
+   "yes": 0.005,
+   "no": 0.997,
+   "liq": 4191.46
+  },
+  {
+   "sum": 1.002,
+   "q": "Will the Democratic Party candidate win the 2026 New Jersey Senate election by 9%-12%?",
+   "yes": 0.014,
+   "no": 0.988,
+   "liq": 11373.19532
+  },
+  {
+   "sum": 1.003,
+   "q": "Modena FC 2018 vs. Hellas Verona FC: O/U 7.5",
+   "yes": 0.008,
+   "no": 0.995,
+   "liq": 8385.91236
+  },
+  {
+   "sum": 1.004,
+   "q": "CR Flamengo vs. Fluminense FC: O/U 7.5",
+   "yes": 0.01,
+   "no": 0.994,
+   "liq": 8031.15516
+  },
+  {
+   "sum": 1.005,
+   "q": "FC Midtjylland vs. FC K\u00f8benhavn: O/U 8.5",
+   "yes": 0.006,
+   "no": 0.999,
+   "liq": 6473.54674
+  },
+  {
+   "sum": 1.006,
+   "q": "NK Slaven Belupo vs. HNK Rijeka: O/U 7.5",
+   "yes": 0.011,
+   "no": 0.995,
+   "liq": 4601.75904
+  },
+  {
+   "sum": 1.008,
+   "q": "Spread: Venezia FC (-3.5)",
+   "yes": 0.01,
+   "no": 0.998,
+   "liq": 6231.17802
+  },
+  {
+   "sum": 1.009,
+   "q": "Spread: Lille OSC (-1.5)",
+   "yes": 0.02,
+   "no": 0.989,
+   "liq": 2605.49799
+  },
+  {
+   "sum": 1.009,
+   "q": "Spread: Los Angeles Galaxy (-3.5)",
+   "yes": 0.01,
+   "no": 0.999,
+   "liq": 4463.41811
+  },
+  {
+   "sum": 1.01,
+   "q": "CR Flamengo vs. Fluminense FC: O/U 5.5",
+   "yes": 0.07,
+   "no": 0.94,
+   "liq": 8968.4474
+  }
+ ]
+}
