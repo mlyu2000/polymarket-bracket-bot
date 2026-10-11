@@ -1,0 +1,28 @@
+{
+  "markets": 500,
+  "priced": 111,
+  "floor": 1.001,
+  "floor_q": "Will the highest temperature in Paris be 16\u00b0C on October 12?",
+  "brackets": 0,
+  "band": [
+    [1.001, "Will the highest temperature in Paris be 16\u00b0C on October 12?", 0.003, 0.998, 3681.21],
+    [1.004, "Al Fayha Saudi Club vs. Al Riyadh Saudi Club: O/U 7.5", 0.009, 0.995, 12314.13],
+    [1.004, "CA Talleres vs. CA Independiente: O/U 8.5", 0.005, 0.999, 3096.72],
+    [1.004, "FK LNZ Cherkasy vs. FK Kudrivka: O/U 7.5", 0.007, 0.997, 4692.98],
+    [1.004, "Konyaspor vs. Rams Ba\u015fak\u015fehir FK: O/U 7.5", 0.011, 0.993, 5286.06],
+    [1.004, "Will the highest temperature in Seattle be between 66-67\u00b0F o", 0.007, 0.997, 1833.67],
+    [1.005, "Calcio Padova vs. Carrarese Calcio: O/U 7.5", 0.01, 0.995, 5178.2],
+    [1.005, "Gaziantep FK vs. \u00c7orum FK: O/U 7.5", 0.012, 0.993, 5584.75],
+    [1.005, "Modena FC 2018 vs. Hellas Verona FC: O/U 7.5", 0.009, 0.996, 3634.35],
+    [1.005, "Silkeborg IF vs. AC Horsens: O/U 7.5", 0.011, 0.994, 5334.4],
+    [1.005, "Spread: ES Troyes AC (-3.5)", 0.015, 0.99, 6057.26]
+  ],
+  "detector_opps": 0,
+  "executions": 0,
+  "two_sided": 111,
+  "yes_only": 374,
+  "no_only": 0,
+  "both_empty": 15,
+  "floor_median": 1.038,
+  "actionable_lt_98": 0
+}
