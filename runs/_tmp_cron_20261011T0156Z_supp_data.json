@@ -1,0 +1,85 @@
+{
+  "ts": "?",
+  "markets": 500,
+  "scan_time": 77.8,
+  "two_sided": 91,
+  "one_sided_yes": 382,
+  "one_sided_no": 1,
+  "both_empty": 26,
+  "floors_top10": [
+    [
+      1.003,
+      "JEF United Ichihara Chiba vs. V-Varen Nagasaki: O/U 8.5",
+      0.004,
+      0.999,
+      6117.278
+    ],
+    [
+      1.004,
+      "JEF United Ichihara Chiba vs. V-Varen Nagasaki: O/U 7.5",
+      0.009,
+      0.995,
+      6868.5893
+    ],
+    [
+      1.005,
+      "Calcio Padova vs. Carrarese Calcio: O/U 7.5",
+      0.01,
+      0.995,
+      3077.5161
+    ],
+    [
+      1.005,
+      "FC Arouca vs. CF Estrela da Amadora: O/U 7.5",
+      0.01,
+      0.995,
+      3232.4216
+    ],
+    [
+      1.005,
+      "Gr\u00eamio FBPA vs. SC Internacional: O/U 7.5",
+      0.009,
+      0.996,
+      2999.8664
+    ],
+    [
+      1.005,
+      "Modena FC 2018 vs. Hellas Verona FC: O/U 7.5",
+      0.009,
+      0.996,
+      2244.8437
+    ],
+    [
+      1.006,
+      "Al Fayha Saudi Club vs. Al Riyadh Saudi Club: O/U 7.5",
+      0.01,
+      0.996,
+      2273.7346
+    ],
+    [
+      1.006,
+      "CA Platense vs. AA Argentinos Juniors: O/U 6.5",
+      0.01,
+      0.996,
+      2431.679
+    ],
+    [
+      1.006,
+      "CR Flamengo vs. Fluminense FC: O/U 7.5",
+      0.013,
+      0.993,
+      3360.7148
+    ],
+    [
+      1.006,
+      "FC Midtjylland vs. FC K\u00f8benhavn: O/U 8.5",
+      0.007,
+      0.999,
+      3508.2171
+    ]
+  ],
+  "floor_min": 1.003,
+  "floor_median": 1.039,
+  "actionable_098": 0,
+  "detector_opps": 0
+}
