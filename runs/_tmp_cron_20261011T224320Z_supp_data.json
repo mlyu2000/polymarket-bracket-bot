@@ -1,0 +1,118 @@
+{
+ "structural": {
+  "both": 60,
+  "yes_only": 424,
+  "no_only": 2,
+  "empty": 14
+ },
+ "n_le_1010": 15,
+ "n_le_1005": 4,
+ "n_lt_1": 0,
+ "top": [
+  {
+   "total": 1.003,
+   "q": "Will the price of Bitcoin be above $90,000 on October 14?",
+   "yes": 0.015,
+   "no": 0.988,
+   "liq": 40450.41796
+  },
+  {
+   "total": 1.003,
+   "q": "Will the price of Ethereum be between $3,000 and $3,100 on O",
+   "yes": 0.004,
+   "no": 0.999,
+   "liq": 3861.92532
+  },
+  {
+   "total": 1.005,
+   "q": "Real Valladolid CF vs. Albacete Balompi\u00e9: O/U 7.5",
+   "yes": 0.01,
+   "no": 0.995,
+   "liq": 3440.21522
+  },
+  {
+   "total": 1.005,
+   "q": "Spread: Viking FK (-1.5)",
+   "yes": 0.015,
+   "no": 0.99,
+   "liq": 16083.27244
+  },
+  {
+   "total": 1.007,
+   "q": "Spread: Galatasaray SK (-2.5)",
+   "yes": 0.014,
+   "no": 0.993,
+   "liq": 6152.55488
+  },
+  {
+   "total": 1.008,
+   "q": "Spread: Venezia FC (-3.5)",
+   "yes": 0.01,
+   "no": 0.998,
+   "liq": 6391.89542
+  },
+  {
+   "total": 1.009,
+   "q": "Spread: Los Angeles Galaxy (-3.5)",
+   "yes": 0.01,
+   "no": 0.999,
+   "liq": 5012.94657
+  },
+  {
+   "total": 1.01,
+   "q": "Aarhus GF vs. S\u00f8nderjyske Fodbold: O/U 4.5",
+   "yes": 0.24,
+   "no": 0.77,
+   "liq": 8818.6938
+  },
+  {
+   "total": 1.01,
+   "q": "Exact Score: Red Bull Bragantino 1 - 2 Cruzeiro EC?",
+   "yes": 0.08,
+   "no": 0.93,
+   "liq": 7367.3714
+  },
+  {
+   "total": 1.01,
+   "q": "Spread: Real Madrid CF (-2.5)",
+   "yes": 0.36,
+   "no": 0.65,
+   "liq": 13125.9029
+  },
+  {
+   "total": 1.01,
+   "q": "Tractor Tabriz vs. Al-Shamal: 1st Half O/U 0.5",
+   "yes": 0.68,
+   "no": 0.33,
+   "liq": 5306.7916
+  },
+  {
+   "total": 1.01,
+   "q": "Will Kuopion PS vs. Trabzonspor end in a draw?",
+   "yes": 0.21,
+   "no": 0.8,
+   "liq": 9587.4507
+  },
+  {
+   "total": 1.01,
+   "q": "Will Sheffield United FC win on 2026-10-14?",
+   "yes": 0.31,
+   "no": 0.7,
+   "liq": 12825.5708
+  },
+  {
+   "total": 1.01,
+   "q": "Will Washington Capitals be the 2027 NHL Eastern Conference ",
+   "yes": 0.1,
+   "no": 0.91,
+   "liq": 49434.0005
+  },
+  {
+   "total": 1.01,
+   "q": "Wolverhampton Wanderers FC vs. Bolton Wanderers FC: O/U 3.5",
+   "yes": 0.37,
+   "no": 0.64,
+   "liq": 11660.8274
+  }
+ ]
+}
