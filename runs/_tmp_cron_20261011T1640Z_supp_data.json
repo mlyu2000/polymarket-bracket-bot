@@ -1,0 +1,21 @@
+{
+  "run": "2026-10-11T1640Z",
+  "markets": 500,
+  "scan_time_s": 61.3,
+  "brackets": [],
+  "bracket_count": 0,
+  "near_miss_band_le_1005": [
+    {
+      "sum": 1.005,
+      "question": "Exact Score: IK Start 4 - 3 Hamarkameratene?",
+      "yes_ask": 0.010,
+      "no_ask": 0.995,
+      "liquidity": null
+    }
+  ],
+  "floor": 1.005,
+  "floor_prev_run": 1.0030,
+  "band_count": 1,
+  "band_count_prev_run": 3,
+  "notes": "Floor churned 1.0030 -> 1.005 (Modena O/U 7.5 exited band); IK Start 4-3 Hamarkameratene now sole band member at 1.005. No brackets; floor remains well above the 1.00 actionable threshold. Near-miss computed from top-of-book asks only (complete check: NO cannot be acquired via YES bids)."
+}
