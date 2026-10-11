@@ -1,0 +1,157 @@
+{
+ "ts_utc": "2026-10-11_2226Z",
+ "markets": 500,
+ "opps": [],
+ "tiers": {
+  "<=1.010": 14,
+  "<=1.020": 21,
+  "<=1.030": 25
+ },
+ "two_sided": 60,
+ "yes_only": 423,
+ "no_only": 2,
+ "empty": 15,
+ "scan_time": 53.8794,
+ "floor_top20": [
+  [
+   1.003,
+   "Will the price of Bitcoin be above $90,000 on October 14?",
+   0.015,
+   0.988,
+   40407.6
+  ],
+  [
+   1.005,
+   "Real Valladolid CF vs. Albacete Balompi\u00e9: O/U 7.5",
+   0.01,
+   0.995,
+   3440.2
+  ],
+  [
+   1.005,
+   "Spread: Viking FK (-1.5)",
+   0.015,
+   0.99,
+   16072.4
+  ],
+  [
+   1.005,
+   "Will the price of Ethereum be between $3,000 and $3,100 on O",
+   0.006,
+   0.999,
+   4331.2
+  ],
+  [
+   1.008,
+   "Spread: Galatasaray SK (-2.5)",
+   0.015,
+   0.993,
+   6134.6
+  ],
+  [
+   1.008,
+   "Spread: Venezia FC (-3.5)",
+   0.01,
+   0.998,
+   6395.2
+  ],
+  [
+   1.009,
+   "Spread: Los Angeles Galaxy (-3.5)",
+   0.01,
+   0.999,
+   4999.6
+  ],
+  [
+   1.01,
+   "Aarhus GF vs. S\u00f8nderjyske Fodbold: O/U 4.5",
+   0.24,
+   0.77,
+   9149.4
+  ],
+  [
+   1.01,
+   "Exact Score: Red Bull Bragantino 1 - 2 Cruzeiro EC?",
+   0.08,
+   0.93,
+   7330.4
+  ],
+  [
+   1.01,
+   "Spread: Real Madrid CF (-2.5)",
+   0.36,
+   0.65,
+   13109.9
+  ],
+  [
+   1.01,
+   "Tractor Tabriz vs. Al-Shamal: 1st Half O/U 0.5",
+   0.68,
+   0.33,
+   4011.8
+  ],
+  [
+   1.01,
+   "Will Kuopion PS vs. Trabzonspor end in a draw?",
+   0.21,
+   0.8,
+   10756.6
+  ],
+  [
+   1.01,
+   "Will Washington Capitals be the 2027 NHL Eastern Conference ",
+   0.1,
+   0.91,
+   49701.5
+  ],
+  [
+   1.01,
+   "Wolverhampton Wanderers FC vs. Bolton Wanderers FC: O/U 3.5",
+   0.37,
+   0.64,
+   12719.3
+  ],
+  [
+   1.012,
+   "Spread: LASK Linz (-1.5)",
+   0.03,
+   0.982,
+   5130.9
+  ],
+  [
+   1.013,
+   "Spread: Manchester United FC (-3.5)",
+   0.014,
+   0.999,
+   3756.6
+  ],
+  [
+   1.016,
+   "Spread: \u0160K Slovan Bratislava (-2.5)",
+   0.017,
+   0.999,
+   5578.9
+  ],
+  [
+   1.016,
+   "Will Dplus KIA Qualify for Worlds 2026?",
+   0.998,
+   0.018,
+   125.4
+  ],
+  [
+   1.02,
+   "Millwall FC vs. Swansea City AFC: 1st Half O/U 0.5",
+   0.72,
+   0.3,
+   6465.5
+  ],
+  [
+   1.02,
+   "Spread: Burnley FC (-1.5)",
+   0.35,
+   0.67,
+   15307.3
+  ]
+ ]
+}
