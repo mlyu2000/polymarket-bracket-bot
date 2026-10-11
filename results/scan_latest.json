@@ -1,77 +1,94 @@
 {
- "ts_utc": "2026-10-11T0413Z",
+ "ts_utc": "2026-10-11T1210Z",
  "markets": 500,
- "scan_time_s": 59.7,
+ "scan_time_s": 54.5,
  "brackets_verbatim": 0,
  "near_misses_verbatim_asks0": 0,
- "priced_minask": 97,
- "best_ask_floor": 1.004,
+ "priced_minask": 88,
+ "best_ask_floor": 1.001,
+ "floor_median": 1.039,
+ "actionable_below_0.98": 0,
+ "best_gross_edge": -0.001,
+ "gap_to_actionable_threshold": 0.021,
+ "book_shape": {
+  "two_sided": 88,
+  "one_sided_yes_only": 401,
+  "one_sided_no_only": 1,
+  "both_empty": 10
+ },
  "near_1.000_1.005": [
+  [
+   1.001,
+   "Will the highest temperature in Paris be 16\u00b0C on October 12?",
+   0.004,
+   0.997,
+   4450.06779
+  ],
+  [
+   1.003,
+   "Spread: Cagliari Calcio (-2.5)",
+   0.009,
+   0.994,
+   13395.68785
+  ],
   [
    1.004,
    "CA Talleres vs. CA Independiente: O/U 8.5",
    0.005,
    0.999,
-   1837.11714
+   3083.12313
   ],
   [
    1.004,
-   "Spread: Cagliari Calcio (-2.5)",
+   "Gaziantep FK vs. \u00c7orum FK: O/U 7.5",
    0.01,
    0.994,
-   12179.34652
+   6082.84146
   ],
   [
    1.005,
-   "CA Platense vs. AA Argentinos Juniors: O/U 6.5",
+   "Al Fayha Saudi Club vs. Al Riyadh Saudi Club: O/U 7.5",
    0.009,
    0.996,
-   3558.20191
+   3971.6552
   ],
   [
    1.005,
    "CR Flamengo vs. Fluminense FC: O/U 7.5",
-   0.012,
-   0.993,
-   4958.63068
+   0.01,
+   0.995,
+   6677.29498
   ],
   [
    1.005,
    "Calcio Padova vs. Carrarese Calcio: O/U 7.5",
    0.01,
    0.995,
-   4276.0006
+   4177.52224
   ],
   [
    1.005,
-   "Gaziantep FK vs. \u00c7orum FK: O/U 7.5",
-   0.01,
-   0.995,
-   5329.07991
-  ],
-  [
-   1.005,
-   "Gr\u00eamio FBPA vs. SC Internacional: O/U 7.5",
-   0.009,
-   0.996,
-   4158.21623
+   "Konyaspor vs. Rams Ba\u015fak\u015fehir FK: O/U 7.5",
+   0.011,
+   0.994,
+   5553.96435
   ],
   [
    1.005,
    "Modena FC 2018 vs. Hellas Verona FC: O/U 7.5",
    0.009,
    0.996,
-   3249.0765
+   3623.95926
   ],
   [
    1.005,
    "Silkeborg IF vs. AC Horsens: O/U 7.5",
    0.011,
    0.994,
-   5341.78155
+   5302.66552
   ]
  ],
  "detector_opps": 0,
  "paper_trades": 0,
- "note": "verbatim asks[0] near-miss block reports 0 (known DESC-sort artifact); min-ask floor authoritative. FLOOR HELD 1.004->1.004 (unchanged vs 0356Z); band WIDENED n=4->9 (CA Talleres O/U 8.5 joins at 1.0040 Yes@0.005 No@0.999 liq 1837.1; Platense, Flamengo, Padova, Gaziantep, Gr\u00eamio, Modena, Silkeborg join at 1.0050). priced 93->97. 383 one-sided / 20 no-asks = 80.6% of book not bracket-able via resting asks (structural, unchanged). detector-opps 0, paper 0 executions; no sum < 1.00 anywhere = zero positive gross edge; best gross edge -0.004, still 0.024 above the 0.98 actionable threshold. No action required."
+ "note": "verbatim asks[0] near-miss block reports 0 (known DESC-sort artifact); min-ask floor authoritative. FLOOR HELD 1.0010->1.0010 (Paris highest temp 16C Yes@0.004 No@0.997, liq 4720.44->4450.07 drift only); Cagliari -2.5 spread IMPROVED 1.0040->1.0030; band<=1.005 HELD n=10 with identical composition. 88 two-sided / 412 one-sided-or-empty = 82.4% of book not bracket-able via resting asks (structural, held). detector-opps 0, paper 0 executions; no sum < 1.00 anywhere = zero positive gross edge; best gross edge -0.001, still 0.021 above the 0.98 actionable threshold. No action required."
 }

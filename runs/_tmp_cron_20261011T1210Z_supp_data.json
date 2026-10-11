@@ -1,0 +1,35 @@
+{
+  "ts": "20261011T1210Z",
+  "markets": 500,
+  "scan_time_s": 54.5,
+  "brackets": 0,
+  "paper_executions": 0,
+  "near_misses_le_1.005": 0,
+  "near_miss_note": "cron-script near-miss block uses asks[0] (DESC artifact, known broken); true floor computed via min-ask supplement",
+  "book_shape": {
+    "two_sided": 88,
+    "one_sided_yes_only": 401,
+    "one_sided_no_only": 1,
+    "both_empty": 10
+  },
+  "true_floor": {
+    "min": 1.0010,
+    "median": 1.0390,
+    "actionable_below_0.98": 0,
+    "best_gross_edge": -0.001,
+    "gap_to_actionable_threshold": 0.021,
+    "top": [
+      {"floor": 1.0010, "yes": 0.004, "no": 0.997, "liq": 4450.07, "q": "Will the highest temperature in Paris be 16°C on October 12?"},
+      {"floor": 1.0030, "yes": 0.009, "no": 0.994, "liq": 13395.69, "q": "Spread: Cagliari Calcio (-2.5)"},
+      {"floor": 1.0040, "yes": 0.005, "no": 0.999, "liq": 3083.12, "q": "CA Talleres vs. CA Independiente: O/U 8.5"},
+      {"floor": 1.0040, "yes": 0.010, "no": 0.994, "liq": 6082.84, "q": "Gaziantep FK vs. Çorum FK: O/U 7.5"},
+      {"floor": 1.0050, "yes": 0.009, "no": 0.996, "liq": 3971.66, "q": "Al Fayha Saudi Club vs. Al Riyadh Saudi Club: O/U 7.5"},
+      {"floor": 1.0050, "yes": 0.010, "no": 0.995, "liq": 6677.29, "q": "CR Flamengo vs. Fluminense FC: O/U 7.5"},
+      {"floor": 1.0050, "yes": 0.010, "no": 0.995, "liq": 4177.52, "q": "Calcio Padova vs. Carrarese Calcio: O/U 7.5"},
+      {"floor": 1.0050, "yes": 0.011, "no": 0.994, "liq": 5553.96, "q": "Konyaspor vs. Rams Başakşehir FK: O/U 7.5"},
+      {"floor": 1.0050, "yes": 0.009, "no": 0.996, "liq": 3623.96, "q": "Modena FC 2018 vs. Hellas Verona FC: O/U 7.5"},
+      {"floor": 1.0050, "yes": 0.011, "no": 0.994, "liq": 5302.67, "q": "Silkeborg IF vs. AC Horsens: O/U 7.5"}
+    ]
+  },
+  "delta_vs_20261011T0656Z": "floor HELD 1.0010 (Paris highest temp 16C Yes@0.004 No@0.997 liq 4720.44->4450.07, minor liquidity drift only); Cagliari -2.5 spread IMPROVED 1.0040->1.0030 liq 13399.68->13395.69; CA Talleres O/U 8.5 holds 1.0040 liq 3294.45->3083.12; Gaziantep O/U 7.5 holds 1.0040 liq 6082.84; band<=1.005 HELD n=10 with IDENTICAL composition (Al Fayha/Flamengo/Padova/Konyaspor/Modena/Silkeborg all at 1.0050); two_sided 88->88 HELD, one_sided yes-only 397->401, no-only 0->1, both_empty 15->10 = 82.4% not bracket-able (held); median HELD 1.0390; verbatim scan 56.9s->54.5s: 0 BRACKETS, 0 asks0 near-misses (known DESC artifact); supp min-ask: 88/500 priced, floor 1.0010, actionable(<0.98) 0, best gross edge -0.001, 0.021 above 0.98 actionable threshold; detector-opps 0, paper 0 executions; no action"
+}
