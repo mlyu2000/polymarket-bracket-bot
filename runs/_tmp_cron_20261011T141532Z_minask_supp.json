@@ -1,0 +1,127 @@
+{
+ "ts": "2026-10-11T14:15:32Z",
+ "markets": 500,
+ "books": {
+  "two_sided": 84,
+  "yes_only": 355,
+  "no_only": 3,
+  "none": 58
+ },
+ "floor": 1.003,
+ "floor_q": "Modena FC 2018 vs. Hellas Verona FC: O/U 7.5",
+ "median_floor": 1.039,
+ "brackets": [],
+ "band_1005": 6,
+ "cheapest_12": [
+  {
+   "total": 1.003,
+   "yes": 0.008,
+   "no": 0.995,
+   "worst_yes": 0.999,
+   "worst_no": 0.999,
+   "liq": 20788.92657,
+   "q": "Modena FC 2018 vs. Hellas Verona FC: O/U 7.5"
+  },
+  {
+   "total": 1.004,
+   "yes": 0.01,
+   "no": 0.994,
+   "worst_yes": 0.999,
+   "worst_no": 0.999,
+   "liq": 8490.88072,
+   "q": "CR Flamengo vs. Fluminense FC: O/U 7.5"
+  },
+  {
+   "total": 1.005,
+   "yes": 0.011,
+   "no": 0.994,
+   "worst_yes": 0.999,
+   "worst_no": 0.999,
+   "liq": 4568.86285,
+   "q": "NK Slaven Belupo vs. HNK Rijeka: O/U 7.5"
+  },
+  {
+   "total": 1.005,
+   "yes": 0.006,
+   "no": 0.999,
+   "worst_yes": 0.999,
+   "worst_no": 0.999,
+   "liq": 4914.50426,
+   "q": "FC Midtjylland vs. FC K\u00f8benhavn: O/U 8.5"
+  },
+  {
+   "total": 1.005,
+   "yes": 0.01,
+   "no": 0.995,
+   "worst_yes": 0.999,
+   "worst_no": 0.999,
+   "liq": 9353.52929,
+   "q": "Calcio Padova vs. Carrarese Calcio: O/U 7.5"
+  },
+  {
+   "total": 1.005,
+   "yes": 0.015,
+   "no": 0.99,
+   "worst_yes": 0.999,
+   "worst_no": 0.999,
+   "liq": 7056.80079,
+   "q": "Spread: ES Troyes AC (-3.5)"
+  },
+  {
+   "total": 1.007,
+   "yes": 0.02,
+   "no": 0.987,
+   "worst_yes": 0.999,
+   "worst_no": 0.998,
+   "liq": 2048.36113,
+   "q": "Spread: Lille OSC (-1.5)"
+  },
+  {
+   "total": 1.007,
+   "yes": 0.009,
+   "no": 0.998,
+   "worst_yes": 0.999,
+   "worst_no": 0.999,
+   "liq": 51736.31504,
+   "q": "Spread: Cagliari Calcio (-2.5)"
+  },
+  {
+   "total": 1.008,
+   "yes": 0.033,
+   "no": 0.975,
+   "worst_yes": 0.56,
+   "worst_no": 0.975,
+   "liq": 703.22,
+   "q": "MFK Ru\u017eomberok vs. M\u0160K \u017dilina: MFK Ru\u017eomberok O/U 5.5"
+  },
+  {
+   "total": 1.008,
+   "yes": 0.01,
+   "no": 0.998,
+   "worst_yes": 0.999,
+   "worst_no": 0.999,
+   "liq": 6898.11502,
+   "q": "Spread: Venezia FC (-3.5)"
+  },
+  {
+   "total": 1.009,
+   "yes": 0.01,
+   "no": 0.999,
+   "worst_yes": 0.999,
+   "worst_no": 0.999,
+   "liq": 5141.71471,
+   "q": "Spread: Los Angeles Galaxy (-3.5)"
+  },
+  {
+   "total": 1.01,
+   "yes": 0.25,
+   "no": 0.76,
+   "worst_yes": 0.99,
+   "worst_no": 0.99,
+   "liq": 22891.0773,
+   "q": "Spread: 49ers (-4.5)"
+  }
+ ],
+ "detector_opps": 0,
+ "executions": 0
+}
