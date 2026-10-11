@@ -1,0 +1,44 @@
+{
+  "scan_markets": 500,
+  "books_both": 108,
+  "min_sum": 1.002,
+  "band_1005": 7,
+  "one_sided": 392,
+  "top5": [
+    [
+      1.002,
+      "FC Andorra vs. CD Castell\u00f3n: FC Andorra O/U 5.5",
+      0.005,
+      0.997,
+      3590.69
+    ],
+    [
+      1.004,
+      "CA Talleres vs. CA Independiente: O/U 8.5",
+      0.005,
+      0.999,
+      3790.34298
+    ],
+    [
+      1.005,
+      "Al Fayha Saudi Club vs. Al Riyadh Saudi Club: O/U 7.5",
+      0.009,
+      0.996,
+      4092.07565
+    ],
+    [
+      1.005,
+      "FC Midtjylland vs. FC K\u00f8benhavn: O/U 8.5",
+      0.006,
+      0.999,
+      7415.46571
+    ],
+    [
+      1.005,
+      "Gaziantep FK vs. \u00c7orum FK: O/U 7.5",
+      0.012,
+      0.993,
+      4555.61071
+    ]
+  ]
+}
