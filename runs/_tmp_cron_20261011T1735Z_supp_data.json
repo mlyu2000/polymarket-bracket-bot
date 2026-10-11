@@ -1,0 +1,107 @@
+{
+  "cron_run_ts": "2026-10-11T1735Z",
+  "scan": {
+    "markets": 500,
+    "brackets": 0,
+    "bracket_details": [],
+    "detector_opps": 0,
+    "executions": 0,
+    "scan_time_s": 63.4,
+    "two_sided_books": 84,
+    "yes_only": 383,
+    "no_only": 5,
+    "empty": 28,
+    "priced": 84,
+    "floor": 1.002,
+    "floor_leader": {
+      "question": "Exact Score: Lillestr\u00f8m SK 4 - 5 Molde FK?",
+      "yes_ask": 0.005,
+      "no_ask": 0.997,
+      "liquidity": 0.0
+    },
+    "near_miss_band_le_1005": [
+      {
+        "sum": 1.002,
+        "q": "Exact Score: Lillestr\u00f8m SK 4 - 5 Molde FK?",
+        "yes": 0.005,
+        "no": 0.997,
+        "liq": 0.0
+      },
+      {
+        "sum": 1.003,
+        "q": "Exact Score: Lillestr\u00f8m SK 5 - 4 Molde FK?",
+        "yes": 0.006,
+        "no": 0.997,
+        "liq": 0.0
+      },
+      {
+        "sum": 1.004,
+        "q": "Will the price of Ethereum be between $3,000 and $3,100 on O",
+        "yes": 0.005,
+        "no": 0.999,
+        "liq": 4707.86486
+      },
+      {
+        "sum": 1.005,
+        "q": "Exact Score: Lillestr\u00f8m SK 3 - 5 Molde FK?",
+        "yes": 0.012,
+        "no": 0.993,
+        "liq": 60.29
+      },
+      {
+        "sum": 1.005,
+        "q": "Exact Score: Lillestr\u00f8m SK 5 - 3 Molde FK?",
+        "yes": 0.013,
+        "no": 0.992,
+        "liq": 53.42
+      },
+      {
+        "sum": 1.005,
+        "q": "Real Valladolid CF vs. Albacete Balompi\u00e9: O/U 7.5",
+        "yes": 0.01,
+        "no": 0.995,
+        "liq": 3080.14
+      }
+    ],
+    "band_count": 6,
+    "top5_closest": [
+      {
+        "sum": 1.002,
+        "yes": 0.005,
+        "no": 0.997,
+        "q": "Exact Score: Lillestr\u00f8m SK 4 - 5 Molde FK?"
+      },
+      {
+        "sum": 1.003,
+        "yes": 0.006,
+        "no": 0.997,
+        "q": "Exact Score: Lillestr\u00f8m SK 5 - 4 Molde FK?"
+      },
+      {
+        "sum": 1.004,
+        "yes": 0.005,
+        "no": 0.999,
+        "q": "Will the price of Ethereum be between $3,000 and $3,100 on O"
+      },
+      {
+        "sum": 1.005,
+        "yes": 0.012,
+        "no": 0.993,
+        "q": "Exact Score: Lillestr\u00f8m SK 3 - 5 Molde FK?"
+      },
+      {
+        "sum": 1.005,
+        "yes": 0.013,
+        "no": 0.992,
+        "q": "Exact Score: Lillestr\u00f8m SK 5 - 3 Molde FK?"
+      }
+    ],
+    "distribution": {
+      "le_1000": 0,
+      "le_1005": 6,
+      "le_1010": 21,
+      "le_1050": 58
+    },
+    "median_two_sided_floor": 1.0405
+  }
+}
