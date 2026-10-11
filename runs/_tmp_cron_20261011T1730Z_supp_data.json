@@ -1,0 +1,54 @@
+{
+  "ts": "2026-10-11T1730Z",
+  "markets": 500,
+  "priced": 77,
+  "floor": 1.003,
+  "floor_q": "Lillestr\u00f8m SK vs. Molde FK: Lillestr\u00f8m SK O/U 5.5",
+  "brackets": 0,
+  "band": [
+    [
+      1.003,
+      "Lillestr\u00f8m SK vs. Molde FK: Lillestr\u00f8m SK O/U 5.5",
+      0.013,
+      0.99,
+      2306.9647
+    ],
+    [
+      1.003,
+      "Modena FC 2018 vs. Hellas Verona FC: O/U 7.5",
+      0.008,
+      0.995,
+      9072.9872
+    ],
+    [
+      1.003,
+      "Will the price of Ethereum be between $3,000 and $3,100 on O",
+      0.004,
+      0.999,
+      1543.97332
+    ],
+    [
+      1.004,
+      "CR Flamengo vs. Fluminense FC: O/U 7.5",
+      0.01,
+      0.994,
+      21169.26899
+    ],
+    [
+      1.005,
+      "Exact Score: Lillestr\u00f8m SK 4 - 0 Molde FK?",
+      0.017,
+      0.988,
+      2106.20331
+    ],
+    [
+      1.005,
+      "Real Valladolid CF vs. Albacete Balompi\u00e9: O/U 7.5",
+      0.01,
+      0.995,
+      2438.52728
+    ]
+  ],
+  "detector_opps": 0,
+  "executions": 0
+}
