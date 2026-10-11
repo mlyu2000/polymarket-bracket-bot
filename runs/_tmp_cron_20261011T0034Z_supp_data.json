@@ -1,0 +1,129 @@
+{
+  "timestamp": "2026-10-11T00:34Z",
+  "verbatim_asks0_scan": {
+    "markets": 500,
+    "scan_time_s": 66.3,
+    "brackets": 0,
+    "asks0_near_misses": 0,
+    "note": "known DESC artifact: asks[0] is worst ask ~0.999"
+  },
+  "supp_minask_scan": {
+    "markets": 500,
+    "priced": 82,
+    "one_sided": 418,
+    "true_brackets": 0,
+    "floor": 1.004,
+    "band_le_1_005": 8,
+    "detector_opps": 0,
+    "paper_executions": 0
+  },
+  "floor_market": [
+    1.004,
+    "Exact Score: New England Revolution 1 - 4 Seattle Sounders F",
+    0.011,
+    0.993,
+    1895.56609
+  ],
+  "band": [
+    [
+      1.004,
+      "Exact Score: New England Revolution 1 - 4 Seattle Sounders F",
+      0.011,
+      0.993,
+      1895.56609
+    ],
+    [
+      1.004,
+      "JEF United Ichihara Chiba vs. V-Varen Nagasaki: O/U 8.5",
+      0.005,
+      0.999,
+      5632.03192
+    ],
+    [
+      1.004,
+      "Real Betis Balompié vs. CA Osasuna: CA Osasuna O/U 3.5",
+      0.012,
+      0.992,
+      2763.963
+    ],
+    [
+      1.005,
+      "Calcio Padova vs. Carrarese Calcio: O/U 7.5",
+      0.01,
+      0.995,
+      4378.17511
+    ],
+    [
+      1.005,
+      "Gaziantep FK vs. Çorum FK: O/U 7.5",
+      0.01,
+      0.995,
+      3826.74446
+    ],
+    [
+      1.005,
+      "Grêmio FBPA vs. SC Internacional: O/U 7.5",
+      0.007,
+      0.998,
+      6975.98166
+    ],
+    [
+      1.005,
+      "JEF United Ichihara Chiba vs. V-Varen Nagasaki: O/U 7.5",
+      0.01,
+      0.995,
+      6522.04701
+    ],
+    [
+      1.005,
+      "JEF United Ichihara Chiba vs. V-Varen Nagasaki: O/U 7.5 (dup token)",
+      0.01,
+      0.995,
+      6531.14201
+    ]
+  ],
+  "next_tier": [
+    [
+      1.006,
+      "Al Fayha Saudi Club vs. Al Riyadh Saudi Club: O/U 7.5",
+      0.01,
+      0.996,
+      2250.23235
+    ],
+    [
+      1.006,
+      "FC Arouca vs. CF Estrela da Amadora: O/U 7.5",
+      0.011,
+      0.995,
+      3874.11959
+    ],
+    [
+      1.006,
+      "FC Midtjylland vs. FC København: O/U 8.5",
+      0.007,
+      0.999,
+      3506.16748
+    ],
+    [
+      1.006,
+      "FK Dynamo Kyiv vs. FK Karpaty Lviv: O/U 7.5",
+      0.012,
+      0.994,
+      1520.59558
+    ],
+    [
+      1.006,
+      "FK LNZ Cherkasy vs. FK Kudrivka: O/U 7.5",
+      0.012,
+      0.994,
+      2696.34559
+    ],
+    [
+      1.006,
+      "Konyaspor vs. Rams Başakşehir FK: O/U 7.5",
+      0.012,
+      0.994,
+      3525.62291
+    ]
+  ]
+}

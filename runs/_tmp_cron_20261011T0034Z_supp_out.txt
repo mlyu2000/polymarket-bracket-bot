@@ -1,0 +1,20 @@
+priced markets: 82/500
+TRUE FLOOR (min-ask sum): 1.0040 | Exact Score: New England Revolution 1 - 4 Seattle Sounders F | Yes@0.011 No@0.993 | liq=1895.56609
+true brackets (sum<1.00): 0
+band <=1.005: 9
+  1.0040 | Exact Score: New England Revolution 1 - 4 Seattle Sounders F | Yes@0.011 No@0.993 | liq=1895.56609
+  1.0040 | JEF United Ichihara Chiba vs. V-Varen Nagasaki: O/U 8.5 | Yes@0.005 No@0.999 | liq=5632.03192
+  1.0040 | Real Betis Balompié vs. CA Osasuna: CA Osasuna O/U 3.5 | Yes@0.012 No@0.992 | liq=2763.963
+  1.0050 | Calcio Padova vs. Carrarese Calcio: O/U 7.5 | Yes@0.010 No@0.995 | liq=4378.17511
+  1.0050 | Gaziantep FK vs. Çorum FK: O/U 7.5 | Yes@0.010 No@0.995 | liq=3826.74446
+  1.0050 | Grêmio FBPA vs. SC Internacional: O/U 7.5 | Yes@0.007 No@0.998 | liq=6975.98166
+  1.0050 | JEF United Ichihara Chiba vs. V-Varen Nagasaki: O/U 7.5 | Yes@0.010 No@0.995 | liq=6522.04701
+  1.0050 | JEF United Ichihara Chiba vs. V-Varen Nagasaki: O/U 7.5 | Yes@0.010 No@0.995 | liq=6531.14201
+next tier (>1.005):
+  1.0060 | Al Fayha Saudi Club vs. Al Riyadh Saudi Club: O/U 7.5 | Yes@0.010 No@0.996 | liq=2250.23235
+  1.0060 | FC Arouca vs. CF Estrela da Amadora: O/U 7.5 | Yes@0.011 No@0.995 | liq=3874.11959
+  1.0060 | FC Midtjylland vs. FC København: O/U 8.5 | Yes@0.007 No@0.999 | liq=3506.16748
+  1.0060 | FK Dynamo Kyiv vs. FK Karpaty Lviv: O/U 7.5 | Yes@0.012 No@0.994 | liq=1520.59558
+  1.0060 | FK LNZ Cherkasy vs. FK Kudrivka: O/U 7.5 | Yes@0.012 No@0.994 | liq=2696.34559
+  1.0060 | Konyaspor vs. Rams Başakşehir FK: O/U 7.5 | Yes@0.012 No@0.994 | liq=3525.62291
+detector-opps: 0 | paper executions: 0
