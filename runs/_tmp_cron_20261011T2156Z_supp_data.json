@@ -1,0 +1,62 @@
+{
+  "run": "2026-10-11T2156Z",
+  "markets": 500,
+  "scan_time_s": 53.9,
+  "brackets": 0,
+  "true_floor_min_ask": 1.002,
+  "floor_market": {
+    "q": "Spread: Galatasaray SK (-2.5)",
+    "yes": 0.01,
+    "no": 0.992,
+    "liq": 3321.37082,
+    "y_levels": 14,
+    "n_levels": 4
+  },
+  "band_le_1_005": [
+    {
+      "total": 1.002,
+      "yes": 0.01,
+      "no": 0.992,
+      "y_lev": 14,
+      "n_lev": 4,
+      "q": "Spread: Galatasaray SK (-2.5)",
+      "liq": 3321.37082
+    },
+    {
+      "total": 1.002,
+      "yes": 0.014,
+      "no": 0.988,
+      "y_lev": 51,
+      "n_lev": 12,
+      "q": "Will the price of Bitcoin be above $90,000 on October 14?",
+      "liq": 40389.8799
+    },
+    {
+      "total": 1.003,
+      "yes": 0.004,
+      "no": 0.999,
+      "y_lev": 26,
+      "n_lev": 1,
+      "q": "Will the price of Ethereum be between $3,000 and $3,100 on October 12?",
+      "liq": 3449.26413
+    },
+    {
+      "total": 1.005,
+      "yes": 0.01,
+      "no": 0.995,
+      "y_lev": 43,
+      "n_lev": 5,
+      "q": "Real Valladolid CF vs. Albacete Balompi\u00e9: O/U 7.5",
+      "liq": 3207.64824
+    }
+  ],
+  "band_le_1_010_count": 13,
+  "band_le_1_020_count": 4,
+  "band_le_1_030_count": 5,
+  "book_shape": {
+    "two_sided_priced": 60,
+    "yes_only": 425,
+    "no_only": 2,
+    "empty": 13
+  }
+}
