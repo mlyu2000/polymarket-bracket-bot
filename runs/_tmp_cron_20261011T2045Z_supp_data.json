@@ -1,0 +1,42 @@
+{
+ "markets": 500,
+ "priced": 65,
+ "yes_only": 417,
+ "no_only": 3,
+ "empty": 15,
+ "floor": 1.001,
+ "floor_q": "Will the highest temperature in Chicago be between 90-91\u00b0F o",
+ "brackets": 0,
+ "band": [
+  [
+   1.001,
+   "Will the highest temperature in Chicago be between 90-91\u00b0F o",
+   0.005,
+   0.996,
+   2000.29534
+  ],
+  [
+   1.002,
+   "Will the price of Bitcoin be above $90,000 on October 14?",
+   0.016,
+   0.986,
+   40967.2992
+  ],
+  [
+   1.005,
+   "Real Valladolid CF vs. Albacete Balompi\u00e9: O/U 7.5",
+   0.01,
+   0.995,
+   3548.77527
+  ],
+  [
+   1.005,
+   "Will the price of Ethereum be between $3,000 and $3,100 on O",
+   0.006,
+   0.999,
+   4729.31464
+  ]
+ ],
+ "detector_opps": 0,
+ "executions": 0
+}
