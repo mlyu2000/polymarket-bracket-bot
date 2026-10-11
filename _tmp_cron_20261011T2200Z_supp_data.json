@@ -1,0 +1,224 @@
+{
+  "ts": "20261011T2200Z",
+  "priced": 63,
+  "two_sided": 63,
+  "yes_only": 417,
+  "no_only": 3,
+  "empty": 17,
+  "true_floor": 1.001,
+  "floor_market": "Will the highest temperature in Chicago be between 90-91\u00b0F o",
+  "band_le_1005": [
+    [
+      1.001,
+      "Will the highest temperature in Chicago be between 90-91\u00b0F o",
+      0.005,
+      0.996,
+      1910.32965
+    ],
+    [
+      1.002,
+      "Will the price of Bitcoin be above $90,000 on October 14?",
+      0.016,
+      0.986,
+      41007.09657
+    ],
+    [
+      1.005,
+      "Real Valladolid CF vs. Albacete Balompi\u00e9: O/U 7.5",
+      0.01,
+      0.995,
+      3548.77527
+    ],
+    [
+      1.005,
+      "Will the price of Ethereum be between $3,000 and $3,100 on O",
+      0.006,
+      0.999,
+      4705.4674
+    ]
+  ],
+  "band_le_1020": [
+    [
+      1.001,
+      "Will the highest temperature in Chicago be between 90-91\u00b0F o",
+      0.005,
+      0.996,
+      1910.32965
+    ],
+    [
+      1.002,
+      "Will the price of Bitcoin be above $90,000 on October 14?",
+      0.016,
+      0.986,
+      41007.09657
+    ],
+    [
+      1.005,
+      "Real Valladolid CF vs. Albacete Balompi\u00e9: O/U 7.5",
+      0.01,
+      0.995,
+      3548.77527
+    ],
+    [
+      1.005,
+      "Will the price of Ethereum be between $3,000 and $3,100 on O",
+      0.006,
+      0.999,
+      4705.4674
+    ],
+    [
+      1.008,
+      "Spread: Venezia FC (-3.5)",
+      0.01,
+      0.998,
+      6599.90189
+    ],
+    [
+      1.009,
+      "Spread: Los Angeles Galaxy (-3.5)",
+      0.01,
+      0.999,
+      5211.71124
+    ],
+    [
+      1.01,
+      "Aarhus GF vs. S\u00f8nderjyske Fodbold: O/U 4.5",
+      0.24,
+      0.77,
+      8894.7357
+    ],
+    [
+      1.01,
+      "Exact Score: Red Bull Bragantino 1 - 2 Cruzeiro EC?",
+      0.08,
+      0.93,
+      7720.2146
+    ],
+    [
+      1.01,
+      "Spread: Chargers (-7.5)",
+      0.07,
+      0.94,
+      11520.21
+    ],
+    [
+      1.01,
+      "Spread: PSV (-3.5)",
+      0.02,
+      0.99,
+      1253.42685
+    ],
+    [
+      1.01,
+      "Spread: Real Madrid CF (-2.5)",
+      0.36,
+      0.65,
+      13122.1895
+    ],
+    [
+      1.01,
+      "Spread: SSC Napoli (-3.5)",
+      0.02,
+      0.99,
+      1277.6617
+    ],
+    [
+      1.01,
+      "Tractor Tabriz vs. Al-Shamal: 1st Half O/U 0.5",
+      0.68,
+      0.33,
+      4456.4
+    ],
+    [
+      1.01,
+      "Will Kuopion PS vs. Trabzonspor end in a draw?",
+      0.21,
+      0.8,
+      9599.4767
+    ],
+    [
+      1.01,
+      "Will Sheffield United FC win on 2026-10-14?",
+      0.31,
+      0.7,
+      13187.2587
+    ],
+    [
+      1.01,
+      "Will Washington Capitals be the 2027 NHL Eastern Conference ",
+      0.1,
+      0.91,
+      50083.1996
+    ],
+    [
+      1.01,
+      "Wolverhampton Wanderers FC vs. Bolton Wanderers FC: O/U 3.5",
+      0.37,
+      0.64,
+      13160.4356
+    ],
+    [
+      1.011,
+      "Will Dplus KIA Qualify for Worlds 2026?",
+      0.998,
+      0.013,
+      120.83631
+    ],
+    [
+      1.013,
+      "Spread: LASK Linz (-1.5)",
+      0.03,
+      0.983,
+      5536.70435
+    ],
+    [
+      1.014,
+      "Spread: Galatasaray SK (-2.5)",
+      0.02,
+      0.994,
+      3137.26557
+    ],
+    [
+      1.015,
+      "Spread: Viking FK (-1.5)",
+      0.017,
+      0.998,
+      8379.10233
+    ],
+    [
+      1.016,
+      "Spread: \u0160K Slovan Bratislava (-2.5)",
+      0.017,
+      0.999,
+      6030.1603
+    ],
+    [
+      1.019,
+      "Spread: Manchester United FC (-3.5)",
+      0.02,
+      0.999,
+      1127.52235
+    ],
+    [
+      1.02,
+      "CR Flamengo vs. Fluminense FC: O/U 5.5",
+      0.07,
+      0.95,
+      39692.5569
+    ],
+    [
+      1.02,
+      "Millwall FC vs. Swansea City AFC: 1st Half O/U 0.5",
+      0.72,
+      0.3,
+      6375.7825
+    ],
+    [
+      1.02,
+      "Spread: Burnley FC (-1.5)",
+      0.35,
+      0.67,
+      15128.4058
+    ]
+  ]
+}

@@ -1,0 +1,34 @@
+TRUE FLOOR (min-ask): 1.0010 | Will the highest temperature in Chicago be between 90-91°F o | Y@0.005 N@0.996 liq=1910.32965
+books: two_sided=63 yes_only=417 no_only=3 empty=17
+BAND <=1.005:
+  1.0010 | Y@0.005 N@0.996 | liq=1910.32965 | Will the highest temperature in Chicago be between 90-91°F o
+  1.0020 | Y@0.016 N@0.986 | liq=41007.09657 | Will the price of Bitcoin be above $90,000 on October 14?
+  1.0050 | Y@0.010 N@0.995 | liq=3548.77527 | Real Valladolid CF vs. Albacete Balompié: O/U 7.5
+  1.0050 | Y@0.006 N@0.999 | liq=4705.4674 | Will the price of Ethereum be between $3,000 and $3,100 on O
+TIER <=1.020:
+  1.0010 | Y@0.005 N@0.996 | Will the highest temperature in Chicago be between 90-91°F o
+  1.0020 | Y@0.016 N@0.986 | Will the price of Bitcoin be above $90,000 on October 14?
+  1.0050 | Y@0.010 N@0.995 | Real Valladolid CF vs. Albacete Balompié: O/U 7.5
+  1.0050 | Y@0.006 N@0.999 | Will the price of Ethereum be between $3,000 and $3,100 on O
+  1.0080 | Y@0.010 N@0.998 | Spread: Venezia FC (-3.5)
+  1.0090 | Y@0.010 N@0.999 | Spread: Los Angeles Galaxy (-3.5)
+  1.0100 | Y@0.240 N@0.770 | Aarhus GF vs. Sønderjyske Fodbold: O/U 4.5
+  1.0100 | Y@0.080 N@0.930 | Exact Score: Red Bull Bragantino 1 - 2 Cruzeiro EC?
+  1.0100 | Y@0.070 N@0.940 | Spread: Chargers (-7.5)
+  1.0100 | Y@0.020 N@0.990 | Spread: PSV (-3.5)
+  1.0100 | Y@0.360 N@0.650 | Spread: Real Madrid CF (-2.5)
+  1.0100 | Y@0.020 N@0.990 | Spread: SSC Napoli (-3.5)
+  1.0100 | Y@0.680 N@0.330 | Tractor Tabriz vs. Al-Shamal: 1st Half O/U 0.5
+  1.0100 | Y@0.210 N@0.800 | Will Kuopion PS vs. Trabzonspor end in a draw?
+  1.0100 | Y@0.310 N@0.700 | Will Sheffield United FC win on 2026-10-14?
+  1.0100 | Y@0.100 N@0.910 | Will Washington Capitals be the 2027 NHL Eastern Conference 
+  1.0100 | Y@0.370 N@0.640 | Wolverhampton Wanderers FC vs. Bolton Wanderers FC: O/U 3.5
+  1.0110 | Y@0.998 N@0.013 | Will Dplus KIA Qualify for Worlds 2026?
+  1.0130 | Y@0.030 N@0.983 | Spread: LASK Linz (-1.5)
+  1.0140 | Y@0.020 N@0.994 | Spread: Galatasaray SK (-2.5)
+  1.0150 | Y@0.017 N@0.998 | Spread: Viking FK (-1.5)
+  1.0160 | Y@0.017 N@0.999 | Spread: ŠK Slovan Bratislava (-2.5)
+  1.0190 | Y@0.020 N@0.999 | Spread: Manchester United FC (-3.5)
+  1.0200 | Y@0.070 N@0.950 | CR Flamengo vs. Fluminense FC: O/U 5.5
+  1.0200 | Y@0.720 N@0.300 | Millwall FC vs. Swansea City AFC: 1st Half O/U 0.5
+  1.0200 | Y@0.350 N@0.670 | Spread: Burnley FC (-1.5)
