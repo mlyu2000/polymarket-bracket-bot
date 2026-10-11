@@ -1,0 +1,80 @@
+{
+  "ts": "20261011T081358Z",
+  "markets": 500,
+  "priced": 99,
+  "two_sided": 99,
+  "n_<=1.005": 12,
+  "n_<=1.01": 24,
+  "top10": [
+    {
+      "q": "Will the highest temperature in Paris be 16\u00b0C on October 12?",
+      "yes": 0.003,
+      "no": 0.998,
+      "total": 1.001,
+      "liq": 3002.8084
+    },
+    {
+      "q": "Spread: Cagliari Calcio (-2.5)",
+      "yes": 0.009,
+      "no": 0.994,
+      "total": 1.003,
+      "liq": 17301.18764
+    },
+    {
+      "q": "CA Talleres vs. CA Independiente: O/U 8.5",
+      "yes": 0.005,
+      "no": 0.999,
+      "total": 1.004,
+      "liq": 3091.67413
+    },
+    {
+      "q": "Exact Score: Lillestr\u00f8m SK 4 - 0 Molde FK?",
+      "yes": 0.013,
+      "no": 0.991,
+      "total": 1.004,
+      "liq": 4040.93988
+    },
+    {
+      "q": "Al Fayha Saudi Club vs. Al Riyadh Saudi Club: O/U 7.5",
+      "yes": 0.009,
+      "no": 0.996,
+      "total": 1.005,
+      "liq": 3877.77959
+    },
+    {
+      "q": "Gaziantep FK vs. \u00c7orum FK: O/U 7.5",
+      "yes": 0.011,
+      "no": 0.994,
+      "total": 1.005,
+      "liq": 5545.32097
+    },
+    {
+      "q": "Konyaspor vs. Rams Ba\u015fak\u015fehir FK: O/U 7.5",
+      "yes": 0.011,
+      "no": 0.994,
+      "total": 1.005,
+      "liq": 6117.83387
+    },
+    {
+      "q": "Silkeborg IF vs. AC Horsens: O/U 7.5",
+      "yes": 0.011,
+      "no": 0.994,
+      "total": 1.005,
+      "liq": 5321.55718
+    },
+    {
+      "q": "Modena FC 2018 vs. Hellas Verona FC: O/U 7.5",
+      "yes": 0.009,
+      "no": 0.996,
+      "total": 1.005,
+      "liq": 3616.54326
+    },
+    {
+      "q": "Calcio Padova vs. Carrarese Calcio: O/U 7.5",
+      "yes": 0.01,
+      "no": 0.995,
+      "total": 1.005,
+      "liq": 5162.42944
+    }
+  ]
+}

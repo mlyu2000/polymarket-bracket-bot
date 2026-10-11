@@ -1,0 +1,104 @@
+{
+  "ts": "20261011T081510Z",
+  "markets": 500,
+  "scan_time_s": 53.4,
+  "brackets": [],
+  "paper_executions": [],
+  "near_misses_le_1.005": [
+    [
+      1.001,
+      "Will the highest temperature in Paris be 16\u00b0C on O",
+      0.003,
+      0.998,
+      3002.8084
+    ],
+    [
+      1.003,
+      "Spread: Cagliari Calcio (-2.5)",
+      0.009,
+      0.994,
+      17301.18764
+    ],
+    [
+      1.004,
+      "CA Talleres vs. CA Independiente: O/U 8.5",
+      0.005,
+      0.999,
+      3091.67413
+    ],
+    [
+      1.004,
+      "Exact Score: Lillestr\u00f8m SK 4 - 0 Molde FK?",
+      0.013,
+      0.991,
+      4040.93988
+    ],
+    [
+      1.005,
+      "Al Fayha Saudi Club vs. Al Riyadh Saudi Club: O/U ",
+      0.009,
+      0.996,
+      3877.77959
+    ],
+    [
+      1.005,
+      "Calcio Padova vs. Carrarese Calcio: O/U 7.5",
+      0.01,
+      0.995,
+      5162.42944
+    ],
+    [
+      1.005,
+      "FK LNZ Cherkasy vs. FK Kudrivka: O/U 7.5",
+      0.01,
+      0.995,
+      3828.98899
+    ],
+    [
+      1.005,
+      "Gaziantep FK vs. \u00c7orum FK: O/U 7.5",
+      0.011,
+      0.994,
+      5299.41186
+    ],
+    [
+      1.005,
+      "Konyaspor vs. Rams Ba\u015fak\u015fehir FK: O/U 7.5",
+      0.011,
+      0.994,
+      6110.78801
+    ],
+    [
+      1.005,
+      "Modena FC 2018 vs. Hellas Verona FC: O/U 7.5",
+      0.009,
+      0.996,
+      3616.54326
+    ],
+    [
+      1.005,
+      "Silkeborg IF vs. AC Horsens: O/U 7.5",
+      0.011,
+      0.994,
+      5311.18318
+    ],
+    [
+      1.005,
+      "Spread: ES Troyes AC (-3.5)",
+      0.015,
+      0.99,
+      6203.5579
+    ]
+  ],
+  "true_floor": {
+    "min": 1.001,
+    "n_band": 12
+  },
+  "book_shape": {
+    "two_sided": 98,
+    "yes_only": 392,
+    "no_only": 0,
+    "both_empty": 10
+  },
+  "near_miss_note": "near-miss band computed with min-ask (detector.py semantics); cron-script asks[0] variant is a known DESC-sort artifact"
+}
