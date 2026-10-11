@@ -1,0 +1,81 @@
+{
+  "ts": "20261011T093520Z",
+  "markets": 500,
+  "scan_time_s": 57.1,
+  "brackets": 0,
+  "paper_executions": 0,
+  "near_misses_le_1.005": 0,
+  "near_miss_note": "cron-script near-miss block uses asks[0] (DESC artifact, known broken); true floor computed via min-ask supplement",
+  "book_shape": {
+    "two_sided": 106,
+    "one_sided_yes_only": 379,
+    "one_sided_no_only": 0,
+    "both_empty": 15
+  },
+  "true_floor": {
+    "min": 1.001,
+    "median": 1.038,
+    "actionable_below_0.98": 0,
+    "best_gross_edge": -0.001,
+    "gap_to_actionable_threshold": 0.021,
+    "top": [
+      {
+        "floor": 1.001,
+        "yes": 0.003,
+        "no": 0.998,
+        "liq": 3928.8884,
+        "q": "Will the highest temperature in Paris be 16\u00b0C on October 12?"
+      },
+      {
+        "floor": 1.003,
+        "yes": 0.007,
+        "no": 0.996,
+        "liq": 1776.19281,
+        "q": "Will the highest temperature in Seattle be between 66-67\u00b0F o"
+      },
+      {
+        "floor": 1.004,
+        "yes": 0.005,
+        "no": 0.999,
+        "liq": 3096.72156,
+        "q": "CA Talleres vs. CA Independiente: O/U 8.5"
+      },
+      {
+        "floor": 1.004,
+        "yes": 0.011,
+        "no": 0.993,
+        "liq": 5233.86462,
+        "q": "Konyaspor vs. Rams Ba\u015fak\u015fehir FK: O/U 7.5"
+      },
+      {
+        "floor": 1.004,
+        "yes": 0.007,
+        "no": 0.997,
+        "liq": 6803.91078,
+        "q": "FK LNZ Cherkasy vs. FK Kudrivka: O/U 7.5"
+      },
+      {
+        "floor": 1.005,
+        "yes": 0.009,
+        "no": 0.996,
+        "liq": 12290.21237,
+        "q": "Al Fayha Saudi Club vs. Al Riyadh Saudi Club: O/U 7.5"
+      },
+      {
+        "floor": 1.005,
+        "yes": 0.012,
+        "no": 0.993,
+        "liq": 5546.16632,
+        "q": "Gaziantep FK vs. \u00c7orum FK: O/U 7.5"
+      },
+      {
+        "floor": 1.005,
+        "yes": 0.011,
+        "no": 0.994,
+        "liq": 5332.61945,
+        "q": "Silkeborg IF vs. AC Horsens: O/U 7.5"
+      }
+    ]
+  },
+  "delta_vs_20261011T1315Z": "floor IMPROVED 1.0040->1.0010 (Paris highest temp 16C returned to floor Yes@0.003 No@0.998; CA Talleres O/U 8.5 slipped 1.0040 liq 2901.77->?); band<=1.005 EXPANDED n=7->11; two_sided 90->105; one_sided yes-only 396->380, no-only 0, both_empty 14->15; verbatim scan 50.0s->54.8s: 0 BRACKETS, 0 asks0 near-misses (known DESC artifact); actionable(<0.98) 0, best gross edge -0.001, 0.021 above 0.98 threshold; no action"
+}
