@@ -1,1 +1,11 @@
-{"markets": 500, "priced": 92, "floor": 1.004, "floor_q": "JEF United Ichihara Chiba vs. V-Varen Nagasaki: O/U 7.5", "brackets": 0, "band": [[1.004, "JEF United Ichihara Chiba vs. V-Varen Nagasaki: O/U 7.5", 0.009, 0.995, 6551.73401], [1.004, "JEF United Ichihara Chiba vs. V-Varen Nagasaki: O/U 8.5", 0.005, 0.999, 5622.40123], [1.004, "Real Betis Balompi\u00e9 vs. CA Osasuna: CA Osasuna O/U 3.5", 0.012, 0.992, 2657.71736], [1.005, "Calcio Padova vs. Carrarese Calcio: O/U 7.5", 0.01, 0.995, 4380.84411], [1.005, "Gaziantep FK vs. \u00c7orum FK: O/U 7.5", 0.01, 0.995, 3954.93391], [1.005, "Gr\u00eamio FBPA vs. SC Internacional: O/U 7.5", 0.007, 0.998, 6981.70965], [1.005, "Modena FC 2018 vs. Hellas Verona FC: O/U 7.5", 0.009, 0.996, 2278.12615]], "detector_opps": 0, "executions": 0}
+{
+  "run_utc": "20261011T132253Z",
+  "markets": 500,
+  "scan_time_s": 53.4,
+  "brackets": 0,
+  "near_misses_le_1_005": 0,
+  "floor_sum": 1.0300,
+  "floor_market": "CE Europa vs. CF Algeciras: O/U 2.5",
+  "book_topology": {"both_ask_books": 92, "one_sided": 408, "missing_book": 0},
+  "note": "Floor rose 1.0040 -> 1.0300. No market in band <=1.005. Scanner verified healthy (diag: both-side ask books enumerated, lowest 8 sums listed)."
+}
