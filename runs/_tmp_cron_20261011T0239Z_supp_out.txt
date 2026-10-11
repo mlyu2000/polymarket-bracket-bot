@@ -1,0 +1,21 @@
+scan: 500 markets in 68.9s | priced (both-sided): 95 | one-sided: 374
+TRUE FLOOR (min-ask sum): 1.0040 | JEF United Ichihara Chiba vs. V-Varen Nagasaki: O/U 7.5 | Yes@0.009 No@0.995 | liq=16149.33559
+true brackets (sum<1.00): 0
+band <=1.005: 9
+  1.0040 | JEF United Ichihara Chiba vs. V-Varen Nagasaki: O/U 7.5 | Yes@0.009 No@0.995 | liq=16149.33559
+  1.0040 | JEF United Ichihara Chiba vs. V-Varen Nagasaki: O/U 8.5 | Yes@0.005 No@0.999 | liq=15322.86206
+  1.0040 | Spread: Cagliari Calcio (-2.5) | Yes@0.010 No@0.994 | liq=11635.01852
+  1.0040 | Spread: RC Deportivo A Coruña (-2.5) | Yes@0.016 No@0.988 | liq=13468.73807
+  1.0050 | Al Fayha Saudi Club vs. Al Riyadh Saudi Club: O/U 7.5 | Yes@0.009 No@0.996 | liq=2326.75645
+  1.0050 | Calcio Padova vs. Carrarese Calcio: O/U 7.5 | Yes@0.010 No@0.995 | liq=3074.70027
+  1.0050 | FC Arouca vs. CF Estrela da Amadora: O/U 7.5 | Yes@0.010 No@0.995 | liq=3219.17351
+  1.0050 | Grêmio FBPA vs. SC Internacional: O/U 7.5 | Yes@0.009 No@0.996 | liq=2993.80643
+next tier (>1.005):
+  1.0060 | CA Platense vs. AA Argentinos Juniors: O/U 6.5 | Yes@0.010 No@0.996 | liq=2421.98744
+  1.0060 | FK LNZ Cherkasy vs. FK Kudrivka: O/U 7.5 | Yes@0.013 No@0.993 | liq=2882.65455
+  1.0060 | Gaziantep FK vs. Çorum FK: O/U 7.5 | Yes@0.011 No@0.995 | liq=3771.85395
+  1.0060 | Konyaspor vs. Rams Başakşehir FK: O/U 7.5 | Yes@0.012 No@0.994 | liq=3415.03673
+  1.0070 | FK Dynamo Kyiv vs. FK Karpaty Lviv: O/U 7.5 | Yes@0.013 No@0.994 | liq=1478.91573
+  1.0070 | NK Lokomotiva Zagreb vs. NK Varaždin: O/U 7.5 | Yes@0.012 No@0.995 | liq=1910.2208
+median: 1.0390
+detector-opps: 0 | paper executions: 0
