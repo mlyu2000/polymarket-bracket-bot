@@ -1,0 +1,20 @@
+priced markets: 96/500
+TRUE FLOOR (min-ask sum): 1.0010 | Will the highest temperature in Paris be 16°C on October 12? | Yes@0.004 No@0.997 | liq=3685.18471
+true brackets (sum<1.00): 0
+band <=1.005: 11
+  1.0010 | Will the highest temperature in Paris be 16°C on October 12? | Yes@0.004 No@0.997 | liq=3685.18471
+  1.0030 | Spread: Cagliari Calcio (-2.5) | Yes@0.009 No@0.994 | liq=13486.75665
+  1.0040 | CA Talleres vs. CA Independiente: O/U 8.5 | Yes@0.005 No@0.999 | liq=3085.90125
+  1.0040 | Gaziantep FK vs. Çorum FK: O/U 7.5 | Yes@0.010 No@0.994 | liq=6055.07536
+  1.0040 | Konyaspor vs. Rams Başakşehir FK: O/U 7.5 | Yes@0.011 No@0.993 | liq=6105.36187
+  1.0050 | Al Fayha Saudi Club vs. Al Riyadh Saudi Club: O/U 7.5 | Yes@0.009 No@0.996 | liq=4158.80949
+  1.0050 | Calcio Padova vs. Carrarese Calcio: O/U 7.5 | Yes@0.010 No@0.995 | liq=4983.35844
+  1.0050 | FK LNZ Cherkasy vs. FK Kudrivka: O/U 7.5 | Yes@0.010 No@0.995 | liq=4289.98472
+next tier (>1.005):
+  1.0060 | CR Flamengo vs. Fluminense FC: O/U 7.5 | Yes@0.012 No@0.994 | liq=6695.31309
+  1.0060 | FK Dynamo Kyiv vs. FK Karpaty Lviv: O/U 7.5 | Yes@0.013 No@0.993 | liq=3331.37873
+  1.0060 | NK Lokomotiva Zagreb vs. NK Varaždin: O/U 7.5 | Yes@0.011 No@0.995 | liq=2943.81005
+  1.0060 | NK Slaven Belupo vs. HNK Rijeka: O/U 7.5 | Yes@0.012 No@0.994 | liq=2709.96225
+  1.0080 | Exact Score: RKS Radomiak Radom 0 - 0 LKP Motor Lublin? | Yes@0.062 No@0.946 | liq=4653.42828
+  1.0090 | FC Midtjylland vs. FC København: O/U 8.5 | Yes@0.010 No@0.999 | liq=5377.04855
+detector-opps: 0 | paper executions: 0

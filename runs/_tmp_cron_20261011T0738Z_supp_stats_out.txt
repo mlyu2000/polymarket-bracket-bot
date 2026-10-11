@@ -1,0 +1,12 @@
+markets=500 two_sided=96 one_sided_yes_only=390 one_sided_no_only=0 both_empty=14
+TRUE FLOOR (min-ask) top 8:
+  1.0010 | Yes@0.004 No@0.997 | liq 2948.57 | Will the highest temperature in Paris be 16°C on October 12?
+  1.0030 | Yes@0.009 No@0.994 | liq 13347.47 | Spread: Cagliari Calcio (-2.5)
+  1.0040 | Yes@0.005 No@0.999 | liq 3085.90 | CA Talleres vs. CA Independiente: O/U 8.5
+  1.0040 | Yes@0.010 No@0.994 | liq 6055.08 | Gaziantep FK vs. Çorum FK: O/U 7.5
+  1.0040 | Yes@0.011 No@0.993 | liq 6105.36 | Konyaspor vs. Rams Başakşehir FK: O/U 7.5
+  1.0050 | Yes@0.009 No@0.996 | liq 4158.81 | Al Fayha Saudi Club vs. Al Riyadh Saudi Club: O/U 7.5
+  1.0050 | Yes@0.010 No@0.995 | liq 5155.40 | Calcio Padova vs. Carrarese Calcio: O/U 7.5
+  1.0050 | Yes@0.010 No@0.995 | liq 4299.32 | FK LNZ Cherkasy vs. FK Kudrivka: O/U 7.5
+floor_min=1.0010 floor_median=1.0390
+actionable(<0.98): 0
