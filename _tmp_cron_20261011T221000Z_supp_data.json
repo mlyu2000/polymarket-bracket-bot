@@ -1,0 +1,203 @@
+{
+  "ts": "20261011T221000Z",
+  "priced": 58,
+  "two_sided": 58,
+  "yes_only": 425,
+  "no_only": 3,
+  "empty": 14,
+  "true_floor": 1.002,
+  "floor_market": "Will Elon Musk post 420-439 tweets from October 6 to October",
+  "band_le_1005": [
+    [
+      1.002,
+      "Will Elon Musk post 420-439 tweets from October 6 to October",
+      0.027,
+      0.975,
+      12920.17394
+    ],
+    [
+      1.003,
+      "Will the price of Ethereum be between $3,000 and $3,100 on O",
+      0.004,
+      0.999,
+      3587.56323
+    ],
+    [
+      1.004,
+      "Will the price of Bitcoin be above $90,000 on October 14?",
+      0.016,
+      0.988,
+      40161.25742
+    ],
+    [
+      1.005,
+      "Real Valladolid CF vs. Albacete Balompi\u00e9: O/U 7.5",
+      0.01,
+      0.995,
+      3446.53922
+    ],
+    [
+      1.005,
+      "Spread: Viking FK (-1.5)",
+      0.015,
+      0.99,
+      16133.99144
+    ]
+  ],
+  "band_le_1020": [
+    [
+      1.002,
+      "Will Elon Musk post 420-439 tweets from October 6 to October",
+      0.027,
+      0.975,
+      12920.17394
+    ],
+    [
+      1.003,
+      "Will the price of Ethereum be between $3,000 and $3,100 on O",
+      0.004,
+      0.999,
+      3587.56323
+    ],
+    [
+      1.004,
+      "Will the price of Bitcoin be above $90,000 on October 14?",
+      0.016,
+      0.988,
+      40161.25742
+    ],
+    [
+      1.005,
+      "Real Valladolid CF vs. Albacete Balompi\u00e9: O/U 7.5",
+      0.01,
+      0.995,
+      3446.53922
+    ],
+    [
+      1.005,
+      "Spread: Viking FK (-1.5)",
+      0.015,
+      0.99,
+      16133.99144
+    ],
+    [
+      1.008,
+      "Spread: Galatasaray SK (-2.5)",
+      0.015,
+      0.993,
+      5753.13157
+    ],
+    [
+      1.008,
+      "Spread: Venezia FC (-3.5)",
+      0.01,
+      0.998,
+      6408.62332
+    ],
+    [
+      1.009,
+      "Spread: Los Angeles Galaxy (-3.5)",
+      0.01,
+      0.999,
+      4999.5753
+    ],
+    [
+      1.01,
+      "Aarhus GF vs. S\u00f8nderjyske Fodbold: O/U 4.5",
+      0.24,
+      0.77,
+      9133.256
+    ],
+    [
+      1.01,
+      "Exact Score: Red Bull Bragantino 1 - 2 Cruzeiro EC?",
+      0.08,
+      0.93,
+      7389.9514
+    ],
+    [
+      1.01,
+      "Spread: Real Madrid CF (-2.5)",
+      0.36,
+      0.65,
+      13162.3893
+    ],
+    [
+      1.01,
+      "Tractor Tabriz vs. Al-Shamal: 1st Half O/U 0.5",
+      0.68,
+      0.33,
+      4069.3319
+    ],
+    [
+      1.01,
+      "Will Kuopion PS vs. Trabzonspor end in a draw?",
+      0.21,
+      0.8,
+      10764.9224
+    ],
+    [
+      1.01,
+      "Will Washington Capitals be the 2027 NHL Eastern Conference ",
+      0.1,
+      0.91,
+      49701.4946
+    ],
+    [
+      1.01,
+      "Wolverhampton Wanderers FC vs. Bolton Wanderers FC: O/U 3.5",
+      0.37,
+      0.64,
+      12376.8572
+    ],
+    [
+      1.012,
+      "Spread: LASK Linz (-1.5)",
+      0.03,
+      0.982,
+      5268.75364
+    ],
+    [
+      1.013,
+      "Spread: Manchester United FC (-3.5)",
+      0.014,
+      0.999,
+      3751.52817
+    ],
+    [
+      1.017,
+      "Will Dplus KIA Qualify for Worlds 2026?",
+      0.998,
+      0.019,
+      125.06756
+    ],
+    [
+      1.019,
+      "Spread: \u0160K Slovan Bratislava (-2.5)",
+      0.02,
+      0.999,
+      6017.01948
+    ],
+    [
+      1.02,
+      "Millwall FC vs. Swansea City AFC: 1st Half O/U 0.5",
+      0.72,
+      0.3,
+      6470.8028
+    ],
+    [
+      1.02,
+      "Spread: Burnley FC (-1.5)",
+      0.35,
+      0.67,
+      15049.7683
+    ],
+    [
+      1.02,
+      "Will Sheffield United FC win on 2026-10-14?",
+      0.31,
+      0.71,
+      12240.0514
+    ]
+  ]
+}
