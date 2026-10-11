@@ -1,0 +1,25 @@
+{
+  "cron_run_ts": "2026-10-11T16:14Z",
+  "scan": {
+    "markets": 500,
+    "brackets": 0,
+    "near_misses_le_1_005": 0,
+    "scan_time_s": 69.6,
+    "two_sided_books": 72,
+    "floor": 1.0600,
+    "floor_leader": {
+      "question": "CE Europa vs. CF Algeciras: O/U 2.5",
+      "yes_ask": 0.470,
+      "no_ask": 0.590,
+      "liquidity": 646.749
+    },
+    "top5_closest": [
+      {"sum": 1.0600, "yes": 0.470, "no": 0.590, "q": "CE Europa vs. CF Algeciras: O/U 2.5"},
+      {"sum": 1.9100, "yes": 0.990, "no": 0.920, "q": "Spread: Real Madrid CF (-2.5)"},
+      {"sum": 1.9800, "yes": 0.990, "no": 0.990, "q": "Aarhus GF vs. Sønderjyske Fodbold: O/U 4.5"},
+      {"sum": 1.9800, "yes": 0.990, "no": 0.990, "q": "CA Estudiantes vs. Deportivo Moron: Deportivo Moron O/U"},
+      {"sum": 1.9800, "yes": 0.990, "no": 0.990, "q": "CR Flamengo vs. Fluminense FC: O/U 5.5"}
+    ]
+  },
+  "notes": "Floor widened from 1.0030 (previous run) to 1.0600. Near-miss band (<=1.005) empty. No paper executions."
+}
