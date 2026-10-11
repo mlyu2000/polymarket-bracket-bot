@@ -1,0 +1,77 @@
+{
+  "ts": "20261011T1155Z",
+  "markets": 500,
+  "scan_time_s": 54.0,
+  "brackets": 0,
+  "paper_executions": 0,
+  "near_misses_le_1.005": 0,
+  "near_miss_note": "cron-script near-miss block uses asks[0] (DESC artifact, known broken); true floor computed via min-ask supplement",
+  "book_shape": {
+    "two_sided": 105,
+    "one_sided_yes_only": 368,
+    "one_sided_no_only": 0,
+    "both_empty": 27
+  },
+  "floor_min": 1.004,
+  "floor_median": 1.039,
+  "actionable_lt_098": 0,
+  "floors_top8": [
+    {
+      "total": 1.004,
+      "q": "CA Talleres vs. CA Independiente: O/U 8.5",
+      "yes": 0.005,
+      "no": 0.999,
+      "liq": 3087.43162
+    },
+    {
+      "total": 1.004,
+      "q": "Will the highest temperature in Seattle be between 66-67\u00b0F o",
+      "yes": 0.007,
+      "no": 0.997,
+      "liq": 1620.04506
+    },
+    {
+      "total": 1.005,
+      "q": "Al Fayha Saudi Club vs. Al Riyadh Saudi Club: O/U 7.5",
+      "yes": 0.009,
+      "no": 0.996,
+      "liq": 4062.26829
+    },
+    {
+      "total": 1.005,
+      "q": "Gaziantep FK vs. \u00c7orum FK: O/U 7.5",
+      "yes": 0.012,
+      "no": 0.993,
+      "liq": 4783.11329
+    },
+    {
+      "total": 1.005,
+      "q": "NK Lokomotiva Zagreb vs. NK Vara\u017edin: O/U 7.5",
+      "yes": 0.011,
+      "no": 0.994,
+      "liq": 2486.53028
+    },
+    {
+      "total": 1.005,
+      "q": "Silkeborg IF vs. AC Horsens: O/U 7.5",
+      "yes": 0.011,
+      "no": 0.994,
+      "liq": 37612.26244
+    },
+    {
+      "total": 1.005,
+      "q": "Spread: ES Troyes AC (-3.5)",
+      "yes": 0.015,
+      "no": 0.99,
+      "liq": 6759.4191
+    },
+    {
+      "total": 1.006,
+      "q": "CR Flamengo vs. Fluminense FC: O/U 7.5",
+      "yes": 0.012,
+      "no": 0.994,
+      "liq": 7382.2229
+    }
+  ],
+  "floor_dist_1.005": 7
+}
