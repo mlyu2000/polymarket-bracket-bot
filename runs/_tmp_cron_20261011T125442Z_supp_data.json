@@ -1,0 +1,109 @@
+{
+ "markets": 500,
+ "priced": 102,
+ "yes_only": 357,
+ "no_only": 2,
+ "both_empty": 39,
+ "floor": 1.004,
+ "floor_q": "CA Talleres vs. CA Independiente: O/U 8.5",
+ "median_floor": 1.0365,
+ "brackets": 0,
+ "band_1005": 7,
+ "band": [
+  [
+   1.004,
+   "CA Talleres vs. CA Independiente: O/U 8.5",
+   0.005,
+   0.999,
+   3796.59138
+  ],
+  [
+   1.004,
+   "Exact Score: Gaziantep FK 0 - 4 \u00c7orum FK?",
+   0.012,
+   0.992,
+   1551.52486
+  ],
+  [
+   1.005,
+   "Al Fayha Saudi Club vs. Al Riyadh Saudi Club: O/U 7.5",
+   0.009,
+   0.996,
+   12608.94329
+  ],
+  [
+   1.005,
+   "FC Midtjylland vs. FC K\u00f8benhavn: O/U 8.5",
+   0.006,
+   0.999,
+   7584.81977
+  ],
+  [
+   1.005,
+   "FC Midtjylland vs. FC K\u00f8benhavn: O/U 8.5",
+   0.006,
+   0.999,
+   7584.81977
+  ],
+  [
+   1.005,
+   "Gaziantep FK vs. \u00c7orum FK: O/U 7.5",
+   0.012,
+   0.993,
+   6000.47841
+  ],
+  [
+   1.005,
+   "Spread: ES Troyes AC (-3.5)",
+   0.015,
+   0.99,
+   6757.3541
+  ]
+ ],
+ "next_tier": [
+  [
+   1.006,
+   "CR Flamengo vs. Fluminense FC: O/U 7.5",
+   0.012,
+   0.994,
+   7388.6089
+  ],
+  [
+   1.006,
+   "Modena FC 2018 vs. Hellas Verona FC: O/U 7.5",
+   0.01,
+   0.996,
+   5110.40511
+  ],
+  [
+   1.006,
+   "NK Lokomotiva Zagreb vs. NK Vara\u017edin: O/U 7.5",
+   0.011,
+   0.995,
+   2559.58539
+  ],
+  [
+   1.006,
+   "NK Slaven Belupo vs. HNK Rijeka: O/U 7.5",
+   0.012,
+   0.994,
+   4658.40556
+  ],
+  [
+   1.006,
+   "Spread: Cagliari Calcio (-2.5)",
+   0.008,
+   0.998,
+   16040.50344
+  ],
+  [
+   1.008,
+   "Calcio Padova vs. Carrarese Calcio: O/U 7.5",
+   0.009,
+   0.999,
+   10936.90474
+  ]
+ ],
+ "detector_opps": 0,
+ "executions": 0
+}
