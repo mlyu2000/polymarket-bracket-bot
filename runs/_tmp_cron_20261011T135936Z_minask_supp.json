@@ -1,0 +1,125 @@
+{
+  "ts": "2026-10-11T13:59:36Z",
+  "markets": 500,
+  "books": {
+    "two_sided": 84,
+    "yes_only": 360,
+    "no_only": 3,
+    "none": 53
+  },
+  "floor": 1.004,
+  "floor_q": "CR Flamengo vs. Fluminense FC: O/U 7.5",
+  "median_floor": 1.037,
+  "brackets": [],
+  "band_1005": 4,
+  "cheapest_12": [
+    {
+      "total": 1.004,
+      "yes": 0.01,
+      "no": 0.994,
+      "worst_yes": 0.999,
+      "worst_no": 0.999,
+      "liq": 8778.45,
+      "q": "CR Flamengo vs. Fluminense FC: O/U 7.5"
+    },
+    {
+      "total": 1.005,
+      "yes": 0.006,
+      "no": 0.999,
+      "worst_yes": 0.999,
+      "worst_no": 0.999,
+      "liq": 6926.69,
+      "q": "FC Midtjylland vs. FC K\u00f8benhavn: O/U 8.5"
+    },
+    {
+      "total": 1.005,
+      "yes": 0.01,
+      "no": 0.995,
+      "worst_yes": 0.999,
+      "worst_no": 0.999,
+      "liq": 5385.39,
+      "q": "Modena FC 2018 vs. Hellas Verona FC: O/U 7.5"
+    },
+    {
+      "total": 1.005,
+      "yes": 0.011,
+      "no": 0.994,
+      "worst_yes": 0.999,
+      "worst_no": 0.999,
+      "liq": 4236.7,
+      "q": "NK Slaven Belupo vs. HNK Rijeka: O/U 7.5"
+    },
+    {
+      "total": 1.006,
+      "yes": 0.027,
+      "no": 0.979,
+      "worst_yes": 0.999,
+      "worst_no": 0.999,
+      "liq": 7330.69,
+      "q": "Exact Score: El Qanah Club 2 - 0 El Masry SC?"
+    },
+    {
+      "total": 1.007,
+      "yes": 0.009,
+      "no": 0.998,
+      "worst_yes": 0.999,
+      "worst_no": 0.999,
+      "liq": 49004.32,
+      "q": "Spread: Cagliari Calcio (-2.5)"
+    },
+    {
+      "total": 1.008,
+      "yes": 0.009,
+      "no": 0.999,
+      "worst_yes": 0.999,
+      "worst_no": 0.999,
+      "liq": 9360.48,
+      "q": "Calcio Padova vs. Carrarese Calcio: O/U 7.5"
+    },
+    {
+      "total": 1.009,
+      "yes": 0.01,
+      "no": 0.999,
+      "worst_yes": 0.999,
+      "worst_no": 0.999,
+      "liq": 3942.16,
+      "q": "Spread: Los Angeles Galaxy (-3.5)"
+    },
+    {
+      "total": 1.009,
+      "yes": 0.01,
+      "no": 0.999,
+      "worst_yes": 0.999,
+      "worst_no": 0.999,
+      "liq": 5718.16,
+      "q": "Spread: Venezia FC (-3.5)"
+    },
+    {
+      "total": 1.01,
+      "yes": 0.07,
+      "no": 0.94,
+      "worst_yes": 0.99,
+      "worst_no": 0.99,
+      "liq": 8800.42,
+      "q": "CR Flamengo vs. Fluminense FC: O/U 5.5"
+    },
+    {
+      "total": 1.01,
+      "yes": 0.71,
+      "no": 0.3,
+      "worst_yes": 0.99,
+      "worst_no": 0.99,
+      "liq": 5115.92,
+      "q": "FK Livyi Bereh vs. FK Zorya Luhansk: O/U 1.5"
+    },
+    {
+      "total": 1.01,
+      "yes": 0.32,
+      "no": 0.69,
+      "worst_yes": 0.99,
+      "worst_no": 0.99,
+      "liq": 16522.86,
+      "q": "Sandnes Ulf vs. FK Haugesund: O/U 4.5"
+    }
+  ]
+}

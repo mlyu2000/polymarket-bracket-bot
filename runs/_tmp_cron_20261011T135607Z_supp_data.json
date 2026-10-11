@@ -1,0 +1,84 @@
+{
+  "ts": "2026-10-11T13:56:07Z",
+  "markets": 500,
+  "books": {
+    "both": 84,
+    "yes_ask_only": 362,
+    "no_ask_only": 3,
+    "none": 51
+  },
+  "brackets": [],
+  "near_misses": [],
+  "cheapest_10": [
+    {
+      "total": 1.03,
+      "yes": 0.44,
+      "no": 0.59,
+      "liq": 398.1528,
+      "q": "CE Europa vs. CF Algeciras: O/U 2.5"
+    },
+    {
+      "total": 1.98,
+      "yes": 0.99,
+      "no": 0.99,
+      "liq": 5549.7757,
+      "q": "Aarhus GF vs. S\u00f8nderjyske Fodbold: O/U 4.5"
+    },
+    {
+      "total": 1.98,
+      "yes": 0.99,
+      "no": 0.99,
+      "liq": 152.3698,
+      "q": "CA Estudiantes vs. Deportivo Moron: Deportivo Moron O/U"
+    },
+    {
+      "total": 1.98,
+      "yes": 0.99,
+      "no": 0.99,
+      "liq": 8769.6977,
+      "q": "CR Flamengo vs. Fluminense FC: O/U 5.5"
+    },
+    {
+      "total": 1.98,
+      "yes": 0.99,
+      "no": 0.99,
+      "liq": 5115.9213,
+      "q": "FK Livyi Bereh vs. FK Zorya Luhansk: O/U 1.5"
+    },
+    {
+      "total": 1.98,
+      "yes": 0.99,
+      "no": 0.99,
+      "liq": 2243.7565,
+      "q": "FK Rubin Kazan vs. FK Dinamo Moskva: FK Rubin Kazan O/U"
+    },
+    {
+      "total": 1.98,
+      "yes": 0.99,
+      "no": 0.99,
+      "liq": 327.1947,
+      "q": "Next Z.ai GLM (5.4+) released by October 31, 2026?"
+    },
+    {
+      "total": 1.98,
+      "yes": 0.99,
+      "no": 0.99,
+      "liq": 10.0297,
+      "q": "Puerto Montt vs. San Luis de Quillota: Puerto Montt O/U"
+    },
+    {
+      "total": 1.98,
+      "yes": 0.99,
+      "no": 0.99,
+      "liq": 1193.2317,
+      "q": "Sabah FK vs. SK Slavia Praha: Sabah FK 1st Half O/U 2.5"
+    },
+    {
+      "total": 1.98,
+      "yes": 0.99,
+      "no": 0.99,
+      "liq": 5905.4811,
+      "q": "Sandnes Ulf vs. FK Haugesund: O/U 4.5"
+    }
+  ]
+}
