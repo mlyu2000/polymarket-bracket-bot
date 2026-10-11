@@ -1,0 +1,21 @@
+{
+  "timestamp_utc": "20261011T143057Z",
+  "markets": 500,
+  "brackets": 0,
+  "near_misses_le_1.005": 0,
+  "structural": {
+    "two_sided": 85,
+    "yes_only": 375,
+    "no_only": 3,
+    "empty": 37,
+    "not_bracketable_pct": 83.0
+  },
+  "floor": {
+    "q": "Modena FC 2018 vs. Hellas Verona FC: O/U 7.5",
+    "yes_min_ask": 0.008,
+    "no_min_ask": 0.995,
+    "total_min": 1.003,
+    "total_asks0": 1.998,
+    "liq": 20788.92657
+  }
+}
