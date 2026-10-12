@@ -1,0 +1,24 @@
+{
+  "ts": "20261012T0619Z",
+  "markets": 500,
+  "priced": 54,
+  "scan_time": 53.38411831855774,
+  "true_floor": 1.008,
+  "floor_q": "Spread: Venezia FC (-3.5)",
+  "floor_yes": 0.01,
+  "floor_no": 0.998,
+  "floor_liq": 6397.08147,
+  "band": [],
+  "tiers": {
+    "<=1.005": 0,
+    "<=1.010": 8,
+    "<=1.020": 18,
+    "<=1.030": 24
+  },
+  "structural": {
+    "two_sided": 54,
+    "yes_only": 434,
+    "no_only": 1,
+    "empty": 11
+  }
+}
