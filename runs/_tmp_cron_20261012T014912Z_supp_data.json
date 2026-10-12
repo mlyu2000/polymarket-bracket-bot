@@ -1,0 +1,56 @@
+{
+  "ts": "20261012T014912Z",
+  "markets": 500,
+  "priced": 64,
+  "scan_time": 54.2,
+  "one_sided": {
+    "yes_only": 422,
+    "no_only": 1,
+    "empty": 13,
+    "both": 64
+  },
+  "floor": 1.003,
+  "floor_q": "Pumas de la UNAM vs. CF Cruz Azul: Pumas de la UNAM O/U 5.5",
+  "floor_yes": 0.015,
+  "floor_no": 0.988,
+  "floor_liq": 2304.46,
+  "band": [
+    [
+      1.003,
+      "Pumas de la UNAM vs. CF Cruz Azul: Pumas de la UNAM O/U 5.5",
+      0.015,
+      0.988,
+      2304.46
+    ],
+    [
+      1.003,
+      "Will the price of Bitcoin be above $90,000 on October 14?",
+      0.015,
+      0.988,
+      40538.09304
+    ],
+    [
+      1.005,
+      "Real Valladolid CF vs. Albacete Balompi\u00e9: O/U 7.5",
+      0.01,
+      0.995,
+      3853.89479
+    ],
+    [
+      1.005,
+      "Spread: Viking FK (-1.5)",
+      0.015,
+      0.99,
+      21807.74721
+    ],
+    [
+      1.005,
+      "Will the price of Ethereum be between $3,000 and $3,100 on October 12?",
+      0.006,
+      0.999,
+      4296.35069
+    ]
+  ],
+  "brackets": [],
+  "detector_opps": 0
+}
