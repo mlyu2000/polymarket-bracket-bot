@@ -1,0 +1,161 @@
+{
+  "ts": "2026-10-12T17:46:41Z",
+  "markets": 500,
+  "floors": [
+    [
+      1.005,
+      "Spread: Galatasaray SK (-2.5)",
+      0.015,
+      0.99,
+      19016.26091
+    ],
+    [
+      1.006,
+      "Will the Democratic Party win the NH-02 House seat?",
+      0.954,
+      0.052,
+      49888.07768
+    ],
+    [
+      1.007,
+      "Spread: \u0160K Slovan Bratislava (-2.5)",
+      0.008,
+      0.999,
+      20384.13765
+    ],
+    [
+      1.009,
+      "Will the highest temperature in Amsterdam be 13\u00b0C on October",
+      0.01,
+      0.999,
+      2484.56396
+    ],
+    [
+      1.01,
+      "Al Gharafa SC vs. Esteghlal FC Tehran: 1st Half O/U 1.5",
+      0.36,
+      0.65,
+      11491.2225
+    ],
+    [
+      1.01,
+      "Dijon Football C\u00f4te d'Or vs. FC Metz: Both Teams to Score",
+      0.61,
+      0.4,
+      22212.835
+    ],
+    [
+      1.01,
+      "Exact Score: Red Bull Bragantino 1 - 2 Cruzeiro EC?",
+      0.08,
+      0.93,
+      19139.2533
+    ],
+    [
+      1.01,
+      "Millwall FC vs. Swansea City AFC: 1st Half O/U 0.5",
+      0.71,
+      0.3,
+      7444.1471
+    ],
+    [
+      1.01,
+      "Spread: Burnley FC (-1.5)",
+      0.34,
+      0.67,
+      20890.3691
+    ],
+    [
+      1.01,
+      "Will Georgia have more than 11.5 wins during the 2026 CFB se",
+      0.42,
+      0.59,
+      727.9402
+    ]
+  ],
+  "entries": [
+    {
+      "total": 1.005,
+      "q": "Spread: Galatasaray SK (-2.5)",
+      "yes": 0.015,
+      "no": 0.99,
+      "liq": 19016.26091
+    },
+    {
+      "total": 1.006,
+      "q": "Will the Democratic Party win the NH-02 House seat?",
+      "yes": 0.954,
+      "no": 0.052,
+      "liq": 49888.07768
+    },
+    {
+      "total": 1.007,
+      "q": "Spread: \u0160K Slovan Bratislava (-2.5)",
+      "yes": 0.008,
+      "no": 0.999,
+      "liq": 20384.13765
+    },
+    {
+      "total": 1.009,
+      "q": "Will the highest temperature in Amsterdam be 13\u00b0C on October 14?",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 2484.56396
+    },
+    {
+      "total": 1.01,
+      "q": "Dijon Football C\u00f4te d'Or vs. FC Metz: Both Teams to Score",
+      "yes": 0.61,
+      "no": 0.4,
+      "liq": 22212.835
+    },
+    {
+      "total": 1.01,
+      "q": "Will Washington Capitals be the 2027 NHL Eastern Conference Champion?",
+      "yes": 0.1,
+      "no": 0.91,
+      "liq": 51259.3069
+    },
+    {
+      "total": 1.01,
+      "q": "Spread: Burnley FC (-1.5)",
+      "yes": 0.34,
+      "no": 0.67,
+      "liq": 20890.3691
+    },
+    {
+      "total": 1.01,
+      "q": "Al Gharafa SC vs. Esteghlal FC Tehran: 1st Half O/U 1.5",
+      "yes": 0.36,
+      "no": 0.65,
+      "liq": 11491.2225
+    },
+    {
+      "total": 1.01,
+      "q": "Wolverhampton Wanderers FC vs. Bolton Wanderers FC: O/U 3.5",
+      "yes": 0.37,
+      "no": 0.64,
+      "liq": 14965.0346
+    },
+    {
+      "total": 1.01,
+      "q": "Exact Score: Red Bull Bragantino 1 - 2 Cruzeiro EC?",
+      "yes": 0.08,
+      "no": 0.93,
+      "liq": 19139.2533
+    }
+  ],
+  "tiers": {
+    "le1000": 0,
+    "le1005": 1,
+    "le1010": 13,
+    "le1020": 24,
+    "le1030": 29
+  },
+  "structural": {
+    "two_sided": 73,
+    "yes_only": 418,
+    "no_only": 1,
+    "empty": 8
+  }
+}
