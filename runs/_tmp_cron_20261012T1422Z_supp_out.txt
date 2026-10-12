@@ -1,0 +1,12 @@
+markets=500 two_sided=74 one_sided_yes_only=417 one_sided_no_only=0 both_empty=9
+TRUE FLOOR (min-ask) top 8:
+  1.0060 | Yes@0.015 No@0.991 | liq 18149.75 | Spread: Galatasaray SK (-2.5)
+  1.0070 | Yes@0.954 No@0.053 | liq 50882.84 | Will the Democratic Party win the NH-02 House seat?
+  1.0090 | Yes@0.010 No@0.999 | liq 4597.40 | Spread: Eyüpspor (-3.5)
+  1.0090 | Yes@0.010 No@0.999 | liq 2439.79 | Will the highest temperature in Amsterdam be 13°C on October
+  1.0100 | Yes@0.610 No@0.400 | liq 41686.61 | Dijon Football Côte d'Or vs. FC Metz: Both Teams to Score
+  1.0100 | Yes@0.080 No@0.930 | liq 19447.09 | Exact Score: Red Bull Bragantino 1 - 2 Cruzeiro EC?
+  1.0100 | Yes@0.340 No@0.670 | liq 21110.66 | Spread: Burnley FC (-1.5)
+  1.0100 | Yes@0.360 No@0.650 | liq 13658.47 | Spread: Real Madrid CF (-2.5)
+floor_min=1.0060 floor_median=1.0410
+actionable(<0.98): 0
