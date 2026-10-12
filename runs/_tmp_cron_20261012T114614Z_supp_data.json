@@ -1,0 +1,132 @@
+{
+  "ts": "20261012T114614Z",
+  "markets": 500,
+  "scan_time_s": 54.6,
+  "brackets": 0,
+  "structural": {
+    "two_sided": 73,
+    "yes_only": 417,
+    "empty": 10
+  },
+  "tiers": {
+    "le_1000": 0,
+    "le_1005": 1,
+    "le_1010": 12,
+    "le_1020": 19,
+    "le_1030": 28
+  },
+  "floor": [
+    1.004,
+    "Spread: Venezia FC (-3.5)",
+    0.005,
+    0.999,
+    9040.98
+  ],
+  "lowest_15": [
+    [
+      1.004,
+      "Spread: Venezia FC (-3.5)",
+      0.005,
+      0.999,
+      9040.98
+    ],
+    [
+      1.008,
+      "Will the Democratic Party win the NH-02 House seat?",
+      0.954,
+      0.054,
+      50790.27
+    ],
+    [
+      1.009,
+      "Spread: Ey\u00fcpspor (-3.5)",
+      0.01,
+      0.999,
+      2175.55
+    ],
+    [
+      1.01,
+      "Aarhus GF vs. S\u00f8nderjyske Fodbold: O/U 4.5",
+      0.24,
+      0.77,
+      11494.95
+    ],
+    [
+      1.01,
+      "Exact Score: Red Bull Bragantino 1 - 2 Cruzeiro EC?",
+      0.08,
+      0.93,
+      18362.82
+    ],
+    [
+      1.01,
+      "Millwall FC vs. Swansea City AFC: 1st Half O/U 0.5",
+      0.71,
+      0.3,
+      7532.72
+    ],
+    [
+      1.01,
+      "San Luis de Quillota leading at halftime?",
+      0.38,
+      0.63,
+      321.28
+    ],
+    [
+      1.01,
+      "Spread: Real Madrid CF (-2.5)",
+      0.36,
+      0.65,
+      13843.09
+    ],
+    [
+      1.01,
+      "Will Fl\u00e1vio Bolsonaro win the second round of the 2026 Brazilian presidential election by less than 4%?",
+      0.25,
+      0.76,
+      87199.37
+    ],
+    [
+      1.01,
+      "Will Sheffield United FC win on 2026-10-14?",
+      0.31,
+      0.7,
+      19565.57
+    ],
+    [
+      1.01,
+      "Will Washington Capitals be the 2027 NHL Eastern Conference Champion?",
+      0.1,
+      0.91,
+      70703.79
+    ],
+    [
+      1.01,
+      "Wolverhampton Wanderers FC vs. Bolton Wanderers FC: O/U 3.5",
+      0.37,
+      0.64,
+      17387.55
+    ],
+    [
+      1.012,
+      "Spread: Galatasaray SK (-2.5)",
+      0.014,
+      0.998,
+      17114.05
+    ],
+    [
+      1.013,
+      "Spread: Manchester United FC (-3.5)",
+      0.015,
+      0.998,
+      15248.31
+    ],
+    [
+      1.014,
+      "Will Dplus KIA Qualify for Worlds 2026?",
+      0.998,
+      0.016,
+      126.36
+    ]
+  ]
+}
