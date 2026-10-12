@@ -1,0 +1,9 @@
+markets: 500 | two-sided: 66 yes_only: 425 no_only: 0 empty: 9
+TRUE FLOOR (min-ask sum): 1.0050 | Spread: Galatasaray SK (-2.5)
+  Yes@0.015 No@0.990 | liq=22977.65611
+brackets (sum<1.00): 0
+band <=1.005: 1
+  1.0050 | Yes@0.015 No@0.990 | liq=22977.65611 | Spread: Galatasaray SK (-2.5)
+tier counts: {'<=1.005': 1, '<=1.01': 13, '<=1.02': 27, '<=1.03': 31, '<=1.05': 43}
+best gross edge vs 1.00: +0.0050 (0.98 actionable needs 0.02)
+persisted history entry + runs/_tmp_cron_2026-10-12T2042Z_supp_data.json
