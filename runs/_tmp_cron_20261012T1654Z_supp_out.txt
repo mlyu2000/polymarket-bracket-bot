@@ -1,0 +1,5 @@
+markets: 500 | priced books: 75
+true brackets (best asks sum<1.00, liq ok): 0
+near-misses on best asks (<=1.005): 1
+  1.0050 | Yes@0.015 No@0.990 | liq=27349.39181 | Spread: Galatasaray SK (-2.5)
+global floor: 1.0050 | Yes@0.015 No@0.990 | liq=27349.39181 | Spread: Galatasaray SK (-2.5)

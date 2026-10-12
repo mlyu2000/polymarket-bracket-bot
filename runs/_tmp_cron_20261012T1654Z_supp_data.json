@@ -1,0 +1,114 @@
+{
+  "ts": "2026-10-12T16:58:46Z",
+  "scan_time_s": 55.0,
+  "markets": 500,
+  "priced": 74,
+  "structural": {
+    "two_sided": 74,
+    "yes_only": 417,
+    "no_only": 1,
+    "both_empty": 8
+  },
+  "floors": [
+    [
+      1.004,
+      "Will Flávio Bolsonaro win the second round of the 2026 Brazilian presidential election by 8–12%?",
+      0.16,
+      0.844,
+      106662.2
+    ],
+    [
+      1.005,
+      "Spread: Galatasaray SK (-2.5)",
+      0.015,
+      0.99,
+      27349.39
+    ],
+    [
+      1.006,
+      "Spread: ŠK Slovan Bratislava (-2.5)",
+      0.008,
+      0.998,
+      13982.6
+    ],
+    [
+      1.006,
+      "Will the Democratic Party win the NH-02 House seat?",
+      0.954,
+      0.052,
+      50860.58
+    ],
+    [
+      1.009,
+      "Spread: Eyüpspor (-3.5)",
+      0.01,
+      0.999,
+      36020.0
+    ],
+    [
+      1.009,
+      "Will the highest temperature in Amsterdam be 13°C on October 14?",
+      0.01,
+      0.999,
+      2540.04
+    ],
+    [
+      1.01,
+      "Dijon Football Côte d'Or vs. FC Metz: Both Teams to Score",
+      0.61,
+      0.4,
+      42997.49
+    ],
+    [
+      1.01,
+      "Exact Score: Red Bull Bragantino 1 - 2 Cruzeiro EC?",
+      0.08,
+      0.93,
+      19170.44
+    ],
+    [
+      1.01,
+      "Millwall FC vs. Swansea City AFC: 1st Half O/U 0.5",
+      0.71,
+      0.3,
+      8551.5
+    ],
+    [
+      1.01,
+      "Spread: Burnley FC (-1.5)",
+      0.34,
+      0.67,
+      17632.16
+    ]
+  ],
+  "entries": [
+    {
+      "total": 1.004,
+      "q": "Will Flávio Bolsonaro win the second round of the 2026 Brazilian presidential election by 8–12%?",
+      "yes": 0.16,
+      "no": 0.844,
+      "liq": 106662.2
+    },
+    {
+      "total": 1.005,
+      "q": "Spread: Galatasaray SK (-2.5)",
+      "yes": 0.015,
+      "no": 0.99,
+      "liq": 27349.39
+    }
+  ],
+  "tiers": {
+    "le_1000": 0,
+    "le_1005": 2,
+    "le_1010": 16,
+    "le_1020": 25,
+    "le_1030": 32
+  },
+  "floor": {
+    "total": 1.004,
+    "q": "Will Flávio Bolsonaro win the second round of the 2026 Brazilian presidential election by 8–12%?",
+    "yes": 0.16,
+    "no": 0.844,
+    "liq": 106662.2
+  }
+}
