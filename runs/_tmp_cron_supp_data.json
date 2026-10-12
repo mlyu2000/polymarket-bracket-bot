@@ -1,44 +1,94 @@
 {
-  "scan_markets": 500,
-  "books_both": 108,
-  "min_sum": 1.002,
-  "band_1005": 7,
-  "one_sided": 392,
-  "top5": [
-    [
-      1.002,
-      "FC Andorra vs. CD Castell\u00f3n: FC Andorra O/U 5.5",
-      0.005,
-      0.997,
-      3590.69
-    ],
-    [
-      1.004,
-      "CA Talleres vs. CA Independiente: O/U 8.5",
-      0.005,
-      0.999,
-      3790.34298
-    ],
-    [
-      1.005,
-      "Al Fayha Saudi Club vs. Al Riyadh Saudi Club: O/U 7.5",
-      0.009,
-      0.996,
-      4092.07565
-    ],
-    [
-      1.005,
-      "FC Midtjylland vs. FC K\u00f8benhavn: O/U 8.5",
-      0.006,
-      0.999,
-      7415.46571
-    ],
-    [
-      1.005,
-      "Gaziantep FK vs. \u00c7orum FK: O/U 7.5",
-      0.012,
-      0.993,
-      4555.61071
-    ]
+ "ts": "2026-10-12T21:58:03Z",
+ "markets": 500,
+ "scan_time": 52.69304847717285,
+ "two_sided": 66,
+ "yes_only": 426,
+ "empty": 8,
+ "counts": {
+  "1.005": 2,
+  "1.01": 12,
+  "1.02": 26,
+  "1.03": 30,
+  "1.05": 43
+ },
+ "floor": [
+  1.001,
+  "Will the highest temperature in Atlanta be between 80-81\u00b0F o",
+  0.002,
+  0.999,
+  2047.52442
+ ],
+ "rows": [
+  [
+   1.001,
+   "Will the highest temperature in Atlanta be between 80-81\u00b0F o",
+   0.002,
+   0.999,
+   2047.52442
+  ],
+  [
+   1.005,
+   "Spread: Galatasaray SK (-2.5)",
+   0.015,
+   0.99,
+   21392.12741
+  ],
+  [
+   1.006,
+   "Spread: \u0160K Slovan Bratislava (-2.5)",
+   0.008,
+   0.998,
+   13593.89996
+  ],
+  [
+   1.008,
+   "Spread: FC Porto (-3.5)",
+   0.01,
+   0.998,
+   1423.14372
+  ],
+  [
+   1.009,
+   "Spread: Lincoln Red Imps FC (-2.5)",
+   0.01,
+   0.999,
+   1415.10959
+  ],
+  [
+   1.01,
+   "Atalanta BC vs. P\u00e1fos FC: O/U 2.5",
+   0.62,
+   0.39,
+   6219.2654
+  ],
+  [
+   1.01,
+   "Spread: Burnley FC (-1.5)",
+   0.34,
+   0.67,
+   26061.9763
+  ],
+  [
+   1.01,
+   "Spread: Real Madrid CF (-2.5)",
+   0.36,
+   0.65,
+   13624.8399
+  ],
+  [
+   1.01,
+   "Will Georgia have more than 11.5 wins during the 2026 CFB se",
+   0.42,
+   0.59,
+   1902.0227
+  ],
+  [
+   1.01,
+   "Will Washington Capitals be the 2027 NHL Eastern Conference ",
+   0.1,
+   0.91,
+   55851.6637
   ]
+ ]
 }
