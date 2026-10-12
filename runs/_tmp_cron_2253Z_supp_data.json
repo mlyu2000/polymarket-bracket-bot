@@ -1,0 +1,89 @@
+{
+  "ts": "2026-10-12T22:53Z",
+  "markets": 500,
+  "brackets": 0,
+  "two_sided": 65,
+  "yes_only": 427,
+  "empty": 8,
+  "not_bracketable_pct": 87.0,
+  "tiers": {
+    "<=1.005": 3,
+    "<=1.01": 14,
+    "<=1.02": 26,
+    "<=1.03": 31,
+    "<=1.05": 44
+  },
+  "floor_top10": [
+    {
+      "total": 1.001,
+      "q": "Will the highest temperature in Atlanta be between 80-81\u00b0F on October 14?",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 2287.89426
+    },
+    {
+      "total": 1.004,
+      "q": "Spread: \u0160K Slovan Bratislava (-3.5)",
+      "yes": 0.005,
+      "no": 0.999,
+      "liq": 13133.75217
+    },
+    {
+      "total": 1.005,
+      "q": "Spread: Galatasaray SK (-2.5)",
+      "yes": 0.015,
+      "no": 0.99,
+      "liq": 21391.25407
+    },
+    {
+      "total": 1.006,
+      "q": "Spread: Manchester City FC (-3.5)",
+      "yes": 0.04,
+      "no": 0.966,
+      "liq": 15447.89758
+    },
+    {
+      "total": 1.006,
+      "q": "Spread: \u0160K Slovan Bratislava (-2.5)",
+      "yes": 0.008,
+      "no": 0.998,
+      "liq": 17947.71108
+    },
+    {
+      "total": 1.008,
+      "q": "Spread: Fenerbah\u00e7e SK (-3.5)",
+      "yes": 0.01,
+      "no": 0.998,
+      "liq": 15543.23843
+    },
+    {
+      "total": 1.01,
+      "q": "Will Washington Capitals be the 2027 NHL Eastern Conference Champion?",
+      "yes": 0.1,
+      "no": 0.91,
+      "liq": 47545.1877
+    },
+    {
+      "total": 1.01,
+      "q": "Spread: Real Madrid CF (-2.5)",
+      "yes": 0.36,
+      "no": 0.65,
+      "liq": 13629.0659
+    },
+    {
+      "total": 1.01,
+      "q": "Spread: Burnley FC (-1.5)",
+      "yes": 0.34,
+      "no": 0.67,
+      "liq": 26342.6945
+    },
+    {
+      "total": 1.01,
+      "q": "Atalanta BC vs. P\u00e1fos FC: O/U 2.5",
+      "yes": 0.62,
+      "no": 0.39,
+      "liq": 6210.1154
+    }
+  ],
+  "brackets_detail": []
+}
