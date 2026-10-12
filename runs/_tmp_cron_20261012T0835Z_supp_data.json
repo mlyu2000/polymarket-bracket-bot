@@ -1,0 +1,48 @@
+{
+  "ts": "2026-10-12T08:35Z",
+  "markets": 500,
+  "opps": [],
+  "near_misses": [
+    [
+      1.003,
+      "FK Livyi Bereh vs. FK Zorya Luhansk: O/U 8.5",
+      0.004,
+      0.999,
+      3530.25077
+    ],
+    [
+      1.004,
+      "Spread: Viking FK (-1.5)",
+      0.014,
+      0.99,
+      21252.22482
+    ],
+    [
+      1.005,
+      "Spread: LASK Linz (-1.5)",
+      0.03,
+      0.975,
+      11614.68798
+    ]
+  ],
+  "floor": 1.003,
+  "floor_entry": [
+    "FK Livyi Bereh vs. FK Zorya Luhansk: O/U 8.5",
+    0.004,
+    0.999,
+    3530.25077
+  ],
+  "band": {
+    "le_1_005": 3,
+    "le_1_010": 14,
+    "le_1_020": 24,
+    "le_1_030": 30
+  },
+  "structural": {
+    "two_sided": 58,
+    "yes_only": 429,
+    "no_only": 2,
+    "empty": 11
+  },
+  "scan_time": 48.627830028533936
+}
