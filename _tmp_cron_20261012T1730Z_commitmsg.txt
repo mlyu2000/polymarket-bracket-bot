@@ -1,0 +1,1 @@
+scan 1730Z 2026-10-12: 500 markets, 0 brackets, 2 near-misses (Levante O/U 4.5 1.004 dropped/resolved; Galatasaray -2.5 1.005 live, 33 YES asks + 9 NO asks, min-ask verified)
