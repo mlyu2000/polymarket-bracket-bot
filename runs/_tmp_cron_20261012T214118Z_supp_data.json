@@ -1,0 +1,24 @@
+{
+  "ts": "2026-10-12T21:41:18.165481+00:00",
+  "markets": 500,
+  "scan_time_s": 53.4,
+  "opps": [],
+  "near_misses": [
+    {
+      "total": 1.001,
+      "q": "Will the highest temperature in Atlanta be between",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 1605.26535,
+      "slug": "highest-temperature-in-atlanta-on-october-14-2026-80-81f"
+    },
+    {
+      "total": 1.005,
+      "q": "Spread: Galatasaray SK (-2.5)",
+      "yes": 0.015,
+      "no": 0.99,
+      "liq": 21436.44711,
+      "slug": "ucl-gal-fcb-2026-10-13-spread-home-2pt5"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "ts": "2026-10-12T21:42:30.069242+00:00",
+  "markets": 500,
+  "active_with_total": 67,
+  "two_sided": 67,
+  "yes_only": 425,
+  "empty": 8,
+  "bands": {
+    "<=1.005": 2,
+    "<=1.010": 12,
+    "<=1.020": 25,
+    "<=1.030": 31,
+    "<=1.050": 45,
+    "<1.000": 0
+  },
+  "floor_top10": [
+    {
+      "total": 1.001,
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 1605.26535,
+      "q": "Will the highest temperature in Atlanta be between 80-81\u00b0F on October 14?",
+      "slug": "highest-temperature-in-atlanta-on-october-14-2026-80-81f"
+    },
+    {
+      "total": 1.005,
+      "yes": 0.015,
+      "no": 0.99,
+      "liq": 21436.44711,
+      "q": "Spread: Galatasaray SK (-2.5)",
+      "slug": "ucl-gal-fcb-2026-10-13-spread-home-2pt5"
+    },
+    {
+      "total": 1.006,
+      "yes": 0.008,
+      "no": 0.998,
+      "liq": 13592.98443,
+      "q": "Spread: \u0160K Slovan Bratislava (-2.5)",
+      "slug": "ucl-sba-stu-2026-10-14-spread-home-2pt5"
+    },
+    {
+      "total": 1.008,
+      "yes": 0.01,
+      "no": 0.998,
+      "liq": 1408.289,
+      "q": "Spread: FC Porto (-3.5)",
+      "slug": "ucl-bet-por-2026-10-14-spread-away-3pt5"
+    },
+    {
+      "total": 1.009,
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 1416.64759,
+      "q": "Spread: Lincoln Red Imps FC (-2.5)",
+      "slug": "col-bra-lin-2026-10-15-spread-away-2pt5"
+    },
+    {
+      "total": 1.01,
+      "yes": 0.1,
+      "no": 0.91,
+      "liq": 55694.0774,
+      "q": "Will Washington Capitals be the 2027 NHL Eastern Conference Champion?",
+      "slug": "will-washington-capitals-be-the-2027-nhl-eastern-conference-champion-20260630185127021"
+    },
+    {
+      "total": 1.01,
+      "yes": 0.36,
+      "no": 0.65,
+      "liq": 13622.1999,
+      "q": "Spread: Real Madrid CF (-2.5)",
+      "slug": "lal-rea-sev-2026-10-18-spread-home-2pt5"
+    },
+    {
+      "total": 1.01,
+      "yes": 0.34,
+      "no": 0.67,
+      "liq": 25485.7977,
+      "q": "Spread: Burnley FC (-1.5)",
+      "slug": "elc-bur-cha-2026-10-13-spread-home-1pt5"
+    },
+    {
+      "total": 1.01,
+      "yes": 0.62,
+      "no": 0.39,
+      "liq": 6219.2654,
+      "q": "Atalanta BC vs. P\u00e1fos FC: O/U 2.5",
+      "slug": "col-ata-paf-2026-10-15-total-2pt5"
+    },
+    {
+      "total": 1.01,
+      "yes": 0.37,
+      "no": 0.64,
+      "liq": 22541.2916,
+      "q": "Wolverhampton Wanderers FC vs. Bolton Wanderers FC: O/U 3.5",
+      "slug": "elc-wol-bol-2026-10-13-total-3pt5"
+    }
+  ]
+}
