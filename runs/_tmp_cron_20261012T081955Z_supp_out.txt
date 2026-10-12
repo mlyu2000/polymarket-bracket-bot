@@ -1,0 +1,6 @@
+SCAN 20261012T082111Z: 500 markets / 58 priced / 62.7s
+one-sided: {'yes_only': 429, 'no_only': 2, 'empty': 11, 'both': 58}
+BRACKETS (detector, sum<1.00): 0
+TRUE FLOOR (min-ask, <=1.005): 1.003 | FK Livyi Bereh vs. FK Zorya Luhansk: O/U 8.5
+  floor detail: Y@0.004 N@0.999 liq=3423.27762
+  1.0040 | Y@0.0140 N@0.9900 liq=21488.67425 | Spread: Viking FK (-1.5)
