@@ -1,0 +1,20 @@
+{
+  "ts": "20261012T063439Z",
+  "markets": 500,
+  "priced": 55,
+  "scan_time": 55.0,
+  "one_sided": {
+    "yes_only": 433,
+    "no_only": 1,
+    "empty": 11,
+    "both": 55
+  },
+  "floor": null,
+  "floor_q": null,
+  "floor_yes": null,
+  "floor_no": null,
+  "floor_liq": null,
+  "band": [],
+  "brackets": [],
+  "detector_opps": 0
+}

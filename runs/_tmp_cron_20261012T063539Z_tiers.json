@@ -1,0 +1,106 @@
+{
+  "ts": "20261012T063539Z",
+  "markets": 500,
+  "priced": 55,
+  "scan_time": 53.1,
+  "one_sided": {
+    "yes_only": 433,
+    "no_only": 1,
+    "empty": 11,
+    "both": 55
+  },
+  "tiers": {
+    "1.005": 0,
+    "1.01": 10,
+    "1.02": 18,
+    "1.03": 25,
+    "1.05": 38,
+    "1.1": 49
+  },
+  "top12": [
+    [
+      1.008,
+      "Spread: Venezia FC (-3.5)",
+      0.01,
+      0.998,
+      6397.08147
+    ],
+    [
+      1.008,
+      "Will the Democratic Party win the NH-02 House seat",
+      0.954,
+      0.054,
+      50253.25021
+    ],
+    [
+      1.009,
+      "FK Livyi Bereh vs. FK Zorya Luhansk: O/U 8.5",
+      0.01,
+      0.999,
+      4072.90755
+    ],
+    [
+      1.01,
+      "Aarhus GF vs. S\u00f8nderjyske Fodbold: O/U 4.5",
+      0.24,
+      0.77,
+      9979.4058
+    ],
+    [
+      1.01,
+      "Exact Score: Red Bull Bragantino 1 - 2 Cruzeiro EC",
+      0.08,
+      0.93,
+      21895.1979
+    ],
+    [
+      1.01,
+      "Spread: Real Madrid CF (-2.5)",
+      0.36,
+      0.65,
+      14112.6076
+    ],
+    [
+      1.01,
+      "Will LASK Linz vs. Liverpool FC end in a draw?",
+      0.15,
+      0.86,
+      80490.3537
+    ],
+    [
+      1.01,
+      "Will Sheffield United FC win on 2026-10-14?",
+      0.31,
+      0.7,
+      16964.4638
+    ],
+    [
+      1.01,
+      "Will Washington Capitals be the 2027 NHL Eastern C",
+      0.1,
+      0.91,
+      49529.4023
+    ],
+    [
+      1.01,
+      "Wolverhampton Wanderers FC vs. Bolton Wanderers FC",
+      0.37,
+      0.64,
+      13039.8668
+    ],
+    [
+      1.012,
+      "Spread: Viking FK (-1.5)",
+      0.014,
+      0.998,
+      17365.18437
+    ],
+    [
+      1.016,
+      "Spread: \u0160K Slovan Bratislava (-2.5)",
+      0.017,
+      0.999,
+      12214.2195
+    ]
+  ]
+}
