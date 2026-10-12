@@ -1,0 +1,17 @@
+{
+  "ts": "20261012_1221",
+  "markets": 500,
+  "brackets": 0,
+  "floor_minask": 1.004,
+  "floor_market": "Spread: Venezia FC (-3.5)",
+  "two_sided_with_asks": 71,
+  "bands": {
+    "<=1.005": 1,
+    "<=1.010": 11,
+    "<=1.020": 21,
+    "<=1.030": 28,
+    "<=1.050": 41
+  },
+  "median_total": 1.041,
+  "note": "near-miss in task script uses asks[0] (DESC-sorted = worst ask) -> always ~2.0, artifact. True floor via min(all asks)."
+}
