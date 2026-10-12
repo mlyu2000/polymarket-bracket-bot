@@ -1,0 +1,81 @@
+{
+  "ts": "20261012T025307Z",
+  "scan_time_s": 53.6,
+  "markets": 500,
+  "bracketable_n": 0,
+  "le_1005_n": 3,
+  "le_1010_n": 17,
+  "le_1020_n": 24,
+  "floor_top10": [
+    {
+      "total": 1.003,
+      "q": "Real Valladolid CF vs. Albacete Balompi\u00e9: O/U 7.5",
+      "yes": 0.008,
+      "no": 0.995,
+      "liq": 6015.21611
+    },
+    {
+      "total": 1.003,
+      "q": "Will the price of Bitcoin be above $90,000 on October 14?",
+      "yes": 0.015,
+      "no": 0.988,
+      "liq": 40635.82574
+    },
+    {
+      "total": 1.004,
+      "q": "Will the price of Ethereum be between $3,000 and $3,100 on O",
+      "yes": 0.005,
+      "no": 0.999,
+      "liq": 3838.75162
+    },
+    {
+      "total": 1.006,
+      "q": "Spread: Galatasaray SK (-2.5)",
+      "yes": 0.014,
+      "no": 0.992,
+      "liq": 14173.91756
+    },
+    {
+      "total": 1.006,
+      "q": "Spread: Viking FK (-1.5)",
+      "yes": 0.015,
+      "no": 0.991,
+      "liq": 22851.6604
+    },
+    {
+      "total": 1.008,
+      "q": "Spread: Venezia FC (-3.5)",
+      "yes": 0.01,
+      "no": 0.998,
+      "liq": 7110.14041
+    },
+    {
+      "total": 1.009,
+      "q": "Spread: LASK Linz (-1.5)",
+      "yes": 0.03,
+      "no": 0.979,
+      "liq": 13168.21643
+    },
+    {
+      "total": 1.01,
+      "q": "Aarhus GF vs. S\u00f8nderjyske Fodbold: O/U 4.5",
+      "yes": 0.24,
+      "no": 0.77,
+      "liq": 10866.9041
+    },
+    {
+      "total": 1.01,
+      "q": "Exact Score: Red Bull Bragantino 1 - 2 Cruzeiro EC?",
+      "yes": 0.08,
+      "no": 0.93,
+      "liq": 10566.4742
+    },
+    {
+      "total": 1.01,
+      "q": "Game Spread: Iva Jovic (-6.5) vs Mia Pohankova (+6.5)",
+      "yes": 0.5,
+      "no": 0.51,
+      "liq": 12770.0318
+    }
+  ]
+}
