@@ -1,0 +1,40 @@
+{
+  "timestamp": "2026-10-12T09:35Z",
+  "markets": 500,
+  "two_sided": 60,
+  "brackets": 0,
+  "floor_minask": 1.004,
+  "floor_market": "Spread: Viking FK (-1.5)",
+  "top5": [
+    [
+      1.004,
+      "Spread: Viking FK (-1.5)",
+      0.014,
+      0.99
+    ],
+    [
+      1.007,
+      "Spread: Venezia FC (-3.5)",
+      0.009,
+      0.998
+    ],
+    [
+      1.008,
+      "Will the Democratic Party win the NH-02 House seat",
+      0.954,
+      0.054
+    ],
+    [
+      1.01,
+      "Aarhus GF vs. S\u00f8nderjyske Fodbold: O/U 4.5",
+      0.24,
+      0.77
+    ],
+    [
+      1.01,
+      "Exact Score: Red Bull Bragantino 1 - 2 Cruzeiro EC",
+      0.08,
+      0.93
+    ]
+  ]
+}
