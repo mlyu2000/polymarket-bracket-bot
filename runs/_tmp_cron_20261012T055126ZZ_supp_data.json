@@ -1,0 +1,70 @@
+{
+  "markets": 500,
+  "bracketable": 60,
+  "yes_only": 428,
+  "no_only": 1,
+  "empty": 11,
+  "floors": [
+    [
+      1.004,
+      "Spread: Viking FK (-1.5)",
+      0.015,
+      0.989,
+      21244.40413
+    ],
+    [
+      1.007,
+      "Spread: Galatasaray SK (-2.5)",
+      0.014,
+      0.993,
+      15326.96695
+    ],
+    [
+      1.008,
+      "Spread: Venezia FC (-3.5)",
+      0.01,
+      0.998,
+      6393.23447
+    ],
+    [
+      1.008,
+      "Will the Democratic Party win the NH-02 House seat",
+      0.954,
+      0.054,
+      50249.4664
+    ],
+    [
+      1.009,
+      "FK Livyi Bereh vs. FK Zorya Luhansk: O/U 8.5",
+      0.01,
+      0.999,
+      3995.34367
+    ],
+    [
+      1.01,
+      "Aarhus GF vs. S\u00f8nderjyske Fodbold: O/U 4.5",
+      0.24,
+      0.77,
+      11087.8355
+    ],
+    [
+      1.01,
+      "Exact Score: Red Bull Bragantino 1 - 2 Cruzeiro EC",
+      0.08,
+      0.93,
+      19448.5231
+    ],
+    [
+      1.01,
+      "Spread: Real Madrid CF (-2.5)",
+      0.36,
+      0.65,
+      13466.4398
+    ]
+  ],
+  "min_floor": 1.004,
+  "n_le_1005": 1,
+  "n_le_1010": 11,
+  "n_le_1020": 22,
+  "n_le_0998": 0
+}
