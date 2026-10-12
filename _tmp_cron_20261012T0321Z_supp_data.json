@@ -1,0 +1,46 @@
+{
+  "ts": "20261012T0321Z",
+  "markets": 500,
+  "priced": 59,
+  "scan_time": 54.831597566604614,
+  "true_floor": 1.003,
+  "floor_q": "Real Valladolid CF vs. Albacete Balompi\u00e9: O/U 7.5",
+  "floor_yes": 0.008,
+  "floor_no": 0.995,
+  "floor_liq": 6466.48511,
+  "band": [
+    [
+      1.003,
+      "Real Valladolid CF vs. Albacete Balompi\u00e9: O/U 7.5",
+      0.008,
+      0.995,
+      6466.48511
+    ],
+    [
+      1.003,
+      "Will the price of Bitcoin be above $90,000 on October 14?",
+      0.015,
+      0.988,
+      40354.7819
+    ],
+    [
+      1.005,
+      "Spread: LASK Linz (-1.5)",
+      0.03,
+      0.975,
+      13215.96204
+    ]
+  ],
+  "tiers": {
+    "<=1.005": 3,
+    "<=1.010": 15,
+    "<=1.020": 22,
+    "<=1.030": 24
+  },
+  "structural": {
+    "two_sided": 59,
+    "yes_only": 429,
+    "no_only": 1,
+    "empty": 11
+  }
+}
