@@ -1,0 +1,162 @@
+{
+  "ts": "2026-10-12T22:23:25Z",
+  "markets": 500,
+  "floors": [
+    [
+      1.001,
+      "Will the highest temperature in Atlanta be between 80-81\u00b0F o",
+      0.002,
+      0.999,
+      1992.35598
+    ],
+    [
+      1.004,
+      "Spread: \u0160K Slovan Bratislava (-3.5)",
+      0.005,
+      0.999,
+      12502.69994
+    ],
+    [
+      1.005,
+      "Spread: Galatasaray SK (-2.5)",
+      0.015,
+      0.99,
+      21446.48182
+    ],
+    [
+      1.006,
+      "Spread: Manchester City FC (-3.5)",
+      0.04,
+      0.966,
+      15446.50114
+    ],
+    [
+      1.006,
+      "Spread: \u0160K Slovan Bratislava (-2.5)",
+      0.008,
+      0.998,
+      17946.71908
+    ],
+    [
+      1.009,
+      "Spread: Fenerbah\u00e7e SK (-3.5)",
+      0.01,
+      0.999,
+      14905.2248
+    ],
+    [
+      1.009,
+      "Spread: Lincoln Red Imps FC (-2.5)",
+      0.01,
+      0.999,
+      1559.59159
+    ],
+    [
+      1.01,
+      "Atalanta BC vs. P\u00e1fos FC: O/U 2.5",
+      0.62,
+      0.39,
+      6025.7254
+    ],
+    [
+      1.01,
+      "Spread: Burnley FC (-1.5)",
+      0.34,
+      0.67,
+      25717.985
+    ],
+    [
+      1.01,
+      "Spread: Real Madrid CF (-2.5)",
+      0.36,
+      0.65,
+      14059.0867
+    ]
+  ],
+  "entries": [
+    {
+      "total": 1.001,
+      "q": "Will the highest temperature in Atlanta be between 80-81\u00b0F on October 14?",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 1992.35598
+    },
+    {
+      "total": 1.004,
+      "q": "Spread: \u0160K Slovan Bratislava (-3.5)",
+      "yes": 0.005,
+      "no": 0.999,
+      "liq": 12502.69994
+    },
+    {
+      "total": 1.005,
+      "q": "Spread: Galatasaray SK (-2.5)",
+      "yes": 0.015,
+      "no": 0.99,
+      "liq": 21446.48182
+    },
+    {
+      "total": 1.006,
+      "q": "Spread: Manchester City FC (-3.5)",
+      "yes": 0.04,
+      "no": 0.966,
+      "liq": 15446.50114
+    },
+    {
+      "total": 1.006,
+      "q": "Spread: \u0160K Slovan Bratislava (-2.5)",
+      "yes": 0.008,
+      "no": 0.998,
+      "liq": 17946.71908
+    },
+    {
+      "total": 1.009,
+      "q": "Spread: Fenerbah\u00e7e SK (-3.5)",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 14905.2248
+    },
+    {
+      "total": 1.009,
+      "q": "Spread: Lincoln Red Imps FC (-2.5)",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 1559.59159
+    },
+    {
+      "total": 1.01,
+      "q": "Will Washington Capitals be the 2027 NHL Eastern Conference Champion?",
+      "yes": 0.1,
+      "no": 0.91,
+      "liq": 55766.7964
+    },
+    {
+      "total": 1.01,
+      "q": "Spread: Real Madrid CF (-2.5)",
+      "yes": 0.36,
+      "no": 0.65,
+      "liq": 14059.0867
+    },
+    {
+      "total": 1.01,
+      "q": "Spread: Burnley FC (-1.5)",
+      "yes": 0.34,
+      "no": 0.67,
+      "liq": 25717.985
+    }
+  ],
+  "tiers": {
+    "le1000": 0,
+    "le1005": 3,
+    "le1010": 14,
+    "le1020": 27,
+    "le1030": 30,
+    "le1050": 45
+  },
+  "structural": {
+    "two_sided": 66,
+    "yes_only": 425,
+    "no_only": 0,
+    "empty": 9
+  }
+}
