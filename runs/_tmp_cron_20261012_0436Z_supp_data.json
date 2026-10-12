@@ -1,0 +1,89 @@
+{
+ "ts": "2026-10-12T04:37:43Z",
+ "markets": 500,
+ "scan_time": 56.5,
+ "brackets_min_ask": 0,
+ "two_sided": 61,
+ "yes_only": 427,
+ "no_only": 1,
+ "empty_both": 11,
+ "not_bracketable_pct": 87.8,
+ "floor_top10": [
+  {
+   "total": 1.003,
+   "yes": 0.008,
+   "no": 0.995,
+   "liq": 7291.28912,
+   "q": "Real Valladolid CF vs. Albacete Balompié: O/U 7.5"
+  },
+  {
+   "total": 1.003,
+   "yes": 0.015,
+   "no": 0.988,
+   "liq": 40003.6438,
+   "q": "Will the price of Bitcoin be above $90,000 on October 14?"
+  },
+  {
+   "total": 1.004,
+   "yes": 0.005,
+   "no": 0.999,
+   "liq": 4345.77224,
+   "q": "FK Livyi Bereh vs. FK Zorya Luhansk: O/U 8.5"
+  },
+  {
+   "total": 1.005,
+   "yes": 0.015,
+   "no": 0.99,
+   "liq": 22697.81962,
+   "q": "Spread: Viking FK (-1.5)"
+  },
+  {
+   "total": 1.007,
+   "yes": 0.014,
+   "no": 0.993,
+   "liq": 15326.18114,
+   "q": "Spread: Galatasaray SK (-2.5)"
+  },
+  {
+   "total": 1.008,
+   "yes": 0.01,
+   "no": 0.998,
+   "liq": 6410.84916,
+   "q": "Spread: Venezia FC (-3.5)"
+  },
+  {
+   "total": 1.008,
+   "yes": 0.954,
+   "no": 0.054,
+   "liq": 50246.2993,
+   "q": "Will the Democratic Party win the NH-02 House seat?"
+  },
+  {
+   "total": 1.01,
+   "yes": 0.24,
+   "no": 0.77,
+   "liq": 11051.6832,
+   "q": "Aarhus GF vs. Sønderjyske Fodbold: O/U 4.5"
+  },
+  {
+   "total": 1.01,
+   "yes": 0.08,
+   "no": 0.93,
+   "liq": 12807.9942,
+   "q": "Exact Score: Red Bull Bragantino 1 - 2 Cruzeiro EC?"
+  },
+  {
+   "total": 1.01,
+   "yes": 0.36,
+   "no": 0.65,
+   "liq": 13394.3398,
+   "q": "Spread: Real Madrid CF (-2.5)"
+  }
+ ],
+ "floor_history_bands": {
+  "le_1_005": 4,
+  "le_1_010": 15,
+  "le_1_020": 22,
+  "le_1_050": 40
+ }
+}
