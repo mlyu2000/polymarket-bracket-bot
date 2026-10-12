@@ -1,0 +1,39 @@
+{
+  "ts": "20261012T042024Z",
+  "markets": 500,
+  "priced": 61,
+  "scan_time": 54.009132862091064,
+  "true_floor": 1.002,
+  "floor_q": "Will the price of Bitcoin be above $90,000 on October 14?",
+  "floor_yes": 0.014,
+  "floor_no": 0.988,
+  "floor_liq": 40435.97966,
+  "band": [
+    [
+      1.002,
+      "Will the price of Bitcoin be above $90,000 on October 14?",
+      0.014,
+      0.988,
+      40435.97966
+    ],
+    [
+      1.003,
+      "Real Valladolid CF vs. Albacete Balompi\u00e9: O/U 7.5",
+      0.008,
+      0.995,
+      7476.70082
+    ]
+  ],
+  "tiers": {
+    "<=1.005": 2,
+    "<=1.010": 13,
+    "<=1.020": 21,
+    "<=1.030": 24
+  },
+  "structural": {
+    "two_sided": 61,
+    "yes_only": 427,
+    "no_only": 1,
+    "empty": 11
+  }
+}
