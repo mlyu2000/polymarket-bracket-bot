@@ -1,0 +1,112 @@
+{
+  "timestamp_utc": "2026-10-12T0108Z",
+  "markets": 500,
+  "scan_time_s": 54.4,
+  "floor_history": [
+    {
+      "sum": 1.003,
+      "q": "Will the price of Bitcoin be above $90,000 on October 14?",
+      "yes_ask": 0.015,
+      "no_ask": 0.988,
+      "liq": 38909.31137
+    },
+    {
+      "sum": 1.005,
+      "q": "Real Valladolid CF vs. Albacete Balompi\u00e9: O/U 7.5",
+      "yes_ask": 0.01,
+      "no_ask": 0.995,
+      "liq": 3847.28279
+    },
+    {
+      "sum": 1.005,
+      "q": "Spread: Viking FK (-1.5)",
+      "yes_ask": 0.015,
+      "no_ask": 0.99,
+      "liq": 15169.86835
+    },
+    {
+      "sum": 1.005,
+      "q": "Will the price of Ethereum be between $3,000 and $3,100 on October 12?",
+      "yes_ask": 0.006,
+      "no_ask": 0.999,
+      "liq": 4341.86976
+    },
+    {
+      "sum": 1.007,
+      "q": "Spread: Galatasaray SK (-2.5)",
+      "yes_ask": 0.014,
+      "no_ask": 0.993,
+      "liq": 7400.78718
+    },
+    {
+      "sum": 1.007,
+      "q": "Will Dplus KIA Qualify for Worlds 2026?",
+      "yes_ask": 0.998,
+      "no_ask": 0.009,
+      "liq": 129.78674
+    },
+    {
+      "sum": 1.008,
+      "q": "Spread: Venezia FC (-3.5)",
+      "yes_ask": 0.01,
+      "no_ask": 0.998,
+      "liq": 7108.47941
+    },
+    {
+      "sum": 1.01,
+      "q": "Aarhus GF vs. S\u00f8nderjyske Fodbold: O/U 4.5",
+      "yes_ask": 0.24,
+      "no_ask": 0.77,
+      "liq": 10669.7977
+    },
+    {
+      "sum": 1.01,
+      "q": "Exact Score: Red Bull Bragantino 1 - 2 Cruzeiro EC?",
+      "yes_ask": 0.08,
+      "no_ask": 0.93,
+      "liq": 9971.6889
+    },
+    {
+      "sum": 1.01,
+      "q": "Game Spread: Iva Jovic (-6.5) vs Mia Pohankova (+6.5)",
+      "yes_ask": 0.43,
+      "no_ask": 0.58,
+      "liq": 11114.8841
+    },
+    {
+      "sum": 1.01,
+      "q": "Spread: Real Madrid CF (-2.5)",
+      "yes_ask": 0.36,
+      "no_ask": 0.65,
+      "liq": 13283.8477
+    },
+    {
+      "sum": 1.01,
+      "q": "Tractor Tabriz vs. Al-Shamal: 1st Half O/U 0.5",
+      "yes_ask": 0.68,
+      "no_ask": 0.33,
+      "liq": 5615.7406
+    },
+    {
+      "sum": 1.01,
+      "q": "Will Kuopion PS vs. Trabzonspor end in a draw?",
+      "yes_ask": 0.21,
+      "no_ask": 0.8,
+      "liq": 9892.6904
+    },
+    {
+      "sum": 1.01,
+      "q": "Will Sheffield United FC win on 2026-10-14?",
+      "yes_ask": 0.31,
+      "no_ask": 0.7,
+      "liq": 16415.6039
+    },
+    {
+      "sum": 1.01,
+      "q": "Will Washington Capitals be the 2027 NHL Eastern Conference Champion?",
+      "yes_ask": 0.1,
+      "no_ask": 0.91,
+      "liq": 49063.9525
+    }
+  ]
+}
