@@ -1,0 +1,91 @@
+{
+  "ts_utc": "2026-10-12T09:49:48Z",
+  "markets": 500,
+  "scan_time": 53.2,
+  "structural": {
+    "two_sided": 62,
+    "yes_only": 426,
+    "no_only": 1,
+    "empty_or_invalid": 11
+  },
+  "floor": 1.004,
+  "bands": {
+    "<=1.005": 1,
+    "<=1.010": 13,
+    "<=1.020": 25,
+    "<=1.030": 32,
+    "<1.00": 0
+  },
+  "lowest_10": [
+    {
+      "total": 1.004,
+      "yes": 0.014,
+      "no": 0.99,
+      "liq": 28652.49574,
+      "q": "Spread: Viking FK (-1.5)"
+    },
+    {
+      "total": 1.007,
+      "yes": 0.009,
+      "no": 0.998,
+      "liq": 6628.63685,
+      "q": "Spread: Venezia FC (-3.5)"
+    },
+    {
+      "total": 1.008,
+      "yes": 0.954,
+      "no": 0.054,
+      "liq": 50778.10787,
+      "q": "Will the Democratic Party win the NH-02 House seat?"
+    },
+    {
+      "total": 1.01,
+      "yes": 0.24,
+      "no": 0.77,
+      "liq": 12138.1443,
+      "q": "Aarhus GF vs. S\u00f8nderjyske Fodbold: O/U 4.5"
+    },
+    {
+      "total": 1.01,
+      "yes": 0.08,
+      "no": 0.93,
+      "liq": 22679.2237,
+      "q": "Exact Score: Red Bull Bragantino 1 - 2 Cruzeiro EC?"
+    },
+    {
+      "total": 1.01,
+      "yes": 0.71,
+      "no": 0.3,
+      "liq": 7826.3561,
+      "q": "Millwall FC vs. Swansea City AFC: 1st Half O/U 0.5"
+    },
+    {
+      "total": 1.01,
+      "yes": 0.36,
+      "no": 0.65,
+      "liq": 13544.6676,
+      "q": "Spread: Real Madrid CF (-2.5)"
+    },
+    {
+      "total": 1.01,
+      "yes": 0.23,
+      "no": 0.78,
+      "liq": 119493.5012,
+      "q": "Will Fl\u00e1vio Bolsonaro win the second round of the 2026 Brazilian presi"
+    },
+    {
+      "total": 1.01,
+      "yes": 0.15,
+      "no": 0.86,
+      "liq": 108989.4644,
+      "q": "Will LASK Linz vs. Liverpool FC end in a draw?"
+    },
+    {
+      "total": 1.01,
+      "yes": 0.31,
+      "no": 0.7,
+      "liq": 17348.7083,
+      "q": "Will Sheffield United FC win on 2026-10-14?"
+    }
+  ]
+}
