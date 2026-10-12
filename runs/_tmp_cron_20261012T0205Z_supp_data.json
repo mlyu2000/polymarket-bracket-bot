@@ -1,0 +1,101 @@
+{
+ "ts": "20261012T0205Z",
+ "markets": 500,
+ "two_sided": 62,
+ "brackets": [],
+ "floor": {
+  "min": 1.003,
+  "p1": 1.003,
+  "p5": 1.008,
+  "median": 1.041
+ },
+ "top10": [
+  {
+   "q": "Will the price of Bitcoin be above $90,000 on October 14?",
+   "yes": 0.015,
+   "no": 0.988,
+   "sum": 1.003,
+   "liq": 40373.25391,
+   "bracket": false
+  },
+  {
+   "q": "Will the price of Ethereum be between $3,000 and $3,100 on October 12?",
+   "yes": 0.006,
+   "no": 0.999,
+   "sum": 1.005,
+   "liq": 4364.93791,
+   "bracket": false
+  },
+  {
+   "q": "Real Valladolid CF vs. Albacete Balompi\u00e9: O/U 7.5",
+   "yes": 0.01,
+   "no": 0.995,
+   "sum": 1.005,
+   "liq": 3853.89479,
+   "bracket": false
+  },
+  {
+   "q": "Spread: LASK Linz (-1.5)",
+   "yes": 0.03,
+   "no": 0.978,
+   "sum": 1.008,
+   "liq": 13044.25687,
+   "bracket": false
+  },
+  {
+   "q": "Spread: Venezia FC (-3.5)",
+   "yes": 0.01,
+   "no": 0.998,
+   "sum": 1.008,
+   "liq": 7110.26041,
+   "bracket": false
+  },
+  {
+   "q": "Spread: Viking FK (-1.5)",
+   "yes": 0.015,
+   "no": 0.994,
+   "sum": 1.009,
+   "liq": 18464.89478,
+   "bracket": false
+  },
+  {
+   "q": "Will Washington Capitals be the 2027 NHL Eastern Conference Champion?",
+   "yes": 0.1,
+   "no": 0.91,
+   "sum": 1.01,
+   "liq": 49646.2797,
+   "bracket": false
+  },
+  {
+   "q": "Spread: Real Madrid CF (-2.5)",
+   "yes": 0.36,
+   "no": 0.65,
+   "sum": 1.01,
+   "liq": 13431.5432,
+   "bracket": false
+  },
+  {
+   "q": "Tractor Tabriz vs. Al-Shamal: 1st Half O/U 0.5",
+   "yes": 0.68,
+   "no": 0.33,
+   "sum": 1.01,
+   "liq": 5627.9113,
+   "bracket": false
+  },
+  {
+   "q": "Wolverhampton Wanderers FC vs. Bolton Wanderers FC: O/U 3.5",
+   "yes": 0.37,
+   "no": 0.64,
+   "sum": 1.01,
+   "liq": 14798.5708,
+   "bracket": false
+  }
+ ],
+ "structural": {
+  "two_sided": 62,
+  "yes_only": 423,
+  "no_only": 1,
+  "empty": 14
+ },
+ "scan_time": 65.5
+}
