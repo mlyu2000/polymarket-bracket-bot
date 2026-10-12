@@ -1,0 +1,53 @@
+{
+  "ts": "20261012T033624Z",
+  "markets": 500,
+  "priced": 61,
+  "scan_time": 53.694238901138306,
+  "true_floor": 1.003,
+  "floor_q": "Real Valladolid CF vs. Albacete Balompi\u00e9: O/U 7.5",
+  "floor_yes": 0.008,
+  "floor_no": 0.995,
+  "floor_liq": 6466.48511,
+  "band": [
+    [
+      1.003,
+      "Real Valladolid CF vs. Albacete Balompi\u00e9: O/U 7.5",
+      0.008,
+      0.995,
+      6466.48511
+    ],
+    [
+      1.003,
+      "Will the price of Bitcoin be above $90,000 on October 14?",
+      0.015,
+      0.988,
+      40356.9445
+    ],
+    [
+      1.005,
+      "Spread: LASK Linz (-1.5)",
+      0.03,
+      0.975,
+      13214.36304
+    ],
+    [
+      1.005,
+      "Will Elon Musk post 360-379 tweets from October 6 to October",
+      0.395,
+      0.61,
+      7665.83942
+    ]
+  ],
+  "tiers": {
+    "<=1.005": 4,
+    "<=1.010": 16,
+    "<=1.020": 23,
+    "<=1.030": 25
+  },
+  "structural": {
+    "two_sided": 61,
+    "yes_only": 427,
+    "no_only": 1,
+    "empty": 11
+  }
+}
