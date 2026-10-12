@@ -1,0 +1,162 @@
+{
+  "ts": "2026-10-12T21:14:02Z",
+  "markets": 500,
+  "floors": [
+    [
+      1.001,
+      "Will the highest temperature in Atlanta be between 80-81\u00b0F o",
+      0.002,
+      0.999,
+      2148.07323
+    ],
+    [
+      1.005,
+      "Spread: Galatasaray SK (-2.5)",
+      0.015,
+      0.99,
+      23010.35911
+    ],
+    [
+      1.006,
+      "Spread: \u0160K Slovan Bratislava (-2.5)",
+      0.008,
+      0.998,
+      13610.73508
+    ],
+    [
+      1.008,
+      "Spread: FC Porto (-3.5)",
+      0.01,
+      0.998,
+      1390.81904
+    ],
+    [
+      1.009,
+      "Spread: Lincoln Red Imps FC (-2.5)",
+      0.01,
+      0.999,
+      1406.20059
+    ],
+    [
+      1.01,
+      "Atalanta BC vs. P\u00e1fos FC: O/U 2.5",
+      0.62,
+      0.39,
+      6178.3454
+    ],
+    [
+      1.01,
+      "Spread: Burnley FC (-1.5)",
+      0.34,
+      0.67,
+      25942.2807
+    ],
+    [
+      1.01,
+      "Spread: Manchester City FC (-3.5)",
+      0.05,
+      0.96,
+      14422.9093
+    ],
+    [
+      1.01,
+      "Spread: Real Madrid CF (-2.5)",
+      0.36,
+      0.65,
+      13669.9563
+    ],
+    [
+      1.01,
+      "US-Iran Hormuz Agreement by October 31?",
+      0.136,
+      0.874,
+      41249.22041
+    ]
+  ],
+  "entries": [
+    {
+      "total": 1.001,
+      "q": "Will the highest temperature in Atlanta be between 80-81\u00b0F on October 14?",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 2148.07323
+    },
+    {
+      "total": 1.005,
+      "q": "Spread: Galatasaray SK (-2.5)",
+      "yes": 0.015,
+      "no": 0.99,
+      "liq": 23010.35911
+    },
+    {
+      "total": 1.006,
+      "q": "Spread: \u0160K Slovan Bratislava (-2.5)",
+      "yes": 0.008,
+      "no": 0.998,
+      "liq": 13610.73508
+    },
+    {
+      "total": 1.008,
+      "q": "Spread: FC Porto (-3.5)",
+      "yes": 0.01,
+      "no": 0.998,
+      "liq": 1390.81904
+    },
+    {
+      "total": 1.009,
+      "q": "Spread: Lincoln Red Imps FC (-2.5)",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 1406.20059
+    },
+    {
+      "total": 1.01,
+      "q": "Will Washington Capitals be the 2027 NHL Eastern Conference Champion?",
+      "yes": 0.1,
+      "no": 0.91,
+      "liq": 56074.3612
+    },
+    {
+      "total": 1.01,
+      "q": "Spread: Manchester City FC (-3.5)",
+      "yes": 0.05,
+      "no": 0.96,
+      "liq": 14422.9093
+    },
+    {
+      "total": 1.01,
+      "q": "Spread: Real Madrid CF (-2.5)",
+      "yes": 0.36,
+      "no": 0.65,
+      "liq": 13669.9563
+    },
+    {
+      "total": 1.01,
+      "q": "Spread: Burnley FC (-1.5)",
+      "yes": 0.34,
+      "no": 0.67,
+      "liq": 25942.2807
+    },
+    {
+      "total": 1.01,
+      "q": "US-Iran Hormuz Agreement by October 31?",
+      "yes": 0.136,
+      "no": 0.874,
+      "liq": 41249.22041
+    }
+  ],
+  "tiers": {
+    "le1000": 0,
+    "le1005": 2,
+    "le1010": 15,
+    "le1020": 26,
+    "le1030": 31,
+    "le1050": 45
+  },
+  "structural": {
+    "two_sided": 68,
+    "yes_only": 422,
+    "no_only": 1,
+    "empty": 9
+  }
+}
