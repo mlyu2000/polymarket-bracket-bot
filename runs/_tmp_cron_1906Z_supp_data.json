@@ -1,0 +1,130 @@
+{
+  "timestamp_utc": "2026-10-12T19:06Z",
+  "markets_scanned": 500,
+  "with_books": 69,
+  "two_sided": 27,
+  "yes_only": 42,
+  "top15_min_ask": [
+    {
+      "q": "GKS Katowice vs. Wieczysta Krakow: O/U 1.5",
+      "yes_ask": 0.907,
+      "no_ask": 0.096,
+      "total": 1.0030000000000001,
+      "liq": 18516.44967,
+      "two_sided": true
+    },
+    {
+      "q": "Spread: Galatasaray SK (-2.5)",
+      "yes_ask": 0.015,
+      "no_ask": 0.99,
+      "total": 1.005,
+      "liq": 19956.03501,
+      "two_sided": false
+    },
+    {
+      "q": "Levante UD vs. Sevilla FC: Sevilla FC O/U 4.5",
+      "yes_ask": 0.012,
+      "no_ask": 0.993,
+      "total": 1.005,
+      "liq": 149.77934,
+      "two_sided": false
+    },
+    {
+      "q": "Will the Democratic Party win the NH-02 House seat?",
+      "yes_ask": 0.954,
+      "no_ask": 0.052,
+      "total": 1.006,
+      "liq": 49888.11699,
+      "two_sided": true
+    },
+    {
+      "q": "Spread: \u0160K Slovan Bratislava (-2.5)",
+      "yes_ask": 0.008,
+      "no_ask": 0.999,
+      "total": 1.007,
+      "liq": 12777.50746,
+      "two_sided": false
+    },
+    {
+      "q": "Will the highest temperature in Amsterdam be 13\u00b0C on October 14?",
+      "yes_ask": 0.01,
+      "no_ask": 0.999,
+      "total": 1.009,
+      "liq": 2519.88892,
+      "two_sided": false
+    },
+    {
+      "q": "Will Washington Capitals be the 2027 NHL Eastern Conference Champion?",
+      "yes_ask": 0.1,
+      "no_ask": 0.91,
+      "total": 1.01,
+      "liq": 56365.4322,
+      "two_sided": true
+    },
+    {
+      "q": "Spread: Real Madrid CF (-2.5)",
+      "yes_ask": 0.36,
+      "no_ask": 0.65,
+      "total": 1.01,
+      "liq": 13429.9003,
+      "two_sided": true
+    },
+    {
+      "q": "Spread: Burnley FC (-1.5)",
+      "yes_ask": 0.34,
+      "no_ask": 0.67,
+      "total": 1.01,
+      "liq": 22259.2583,
+      "two_sided": true
+    },
+    {
+      "q": "Wolverhampton Wanderers FC vs. Bolton Wanderers FC: O/U 3.5",
+      "yes_ask": 0.37,
+      "no_ask": 0.64,
+      "total": 1.01,
+      "liq": 21032.9911,
+      "two_sided": true
+    },
+    {
+      "q": "Exact Score: Red Bull Bragantino 1 - 2 Cruzeiro EC?",
+      "yes_ask": 0.08,
+      "no_ask": 0.93,
+      "total": 1.01,
+      "liq": 30522.0315,
+      "two_sided": true
+    },
+    {
+      "q": "Will Sheffield United FC win on 2026-10-14?",
+      "yes_ask": 0.31,
+      "no_ask": 0.7,
+      "total": 1.01,
+      "liq": 27803.2839,
+      "two_sided": true
+    },
+    {
+      "q": "Millwall FC vs. Swansea City AFC: 1st Half O/U 0.5",
+      "yes_ask": 0.71,
+      "no_ask": 0.3,
+      "total": 1.01,
+      "liq": 8350.8707,
+      "two_sided": true
+    },
+    {
+      "q": "Will Georgia have more than 11.5 wins during the 2026 CFB season?",
+      "yes_ask": 0.42,
+      "no_ask": 0.59,
+      "total": 1.01,
+      "liq": 784.7498,
+      "two_sided": true
+    },
+    {
+      "q": "Will Racing Club de Lens win on 2026-10-13?",
+      "yes_ask": 0.38,
+      "no_ask": 0.63,
+      "total": 1.01,
+      "liq": 137155.1002,
+      "two_sided": true
+    }
+  ],
+  "all_time_context": "Cron asks[0] artifact: asks DESC-sorted; asks[0] is worst ask. min() used here."
+}
