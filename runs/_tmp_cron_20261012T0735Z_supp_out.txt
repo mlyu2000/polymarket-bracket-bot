@@ -1,0 +1,18 @@
+TRUE FLOOR (min-ask): 1.0030 | FK Livyi Bereh vs. FK Zorya Luhansk: O/U 8.5 | Y@0.004 N@0.999 liq=4494.82663
+books: two_sided=58 yes_only=429 no_only=2 empty=11
+BAND <=1.005:
+  1.0030 | Y@0.004 N@0.999 | liq=4494.82663 | FK Livyi Bereh vs. FK Zorya Luhansk: O/U 8.5
+  1.0040 | Y@0.014 N@0.990 | liq=21745.20584 | Spread: Viking FK (-1.5)
+TOP 12 <=1.020:
+  1.0030 | Y@0.004 N@0.999 | liq=4494.82663 | FK Livyi Bereh vs. FK Zorya Luhansk: O/U 8.5
+  1.0040 | Y@0.014 N@0.990 | liq=21745.20584 | Spread: Viking FK (-1.5)
+  1.0080 | Y@0.010 N@0.998 | liq=6400.94358 | Spread: Venezia FC (-3.5)
+  1.0080 | Y@0.010 N@0.998 | liq=423.88067 | Will Ted Cruz post 20-39 posts from October 9 to October 16,
+  1.0080 | Y@0.954 N@0.054 | liq=50248.3151 | Will the Democratic Party win the NH-02 House seat?
+  1.0100 | Y@0.240 N@0.770 | liq=10194.4128 | Aarhus GF vs. Sønderjyske Fodbold: O/U 4.5
+  1.0100 | Y@0.080 N@0.930 | liq=23735.5579 | Exact Score: Red Bull Bragantino 1 - 2 Cruzeiro EC?
+  1.0100 | Y@0.360 N@0.650 | liq=14110.3876 | Spread: Real Madrid CF (-2.5)
+  1.0100 | Y@0.150 N@0.860 | liq=109145.8989 | Will LASK Linz vs. Liverpool FC end in a draw?
+  1.0100 | Y@0.310 N@0.700 | liq=19179.4739 | Will Sheffield United FC win on 2026-10-14?
+  1.0100 | Y@0.100 N@0.910 | liq=77605.1485 | Will Washington Capitals be the 2027 NHL Eastern Conference 
+  1.0100 | Y@0.370 N@0.640 | liq=16107.94 | Wolverhampton Wanderers FC vs. Bolton Wanderers FC: O/U 3.5
