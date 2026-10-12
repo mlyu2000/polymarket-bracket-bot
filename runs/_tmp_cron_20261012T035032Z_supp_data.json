@@ -1,0 +1,46 @@
+{
+  "ts": "20261012T035032Z",
+  "markets": 500,
+  "priced": 61,
+  "scan_time": 54.77025842666626,
+  "true_floor": 1.002,
+  "floor_q": "Will Elon Musk post 360-379 tweets from October 6 to October",
+  "floor_yes": 0.392,
+  "floor_no": 0.61,
+  "floor_liq": 5792.92666,
+  "band": [
+    [
+      1.002,
+      "Will Elon Musk post 360-379 tweets from October 6 to October",
+      0.392,
+      0.61,
+      5792.92666
+    ],
+    [
+      1.003,
+      "Real Valladolid CF vs. Albacete Balompi\u00e9: O/U 7.5",
+      0.008,
+      0.995,
+      6460.97511
+    ],
+    [
+      1.003,
+      "Will the price of Bitcoin be above $90,000 on October 14?",
+      0.015,
+      0.988,
+      40344.2215
+    ]
+  ],
+  "tiers": {
+    "<=1.005": 3,
+    "<=1.010": 14,
+    "<=1.020": 22,
+    "<=1.030": 24
+  },
+  "structural": {
+    "two_sided": 61,
+    "yes_only": 427,
+    "no_only": 1,
+    "empty": 11
+  }
+}
