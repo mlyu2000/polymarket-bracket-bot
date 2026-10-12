@@ -1,0 +1,15 @@
+{
+  "scan_date": "2026-10-12T0054",
+  "markets_scanned": 500,
+  "two_sided_liquid": 61,
+  "brackets_under_1": 0,
+  "floor_min_ask": 1.0030,
+  "floor_markets": [
+    {"sum": 1.0030, "yes": 0.009, "no": 0.994, "liq": 1342, "q": "Seoul (Incheon) high temp 28C"},
+    {"sum": 1.0030, "yes": 0.015, "no": 0.988, "liq": 40649, "q": "BTC above $90,000 Oct 14"},
+    {"sum": 1.0050, "yes": 0.010, "no": 0.995, "liq": 3852, "q": "Valladolid vs Albacete O/U 7.5"},
+    {"sum": 1.0050, "yes": 0.015, "no": 0.990, "liq": 15533, "q": "Viking FK spread -1.5"},
+    {"sum": 1.0050, "yes": 0.006, "no": 0.999, "liq": 4345, "q": "ETH between $3,000-$3,100"}
+  ],
+  "note": "main cron script reports 0 near-misses due to asks[0] artifact (DESC-sorted asks); real floor computed via min(all asks)"
+}
