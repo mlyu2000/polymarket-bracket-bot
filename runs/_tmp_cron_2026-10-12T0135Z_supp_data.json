@@ -1,0 +1,224 @@
+{
+  "ts": "2026-10-12T0135Z",
+  "scan_time": 54.142799854278564,
+  "n_priced": 63,
+  "median_min_ask": 1.041,
+  "ladder": [
+    {
+      "sum": 1.003,
+      "yes": 0.015,
+      "no": 0.988,
+      "liq": 40051.35946,
+      "q": "Will the price of Bitcoin be above $90,000 on October 14?"
+    },
+    {
+      "sum": 1.004,
+      "yes": 0.005,
+      "no": 0.999,
+      "liq": 3459.83029,
+      "q": "Will the price of Ethereum be between $3,000 and $3,100 on October 12?"
+    },
+    {
+      "sum": 1.005,
+      "yes": 0.015,
+      "no": 0.99,
+      "liq": 18721.25651,
+      "q": "Spread: Viking FK (-1.5)"
+    },
+    {
+      "sum": 1.005,
+      "yes": 0.01,
+      "no": 0.995,
+      "liq": 3854.44579,
+      "q": "Real Valladolid CF vs. Albacete Balompi\u00e9: O/U 7.5"
+    },
+    {
+      "sum": 1.007,
+      "yes": 0.014,
+      "no": 0.993,
+      "liq": 10606.96591,
+      "q": "Spread: Galatasaray SK (-2.5)"
+    },
+    {
+      "sum": 1.008,
+      "yes": 0.01,
+      "no": 0.998,
+      "liq": 7095.81441,
+      "q": "Spread: Venezia FC (-3.5)"
+    },
+    {
+      "sum": 1.01,
+      "yes": 0.21,
+      "no": 0.8,
+      "liq": 9651.3485,
+      "q": "Will Kuopion PS vs. Trabzonspor end in a draw?"
+    },
+    {
+      "sum": 1.01,
+      "yes": 0.1,
+      "no": 0.91,
+      "liq": 49972.1755,
+      "q": "Will Washington Capitals be the 2027 NHL Eastern Conference Champion?"
+    },
+    {
+      "sum": 1.01,
+      "yes": 0.36,
+      "no": 0.65,
+      "liq": 13340.9432,
+      "q": "Spread: Real Madrid CF (-2.5)"
+    },
+    {
+      "sum": 1.01,
+      "yes": 0.68,
+      "no": 0.33,
+      "liq": 5630.635,
+      "q": "Tractor Tabriz vs. Al-Shamal: 1st Half O/U 0.5"
+    },
+    {
+      "sum": 1.01,
+      "yes": 0.37,
+      "no": 0.64,
+      "liq": 14501.1354,
+      "q": "Wolverhampton Wanderers FC vs. Bolton Wanderers FC: O/U 3.5"
+    },
+    {
+      "sum": 1.01,
+      "yes": 0.08,
+      "no": 0.93,
+      "liq": 10546.7042,
+      "q": "Exact Score: Red Bull Bragantino 1 - 2 Cruzeiro EC?"
+    },
+    {
+      "sum": 1.01,
+      "yes": 0.24,
+      "no": 0.77,
+      "liq": 10803.7953,
+      "q": "Aarhus GF vs. S\u00f8nderjyske Fodbold: O/U 4.5"
+    },
+    {
+      "sum": 1.01,
+      "yes": 0.43,
+      "no": 0.58,
+      "liq": 10465.4057,
+      "q": "Game Spread: Iva Jovic (-6.5) vs Mia Pohankova (+6.5)"
+    },
+    {
+      "sum": 1.01,
+      "yes": 0.31,
+      "no": 0.7,
+      "liq": 17601.2772,
+      "q": "Will Sheffield United FC win on 2026-10-14?"
+    },
+    {
+      "sum": 1.011,
+      "yes": 0.039,
+      "no": 0.972,
+      "liq": 10433.83274,
+      "q": "Exact Score: Galatasaray SK 0 - 5 FC Barcelona?"
+    },
+    {
+      "sum": 1.012,
+      "yes": 0.03,
+      "no": 0.982,
+      "liq": 5165.74442,
+      "q": "Spread: LASK Linz (-1.5)"
+    },
+    {
+      "sum": 1.013,
+      "yes": 0.014,
+      "no": 0.999,
+      "liq": 7103.69573,
+      "q": "Spread: Manchester United FC (-3.5)"
+    },
+    {
+      "sum": 1.013,
+      "yes": 0.954,
+      "no": 0.059,
+      "liq": 50557.88422,
+      "q": "Will the Democratic Party win the NH-02 House seat?"
+    },
+    {
+      "sum": 1.015,
+      "yes": 0.059,
+      "no": 0.956,
+      "liq": 124.5192,
+      "q": "Pumas de la UNAM vs. CF Cruz Azul: 1st Half O/U 4.5"
+    },
+    {
+      "sum": 1.016,
+      "yes": 0.017,
+      "no": 0.999,
+      "liq": 5561.81208,
+      "q": "Spread: \u0160K Slovan Bratislava (-2.5)"
+    },
+    {
+      "sum": 1.017,
+      "yes": 0.998,
+      "no": 0.019,
+      "liq": 128.16245,
+      "q": "Will Dplus KIA Qualify for Worlds 2026?"
+    },
+    {
+      "sum": 1.02,
+      "yes": 0.51,
+      "no": 0.51,
+      "liq": 172.563,
+      "q": "Will the Utah Mammoth record 100+ points?"
+    },
+    {
+      "sum": 1.02,
+      "yes": 0.35,
+      "no": 0.67,
+      "liq": 16321.9192,
+      "q": "Spread: Burnley FC (-1.5)"
+    },
+    {
+      "sum": 1.02,
+      "yes": 0.72,
+      "no": 0.3,
+      "liq": 7991.9662,
+      "q": "Millwall FC vs. Swansea City AFC: 1st Half O/U 0.5"
+    },
+    {
+      "sum": 1.03,
+      "yes": 0.48,
+      "no": 0.55,
+      "liq": 21618.0205,
+      "q": "Arsenal FC vs. Lille OSC: Lille OSC O/U 0.5"
+    },
+    {
+      "sum": 1.03,
+      "yes": 0.07,
+      "no": 0.96,
+      "liq": 95.3892,
+      "q": "Will USD/JPY hit 190 (High) in 2026?"
+    },
+    {
+      "sum": 1.031,
+      "yes": 0.06,
+      "no": 0.971,
+      "liq": 197.22057,
+      "q": "Will Fernando Mendoza have 3,500+ passing yards in the 2026-27 NFL regular season?"
+    },
+    {
+      "sum": 1.04,
+      "yes": 0.07,
+      "no": 0.97,
+      "liq": 3994.0595,
+      "q": "Spread: Manchester City FC (-3.5)"
+    },
+    {
+      "sum": 1.041,
+      "yes": 0.042,
+      "no": 0.999,
+      "liq": 195.08899,
+      "q": "Will Pittsburgh Steelers finish the 2026-27 NFL regular season with the most return yards?"
+    }
+  ],
+  "counts": {
+    "brackets": 0,
+    "le_1_005": 4,
+    "le_1_010": 15,
+    "le_1_020": 25
+  }
+}
