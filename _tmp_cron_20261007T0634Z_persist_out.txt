@@ -1,0 +1,69 @@
+{
+ "run": "20261007T063856Z",
+ "ts": "2026-10-07T06:38:56Z",
+ "markets": 500,
+ "priced": 101,
+ "floor": 1.003,
+ "brackets_minask": 0,
+ "detector_opps": 0,
+ "band": 3,
+ "top8": [
+  {
+   "sum": 1.003,
+   "q": "Cruzeiro EC vs. S\u00e3o Paulo FC: O/U 8.5",
+   "yes": 0.004,
+   "no": 0.999,
+   "liq": 6926.08268
+  },
+  {
+   "sum": 1.005,
+   "q": "Cruzeiro EC vs. S\u00e3o Paulo FC: O/U 7.5",
+   "yes": 0.009,
+   "no": 0.996,
+   "liq": 5149.36807
+  },
+  {
+   "sum": 1.005,
+   "q": "Exact Score: West Ham United FC 0 - 3 Queens Park Rangers FC",
+   "yes": 0.008,
+   "no": 0.997,
+   "liq": 8265.13786
+  },
+  {
+   "sum": 1.007,
+   "q": "Will Germany win the 2026-27 UEFA Nations League?",
+   "yes": 0.019,
+   "no": 0.988,
+   "liq": 34092.8095
+  },
+  {
+   "sum": 1.007,
+   "q": "Will US unemployment reach at least 6.0% in 2026?",
+   "yes": 0.009,
+   "no": 0.998,
+   "liq": 3276.98936
+  },
+  {
+   "sum": 1.007,
+   "q": "Exact Score: Racing Club de Lens 0 - 4 Olympique Lyonnais?",
+   "yes": 0.015,
+   "no": 0.992,
+   "liq": 5840.38616
+  },
+  {
+   "sum": 1.007,
+   "q": "Exact Score: AS Monaco FC 4 - 3 Toulouse FC?",
+   "yes": 0.011,
+   "no": 0.996,
+   "liq": 1841.44605
+  },
+  {
+   "sum": 1.007,
+   "q": "Exact Score: SC Paderborn 07 4 - 1 VfB Stuttgart?",
+   "yes": 0.012,
+   "no": 0.995,
+   "liq": 1698.73699
+  }
+ ],
+ "scan_time_s": 62.4
+}

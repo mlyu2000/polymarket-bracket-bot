@@ -1,0 +1,15 @@
+priced markets: 74/500
+TRUE FLOOR (min-ask sum): 1.0030 | Modena FC 2018 vs. Hellas Verona FC: O/U 7.5 | Yes@0.008 No@0.995 | liq=8377.42723
+true brackets (sum<1.00): 0
+band <=1.005: 3
+  1.0030 | Modena FC 2018 vs. Hellas Verona FC: O/U 7.5 | Yes@0.008 No@0.995 | liq=8377.42723
+  1.0030 | Will the price of Ethereum be between $3,000 and $3,100 on O | Yes@0.004 No@0.999 | liq=4539.71988
+  1.0040 | CR Flamengo vs. Fluminense FC: O/U 7.5 | Yes@0.010 No@0.994 | liq=8030.26323
+next tier (>1.005):
+  1.0080 | Spread: Venezia FC (-3.5) | Yes@0.010 No@0.998 | liq=6227.32102
+  1.0090 | Spread: Lille OSC (-1.5) | Yes@0.020 No@0.989 | liq=2625.6311
+  1.0090 | Spread: Los Angeles Galaxy (-3.5) | Yes@0.010 No@0.999 | liq=4499.20661
+  1.0100 | CR Flamengo vs. Fluminense FC: O/U 5.5 | Yes@0.070 No@0.940 | liq=9092.9045
+  1.0100 | Exact Score: FC Dnepr Mogilev 0 - 3 FC Dinamo Minsk? | Yes@0.060 No@0.950 | liq=2713.0853
+  1.0100 | Spread: 49ers (-4.5) | Yes@0.240 No@0.770 | liq=27243.9208
+detector-opps: 0 | paper executions: 0

@@ -1,0 +1,127 @@
+{
+ "run": "20261007T223651Z",
+ "ts": "2026-10-07T22:36:51Z",
+ "markets": 500,
+ "priced": 114,
+ "floor": 1.003,
+ "brackets_minask": 0,
+ "detector_opps": 0,
+ "band": 8,
+ "top8": [
+  {
+   "sum": 1.003,
+   "q": "Red Bull Bragantino vs. Mirassol FC: Red Bull Bragantino O/U",
+   "yes": 0.009,
+   "no": 0.994,
+   "liq": 21.45
+  },
+  {
+   "sum": 1.003,
+   "q": "Exact Score: Ipswich Town FC 4 - 4 Fulham FC?",
+   "yes": 0.004,
+   "no": 0.999,
+   "liq": 27021.48579
+  },
+  {
+   "sum": 1.004,
+   "q": "Cruzeiro EC vs. S\u00e3o Paulo FC: O/U 7.5",
+   "yes": 0.009,
+   "no": 0.995,
+   "liq": 5109.4001
+  },
+  {
+   "sum": 1.005,
+   "q": "Will US unemployment reach at least 6.0% in 2026?",
+   "yes": 0.008,
+   "no": 0.997,
+   "liq": 3399.25919
+  },
+  {
+   "sum": 1.005,
+   "q": "Exact Score: West Ham United FC 0 - 3 Queens Park Rangers FC",
+   "yes": 0.008,
+   "no": 0.997,
+   "liq": 8576.60032
+  },
+  {
+   "sum": 1.005,
+   "q": "Exact Score: Ipswich Town FC 0 - 5 Fulham FC?",
+   "yes": 0.008,
+   "no": 0.997,
+   "liq": 18042.13245
+  },
+  {
+   "sum": 1.005,
+   "q": "Exact Score: Ipswich Town FC 5 - 1 Fulham FC?",
+   "yes": 0.008,
+   "no": 0.997,
+   "liq": 17768.86406
+  },
+  {
+   "sum": 1.005,
+   "q": "Exact Score: Ipswich Town FC 3 - 4 Fulham FC?",
+   "yes": 0.009,
+   "no": 0.996,
+   "liq": 14040.67295
+  }
+ ],
+ "band_rows": [
+  {
+   "sum": 1.003,
+   "q": "Red Bull Bragantino vs. Mirassol FC: Red Bull Bragantino O/U",
+   "yes": 0.009,
+   "no": 0.994,
+   "liq": 21.45
+  },
+  {
+   "sum": 1.003,
+   "q": "Exact Score: Ipswich Town FC 4 - 4 Fulham FC?",
+   "yes": 0.004,
+   "no": 0.999,
+   "liq": 27021.48579
+  },
+  {
+   "sum": 1.004,
+   "q": "Cruzeiro EC vs. S\u00e3o Paulo FC: O/U 7.5",
+   "yes": 0.009,
+   "no": 0.995,
+   "liq": 5109.4001
+  },
+  {
+   "sum": 1.005,
+   "q": "Will US unemployment reach at least 6.0% in 2026?",
+   "yes": 0.008,
+   "no": 0.997,
+   "liq": 3399.25919
+  },
+  {
+   "sum": 1.005,
+   "q": "Exact Score: West Ham United FC 0 - 3 Queens Park Rangers FC",
+   "yes": 0.008,
+   "no": 0.997,
+   "liq": 8576.60032
+  },
+  {
+   "sum": 1.005,
+   "q": "Exact Score: Ipswich Town FC 0 - 5 Fulham FC?",
+   "yes": 0.008,
+   "no": 0.997,
+   "liq": 18042.13245
+  },
+  {
+   "sum": 1.005,
+   "q": "Exact Score: Ipswich Town FC 5 - 1 Fulham FC?",
+   "yes": 0.008,
+   "no": 0.997,
+   "liq": 17768.86406
+  },
+  {
+   "sum": 1.005,
+   "q": "Exact Score: Ipswich Town FC 3 - 4 Fulham FC?",
+   "yes": 0.009,
+   "no": 0.996,
+   "liq": 14040.67295
+  }
+ ],
+ "scan_time_s": 49.5
+}

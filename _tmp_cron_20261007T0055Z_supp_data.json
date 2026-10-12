@@ -1,0 +1,272 @@
+[
+ {
+  "total": 1.003,
+  "q": "Will the highest temperature in Chongqing be 24\u00b0C on October",
+  "yes": 0.006,
+  "no": 0.997,
+  "liq": 1623.47004,
+  "yes_size": 63,
+  "no_size": 25
+ },
+ {
+  "total": 1.005,
+  "q": "Will US unemployment reach at least 6.0% in 2026?",
+  "yes": 0.008,
+  "no": 0.997,
+  "liq": 3442.81388,
+  "yes_size": 100,
+  "no_size": 200
+ },
+ {
+  "total": 1.006,
+  "q": "Exact Score: Lille OSC 1 - 3 Le Havre AC?",
+  "yes": 0.014,
+  "no": 0.992,
+  "liq": 2363.74821,
+  "yes_size": 200,
+  "no_size": 1351
+ },
+ {
+  "total": 1.007,
+  "q": "Exact Score: AS Monaco FC 4 - 3 Toulouse FC?",
+  "yes": 0.011,
+  "no": 0.996,
+  "liq": 1837.33805,
+  "yes_size": 200,
+  "no_size": 2027
+ },
+ {
+  "total": 1.007,
+  "q": "Exact Score: West Ham United FC 0 - 3 Queens Park Rangers FC",
+  "yes": 0.009,
+  "no": 0.998,
+  "liq": 8290.62576,
+  "yes_size": 100,
+  "no_size": 211
+ },
+ {
+  "total": 1.008,
+  "q": "Exact Score: AS Monaco FC 5 - 2 Toulouse FC?",
+  "yes": 0.013,
+  "no": 0.995,
+  "liq": 1346.14209,
+  "yes_size": 200,
+  "no_size": 1572
+ },
+ {
+  "total": 1.008,
+  "q": "Exact Score: Lille OSC 5 - 2 Le Havre AC?",
+  "yes": 0.013,
+  "no": 0.995,
+  "liq": 1384.41299,
+  "yes_size": 200,
+  "no_size": 1638
+ },
+ {
+  "total": 1.01,
+  "q": "1. FSV Mainz 05 vs. Bayer 04 Leverkusen: Both Teams to Score",
+  "yes": 0.68,
+  "no": 0.33,
+  "liq": 4871.4476,
+  "yes_size": 637,
+  "no_size": 155
+ },
+ {
+  "total": 1.01,
+  "q": "Atalanta BC vs. Venezia FC: Both Teams to Score",
+  "yes": 0.58,
+  "no": 0.43,
+  "liq": 7512.421,
+  "yes_size": 100,
+  "no_size": 500
+ },
+ {
+  "total": 1.01,
+  "q": "Elche CF vs. RC Celta de Vigo: Both Teams to Score",
+  "yes": 0.54,
+  "no": 0.47,
+  "liq": 8227.9039,
+  "yes_size": 1489,
+  "no_size": 100
+ },
+ {
+  "total": 1.01,
+  "q": "Exact Score: West Ham United FC 4 - 3 Queens Park Rangers FC",
+  "yes": 0.015,
+  "no": 0.995,
+  "liq": 8389.95366,
+  "yes_size": 100,
+  "no_size": 2422
+ },
+ {
+  "total": 1.01,
+  "q": "Levante UD vs. Sevilla FC: O/U 2.5",
+  "yes": 0.47,
+  "no": 0.54,
+  "liq": 16231.6316,
+  "yes_size": 100,
+  "no_size": 3513
+ },
+ {
+  "total": 1.01,
+  "q": "Stade Rennais FC 1901 vs. AJ Auxerre: Both Teams to Score",
+  "yes": 0.58,
+  "no": 0.43,
+  "liq": 5963.1485,
+  "yes_size": 903,
+  "no_size": 5
+ },
+ {
+  "total": 1.01,
+  "q": "Trump renames ICE to NICE by December 31?",
+  "yes": 0.06,
+  "no": 0.95,
+  "liq": 11040.9375,
+  "yes_size": 271,
+  "no_size": 49
+ },
+ {
+  "total": 1.01,
+  "q": "Will Apple be the third-largest company in the world by mark",
+  "yes": 0.13,
+  "no": 0.88,
+  "liq": 9676.0697,
+  "yes_size": 755,
+  "no_size": 1131
+ },
+ {
+  "total": 1.014,
+  "q": "Will the highest temperature in New York City be between 72-",
+  "yes": 0.064,
+  "no": 0.95,
+  "liq": 2983.43598,
+  "yes_size": 18,
+  "no_size": 14
+ },
+ {
+  "total": 1.017,
+  "q": "Will the next Google Gemini Pro model be released on October",
+  "yes": 0.019,
+  "no": 0.998,
+  "liq": 1512.27874,
+  "yes_size": 130,
+  "no_size": 60
+ },
+ {
+  "total": 1.02,
+  "q": "Bolton Wanderers FC vs. Stoke City FC: O/U 2.5",
+  "yes": 0.52,
+  "no": 0.5,
+  "liq": 4339.6057,
+  "yes_size": 259,
+  "no_size": 1009
+ },
+ {
+  "total": 1.02,
+  "q": "El Paso Locomotive FC vs. Orange County SC: O/U 1.5",
+  "yes": 0.78,
+  "no": 0.24,
+  "liq": 728.201,
+  "yes_size": 5,
+  "no_size": 5
+ },
+ {
+  "total": 1.02,
+  "q": "Middlesbrough FC vs. Wolverhampton Wanderers FC: Both Teams ",
+  "yes": 0.64,
+  "no": 0.38,
+  "liq": 2022.2267,
+  "yes_size": 5,
+  "no_size": 5
+ },
+ {
+  "total": 1.02,
+  "q": "OGC Nice vs. RC Strasbourg Alsace: Both Teams to Score",
+  "yes": 0.61,
+  "no": 0.41,
+  "liq": 7261.6946,
+  "yes_size": 615,
+  "no_size": 872
+ },
+ {
+  "total": 1.02,
+  "q": "Shenzhen Juniors FC vs. Guandong GZ-Power FC: O/U 0.5",
+  "yes": 0.95,
+  "no": 0.07,
+  "liq": 11285.2661,
+  "yes_size": 973,
+  "no_size": 3808
+ },
+ {
+  "total": 1.02,
+  "q": "Stade Brestois 29 vs. Angers SCO: Both Teams to Score",
+  "yes": 0.59,
+  "no": 0.43,
+  "liq": 9796.9245,
+  "yes_size": 1309,
+  "no_size": 205
+ },
+ {
+  "total": 1.022,
+  "q": "Exact Score: New England Revolution 2 - 4 Seattle Sounders F",
+  "yes": 0.03,
+  "no": 0.992,
+  "liq": 473.36633,
+  "yes_size": 100,
+  "no_size": 150
+ },
+ {
+  "total": 1.023,
+  "q": "Exact Score: New England Revolution 1 - 4 Seattle Sounders F",
+  "yes": 0.031,
+  "no": 0.992,
+  "liq": 673.71059,
+  "yes_size": 100,
+  "no_size": 1555
+ },
+ {
+  "total": 1.025,
+  "q": "Cruzeiro EC vs. S\u00e3o Paulo FC: Cruzeiro EC O/U 5.5",
+  "yes": 0.028,
+  "no": 0.997,
+  "liq": 1089.09449,
+  "yes_size": 100,
+  "no_size": 2240
+ },
+ {
+  "total": 1.025,
+  "q": "SC Internacional vs. SC Corinthians Paulista: SC Corinthians",
+  "yes": 0.028,
+  "no": 0.997,
+  "liq": 1096.59206,
+  "yes_size": 314,
+  "no_size": 2760
+ },
+ {
+  "total": 1.03,
+  "q": "Pacific FC vs. Forge FC Hamilton: Pacific FC O/U 0.5",
+  "yes": 0.56,
+  "no": 0.47,
+  "liq": 1305.0567,
+  "yes_size": 221,
+  "no_size": 207
+ },
+ {
+  "total": 1.03,
+  "q": "Sheffield United FC vs. Lincoln City FC: Both Teams to Score",
+  "yes": 0.55,
+  "no": 0.48,
+  "liq": 2211.7704,
+  "yes_size": 5,
+  "no_size": 5
+ },
+ {
+  "total": 1.03,
+  "q": "Torino FC vs. Udinese Calcio: Both Teams to Score",
+  "yes": 0.53,
+  "no": 0.5,
+  "liq": 7617.2821,
+  "yes_size": 1996,
+  "no_size": 2014
+ }
+]

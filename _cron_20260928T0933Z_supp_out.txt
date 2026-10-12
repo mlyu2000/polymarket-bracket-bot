@@ -1,0 +1,7 @@
+min-ask scan: 500 markets, 76 with priced books both sides
+TRUE floor (min-ask sum): 1.0010 | Will the 5-year Treasury yield dip below 4.10% before 2027?
+min-ask near-misses (<=1.005): 4
+  1.0010 | Yes@0.033 No@0.968 | liq=9669.42593 | Will the 5-year Treasury yield dip below 4.10% before 2027?
+  1.0020 | Yes@0.136 No@0.866 | liq=593.97456 | Will China's annual inflation in 2026 be between 0.1% and 0.
+  1.0020 | Yes@0.003 No@0.999 | liq=576.11198 | Will the highest temperature in Manila be 29°C or below on S
+  1.0030 | Yes@0.006 No@0.997 | liq=9550.93506 | Georgia vs. Ukraine: O/U 7.5

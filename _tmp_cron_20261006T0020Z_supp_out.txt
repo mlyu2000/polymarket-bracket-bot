@@ -1,0 +1,13 @@
+markets=500 priced=79
+BRACKETS via detector (min-ask): 0
+TOP 10 best min-ask sums:
+  1.0020 | Y@0.007 N@0.995 | liq=92546.39217 | Will Microsoft be the largest company in the world by m
+  1.0040 | Y@0.006 N@0.998 | liq=3901.53028 | Will US unemployment reach at least 6.0% in 2026?
+  1.0060 | Y@0.014 N@0.992 | liq=2081.46996 | Exact Score: Lille OSC 1 - 3 Le Havre AC?
+  1.0070 | Y@0.009 N@0.998 | liq=1516.36558 | Exact Score: West Ham United FC 0 - 3 Queens Park Range
+  1.0100 | Y@0.680 N@0.330 | liq=4130.2021 | 1. FSV Mainz 05 vs. Bayer 04 Leverkusen: Both Teams to 
+  1.0100 | Y@0.580 N@0.430 | liq=6087.8911 | Atalanta BC vs. Venezia FC: Both Teams to Score
+  1.0100 | Y@0.540 N@0.470 | liq=6268.107 | Elche CF vs. RC Celta de Vigo: Both Teams to Score
+  1.0100 | Y@0.390 N@0.620 | liq=3109.9082 | Game Handicap: CPD (-2.5) vs Fuego (+2.5)
+  1.0100 | Y@0.430 N@0.580 | liq=15072.2988 | Set Handicap: Federico Cina (-1.5) vs Aziz Dougaz (+1.5
+  1.0100 | Y@0.580 N@0.430 | liq=5892.278 | Stade Brestois 29 vs. Angers SCO: Both Teams to Score

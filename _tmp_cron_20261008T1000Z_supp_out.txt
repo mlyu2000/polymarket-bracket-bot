@@ -1,0 +1,14 @@
+markets=500 priced=90
+TRUE BEST-ASK BRACKETS (sum<1.000):
+count=0
+TOP 10 CLOSEST (min-ask sum):
+  sum=1.0030 | Yes@0.004 No@0.999 | liq=2546.97809 | Exact Score: Ipswich Town FC 4 - 4 Fulham FC?
+  sum=1.0040 | Yes@0.008 No@0.996 | liq=3391.62711 | Will US unemployment reach at least 6.0% in 2026?
+  sum=1.0050 | Yes@0.009 No@0.996 | liq=4141.26037 | CA Paranaense vs. CA Mineiro: O/U 7.5
+  sum=1.0060 | Yes@0.007 No@0.999 | liq=2362.94509 | Exact Score: Ipswich Town FC 5 - 2 Fulham FC?
+  sum=1.0060 | Yes@0.011 No@0.995 | liq=3872.19669 | FC CFR 1907 Cluj vs. FC Universitatea Cluj: O/U 7.5
+  sum=1.0070 | Yes@0.008 No@0.999 | liq=4372.46464 | Exact Score: West Ham United FC 0 - 3 Queens Park Rangers FC
+  sum=1.0070 | Yes@0.014 No@0.993 | liq=5044.86262 | SE Palmeiras vs. EC Bahia: O/U 7.5
+  sum=1.0090 | Yes@0.010 No@0.999 | liq=1688.45429 | Exact Score: Swansea City AFC 5 - 2 Norwich City FC?
+  sum=1.0090 | Yes@0.010 No@0.999 | liq=134.8818 | Will the lowest temperature in Qingdao be 20°C on October 9?
+  sum=1.0110 | Yes@0.012 No@0.999 | liq=1602.53731 | Exact Score: Stade Brestois 29 2 - 4 Angers SCO?

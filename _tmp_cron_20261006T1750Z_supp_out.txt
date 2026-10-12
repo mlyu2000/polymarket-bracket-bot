@@ -1,0 +1,10 @@
+markets=500 both_sides_priced=103
+TRUE_FLOOR(min-ask)=1.0040
+band<=1.005 count=1
+  1.0040 | yes@0.006(100) no@0.998(4947) | liq=3757.36755 | Will US unemployment reach at least 6.0% in 2026?
+next-above:
+  1.0060 | yes@0.010 no@0.996 | liq=3074.2729 | Antigua and Barbuda vs. Aruba: O/U 7.5
+  1.0060 | yes@0.009 no@0.997 | liq=2147.21238 | Exact Score: BV Borussia 09 Dortmund 0 - 3 SV Werder Br
+  1.0060 | yes@0.010 no@0.996 | liq=1828.70913 | Exact Score: FC Augsburg 2 - 0 FC Bayern München?
+  1.0070 | yes@0.015 no@0.992 | liq=1120.17316 | Exact Score: Racing Club de Lens 0 - 4 Olympique Lyonna
+  1.0070 | yes@0.011 no@0.996 | liq=1208.85496 | Exact Score: Stade Brestois 29 4 - 3 Angers SCO?

@@ -1,0 +1,10 @@
+MARKETS=500
+BEST_MIN_ASK_SUM=1.0010
+BRACKETS_minask=0
+NEAR_minask(<=1.005)=6
+  1.0010 | Yes@0.002 No@0.999 | liq=71568.73198 | Will Yehude Simón Munaro win the next Lima mayoral elections
+  1.0010 | Yes@0.032 No@0.969 | liq=14228.07922 | Will the 5-year Treasury yield dip below 4.10% before 2027?
+  1.0010 | Yes@0.002 No@0.999 | liq=3857.31541 | Will the highest temperature in Paris be 15°C or below on Oc
+  1.0030 | Yes@0.101 No@0.902 | liq=32628.65584 | Will the Democratic Party win the TX-32 House seat?
+  1.0040 | Yes@0.986 No@0.018 | liq=16377.45738 | Will the price of Ethereum be above $2,400 on October 2?
+  1.0050 | Yes@0.998 No@0.007 | liq=17579.18066 | Nothing Ever Happens: September

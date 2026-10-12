@@ -1,0 +1,9 @@
+[min-ask pass] 500 markets (135 priced) in 61.7s
+BRACKETS via detector: 0
+Near-misses (min-ask sum <= 1.005): 5
+  1.0020 | Yes@0.003 No@0.999 | liq=9489.13467 | Will Team Liquid win Worlds 2026?
+  1.0020 | Yes@0.004 No@0.998 | liq=1576.44868 | Will the highest temperature in Qingdao be 24°C on
+  1.0030 | Yes@0.006 No@0.997 | liq=3605.96331 | Will US unemployment reach at least 6.0% in 2026?
+  1.0040 | Yes@0.008 No@0.996 | liq=2295.54883 | Exact Score: BV Borussia 09 Dortmund 0 - 3 SV Werd
+  1.0040 | Yes@0.009 No@0.995 | liq=2184.89222 | Will the highest temperature in Austin be between 
+FLOOR (lowest min-ask sum): 1.0020 | Yes@0.003 No@0.999 | liq=9489.13467 | Will Team Liquid win Worlds 2026?

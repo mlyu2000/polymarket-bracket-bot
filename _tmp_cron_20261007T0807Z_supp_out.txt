@@ -1,0 +1,6 @@
+best-ask scan over 500 markets
+best-ask near-misses (<=1.005): 3
+  1.003 | Yes@0.004 No@0.999 | liq=6938.20468 | Cruzeiro EC vs. São Paulo FC: O/U 8.5
+  1.005 | Yes@0.009 No@0.996 | liq=5147.71509 | Cruzeiro EC vs. São Paulo FC: O/U 7.5
+  1.005 | Yes@0.008 No@0.997 | liq=8275.15772 | Exact Score: West Ham United FC 0 - 3 Queens Park 
+true floor: 1.003 | Cruzeiro EC vs. São Paulo FC: O/U 8.5

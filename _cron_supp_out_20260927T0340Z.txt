@@ -1,0 +1,13 @@
+[min-ask supplement] Scan: 500 markets (107 priced) in 47.3s
+BRACKETS (detector, sum<1.00): 0
+NEAR-MISS <=1.005 (best-ask): 9
+  1.001 | Yes@0.002 No@0.999 | liq=1895.79544 | Will Anders Dreyer win 2026 MLS Most Valuable Play
+  1.001 | Yes@0.016 No@0.985 | liq=24695.96613 | Will Dallas Wings win the 2026 WNBA Finals?
+  1.002 | Yes@0.005 No@0.997 | liq=2429.638 | Vancouver Whitecaps FC vs. D.C. United SC: D.C. Un
+  1.003 | Yes@0.004 No@0.999 | liq=5057.45919 | RCD Mallorca vs. UD Almería: O/U 8.5
+  1.003 | Yes@0.018 No@0.985 | liq=24206.82605 | Tigres de la UANL vs. Club Puebla: O/U 5.5
+  1.003 | Yes@0.004 No@0.999 | liq=808.29313 | Will Jairo Palheta win the 2026 Amapá gubernatoria
+  1.004 | Yes@0.006 No@0.998 | liq=2319.25895 | Exact Score: Club Almagro 3 - 3 Nueva Chicago?
+  1.005 | Yes@0.040 No@0.965 | liq=90393.93787 | Exact Score: Denmark 1 - 2 Wales?
+  1.005 | Yes@0.006 No@0.999 | liq=1126.92099 | Will Khamenei post 10-14 posts from September 22 t
+FLOOR (min sum): 1.001

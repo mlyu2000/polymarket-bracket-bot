@@ -1,0 +1,68 @@
+{
+ "run": "20261007T005706Z",
+ "ts": "2026-10-07T00:57:06Z",
+ "markets": 500,
+ "priced": 89,
+ "floor": 1.003,
+ "brackets_minask": 0,
+ "band": 2,
+ "top8": [
+  {
+   "sum": 1.003,
+   "q": "Will the highest temperature in Chongqing be 24\u00b0C on October",
+   "yes": 0.006,
+   "no": 0.997,
+   "liq": 1623.47004
+  },
+  {
+   "sum": 1.005,
+   "q": "Will US unemployment reach at least 6.0% in 2026?",
+   "yes": 0.008,
+   "no": 0.997,
+   "liq": 3442.81388
+  },
+  {
+   "sum": 1.006,
+   "q": "Exact Score: Lille OSC 1 - 3 Le Havre AC?",
+   "yes": 0.014,
+   "no": 0.992,
+   "liq": 2363.74821
+  },
+  {
+   "sum": 1.007,
+   "q": "Exact Score: West Ham United FC 0 - 3 Queens Park Rangers FC",
+   "yes": 0.009,
+   "no": 0.998,
+   "liq": 8290.62576
+  },
+  {
+   "sum": 1.007,
+   "q": "Exact Score: AS Monaco FC 4 - 3 Toulouse FC?",
+   "yes": 0.011,
+   "no": 0.996,
+   "liq": 1837.33805
+  },
+  {
+   "sum": 1.008,
+   "q": "Exact Score: Lille OSC 5 - 2 Le Havre AC?",
+   "yes": 0.013,
+   "no": 0.995,
+   "liq": 1384.41299
+  },
+  {
+   "sum": 1.008,
+   "q": "Exact Score: AS Monaco FC 5 - 2 Toulouse FC?",
+   "yes": 0.013,
+   "no": 0.995,
+   "liq": 1346.14209
+  },
+  {
+   "sum": 1.01,
+   "q": "Trump renames ICE to NICE by December 31?",
+   "yes": 0.06,
+   "no": 0.95,
+   "liq": 11040.9375
+  }
+ ],
+ "scan_time_s": 45.4
+}

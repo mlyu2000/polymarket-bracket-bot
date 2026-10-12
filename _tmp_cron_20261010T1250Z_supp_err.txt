@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "/home/ml/projects/polymarket-bracket-bot/_tmp_cron_20261010T1250Z_supp_minask.py", line 36, in <module>
+    with open(f'_tmp_cron_{TS}_supp_data.json', 'w') as f:
+                           ^^
+NameError: name 'TS' is not defined

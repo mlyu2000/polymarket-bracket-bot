@@ -1,0 +1,6 @@
+priced_markets=83 brackets=0 near_min_ask=5 floor=1.0030
+NEAR 1.0030 | Yes@0.005 No@0.998 | liq=33990.82869 | Exact Score: BV Borussia 09 Dortmund 0 - 3 SV Werd
+NEAR 1.0030 | Yes@0.013 No@0.990 | liq=2942.7541 | FC Nordsjælland vs. Odense BK: O/U 8.5
+NEAR 1.0050 | Yes@0.009 No@0.996 | liq=8069.91666 | Exact Score: Montpellier HSC 0 - 3 Grenoble Foot 3
+NEAR 1.0050 | Yes@0.008 No@0.997 | liq=26403.8394 | Exact Score: West Ham United FC 0 - 3 Queens Park 
+NEAR 1.0050 | Yes@0.010 No@0.995 | liq=4135.61839 | Kashiwa Reysol vs. Vissel Kōbe: O/U 7.5

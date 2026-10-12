@@ -1,0 +1,7 @@
+supp-scan: 500 markets in 45.2s (best-ask/min based)
+true brackets (sum<1.00): 0
+near-misses (1.00-1.005): 3
+  1.0020 | Yes@0.008 No@0.994 | liq=10467.2949 | Exact Score: West Ham United FC 0 - 3 Queens Park Rangers FC
+  1.0040 | Yes@0.008 No@0.996 | liq=4733.01601 | CA Paranaense vs. CA Mineiro: O/U 7.5
+  1.0050 | Yes@0.010 No@0.995 | liq=3406.62111 | Kashiwa Reysol vs. Vissel Kōbe: O/U 7.5
+floor (min sum): 1.0020 Exact Score: West Ham United FC 0 - 3 Queens Park 

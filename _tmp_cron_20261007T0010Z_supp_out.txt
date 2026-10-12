@@ -1,0 +1,4 @@
+🔍 Scan(min-ask): 500 markets (89 with 2-sided books) in 50.3s
+✅ BRACKETS (sum < 1.00): 0
+📊 Near-misses (≤1.005, best-ask basis): 1
+  1.003 | Yes@0.006 No@0.997 | liq=1684 | Will the highest temperature in Chongqing be 24°C 

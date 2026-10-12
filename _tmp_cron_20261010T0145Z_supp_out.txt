@@ -1,0 +1,25 @@
+Scan: 500 markets (58 priced) in 48.1s
+BRACKETS (net edge, best-ask): 0
+Near-misses (<=1.005): 2
+  1.005 | Yes@0.009 No@0.996 | liq=2052 | Clermont Foot 63 vs. Red Star FC: O/U 7.5
+  1.005 | Yes@0.010 No@0.995 | liq=12128 | Kyōto Sanga FC vs. FC Machida Zelvia: O/U 7.5
+Best total across all priced markets: 1.005
+Tier history (lowest 6 tiers):
+  [1.005] n=2
+    1.005 | Yes@0.009 No@0.996 | liq=2052 | Clermont Foot 63 vs. Red Star FC: O/U 7.5
+    1.005 | Yes@0.010 No@0.995 | liq=12128 | Kyōto Sanga FC vs. FC Machida Zelvia: O/U 7.5
+  [1.006] n=2
+    1.006 | Yes@0.010 No@0.996 | liq=1882 | FK Chornomorets Odesa vs. FK Kharkiv: O/U 7.5
+    1.006 | Yes@0.012 No@0.994 | liq=1678 | Falkirk FC vs. Dundee FC: O/U 7.5
+  [1.008] n=1
+    1.008 | Yes@0.027 No@0.981 | liq=2005 | CA Unión vs. CSyD Defensa y Justicia: CSyD Defensa
+  [1.010] n=5
+    1.010 | Yes@0.330 No@0.680 | liq=72376 | FC Seoul vs. Jeju SK FC: O/U 3.5
+    1.010 | Yes@0.160 No@0.850 | liq=138138 | Kent State vs. Western Michigan
+    1.010 | Yes@0.410 No@0.600 | liq=4037 | Spread: Nomme Kalju FC (-1.5)
+    1.010 | Yes@0.160 No@0.850 | liq=16471 | Spread: Real Madrid CF (-3.5)
+    1.010 | Yes@0.060 No@0.950 | liq=152 | Will Fernando Mendoza have 3,500+ passing yards in
+  [1.015] n=1
+    1.015 | Yes@0.998 No@0.017 | liq=97 | Will Dplus KIA Qualify for Worlds 2026?
+  [1.017] n=1
+    1.017 | Yes@0.018 No@0.999 | liq=8269 | Exact Score: New England Revolution 1 - 4 Seattle 

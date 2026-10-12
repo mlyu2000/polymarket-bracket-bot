@@ -1,0 +1,136 @@
+{
+ "markets": 500,
+ "priced": 67,
+ "floor": 1.004,
+ "brackets": [],
+ "band": [
+  [
+   1.004,
+   "Kyōto Sanga FC vs. FC Machida Zelvia: O/U 7.5",
+   0.009,
+   0.995,
+   8659.27
+  ],
+  [
+   1.005,
+   "Clermont Foot 63 vs. Red Star FC: O/U 7.5",
+   0.008,
+   0.997,
+   2787.53
+  ],
+  [
+   1.005,
+   "South Melbourne FC vs. Melbourne Victory FC: O/U 7.5",
+   0.015,
+   0.99,
+   9462.1
+  ]
+ ],
+ "next_tier": [
+  [
+   1.006,
+   "FK Kolos Kovalivka vs. FK Epitsentr Dunaivtsi: O/U 6.5",
+   0.014,
+   0.992,
+   2470.78
+  ],
+  [
+   1.006,
+   "Falkirk FC vs. Dundee FC: O/U 7.5",
+   0.012,
+   0.994,
+   3488.41
+  ],
+  [
+   1.008,
+   "Al Ettifaq Saudi Club vs. Al Khaleej Saudi Club: O/U 7.5",
+   0.015,
+   0.993,
+   3138.18
+  ],
+  [
+   1.008,
+   "HNK Hajduk Split vs. GNK Dinamo Zagreb: O/U 7.5",
+   0.015,
+   0.993,
+   4336.65
+  ],
+  [
+   1.01,
+   "AEK Athens vs. OFI Crete: O/U 2.5",
+   0.63,
+   0.38,
+   15650.41
+  ],
+  [
+   1.01,
+   "Asteras Tripolis vs. Atromitos Athinon: O/U 1.5",
+   0.69,
+   0.32,
+   9731.73
+  ],
+  [
+   1.01,
+   "CR Vasco da Gama vs. Clube do Remo: O/U 3.5",
+   0.39,
+   0.62,
+   34952.28
+  ],
+  [
+   1.01,
+   "RAAL La Louviere vs. Club Brugge: O/U 3.5",
+   0.43,
+   0.58,
+   14130.18
+  ],
+  [
+   1.01,
+   "Rayo Vallecano de Madrid vs. Athletic Club: 1st Half O/U 0.5",
+   0.69,
+   0.32,
+   32540.78
+  ],
+  [
+   1.01,
+   "SV Zulte Waregem vs. KAA Gent: O/U 3.5",
+   0.24,
+   0.77,
+   14774.99
+  ],
+  [
+   1.01,
+   "Sheffield United FC vs. Lincoln City FC: Both Teams to Score",
+   0.53,
+   0.48,
+   13419.03
+  ],
+  [
+   1.01,
+   "Will Harrogate Town AFC win on 2026-10-10?",
+   0.44,
+   0.57,
+   16638.57
+  ],
+  [
+   1.01,
+   "Will Iran win Group C at the 2027 AFC Asian Cup?",
+   0.79,
+   0.22,
+   321.33
+  ],
+  [
+   1.01,
+   "Will Stjarnan Gardabae win on 2026-10-10?",
+   0.52,
+   0.49,
+   16727.58
+  ],
+  [
+   1.01,
+   "Çaykur Rizespor vs. Fenerbahçe SK: O/U 3.5",
+   0.37,
+   0.64,
+   18624.9
+  ]
+ ]
+}

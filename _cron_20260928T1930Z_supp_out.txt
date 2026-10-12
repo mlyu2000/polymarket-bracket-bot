@@ -1,0 +1,14 @@
+[supp best-ask] 71/500 priced markets in 45.0s
+min sum=1.0010
+count sum<1.000: 0
+count sum<=1.001: 2
+count sum<=1.005: 3
+top closest (best-ask sums):
+  1.0010 | Yes@0.033 No@0.968 | liq=13911.2298 | Will the 5-year Treasury yield dip below 4.10% before 2
+  1.0010 | Yes@0.002 No@0.999 | liq=2127.13005 | Will the highest temperature in Guangzhou be 40°C or hi
+  1.0030 | Yes@0.010 No@0.993 | liq=5390.43043 | Belgium vs. France: France O/U 4.5
+  1.0080 | Yes@0.009 No@0.999 | liq=509.92416 | Will Khamenei post 40-44 posts from September 29 to Oct
+  1.0090 | Yes@0.010 No@0.999 | liq=2447.33814 | Jamaica vs. Honduras: O/U 8.5
+  1.0090 | Yes@0.010 No@0.999 | liq=13298.74614 | Spread: América FC (-3.5)
+  1.0090 | Yes@0.011 No@0.998 | liq=469.64105 | Will Netflix, Inc. (NFLX) hit (HIGH) $105 in September?
+  1.0100 | Yes@0.570 No@0.440 | liq=5725.2145 | Finland vs. Belarus: O/U 8.5 Total Corners

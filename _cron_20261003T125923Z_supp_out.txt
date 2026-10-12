@@ -1,0 +1,7 @@
+[min-ask floor check] priced=68 no-book=432 of 500 markets
+true brackets (minAskYes+minAskNo < 1.00): 0
+near-misses 1.000-1.005: 3
+  1.0010 | Yes@0.002 No@0.999 | liq=55872.21944 | Will Pepa Millán be the next Prime Minister of Spain?
+  1.0010 | Yes@0.004 No@0.997 | liq=3512.84334 | Will US unemployment reach at least 6.0% in 2026?
+  1.0010 | Yes@0.002 No@0.999 | liq=3959.76448 | Will the highest temperature in Paris be 22°C on October 4?
+overall best (min-ask) sum: 1.0010

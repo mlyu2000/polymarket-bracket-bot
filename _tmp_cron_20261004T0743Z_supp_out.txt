@@ -1,0 +1,7 @@
+Markets: 500 | best-ask sums computed: 99
+TRUE best-ask sum < 1.00: 0
+TRUE best-ask sum in [1.00, 1.005]: 4
+  1.0020 | Yes@0.005 No@0.997 | liq=3997.54045 | Will US unemployment reach at least 6.0% in 2026?
+  1.0040 | Yes@0.005 No@0.999 | liq=2343.02186 | CA Cerro vs. Montevideo Wanderers: O/U 8.5
+  1.0050 | Yes@0.009 No@0.996 | liq=2184.12529 | Exact Score: BV Borussia 09 Dortmund 0 - 3 SV Werder Br
+  1.0050 | Yes@0.010 No@0.995 | liq=8421.0668 | Real Sporting de Gijón vs. Celta Fortuna: O/U 7.5

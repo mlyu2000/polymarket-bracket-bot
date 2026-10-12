@@ -1,0 +1,13 @@
+priced markets (min-ask): 55/500
+best 8 min-ask totals:
+  1.005 | Yes@0.009 No@0.996 | liq=1101.32589 | Clermont Foot 63 vs. Red Star FC: O/U 7.5
+  1.005 | Yes@0.006 No@0.999 | liq=2581.5561 | Gimnasia y Esgrima de La Plata vs. CA Tucumán: O/U 7.5
+  1.005 | Yes@0.010 No@0.995 | liq=3870.42864 | Kyōto Sanga FC vs. FC Machida Zelvia: O/U 7.5
+  1.006 | Yes@0.010 No@0.996 | liq=1612.25026 | FK Chornomorets Odesa vs. FK Kharkiv: O/U 7.5
+  1.006 | Yes@0.013 No@0.993 | liq=1490.10738 | South Melbourne FC vs. Melbourne Victory FC: O/U 7.5
+  1.007 | Yes@0.998 No@0.009 | liq=177.37361 | Will Dplus KIA Qualify for Worlds 2026?
+  1.008 | Yes@0.012 No@0.996 | liq=130.53799 | Falkirk FC vs. Dundee FC: O/U 7.5
+  1.010 | Yes@0.080 No@0.930 | liq=26455.5727 | Exact Score: Alianza FC 1 - 2 Águilas Doradas Rionegro?
+min-ask sum <=1.00: 0
+min-ask sum <=1.005: 3
+supp time: 50.4s

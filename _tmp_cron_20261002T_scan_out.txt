@@ -1,0 +1,7 @@
+Scan: 500 markets in 49.9s
+BRACKETS (sum < 1.00): 0
+Near-misses verbatim asks[0] (<=1.005): 0
+Near-misses best-ask min() (<=1.005): 3
+  1.0010 | Yes@0.002 No@0.999 | liq=55713 | Will Pepa Millán be the next Prime Minister of Spa
+  1.0010 | Yes@0.004 No@0.997 | liq=2956 | Will US unemployment reach at least 6.0% in 2026?
+  1.0020 | Yes@0.092 No@0.910 | liq=18218 | Will the Republican Party candidate win the 2026 O

@@ -1,0 +1,11 @@
+best-ask totals: 113/500 priced markets in 46.4s
+top 8 lowest best-ask sums:
+  1.0040 | Yes@0.009 No@0.995 | liq=4019.58811 | Cruzeiro EC vs. São Paulo FC: O/U 7.5
+  1.0050 | Yes@0.008 No@0.997 | liq=18184.24637 | Exact Score: Ipswich Town FC 0 - 5 Fulham FC?
+  1.0050 | Yes@0.009 No@0.996 | liq=14142.06775 | Exact Score: Ipswich Town FC 3 - 4 Fulham FC?
+  1.0050 | Yes@0.008 No@0.997 | liq=17908.69838 | Exact Score: Ipswich Town FC 5 - 1 Fulham FC?
+  1.0050 | Yes@0.008 No@0.997 | liq=8715.34442 | Exact Score: West Ham United FC 0 - 3 Queens Park Rangers FC
+  1.0050 | Yes@0.009 No@0.996 | liq=3193.5115 | Will US unemployment reach at least 6.0% in 2026?
+  1.0060 | Yes@0.010 No@0.996 | liq=14983.07492 | Exact Score: Ipswich Town FC 1 - 5 Fulham FC?
+  1.0060 | Yes@0.007 No@0.999 | liq=20828.78731 | Exact Score: Ipswich Town FC 5 - 2 Fulham FC?
+true brackets (sum<1.000): 0 | near-misses (1.000..1.005): 6

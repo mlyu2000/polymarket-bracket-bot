@@ -1,0 +1,4 @@
+priced markets (best-ask): 83
+floor sum: 1.0090 | Spread: CA Platense (-3.5)
+near-misses <=1.005 (best-ask): 0
+true brackets sum<1.00 (best-ask): 0

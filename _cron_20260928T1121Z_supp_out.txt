@@ -1,0 +1,7 @@
+best-ask priced markets: 81
+detector-gated brackets (net_edge>=1%): 0
+BRACKETS best-ask sum<1.00: 0
+NEAR-MISS best-ask 1.000..1.005: 2
+  1.0010 | Yes@0.033 No@0.968 | liq=9825.06033 | Will the 5-year Treasury yield dip below 4.10% before 2
+  1.0020 | Yes@0.136 No@0.866 | liq=558.78622 | Will China's annual inflation in 2026 be between 0.1% a
+floor (min best-ask sum): 1.0010

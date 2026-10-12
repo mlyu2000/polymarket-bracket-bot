@@ -1,0 +1,7 @@
+[min-ask supplemental] 500 markets (77 priced) in 44.8s
+BRACKETS (best-ask sum < 1.00): 0
+True floor (best-ask sum): 1.0010
+Near-misses (best-ask sum <= 1.005): 3
+  sum=1.0010 | Yes@0.033 No@0.968 | liq=13890.43467 | Will the 5-year Treasury yield dip below 4.10% before 2027?
+  sum=1.0030 | Yes@0.012 No@0.991 | liq=50576.36738 | Will Alibaba have the best AI model at the end of December 2
+  sum=1.0050 | Yes@0.998 No@0.007 | liq=17637.59476 | Nothing Ever Happens: September

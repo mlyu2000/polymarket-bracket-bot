@@ -1,0 +1,12 @@
+markets_with_both_books: 79
+best min-ask sums:
+  1.0010 | Yes@0.033 No@0.968 | liq=14433.03714 | Will the 5-year Treasury yield dip below 4.10% bef
+  1.0060 | Yes@0.007 No@0.999 | liq=5269.70558 | Guadeloupe vs. Barbados: O/U 7.5
+  1.0080 | Yes@0.009 No@0.999 | liq=710.03469 | Will Khamenei post 40-44 posts from September 29 t
+  1.0090 | Yes@0.010 No@0.999 | liq=2554.06513 | Jamaica vs. Honduras: O/U 8.5
+  1.0090 | Yes@0.010 No@0.999 | liq=6239.18813 | Spread: América FC (-3.5)
+  1.0090 | Yes@0.011 No@0.998 | liq=487.97613 | Will Netflix, Inc. (NFLX) hit (HIGH) $105 in Septe
+  1.0100 | Yes@0.510 No@0.500 | liq=7974.8536 | Spread: Turkmenistan (-5.5)
+  1.0100 | Yes@0.390 No@0.620 | liq=1791.8885 | Will any player have 1,750+ receiving yards in the
+min-ask sum<1.000: 0
+min-ask sum<=1.005: 1

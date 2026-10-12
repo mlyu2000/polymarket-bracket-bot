@@ -1,0 +1,8 @@
+⏱ best-ask fetch+compute: 48.3s | markets: 500 priced: 85
+🔴 TRUE BRACKETS (best-ask sum < 1.00): 0
+🟡 NEAR-MISS (1.00 <= best-ask sum <= 1.005): 4
+  sum=1.0010 | Yes@0.002 No@0.999 | liq=70361.20303 | Will Yehude Simón Munaro win the next Lima mayoral elections
+  sum=1.0010 | Yes@0.032 No@0.969 | liq=14442.43272 | Will the 5-year Treasury yield dip below 4.10% before 2027?
+  sum=1.0010 | Yes@0.984 No@0.017 | liq=18607.77438 | Will the price of Ethereum be above $2,400 on October 2?
+  sum=1.0050 | Yes@0.998 No@0.007 | liq=17579.16087 | Nothing Ever Happens: September
+📉 floor(best-ask sum)=1.0010 across 85 priced markets

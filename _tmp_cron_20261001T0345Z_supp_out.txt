@@ -1,0 +1,6 @@
+🔍 Corrected scan (min-ask): 500 markets (79 priced) in 50.1s
+✅ TRUE BRACKETS (min sum < 1.00): 0
+📊 Near-misses (1.00..1.005): 2
+  1.0010 | Yes@0.002 No@0.999 | liq=66728.64495 | Will Yehude Simón Munaro win the next Lima mayoral
+  1.0010 | Yes@0.032 No@0.969 | liq=13644.27743 | Will the 5-year Treasury yield dip below 4.10% bef
+📉 Best floor across all priced markets: 1.001

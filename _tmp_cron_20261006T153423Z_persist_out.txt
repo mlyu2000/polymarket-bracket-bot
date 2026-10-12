@@ -1,0 +1,68 @@
+{
+ "run": "20261006T153822Z",
+ "ts": "2026-10-06T15:38:22Z",
+ "markets": 500,
+ "priced": 100,
+ "floor": 1.004,
+ "brackets_minask": 0,
+ "band": 3,
+ "top8": [
+  {
+   "sum": 1.004,
+   "q": "Will US unemployment reach at least 6.0% in 2026?",
+   "yes": 0.006,
+   "no": 0.998,
+   "liq": 3755.94505
+  },
+  {
+   "sum": 1.004,
+   "q": "Exact Score: Ipswich Town FC 5 - 0 Fulham FC?",
+   "yes": 0.006,
+   "no": 0.998,
+   "liq": 1590.16599
+  },
+  {
+   "sum": 1.005,
+   "q": "Antigua and Barbuda vs. Aruba: O/U 7.5",
+   "yes": 0.009,
+   "no": 0.996,
+   "liq": 4524.56963
+  },
+  {
+   "sum": 1.006,
+   "q": "Exact Score: BV Borussia 09 Dortmund 0 - 3 SV Werder Bremen?",
+   "yes": 0.009,
+   "no": 0.997,
+   "liq": 2709.21134
+  },
+  {
+   "sum": 1.006,
+   "q": "Exact Score: FC Augsburg 2 - 0 FC Bayern M\u00fcnchen?",
+   "yes": 0.01,
+   "no": 0.996,
+   "liq": 1831.62728
+  },
+  {
+   "sum": 1.007,
+   "q": "Exact Score: West Ham United FC 0 - 3 Queens Park Rangers FC",
+   "yes": 0.009,
+   "no": 0.998,
+   "liq": 1518.79639
+  },
+  {
+   "sum": 1.007,
+   "q": "Exact Score: Racing Club de Lens 0 - 4 Olympique Lyonnais?",
+   "yes": 0.015,
+   "no": 0.992,
+   "liq": 992.21744
+  },
+  {
+   "sum": 1.009,
+   "q": "Exact Score: Racing Club de Lens 3 - 4 Olympique Lyonnais?",
+   "yes": 0.014,
+   "no": 0.995,
+   "liq": 1242.45353
+  }
+ ],
+ "scan_time_s": 49.5
+}

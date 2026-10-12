@@ -1,0 +1,10 @@
+markets=500 priced=134 detector_opps=0
+TOP8 min-ask sums:
+  1.001 | Y@0.002 N@0.999 | liq=1815.94211 | Will Anders Dreyer win 2026 MLS Most Valuable Player?
+  1.001 | Y@0.016 N@0.985 | liq=26646.29189 | Will Dallas Wings win the 2026 WNBA Finals?
+  1.003 | Y@0.004 N@0.999 | liq=5690.87036 | RCD Mallorca vs. UD Almería: O/U 8.5
+  1.003 | Y@0.004 N@0.999 | liq=635.49398 | Will Jairo Palheta win the 2026 Amapá gubernatorial ele
+  1.003 | Y@0.034 N@0.969 | liq=2792.78641 | Will Symbiotic launch a token by December 31, 2026?
+  1.004 | Y@0.006 N@0.998 | liq=6044.2435 | Exact Score: CA Racing de Cordoba 3 - 3 CD Godoy Cruz?
+  1.004 | Y@0.005 N@0.999 | liq=596.97083 | Will MIO: Memories in Orbit win Best Independent Game a
+  1.005 | Y@0.007 N@0.998 | liq=6020.1269 | Exact Score: Envigado FC 0 - 3 Atletico FC Cali?

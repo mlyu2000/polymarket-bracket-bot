@@ -1,0 +1,8 @@
+markets=500 best-ask near-misses(<=1.005)=5
+  1.0050 | Yes@0.009 No@0.996 | liq=8681.41199 | Cruzeiro EC vs. São Paulo FC: O/U 7.5
+  1.0050 | Yes@0.008 No@0.997 | liq=16475.18973 | Exact Score: Ipswich Town FC 0 - 5 Fulham FC?
+  1.0050 | Yes@0.009 No@0.996 | liq=13227.35905 | Exact Score: Ipswich Town FC 3 - 4 Fulham FC?
+  1.0050 | Yes@0.008 No@0.997 | liq=17003.70805 | Exact Score: Ipswich Town FC 5 - 1 Fulham FC?
+  1.0050 | Yes@0.009 No@0.996 | liq=3281.4544 | Will US unemployment reach at least 6.0% in 2026?
+persisted runs/scan_20261007T150345Z.json floor=1.005 priced=102
+[{"sum": 1.005, "q": "Cruzeiro EC vs. São Paulo FC: O/U 7.5", "yes": 0.009, "no": 0.996, "liq": 8681.41199}, {"sum": 1.005, "q": "Will US unemployment reach at least 6.0% in 2026?", "yes": 0.009, "no": 0.996, "liq": 3281.4544}, {"sum": 1.005, "q": "Exact Score: Ipswich Town FC 0 - 5 Fulham FC?", "yes": 0.008, "no": 0.997, "liq": 16475.18973}, {"sum": 1.005, "q": "Exact Score: Ipswich Town FC 5 - 1 Fulham FC?", "yes": 0.008, "no": 0.997, "liq": 17003.70805}, {"sum": 1.005, "q": "Exact Score: Ipswich Town FC 3 - 4 Fulham FC?", "yes": 0.009, "no": 0.996, "liq": 13227.35905}, {"sum": 1.006, "q": "Exact Score: West Ham United FC 0 - 3 Queens Park Rangers FC", "yes": 0.008, "no": 0.998, "liq": 8201.13571}, {"sum": 1.006, "q": "Exact Score: Stade Brestois 29 4 - 3 Angers SCO?", "yes": 0.01, "no": 0.996, "liq": 1455.80469}, {"sum": 1.006, "q": "Exact Score: Ipswich Town FC 1 - 5 Fulham FC?", "yes": 0.01, "no": 0.996, "liq": 13216.18422}]

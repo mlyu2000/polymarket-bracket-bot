@@ -1,0 +1,242 @@
+[
+ {
+  "sum": 1.002,
+  "q": "Will Microsoft be the largest company in the world by market cap on De",
+  "yes": 0.007,
+  "no": 0.995,
+  "ov": 5551,
+  "liq": 92123.9775
+ },
+ {
+  "sum": 1.004,
+  "q": "Will US unemployment reach at least 6.0% in 2026?",
+  "yes": 0.006,
+  "no": 0.998,
+  "ov": 297,
+  "liq": 4365.31446
+ },
+ {
+  "sum": 1.005,
+  "q": "Exact Score: Lille OSC 1 - 3 Le Havre AC?",
+  "yes": 0.014,
+  "no": 0.991,
+  "ov": 145,
+  "liq": 2246.39553
+ },
+ {
+  "sum": 1.006,
+  "q": "Korea Republic vs. Uzbekistan: O/U 7.5",
+  "yes": 0.011,
+  "no": 0.995,
+  "ov": 6,
+  "liq": 1375.70888
+ },
+ {
+  "sum": 1.01,
+  "q": "1. FSV Mainz 05 vs. Bayer 04 Leverkusen: Both Teams to Score",
+  "yes": 0.68,
+  "no": 0.33,
+  "ov": 472,
+  "liq": 3522.5363
+ },
+ {
+  "sum": 1.01,
+  "q": "Stade Brestois 29 vs. Angers SCO: Both Teams to Score",
+  "yes": 0.58,
+  "no": 0.43,
+  "ov": 5,
+  "liq": 5523.9589
+ },
+ {
+  "sum": 1.01,
+  "q": "Stade Rennais FC 1901 vs. AJ Auxerre: Both Teams to Score",
+  "yes": 0.58,
+  "no": 0.43,
+  "ov": 5,
+  "liq": 5524.2554
+ },
+ {
+  "sum": 1.01,
+  "q": "Will the Carolina Panthers have more than 7.5 wins during the 2026 NFL",
+  "yes": 0.48,
+  "no": 0.53,
+  "ov": 60,
+  "liq": 1522.222
+ },
+ {
+  "sum": 1.014,
+  "q": "Will the price of Bitcoin be between $92,000 and $94,000 on October 7?",
+  "yes": 0.017,
+  "no": 0.997,
+  "ov": 405,
+  "liq": 7886.48935
+ },
+ {
+  "sum": 1.016,
+  "q": "Will the highest temperature in Chongqing be 23\u00b0C on October 7?",
+  "yes": 0.018,
+  "no": 0.998,
+  "ov": 5,
+  "liq": 1984.5855
+ },
+ {
+  "sum": 1.02,
+  "q": "Elche CF vs. RC Celta de Vigo: Both Teams to Score",
+  "yes": 0.54,
+  "no": 0.48,
+  "ov": 1432,
+  "liq": 6298.3368
+ },
+ {
+  "sum": 1.02,
+  "q": "Atalanta BC vs. Venezia FC: Both Teams to Score",
+  "yes": 0.59,
+  "no": 0.43,
+  "ov": 746,
+  "liq": 5679.1498
+ },
+ {
+  "sum": 1.02,
+  "q": "Bosnia and Herzegovina vs. Poland: Bosnia and Herzegovina O/U 2.5",
+  "yes": 0.08,
+  "no": 0.94,
+  "ov": 3185,
+  "liq": 5359.8144
+ },
+ {
+  "sum": 1.02,
+  "q": "OGC Nice vs. RC Strasbourg Alsace: Both Teams to Score",
+  "yes": 0.61,
+  "no": 0.41,
+  "ov": 855,
+  "liq": 5438.9656
+ },
+ {
+  "sum": 1.02,
+  "q": "Real Sociedad de F\u00fatbol vs. RC Deportivo A Coru\u00f1a: Both Teams to Score",
+  "yes": 0.55,
+  "no": 0.47,
+  "ov": 1359,
+  "liq": 4877.5788
+ },
+ {
+  "sum": 1.02,
+  "q": "England vs. Czechia: Czechia O/U 0.5",
+  "yes": 0.43,
+  "no": 0.59,
+  "ov": 555,
+  "liq": 9408.1709
+ },
+ {
+  "sum": 1.02,
+  "q": "Will Eintracht Braunschweig win on 2026-10-09?",
+  "yes": 0.36,
+  "no": 0.66,
+  "ov": 250,
+  "liq": 5759.401
+ },
+ {
+  "sum": 1.024,
+  "q": "Estudiantes de La Plata vs. CA Gimnasia y Esgrima de Mendoza: Estudian",
+  "yes": 0.028,
+  "no": 0.996,
+  "ov": 100,
+  "liq": 1714.57464
+ },
+ {
+  "sum": 1.03,
+  "q": "Will China PR vs. Tajikistan end in a draw?",
+  "yes": 0.24,
+  "no": 0.79,
+  "ov": 5,
+  "liq": 2699.7988
+ },
+ {
+  "sum": 1.03,
+  "q": "Derby County FC vs. Wrexham AFC: Both Teams to Score",
+  "yes": 0.54,
+  "no": 0.49,
+  "ov": 265,
+  "liq": 2082.1691
+ },
+ {
+  "sum": 1.03,
+  "q": "Will USD/JPY hit 190 (High) in 2026?",
+  "yes": 0.07,
+  "no": 0.96,
+  "ov": 13,
+  "liq": 353.2631
+ },
+ {
+  "sum": 1.038,
+  "q": "Will NVIDIA (NVDA) close above $235 on October 5?",
+  "yes": 0.99,
+  "no": 0.048,
+  "ov": 9,
+  "liq": 2577.42421
+ },
+ {
+  "sum": 1.04,
+  "q": "Suns vs. Pistons: O/U 219.5",
+  "yes": 0.48,
+  "no": 0.56,
+  "ov": 16,
+  "liq": 3590.748
+ },
+ {
+  "sum": 1.04,
+  "q": "Torino FC vs. Udinese Calcio: Both Teams to Score",
+  "yes": 0.55,
+  "no": 0.49,
+  "ov": 31,
+  "liq": 3836.1634
+ },
+ {
+  "sum": 1.04,
+  "q": "Kyle Pitts Sr.: Receiving Yards O/U 29.5",
+  "yes": 0.54,
+  "no": 0.5,
+  "ov": 392,
+  "liq": 490.0948
+ },
+ {
+  "sum": 1.041,
+  "q": "Will Pittsburgh Steelers finish the 2026-27 NFL regular season with th",
+  "yes": 0.042,
+  "no": 0.999,
+  "ov": 5,
+  "liq": 229.4248
+ },
+ {
+  "sum": 1.041,
+  "q": "Will Jacksonville Jaguars finish the 2026-27 NFL regular season with t",
+  "yes": 0.042,
+  "no": 0.999,
+  "ov": 5,
+  "liq": 205.39178
+ },
+ {
+  "sum": 1.041,
+  "q": "Will Denver Broncos finish the 2026-27 NFL regular season with the mos",
+  "yes": 0.042,
+  "no": 0.999,
+  "ov": 5,
+  "liq": 205.05562
+ },
+ {
+  "sum": 1.041,
+  "q": "Will Kansas City Chiefs finish the 2026-27 NFL regular season with the",
+  "yes": 0.042,
+  "no": 0.999,
+  "ov": 5,
+  "liq": 218.3146
+ },
+ {
+  "sum": 1.041,
+  "q": "Will Las Vegas Raiders finish the 2026-27 NFL regular season with the ",
+  "yes": 0.042,
+  "no": 0.999,
+  "ov": 5,
+  "liq": 228.5279
+ }
+]

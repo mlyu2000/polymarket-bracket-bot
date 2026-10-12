@@ -1,0 +1,13 @@
+Detector BRACKETS: 0
+Best min-ask totals (top 10 of 107 priced):
+  1.003 | Yes@0.006 No@0.997 | liq=698.87905 |  Will Split be the fewest played map at VALORANT Ch
+  1.005 | Yes@0.009 No@0.996 | liq=4606.76599 |  Cruzeiro EC vs. São Paulo FC: O/U 7.5
+  1.005 | Yes@0.008 No@0.997 | liq=16590.64749 |  Exact Score: Ipswich Town FC 0 - 5 Fulham FC?
+  1.005 | Yes@0.009 No@0.996 | liq=13286.5821 |  Exact Score: Ipswich Town FC 3 - 4 Fulham FC?
+  1.005 | Yes@0.009 No@0.996 | liq=14511.97636 |  Exact Score: Ipswich Town FC 4 - 3 Fulham FC?
+  1.005 | Yes@0.008 No@0.997 | liq=17011.72405 |  Exact Score: Ipswich Town FC 5 - 1 Fulham FC?
+  1.005 | Yes@0.008 No@0.997 | liq=8368.56078 |  Exact Score: West Ham United FC 0 - 3 Queens Park 
+  1.005 | Yes@0.009 No@0.996 | liq=3279.95271 |  Will US unemployment reach at least 6.0% in 2026?
+  1.006 | Yes@0.010 No@0.996 | liq=13332.54434 |  Exact Score: Ipswich Town FC 1 - 5 Fulham FC?
+  1.006 | Yes@0.007 No@0.999 | liq=20854.97121 |  Exact Score: Ipswich Town FC 5 - 2 Fulham FC?
+min-ask totals < 1.000: 0 | <= 1.005: 8

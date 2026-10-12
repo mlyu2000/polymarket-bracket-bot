@@ -1,0 +1,5 @@
+scan time: 48.3s | markets: 500 | priced: 104
+global min sum(best asks): 1.0030 | Yes@0.005 No@0.998 | Will US unemployment reach at least 6.0% in 2026?
+best-ask near-misses (<=1.005): 2
+  1.0030 | Yes@0.005 No@0.998 | liq=3888.96334 | det=no | Will US unemployment reach at least 6.0% in 2026?
+  1.0050 | Yes@0.009 No@0.996 | liq=2481.67532 | det=no | Antigua and Barbuda vs. Aruba: O/U 7.5

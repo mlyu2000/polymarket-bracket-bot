@@ -1,0 +1,14 @@
+priced markets: 58
+TRUE sum<1.00: 0 | sum<=1.005: 2
+--- floor top 10 ---
+  1.005 | Y@0.010(sz 17) N@0.995(sz 3383) | liq 3951.30356 | Kyōto Sanga FC vs. FC Machida Zelvia: O/U 7.5
+  1.005 | Y@0.009(sz 9) N@0.996(sz 2350) | liq 1972.2503 | Clermont Foot 63 vs. Red Star FC: O/U 7.5
+  1.006 | Y@0.012(sz 9) N@0.994(sz 1566) | liq 1457.73184 | Falkirk FC vs. Dundee FC: O/U 7.5
+  1.006 | Y@0.010(sz 6) N@0.996(sz 1175) | liq 1908.43045 | FK Chornomorets Odesa vs. FK Kharkiv: O/U 7.5
+  1.010 | Y@0.060(sz 40) N@0.950(sz 61) | liq 44.8875 | Will Fernando Mendoza have 3,500+ passing yards in the 2026-27 NFL reg
+  1.010 | Y@0.170(sz 17393) N@0.840(sz 157) | liq 164672.3052 | Kent State vs. Western Michigan
+  1.010 | Y@0.170(sz 1785) N@0.840(sz 416) | liq 10365.4048 | Spread: Real Madrid CF (-3.5)
+  1.010 | Y@0.120(sz 850) N@0.890(sz 50) | liq 54181.4036 | Will Washington Capitals be the 2027 NHL Eastern Conference Champion?
+  1.011 | Y@0.998(sz 105) N@0.013(sz 7) | liq 175.90975 | Will Dplus KIA Qualify for Worlds 2026?
+  1.019 | Y@0.020(sz 150) N@0.999(sz 150) | liq 5453.11307 | Exact Score: New England Revolution 1 - 4 Seattle Sounders FC?
+--- all sum<1.00 ---

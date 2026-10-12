@@ -1,0 +1,6 @@
+markets=500 best-ask near-misses(<=1.005)=6
+  1.0030 | Yes@0.004 No@0.999 | liq=6822.96869 | Cruzeiro EC vs. São Paulo FC: O/U 8.5
+  1.0050 | Yes@0.009 No@0.996 | liq=5029.83099 | Cruzeiro EC vs. São Paulo FC: O/U 7.5
+  1.0050 | Yes@0.008 No@0.997 | liq=1819.45882 | Exact Score: Ipswich Town FC 0 - 5 Fulham FC?
+  1.0050 | Yes@0.009 No@0.996 | liq=1977.04865 | Exact Score: Ipswich Town FC 3 - 4 Fulham FC?
+  1.0050 | Yes@0.008 No@0.997 | liq=1669.22897 | Exact Score: Ipswich Town FC 5 - 1 Fulham FC?

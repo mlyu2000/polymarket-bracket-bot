@@ -1,0 +1,3 @@
+Priced markets: 85
+Floor (min yes+no best-ask sum): 1.0090
+Near-misses <=1.005 (min-ask, liq>0): 0

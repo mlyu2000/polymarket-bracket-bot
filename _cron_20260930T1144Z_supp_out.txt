@@ -1,0 +1,11 @@
+--- MIN-ASK FLOOR SWEEP (500 markets, 49.1s) ---
+TRUE brackets (minYes+minNo < 1.000):
+  (none)
+Lowest 6 combined min-ask sums:
+  sum=1.001 | Yes@0.032 No@0.969 | liq=14197.4708 | Will the 5-year Treasury yield dip below 4.10% before 2027?
+  sum=1.001 | Yes@0.002 No@0.999 | liq=71051.28305 | Will Yehude Simón Munaro win the next Lima mayoral elections?
+  sum=1.005 | Yes@0.998 No@0.007 | liq=17579.16087 | Nothing Ever Happens: September
+  sum=1.006 | Yes@0.104 No@0.902 | liq=31902.28614 | Will the Democratic Party win the TX-32 House seat?
+  sum=1.008 | Yes@0.009 No@0.999 | liq=4680.71796 | Will the highest temperature in Paris be 15°C or below on October 2?
+  sum=1.008 | Yes@0.009 No@0.999 | liq=17910.53052 | Exact Score: Eritrea 3 - 0 South Africa?
+Markets with min-ask sum <= 1.005: 3

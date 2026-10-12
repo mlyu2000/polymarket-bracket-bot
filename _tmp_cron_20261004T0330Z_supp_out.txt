@@ -1,0 +1,19 @@
+priced markets: 96
+top-10 best sums (min ask Yes + min ask NO):
+  1.0020 | Yes@0.005 No@0.997 | liq=3580.20388 | Will US unemployment reach at least 6.0% in 2026?
+  1.0040 | Yes@0.005 No@0.999 | liq=7307.46682 | Vegalta Sendai vs. Júbilo Iwata: O/U 8.5
+  1.0050 | Yes@0.009 No@0.996 | liq=2582.74288 | Exact Score: BV Borussia 09 Dortmund 0 - 3 SV Werder Bremen?
+  1.0050 | Yes@0.012 No@0.993 | liq=6413.82621 | Real Sporting de Gijón vs. Celta Fortuna: O/U 7.5
+  1.0060 | Yes@0.009 No@0.997 | liq=4754.30446 | CA Bucaramanga vs. CDP Junior FC: O/U 7.5
+  1.0090 | Yes@0.010 No@0.999 | liq=8813.59907 | Vegalta Sendai vs. Júbilo Iwata: O/U 7.5
+  1.0100 | Yes@0.030 No@0.980 | liq=959.54479 | Chicago Fire FC vs. Vancouver Whitecaps FC: Vancouver Whitecaps FC O/U
+  1.0100 | Yes@0.650 No@0.360 | liq=224741.4688 | Will the Democrats win the Texas Senate race in 2026?
+  1.0120 | Yes@0.013 No@0.999 | liq=1779.55019 | Exact Score: Racing Club de Lens 5 - 2 Olympique Lyonnais?
+  1.0130 | Yes@0.019 No@0.994 | liq=10623.49429 | Exact Score: Blaublitz Akita 3 - 3 Sagan Tosu?
+true brackets (sum<1.000): 0
+near-misses (1.000-1.005): 4
+  1.0020 | Yes@0.005 No@0.997 | liq=3580.20388 | Will US unemployment reach at least 6.0% in 2026?
+  1.0040 | Yes@0.005 No@0.999 | liq=7307.46682 | Vegalta Sendai vs. Júbilo Iwata: O/U 8.5
+  1.0050 | Yes@0.009 No@0.996 | liq=2582.74288 | Exact Score: BV Borussia 09 Dortmund 0 - 3 SV Werder Bremen?
+  1.0050 | Yes@0.012 No@0.993 | liq=6413.82621 | Real Sporting de Gijón vs. Celta Fortuna: O/U 7.5
+count <=1.010: 8

@@ -1,0 +1,5 @@
+⚙️  Min-ask floor recheck (correct best-ask method): 87 priced pairs in 49.2s
+📊 True near-misses (best-ask sum ≤1.005): 2
+  1.0010 | Yes@0.002 No@0.999 | liq=69317.32006 | Will Yehude Simón Munaro win the next Lima mayoral
+  1.0040 | Yes@0.005 No@0.999 | liq=5862.1692 | Spread: CA Platense (-3.5)
+🏆 Best floor this run: sum=1.0010

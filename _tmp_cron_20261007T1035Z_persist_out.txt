@@ -1,0 +1,99 @@
+{
+ "run": "20261007T104435Z",
+ "ts": "2026-10-07T10:44:35Z",
+ "markets": 500,
+ "priced": 88,
+ "floor": 1.003,
+ "brackets_minask": 0,
+ "detector_opps": 0,
+ "band": 4,
+ "top8": [
+  {
+   "sum": 1.003,
+   "q": "Cruzeiro EC vs. S\u00e3o Paulo FC: O/U 8.5",
+   "yes": 0.004,
+   "no": 0.999,
+   "liq": 6707.63858
+  },
+  {
+   "sum": 1.004,
+   "q": "Will US unemployment reach at least 6.0% in 2026?",
+   "yes": 0.007,
+   "no": 0.997,
+   "liq": 3378.17274
+  },
+  {
+   "sum": 1.005,
+   "q": "Cruzeiro EC vs. S\u00e3o Paulo FC: O/U 7.5",
+   "yes": 0.009,
+   "no": 0.996,
+   "liq": 4905.58299
+  },
+  {
+   "sum": 1.005,
+   "q": "Exact Score: West Ham United FC 0 - 3 Queens Park Rangers FC",
+   "yes": 0.008,
+   "no": 0.997,
+   "liq": 8278.24872
+  },
+  {
+   "sum": 1.006,
+   "q": "Exact Score: SC Paderborn 07 4 - 1 VfB Stuttgart?",
+   "yes": 0.012,
+   "no": 0.994,
+   "liq": 1840.20989
+  },
+  {
+   "sum": 1.007,
+   "q": "Exact Score: BV Borussia 09 Dortmund 0 - 3 SV Werder Bremen?",
+   "yes": 0.008,
+   "no": 0.999,
+   "liq": 12046.27029
+  },
+  {
+   "sum": 1.007,
+   "q": "Exact Score: SC Paderborn 07 4 - 2 VfB Stuttgart?",
+   "yes": 0.013,
+   "no": 0.994,
+   "liq": 1914.97624
+  },
+  {
+   "sum": 1.007,
+   "q": "Exact Score: SC Paderborn 07 4 - 3 VfB Stuttgart?",
+   "yes": 0.011,
+   "no": 0.996,
+   "liq": 1821.49388
+  }
+ ],
+ "band_rows": [
+  {
+   "sum": 1.003,
+   "q": "Cruzeiro EC vs. S\u00e3o Paulo FC: O/U 8.5",
+   "yes": 0.004,
+   "no": 0.999,
+   "liq": 6707.63858
+  },
+  {
+   "sum": 1.004,
+   "q": "Will US unemployment reach at least 6.0% in 2026?",
+   "yes": 0.007,
+   "no": 0.997,
+   "liq": 3378.17274
+  },
+  {
+   "sum": 1.005,
+   "q": "Cruzeiro EC vs. S\u00e3o Paulo FC: O/U 7.5",
+   "yes": 0.009,
+   "no": 0.996,
+   "liq": 4905.58299
+  },
+  {
+   "sum": 1.005,
+   "q": "Exact Score: West Ham United FC 0 - 3 Queens Park Rangers FC",
+   "yes": 0.008,
+   "no": 0.997,
+   "liq": 8278.24872
+  }
+ ],
+ "scan_time_s": 51.3
+}

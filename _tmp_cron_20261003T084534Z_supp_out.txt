@@ -1,0 +1,13 @@
+Supp (best-ask/min): 58/500 priced markets in 49.0s
+--- Top 10 lowest YES+NO best-ask sums ---
+  1.0010 | Yes@0.002 No@0.999 | liq=46078.90336 | near | Will Pepa Millán be the next Prime Minister of Spain?
+  1.0010 | Yes@0.004 No@0.997 | liq=2895.77888 | near | Will US unemployment reach at least 6.0% in 2026?
+  1.0040 | Yes@0.005 No@0.999 | liq=3071.49578 | near | Avaí FC vs. Ceará SC: O/U 7.5
+  1.0070 | Yes@0.014 No@0.993 | liq=3412.71937 |  | Chesterfield FC vs. Tranmere Rovers FC: O/U 7.5
+  1.0090 | Yes@0.010 No@0.999 | liq=1297.11664 |  | Albion FC vs. Defensor Sporting: O/U 8.5
+  1.0090 | Yes@0.010 No@0.999 | liq=3304.99747 |  | Chesterfield FC vs. Tranmere Rovers FC: O/U 8.5
+  1.0090 | Yes@0.010 No@0.999 | liq=1669.055 |  | Exact Score: BV Borussia 09 Dortmund 2 - 4 SV Werder Br
+  1.0090 | Yes@0.010 No@0.999 | liq=2280.27066 |  | Stroemmen IF vs. Sandnes Ulf: O/U 8.5
+  1.0120 | Yes@0.013 No@0.999 | liq=1365.58409 |  | Exact Score: Racing Club de Lens 5 - 2 Olympique Lyonna
+  1.0140 | Yes@0.015 No@0.999 | liq=871.34034 |  | Belize vs. French Guiana: O/U 6.5
+Sum < 1.00: 0 | Sum <= 1.005: 3 | Floor: 1.0010

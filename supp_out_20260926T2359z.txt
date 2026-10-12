@@ -1,0 +1,11 @@
+priced markets: 142
+TRUE brackets (min-ask sum < 1.00): 0
+min-ask near-misses (<=1.005): 14
+  1.0010 | Yes@0.002 No@0.999 | liq=1398.23129 | Will Anders Dreyer win 2026 MLS Most Valuable Player?
+  1.0030 | Yes@0.010 No@0.993 | liq=8944.68601 | Exact Score: Boca Juniors de Cali 3 - 3 Boyaca Patriotas?
+  1.0030 | Yes@0.007 No@0.996 | liq=3535.61441 | Exact Score: CA Estudiantes 2 - 3 CA San Miguel?
+  1.0030 | Yes@0.010 No@0.993 | liq=22501.75666 | Exact Score: CA Penarol Montevideo 2 - 3 CA Boston River?
+  1.0030 | Yes@0.006 No@0.997 | liq=12598.31914 | Exact Score: Deportivo Madryn 0 - 3 CA Central Norte Salta?
+  1.0030 | Yes@0.005 No@0.998 | liq=5065.57744 | Exact Score: Deportivo Madryn 3 - 3 CA Central Norte Salta?
+  1.0030 | Yes@0.006 No@0.997 | liq=3399.70112 | Exact Score: NAC Breda 0 - 3 FC Eindhoven?
+  1.0030 | Yes@0.008 No@0.995 | liq=1860.59027 | Lithuania vs. Azerbaijan: O/U 6.5

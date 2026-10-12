@@ -1,0 +1,13 @@
+Markets: 500 | priced with both books: 68 | 46.5s
+TRUE floor (min-ask sums, best 10):
+  1.010 | Yes@0.012 No@0.998 | liq=5771.00038 | Exact Score: Helmond Sport 3 - 0 Heracles Almelo?
+  1.010 | Yes@0.540 No@0.470 | liq=23500.7656 | Game Spread: Ekaterina Alexandrova (-1.5) vs Aliak
+  1.019 | Yes@0.020 No@0.999 | liq=9521.14781 | Exact Score: Helmond Sport 4 - 2 Heracles Almelo?
+  1.020 | Yes@0.400 No@0.620 | liq=5361.8598 | Barbados vs. Bermuda: Bermuda O/U 1.5
+  1.020 | Yes@0.300 No@0.720 | liq=8189.7746 | Will Côte d'Ivoire vs. Cameroon end in a draw?
+  1.021 | Yes@0.022 No@0.999 | liq=11945.20223 | Exact Score: Helmond Sport 5 - 1 Heracles Almelo?
+  1.024 | Yes@0.035 No@0.989 | liq=1504.10995 | Gemini 4.0 released by October 5, 2026?
+  1.026 | Yes@0.027 No@0.999 | liq=3305.48318 | Exact Score: Stroemsgodset IF 0 - 2 Aasane Fotball
+  1.030 | Yes@0.490 No@0.540 | liq=3664.7789 | Cagliari Calcio vs. Juventus FC: O/U 2.5
+  1.030 | Yes@0.450 No@0.580 | liq=1144.1263 | Côte d'Ivoire vs. Cameroon: Côte d'Ivoire O/U 1.5
+Near-misses (<=1.005, min-ask): 0 | Brackets (<1.00): 0

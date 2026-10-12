@@ -1,0 +1,13 @@
+markets with two-sided asks: 92
+true floor (min sum): 1.0010
+NEAR-MISSES (best-ask sum <= 1.005): 4
+  1.0010 | Yes@0.002 No@0.999 | liq=73950.48451 | Will Yehude Simón Munaro win the next Lima mayoral elec
+  1.0040 | Yes@0.005 No@0.999 | liq=2948.7475 | Spread: CA Platense (-3.5)
+  1.0050 | Yes@0.040 No@0.965 | liq=37052.21466 | Spread: Denmark (-2.5)
+  1.0050 | Yes@0.032 No@0.973 | liq=66859.85345 | Will Czechia win on 2026-10-03?
+--- next 5 closest above 1.005 ---
+  1.0070 | Yes@0.011 No@0.996 | liq=2226.07583 | FK Austria Wien vs. FC Internazionale Milano: O/U 7.5
+  1.0090 | Yes@0.010 No@0.999 | liq=5573.78042 | Spread: Sporting Kansas City (-3.5)
+  1.0100 | Yes@0.170 No@0.840 | liq=18778.6745 | Dreamcash FDV above $20M one day after launch?
+  1.0100 | Yes@0.300 No@0.710 | liq=2243.09 | Nicaragua vs. Costa Rica: Nicaragua 1st Half O/U 0.5
+  1.0100 | Yes@0.360 No@0.650 | liq=5692.5826 | Republic of Ireland vs. Austria: Republic of Ireland 1s

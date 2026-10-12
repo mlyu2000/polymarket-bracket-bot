@@ -1,0 +1,12 @@
+markets_with_both_books: 67
+best min-ask sums:
+  1.0010 | Yes@0.033 No@0.968 | liq=9605.87121 | Will the 5-year Treasury yield dip below 4.10% bef
+  1.0020 | Yes@0.136 No@0.866 | liq=716.37117 | Will China's annual inflation in 2026 be between 0
+  1.0030 | Yes@0.004 No@0.999 | liq=8705.0998 | Will Jairo Palheta win the 2026 Amapá gubernatoria
+  1.0050 | Yes@0.007 No@0.998 | liq=9317.5927 | Georgia vs. Ukraine: O/U 7.5
+  1.0080 | Yes@0.009 No@0.999 | liq=1792.79728 | Will Khamenei post 40-44 posts from September 29 t
+  1.0090 | Yes@0.010 No@0.999 | liq=2565.96823 | Jamaica vs. Honduras: O/U 8.5
+  1.0090 | Yes@0.010 No@0.999 | liq=5357.05773 | Spread: América FC (-3.5)
+  1.0100 | Yes@0.660 No@0.350 | liq=788038.6179 | Eagles vs. Bears
+min-ask sum<1.000: 0
+min-ask sum<=1.005: 4

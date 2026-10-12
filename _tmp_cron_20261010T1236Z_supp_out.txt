@@ -1,0 +1,12 @@
+elapsed 49.9s
+priced markets: 62
+TRUE brackets (min-ask sum < 1.0): 0
+top 8 best sums (min-ask):
+  1.0050 | Yes@0.012 No@0.993 | liq=3867.32164 | Falkirk FC vs. Dundee FC: O/U 7.5
+  1.0080 | Yes@0.017 No@0.991 | liq=2868.67873 | Al Ettifaq Saudi Club vs. Al Khaleej Saudi Club: O/U 7.5
+  1.0080 | Yes@0.011 No@0.997 | liq=377.37281 | Genoa CFC vs. ACF Fiorentina: Genoa CFC O/U 4.5
+  1.0090 | Yes@0.016 No@0.993 | liq=2644.58673 | Exact Score: New England Revolution 4 - 3 Seattle Sounders F
+  1.0100 | Yes@0.640 No@0.370 | liq=30365.7662 | AEK Athens vs. OFI Crete: O/U 2.5
+  1.0100 | Yes@0.630 No@0.380 | liq=46845.6558 | Atalanta BC vs. Venezia FC: O/U 2.5
+  1.0100 | Yes@0.620 No@0.390 | liq=51648.6234 | ES Troyes AC vs. Olympique de Marseille: O/U 2.5
+  1.0100 | Yes@0.080 No@0.930 | liq=26875.2538 | Exact Score: Bohemians Praha 1905 1 - 2 FC Baník Ostrava?

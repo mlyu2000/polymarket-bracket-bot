@@ -1,0 +1,8 @@
+best-ask floor check: 75/500 priced markets in 45.7s
+TRUE BRACKETS (min-ask sum < 1.00): 0
+5 lowest best-ask sums:
+  1.001 | Will Pepa Millán be the next Prime Minister of Spa
+  1.001 | Will US unemployment reach at least 6.0% in 2026?
+  1.010 | Counter-Strike: MOUZ vs M80 - Map 1 Winner
+  1.010 | Exact Score: BV Borussia 09 Dortmund 2 - 4 SV Werd
+  1.010 | Exact Score: Bonaire 0 - 1 Grenada?

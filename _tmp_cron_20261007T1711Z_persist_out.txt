@@ -1,0 +1,120 @@
+{
+ "run": "20261007T171451Z",
+ "ts": "2026-10-07T17:14:51Z",
+ "markets": 500,
+ "priced": 106,
+ "floor": 1.004,
+ "brackets_minask": 0,
+ "detector_opps": 0,
+ "band": 7,
+ "top8": [
+  {
+   "sum": 1.004,
+   "q": "Will US unemployment reach at least 6.0% in 2026?",
+   "yes": 0.007,
+   "no": 0.997,
+   "liq": 3488.4313
+  },
+  {
+   "sum": 1.005,
+   "q": "Cruzeiro EC vs. S\u00e3o Paulo FC: O/U 7.5",
+   "yes": 0.009,
+   "no": 0.996,
+   "liq": 5205.23107
+  },
+  {
+   "sum": 1.005,
+   "q": "Exact Score: West Ham United FC 0 - 3 Queens Park Rangers FC",
+   "yes": 0.008,
+   "no": 0.997,
+   "liq": 8552.41662
+  },
+  {
+   "sum": 1.005,
+   "q": "Exact Score: Ipswich Town FC 0 - 5 Fulham FC?",
+   "yes": 0.008,
+   "no": 0.997,
+   "liq": 17145.33774
+  },
+  {
+   "sum": 1.005,
+   "q": "Exact Score: Ipswich Town FC 5 - 1 Fulham FC?",
+   "yes": 0.008,
+   "no": 0.997,
+   "liq": 17594.33005
+  },
+  {
+   "sum": 1.005,
+   "q": "Exact Score: Ipswich Town FC 3 - 4 Fulham FC?",
+   "yes": 0.009,
+   "no": 0.996,
+   "liq": 12988.16035
+  },
+  {
+   "sum": 1.005,
+   "q": "Exact Score: Ipswich Town FC 4 - 3 Fulham FC?",
+   "yes": 0.009,
+   "no": 0.996,
+   "liq": 14511.97636
+  },
+  {
+   "sum": 1.006,
+   "q": "Exact Score: Racing Club de Lens 1 - 5 Olympique Lyonnais?",
+   "yes": 0.01,
+   "no": 0.996,
+   "liq": 9158.62639
+  }
+ ],
+ "band_rows": [
+  {
+   "sum": 1.004,
+   "q": "Will US unemployment reach at least 6.0% in 2026?",
+   "yes": 0.007,
+   "no": 0.997,
+   "liq": 3488.4313
+  },
+  {
+   "sum": 1.005,
+   "q": "Cruzeiro EC vs. S\u00e3o Paulo FC: O/U 7.5",
+   "yes": 0.009,
+   "no": 0.996,
+   "liq": 5205.23107
+  },
+  {
+   "sum": 1.005,
+   "q": "Exact Score: West Ham United FC 0 - 3 Queens Park Rangers FC",
+   "yes": 0.008,
+   "no": 0.997,
+   "liq": 8552.41662
+  },
+  {
+   "sum": 1.005,
+   "q": "Exact Score: Ipswich Town FC 0 - 5 Fulham FC?",
+   "yes": 0.008,
+   "no": 0.997,
+   "liq": 17145.33774
+  },
+  {
+   "sum": 1.005,
+   "q": "Exact Score: Ipswich Town FC 5 - 1 Fulham FC?",
+   "yes": 0.008,
+   "no": 0.997,
+   "liq": 17594.33005
+  },
+  {
+   "sum": 1.005,
+   "q": "Exact Score: Ipswich Town FC 3 - 4 Fulham FC?",
+   "yes": 0.009,
+   "no": 0.996,
+   "liq": 12988.16035
+  },
+  {
+   "sum": 1.005,
+   "q": "Exact Score: Ipswich Town FC 4 - 3 Fulham FC?",
+   "yes": 0.009,
+   "no": 0.996,
+   "liq": 14511.97636
+  }
+ ],
+ "scan_time_s": 50.2
+}

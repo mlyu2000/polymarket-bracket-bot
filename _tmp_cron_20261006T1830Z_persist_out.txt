@@ -1,0 +1,68 @@
+{
+ "run": "20261006T182234Z",
+ "ts": "2026-10-06T18:22:34Z",
+ "markets": 500,
+ "priced": 101,
+ "floor": 1.005,
+ "brackets_minask": 0,
+ "band": 1,
+ "top8": [
+  {
+   "sum": 1.005,
+   "q": "Will US unemployment reach at least 6.0% in 2026?",
+   "yes": 0.007,
+   "no": 0.998,
+   "liq": 3751.55874
+  },
+  {
+   "sum": 1.006,
+   "q": "Antigua and Barbuda vs. Aruba: O/U 7.5",
+   "yes": 0.01,
+   "no": 0.996,
+   "liq": 2973.5469
+  },
+  {
+   "sum": 1.006,
+   "q": "Exact Score: BV Borussia 09 Dortmund 0 - 3 SV Werder Bremen?",
+   "yes": 0.009,
+   "no": 0.997,
+   "liq": 1855.89738
+  },
+  {
+   "sum": 1.007,
+   "q": "Exact Score: West Ham United FC 0 - 3 Queens Park Rangers FC",
+   "yes": 0.009,
+   "no": 0.998,
+   "liq": 1511.57839
+  },
+  {
+   "sum": 1.007,
+   "q": "Exact Score: Racing Club de Lens 0 - 4 Olympique Lyonnais?",
+   "yes": 0.015,
+   "no": 0.992,
+   "liq": 1170.06502
+  },
+  {
+   "sum": 1.007,
+   "q": "Exact Score: Stade Brestois 29 4 - 3 Angers SCO?",
+   "yes": 0.011,
+   "no": 0.996,
+   "liq": 1201.15687
+  },
+  {
+   "sum": 1.007,
+   "q": "Exact Score: FC Augsburg 2 - 0 FC Bayern M\u00fcnchen?",
+   "yes": 0.011,
+   "no": 0.996,
+   "liq": 1530.20913
+  },
+  {
+   "sum": 1.009,
+   "q": "Exact Score: Stade Brestois 29 2 - 4 Angers SCO?",
+   "yes": 0.013,
+   "no": 0.996,
+   "liq": 1486.32801
+  }
+ ],
+ "scan_time_s": 45.9
+}

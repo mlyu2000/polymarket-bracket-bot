@@ -1,0 +1,12 @@
+priced_markets=96
+FLOOR sum=1.0010 Yes@0.026 No@0.975 liq=6460.3693 | Exact Score: FC Dordrecht 2 - 4 FC Emmen?
+near(min-asks,<=1.005)=8
+  1.0010 | Yes@0.026 No@0.975 | Exact Score: FC Dordrecht 2 - 4 FC Emmen?
+  1.0020 | Yes@0.008 No@0.994 | Exact Score: West Ham United FC 0 - 3 Queens Park 
+  1.0020 | Yes@0.005 No@0.997 | Qingdao Hainiu FC vs. Beijing Guoan FC: Qingdao Ha
+  1.0030 | Yes@0.009 No@0.994 | Exact Score: FC Sochaux-Montbéliard 3 - 3 US Boulo
+  1.0040 | Yes@0.009 No@0.995 | Exact Score: Montpellier HSC 0 - 3 Grenoble Foot 3
+  1.0040 | Yes@0.012 No@0.992 | Exact Score: Racing Club de Lens 0 - 4 Olympique L
+  1.0050 | Yes@0.010 No@0.995 | Exact Score: Montpellier HSC 3 - 3 Grenoble Foot 3
+  1.0050 | Yes@0.015 No@0.990 | FC Nordsjælland vs. Odense BK: O/U 8.5
+detector_brackets=0

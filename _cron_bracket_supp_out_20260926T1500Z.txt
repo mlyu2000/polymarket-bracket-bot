@@ -1,0 +1,19 @@
+markets=500 priced=166 scan=56.6s
+BRACKETS(best-ask min, sum<1.00): 0
+NEAR-MISSES(best-ask min, <=1.005): 15
+  1.0010 | Yes@0.002 No@0.999 | liq=1770.79502 | Will Anders Dreyer win 2026 MLS Most Valuable Play
+  1.0010 | Yes@0.010 No@0.991 | liq=9680.27241 | Will Elon Musk post 360-379 tweets from September 
+  1.0030 | Yes@0.010 No@0.993 | liq=8944.9482 | Exact Score: Boca Juniors de Cali 3 - 3 Boyaca Pat
+  1.0030 | Yes@0.010 No@0.993 | liq=4703.2782 | Exact Score: CA Penarol Montevideo 2 - 3 CA Boston
+  1.0030 | Yes@0.006 No@0.997 | liq=23594.97915 | Exact Score: Deportivo Madryn 0 - 3 CA Central Nor
+  1.0030 | Yes@0.006 No@0.997 | liq=23594.97915 | Exact Score: Deportivo Madryn 0 - 3 CA Central Nor
+  1.0030 | Yes@0.005 No@0.998 | liq=5079.86685 | Exact Score: Deportivo Madryn 3 - 3 CA Central Nor
+  1.0030 | Yes@0.005 No@0.998 | liq=2696.64897 | Faroe Islands vs. Kazakhstan: O/U 7.5
+  1.0030 | Yes@0.004 No@0.999 | liq=15408.19426 | Will Jairo Palheta win the 2026 Amapá gubernatoria
+  1.0040 | Yes@0.009 No@0.995 | liq=2525.49157 | Exact Score: Quilmes AC 2 - 3 CA Guemes?
+BEST-ASK FLOOR (lowest totals):
+  1.0010 | Yes@0.002 No@0.999 | liq=1770.79502 | Will Anders Dreyer win 2026 MLS Most Valuable Play
+  1.0010 | Yes@0.010 No@0.991 | liq=9680.27241 | Will Elon Musk post 360-379 tweets from September 
+  1.0030 | Yes@0.010 No@0.993 | liq=8944.9482 | Exact Score: Boca Juniors de Cali 3 - 3 Boyaca Pat
+  1.0030 | Yes@0.010 No@0.993 | liq=4703.2782 | Exact Score: CA Penarol Montevideo 2 - 3 CA Boston
+  1.0030 | Yes@0.006 No@0.997 | liq=23594.97915 | Exact Score: Deportivo Madryn 0 - 3 CA Central Nor

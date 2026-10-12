@@ -1,0 +1,68 @@
+{
+ "run": "20261006T200503Z",
+ "ts": "2026-10-06T20:05:03Z",
+ "markets": 500,
+ "priced": 94,
+ "floor": 1.003,
+ "brackets_minask": 0,
+ "band": 1,
+ "top8": [
+  {
+   "sum": 1.003,
+   "q": "Will US unemployment reach at least 6.0% in 2026?",
+   "yes": 0.006,
+   "no": 0.997,
+   "liq": 3364.44681
+  },
+  {
+   "sum": 1.006,
+   "q": "Antigua and Barbuda vs. Aruba: O/U 7.5",
+   "yes": 0.01,
+   "no": 0.996,
+   "liq": 2602.12341
+  },
+  {
+   "sum": 1.007,
+   "q": "Exact Score: BV Borussia 09 Dortmund 0 - 3 SV Werder Bremen?",
+   "yes": 0.009,
+   "no": 0.998,
+   "liq": 11514.9689
+  },
+  {
+   "sum": 1.007,
+   "q": "Exact Score: FC Augsburg 2 - 0 FC Bayern M\u00fcnchen?",
+   "yes": 0.011,
+   "no": 0.996,
+   "liq": 1267.18113
+  },
+  {
+   "sum": 1.008,
+   "q": "Exact Score: West Ham United FC 0 - 3 Queens Park Rangers FC",
+   "yes": 0.01,
+   "no": 0.998,
+   "liq": 8177.67191
+  },
+  {
+   "sum": 1.01,
+   "q": "Trump renames ICE to NICE by December 31?",
+   "yes": 0.06,
+   "no": 0.95,
+   "liq": 11030.7781
+  },
+  {
+   "sum": 1.01,
+   "q": "Elche CF vs. RC Celta de Vigo: Both Teams to Score",
+   "yes": 0.54,
+   "no": 0.47,
+   "liq": 5789.9493
+  },
+  {
+   "sum": 1.01,
+   "q": "Atalanta BC vs. Venezia FC: Both Teams to Score",
+   "yes": 0.58,
+   "no": 0.43,
+   "liq": 7540.751
+  }
+ ],
+ "scan_time_s": 49.1
+}

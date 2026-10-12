@@ -1,0 +1,7 @@
+🔍 Scan (best-ask/min): 500 markets in 52.3s
+✅ BRACKETS (sum < 1.00): 0
+📊 Near-misses (≤1.005, best asks): 4
+  1.001 | Yes@0.033 No@0.968 | liq=13890.76267 | Will the 5-year Treasury yield dip below 4.10% bef
+  1.001 | Yes@0.002 No@0.999 | liq=2322.5315 | Will the highest temperature in Chengdu be 30°C on
+  1.005 | Yes@0.998 No@0.007 | liq=17637.59476 | Nothing Ever Happens: September
+  1.005 | Yes@0.006 No@0.999 | liq=742.53688 | Will the lowest temperature in Lucknow be 19°C or 

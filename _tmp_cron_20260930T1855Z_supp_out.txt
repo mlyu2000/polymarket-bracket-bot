@@ -1,0 +1,5 @@
+Markets with both books priced: 83
+TRUE brackets (best-ask min, sum<1.00, liq>0): 0
+Near-misses (best-ask min basis, <=1.005): 2
+  1.0010 | Yes@0.002 No@0.999 | liq=68315.20038 | Will Yehude Simón Munaro win the next Lima mayoral
+  1.0010 | Yes@0.032 No@0.969 | liq=13436.27399 | Will the 5-year Treasury yield dip below 4.10% bef

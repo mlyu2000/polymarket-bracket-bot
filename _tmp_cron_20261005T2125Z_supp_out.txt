@@ -1,0 +1,7 @@
+Scan(best-ask): 500 markets (74 priced) in 49.1s
+BRACKETS (sum < 1.00 via detector): 0
+Near-misses (min-ask sum <=1.005): 3
+  1.002 | Yes@0.007 No@0.995 | liq=92697.19177 | Will Microsoft be the largest company in the world
+  1.002 | Yes@0.040 No@0.962 | liq=2112.80823 | Will the highest temperature in Helsinki be 14°C o
+  1.004 | Yes@0.006 No@0.998 | liq=3908.9922 | Will US unemployment reach at least 6.0% in 2026?
+True floor: 1.002 | Will Microsoft be the largest company in the world

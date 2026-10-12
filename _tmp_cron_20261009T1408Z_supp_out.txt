@@ -1,0 +1,10 @@
+markets: 500 | priced(min-ask): 94 | elapsed: 49.7s | detector_opps: 0
+true brackets (<1.00): 0
+near-misses (1.00-1.005): 5
+  1.0020 | Yes@0.007 No@0.995 | liq=35655.447 | Exact Score: West Ham United FC 0 - 3 Queens Park Rangers FC
+  1.0040 | Yes@0.013 No@0.991 | liq=42513.48413 | Exact Score: Racing Club de Lens 0 - 4 Olympique Lyonnais?
+  1.0050 | Yes@0.015 No@0.990 | liq=6803.18376 | FC Nordsjælland vs. Odense BK: O/U 8.5
+  1.0050 | Yes@0.009 No@0.996 | liq=1608.54562 | Clermont Foot 63 vs. Red Star FC: O/U 7.5
+  1.0050 | Yes@0.009 No@0.996 | liq=1608.54562 | Clermont Foot 63 vs. Red Star FC: O/U 7.5
+absolute floor: 1.0020 | Exact Score: West Ham United FC 0 - 3 Queens Park Rangers FC
+SUPP_DONE

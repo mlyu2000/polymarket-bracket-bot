@@ -1,0 +1,5 @@
+SUPP min-ask scan: 500 markets in 50.1s
+BRACKETS(min-ask sum<gate): 0
+Near-misses (min-ask sum<=1.005): 1
+  1.0010 | Yes@0.033 No@0.968 | liq=14739.07435 | Will the 5-year Treasury yield dip below 4.10% bef
+Global floor: sum=1.0010 | Will the 5-year Treasury yield dip below 4.10% before 2027?

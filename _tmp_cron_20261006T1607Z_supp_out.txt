@@ -1,0 +1,5 @@
+🔍 Scan (best-ask/min): 500 markets, 102 with both-sided asks, in 51.8s
+✅ BRACKETS (sum < 1.00): 0
+📊 Near-misses (≤1.005, best-ask basis): 2
+  1.004 | Yes@0.006 No@0.998 | liq=3955.09009 | Will US unemployment reach at least 6.0% in 2026?
+  1.005 | Yes@0.009 No@0.996 | liq=2686.63886 | Antigua and Barbuda vs. Aruba: O/U 7.5

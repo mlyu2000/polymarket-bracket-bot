@@ -1,0 +1,8 @@
+supp-scan: 500 markets in 48.5s (best-ask/min based)
+true brackets (sum<1.00): 0
+near-misses (1.00-1.005): 4
+  1.0020 | Yes@0.008 No@0.994 | liq=10467.29503 | Exact Score: West Ham United FC 0 - 3 Queens Park Rangers FC
+  1.0050 | Yes@0.008 No@0.997 | liq=4731.78901 | CA Paranaense vs. CA Mineiro: O/U 7.5
+  1.0050 | Yes@0.010 No@0.995 | liq=3455.17111 | Kashiwa Reysol vs. Vissel Kōbe: O/U 7.5
+  1.0050 | Yes@0.009 No@0.996 | liq=3182.22371 | Will US unemployment reach at least 6.0% in 2026?
+floor (min sum): 1.0020 Exact Score: West Ham United FC 0 - 3 Queens Park Rangers FC

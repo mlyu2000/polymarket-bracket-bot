@@ -1,0 +1,9 @@
+corrected best-ask scan: 500 markets in 57.7s; priced pairs: 84
+floor sum: 1.0010 | Will Yehude Simón Munaro win the next Lima mayoral elections
+brackets (best-ask sum < 1.00): 0
+near-misses (1.000-1.005): 5
+  1.0010 | Y@0.002 N@0.999 | liq 76420 | Will Yehude Simón Munaro win the next Lima mayoral elections
+  1.0010 | Y@0.033 N@0.968 | liq 14227 | Will the 5-year Treasury yield dip below 4.10% before 2027?
+  1.0010 | Y@0.002 N@0.999 | liq 2123 | Will the highest temperature in Chengdu be 30°C on October 1
+  1.0050 | Y@0.998 N@0.007 | liq 17579 | Nothing Ever Happens: September
+  1.0050 | Y@0.006 N@0.999 | liq 734 | Will the lowest temperature in Lucknow be 19°C or below on S

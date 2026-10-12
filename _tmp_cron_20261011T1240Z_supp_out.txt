@@ -1,0 +1,17 @@
+markets=500 two_sided=104 yes_only=382 no_only=0 both_empty=14 (79.2% not bracket-able)
+priced(min-ask both sides, liq>0, <1.0)=104 FLOOR=1.003 median=1.039 gap_to_0.98=0.023 actionable(<0.98)=0
+floor5:
+  1.0030 | Yes@0.005 No@0.998 | liq 176.9972 | Como 1907 vs. AS Roma: AS Roma O/U 5.5
+  1.0030 | Yes@0.007 No@0.996 | liq 4.99765 | Como 1907 vs. AS Roma: Como 1907 O/U 5.5
+  1.0040 | Yes@0.005 No@0.999 | liq 3086.85358 | CA Talleres vs. CA Independiente: O/U 8.5
+  1.0040 | Yes@0.007 No@0.997 | liq 2025.16606 | Will the highest temperature in Seattle be between 66-6
+  1.0050 | Yes@0.010 No@0.995 | liq 12343.91729 | Al Fayha Saudi Club vs. Al Riyadh Saudi Club: O/U 7.5
+band<=1.005 n=8:
+  1.0030 | Yes@0.005 No@0.998 | liq 176.9972 | Como 1907 vs. AS Roma: AS Roma O/U 5.5
+  1.0030 | Yes@0.007 No@0.996 | liq 4.99765 | Como 1907 vs. AS Roma: Como 1907 O/U 5.5
+  1.0040 | Yes@0.005 No@0.999 | liq 3086.85358 | CA Talleres vs. CA Independiente: O/U 8.5
+  1.0040 | Yes@0.007 No@0.997 | liq 2025.16606 | Will the highest temperature in Seattle be between 66-6
+  1.0050 | Yes@0.010 No@0.995 | liq 12343.91729 | Al Fayha Saudi Club vs. Al Riyadh Saudi Club: O/U 7.5
+  1.0050 | Yes@0.012 No@0.993 | liq 6289.88828 | Gaziantep FK vs. Çorum FK: O/U 7.5
+  1.0050 | Yes@0.009 No@0.996 | liq 4400.0935 | Modena FC 2018 vs. Hellas Verona FC: O/U 7.5
+  1.0050 | Yes@0.011 No@0.994 | liq 6931.33936 | Silkeborg IF vs. AC Horsens: O/U 7.5

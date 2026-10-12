@@ -1,0 +1,10 @@
+Markets with priced books (min-ask basis): 109
+TRUE BRACKETS (min-ask sum < 1.00, below detector floor): 0
+NEAR-MISSES (min-ask sum <= 1.005): 7
+  1.0030 | Yes@0.006 No@0.997 | liq=3196.15965 | Will US unemployment reach at least 6.0% in 2026?
+  1.0040 | Yes@0.009 No@0.995 | liq=5169.39018 | Cruzeiro EC vs. São Paulo FC: O/U 7.5
+  1.0050 | Yes@0.008 No@0.997 | liq=17488.44272 | Exact Score: Ipswich Town FC 0 - 5 Fulham FC?
+  1.0050 | Yes@0.009 No@0.996 | liq=13331.26545 | Exact Score: Ipswich Town FC 3 - 4 Fulham FC?
+  1.0050 | Yes@0.009 No@0.996 | liq=14827.08346 | Exact Score: Ipswich Town FC 4 - 3 Fulham FC?
+  1.0050 | Yes@0.008 No@0.997 | liq=17903.42435 | Exact Score: Ipswich Town FC 5 - 1 Fulham FC?
+  1.0050 | Yes@0.008 No@0.997 | liq=8707.6303 | Exact Score: West Ham United FC 0 - 3 Queens Park 

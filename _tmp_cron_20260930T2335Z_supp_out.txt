@@ -1,0 +1,17 @@
+markets with both books: 88
+TOP 10 MIN-ASK TOTALS:
+  1.001 | Yes@0.002 No@0.999 | liq=63111.7345 | Will Yehude Simón Munaro win the next Lima mayoral elections
+  1.001 | Yes@0.032 No@0.969 | liq=13492.14228 | Will the 5-year Treasury yield dip below 4.10% before 2027?
+  1.005 | Yes@0.013 No@0.992 | liq=9592.72393 | Greece vs. Netherlands: O/U 7.5
+  1.007 | Yes@0.012 No@0.995 | liq=1471.83931 | FK Austria Wien vs. FC Internazionale Milano: O/U 7.5
+  1.009 | Yes@0.010 No@0.999 | liq=4269.2072 | Spread: Sporting Kansas City (-3.5)
+  1.010 | Yes@0.370 No@0.640 | liq=9330.6724 | Will Albirex Niigata win on 2026-10-03?
+  1.012 | Yes@0.013 No@0.999 | liq=5615.12203 | Exact Score: Sacramento Republic FC 3 - 3 Las Vegas Lights?
+  1.014 | Yes@0.015 No@0.999 | liq=3140.87223 | Exact Score: Sacramento Republic FC 5 - 3 Las Vegas Lights?
+  1.017 | Yes@0.052 No@0.965 | liq=3308.88597 | Will Elon Musk post 780-799 tweets in October 2026?
+  1.018 | Yes@0.019 No@0.999 | liq=1996.06461 | Spread: CA Platense (-3.5)
+TRUE BRACKETS (min-ask sum<1.00): 0
+TRUE NEAR-MISSES (1.00-1.005): 3
+  SUM=1.001 | Yes@0.002 No@0.999 | liq=63111.7345 | Will Yehude Simón Munaro win the next Lima mayoral elections
+  SUM=1.001 | Yes@0.032 No@0.969 | liq=13492.14228 | Will the 5-year Treasury yield dip below 4.10% before 2027?
+  SUM=1.005 | Yes@0.013 No@0.992 | liq=9592.72393 | Greece vs. Netherlands: O/U 7.5

@@ -1,0 +1,9 @@
+markets=500 priced_pairs=80 detector_hits=0
+TRUE near-misses (min-ask sum<=1.01): 7
+  1.0090 | Yes@0.010 No@0.999 | liq=8989.58251 active=True closed=False | Spread: CA Platense (-3.5)
+  1.0090 | Yes@0.010 No@0.999 | liq=6454.97713 active=True closed=False | Spread: Sporting Kansas City (-3.5)
+  1.0100 | Yes@0.450 No@0.560 | liq=4632.6293 active=True closed=False | CA Independiente vs. Instituto AC Córdoba: Both Teams to Sco
+  1.0100 | Yes@0.170 No@0.840 | liq=19722.5405 active=True closed=False | Dreamcash FDV above $20M one day after launch?
+  1.0100 | Yes@0.470 No@0.540 | liq=35220.8332 active=True closed=False | Set Handicap: Arthur Fils (-1.5) vs Frances Tiafoe (+1.5)
+  1.0110 | Yes@0.012 No@0.999 | liq=3758.90478 active=True closed=False | Exact Score: Helmond Sport 3 - 0 Heracles Almelo?
+  1.0190 | Yes@0.020 No@0.999 | liq=7027.6057 active=True closed=False | Exact Score: Helmond Sport 4 - 2 Heracles Almelo?

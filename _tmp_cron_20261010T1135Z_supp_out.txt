@@ -1,0 +1,12 @@
+priced markets: 72/500
+TRUE FLOOR (min-ask sum): 1.0030 | Clermont Foot 63 vs. Red Star FC: O/U 7.5 | Yes@0.006 No@0.997 | liq=3315.27139
+true brackets (sum<1.00): 0
+band <=1.005: 1
+  1.0030 | Clermont Foot 63 vs. Red Star FC: O/U 7.5 | Yes@0.006 No@0.997 | liq=3315.27139
+next tier (>1.005):
+  1.0060 | Falkirk FC vs. Dundee FC: O/U 7.5 | Yes@0.012 No@0.994 | liq=3712.43895
+  1.0070 | HNK Hajduk Split vs. GNK Dinamo Zagreb: O/U 7.5 | Yes@0.016 No@0.991 | liq=3208.49948
+  1.0080 | Al Ettifaq Saudi Club vs. Al Khaleej Saudi Club: O/U 7.5 | Yes@0.017 No@0.991 | liq=2892.42247
+  1.0090 | Exact Score: New England Revolution 4 - 3 Seattle Sounders F | Yes@0.016 No@0.993 | liq=3474.00198
+  1.0100 | AEK Athens vs. OFI Crete: O/U 2.5 | Yes@0.630 No@0.380 | liq=10455.6269
+  1.0100 | Atalanta BC vs. Venezia FC: O/U 2.5 | Yes@0.630 No@0.380 | liq=47227.6032

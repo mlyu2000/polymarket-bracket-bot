@@ -1,0 +1,112 @@
+{
+ "floor": 1.005,
+ "le1005": 2,
+ "le1015": 13,
+ "closest": [
+  {
+   "sum": 1.005,
+   "q": "JEF United Ichihara Chiba vs. V-Varen Nagasaki: O/U 7.5",
+   "yes": 0.01,
+   "no": 0.995,
+   "liq": 3154.83604
+  },
+  {
+   "sum": 1.005,
+   "q": "Konyaspor vs. Rams Ba\u015fak\u015fehir FK: O/U 7.5",
+   "yes": 0.012,
+   "no": 0.993,
+   "liq": 2878.33913
+  },
+  {
+   "sum": 1.006,
+   "q": "CA River Plate vs. AA Estudiantes: O/U 7.5",
+   "yes": 0.011,
+   "no": 0.995,
+   "liq": 2803.28501
+  },
+  {
+   "sum": 1.007,
+   "q": "CA Tigre vs. CA Banfield: O/U 6.5",
+   "yes": 0.014,
+   "no": 0.993,
+   "liq": 2203.44058
+  },
+  {
+   "sum": 1.007,
+   "q": "VfL Bochum vs. DSC Arminia Bielefeld: O/U 7.5",
+   "yes": 0.014,
+   "no": 0.993,
+   "liq": 2019.51479
+  },
+  {
+   "sum": 1.01,
+   "q": "Atalanta BC vs. Venezia FC: O/U 2.5",
+   "yes": 0.63,
+   "no": 0.38,
+   "liq": 63429.6098
+  },
+  {
+   "sum": 1.01,
+   "q": "Club Almagro vs. Chacarita Juniors: O/U 1.5",
+   "yes": 0.61,
+   "no": 0.4,
+   "liq": 20469.7902
+  },
+  {
+   "sum": 1.01,
+   "q": "Spread: Fram Reykjavik (-1.5)",
+   "yes": 0.28,
+   "no": 0.73,
+   "liq": 3187.0257
+  },
+  {
+   "sum": 1.01,
+   "q": "Will Modena FC 2018 win on 2026-10-11?",
+   "yes": 0.48,
+   "no": 0.53,
+   "liq": 15964.2545
+  },
+  {
+   "sum": 1.01,
+   "q": "Will SZA headline Coachella 2027?",
+   "yes": 0.54,
+   "no": 0.47,
+   "liq": 270.3977
+  },
+  {
+   "sum": 1.01,
+   "q": "Will the Democratic Party win the MN-08 House seat?",
+   "yes": 0.12,
+   "no": 0.89,
+   "liq": 40862.1938
+  },
+  {
+   "sum": 1.011,
+   "q": "Will Dplus KIA Qualify for Worlds 2026?",
+   "yes": 0.998,
+   "no": 0.013,
+   "liq": 128.26078
+  },
+  {
+   "sum": 1.015,
+   "q": "Exact Score: New England Revolution 2 - 4 Seattle Sounders F",
+   "yes": 0.016,
+   "no": 0.999,
+   "liq": 4036.49245
+  },
+  {
+   "sum": 1.016,
+   "q": "Exact Score: New England Revolution 1 - 4 Seattle Sounders F",
+   "yes": 0.017,
+   "no": 0.999,
+   "liq": 3850.51768
+  },
+  {
+   "sum": 1.016,
+   "q": "Exact Score: New England Revolution 4 - 3 Seattle Sounders F",
+   "yes": 0.017,
+   "no": 0.999,
+   "liq": 3227.77473
+  }
+ ]
+}

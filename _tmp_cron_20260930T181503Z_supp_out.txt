@@ -1,0 +1,5 @@
+min-ask supp: 85/500 priced markets in 47.3s
+near (min-ask sum <=1.005): 2
+  1.0010 | Yes@0.002 No@0.999 | liq=70337.06497 | Will Yehude Simón Munaro win the next Lima mayoral
+  1.0010 | Yes@0.032 No@0.969 | liq=13360.51563 | Will the 5-year Treasury yield dip below 4.10% bef
+true floor sum = 1.0010

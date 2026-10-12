@@ -1,0 +1,66 @@
+{
+  "markets": 500,
+  "scan_time": 54.6,
+  "two_sided": 79,
+  "yes_only": 5,
+  "no_only": 380,
+  "empty": 36,
+  "floor_top": [
+    {
+      "sum": 1.003,
+      "q": "Modena FC 2018 vs. Hellas Verona FC: O/U 7.5",
+      "yes": 0.008,
+      "no": 0.995,
+      "liq": 8367.25136
+    },
+    {
+      "sum": 1.003,
+      "q": "Will the price of Ethereum be between $3,000 and $",
+      "yes": 0.004,
+      "no": 0.999,
+      "liq": 4337.65097
+    },
+    {
+      "sum": 1.004,
+      "q": "CR Flamengo vs. Fluminense FC: O/U 7.5",
+      "yes": 0.01,
+      "no": 0.994,
+      "liq": 21148.42596
+    },
+    {
+      "sum": 1.004,
+      "q": "Exact Score: Lillestr\u00f8m SK 4 - 0 Molde FK?",
+      "yes": 0.016,
+      "no": 0.988,
+      "liq": 1836.86724
+    },
+    {
+      "sum": 1.004,
+      "q": "Lillestr\u00f8m SK vs. Molde FK: Lillestr\u00f8m SK O/U 5.5",
+      "yes": 0.013,
+      "no": 0.991,
+      "liq": 1953.51771
+    },
+    {
+      "sum": 1.008,
+      "q": "Spread: Venezia FC (-3.5)",
+      "yes": 0.01,
+      "no": 0.998,
+      "liq": 6382.40575
+    },
+    {
+      "sum": 1.008,
+      "q": "Will Dplus KIA Qualify for Worlds 2026?",
+      "yes": 0.998,
+      "no": 0.01,
+      "liq": 113.39638
+    },
+    {
+      "sum": 1.009,
+      "q": "Spread: Lille OSC (-1.5)",
+      "yes": 0.02,
+      "no": 0.989,
+      "liq": 2661.3561
+    }
+  ]
+}

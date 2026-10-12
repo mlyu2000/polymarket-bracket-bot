@@ -1,0 +1,5 @@
+Best-ask supplement: 60/500 markets priced in 50.7s
+TRUE BRACKETS (best-ask sum<1.00): 0
+Near-misses (best-ask sum<=1.005): 1
+  1.0010 | Yes@0.004 No@0.997 | liq=3419.13375 | Will US unemployment reach at least 6.0% in 2026?
+Floor: lowest total across all priced markets = 1.0010 | Yes@0.004 No@0.997 | Will US unemployment reach at least 6.0% in 2026?

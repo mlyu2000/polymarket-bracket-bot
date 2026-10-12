@@ -1,0 +1,13 @@
+markets=500 elapsed=50.9s (best-ask basis)
+BEST-ASK BRACKETS (sum<1.00): 0
+TOP 10 BEST-ASK TOTALS:
+  1.0010 | Yes@0.002 No@0.999 | liq=70228.31586 | Will Yehude Simón Munaro win the next Lima mayoral elec
+  1.0010 | Yes@0.032 No@0.969 | liq=14393.73456 | Will the 5-year Treasury yield dip below 4.10% before 2
+  1.0010 | Yes@0.985 No@0.016 | liq=12165.08944 | Will the price of Ethereum be above $2,400 on October 2
+  1.0050 | Yes@0.998 No@0.007 | liq=17579.18066 | Nothing Ever Happens: September
+  1.0080 | Yes@0.106 No@0.902 | liq=31713.50194 | Will the Democratic Party win the TX-32 House seat?
+  1.0080 | Yes@0.009 No@0.999 | liq=4533.16287 | Will the highest temperature in Paris be 15°C or below 
+  1.0090 | Yes@0.010 No@0.999 | liq=29493.9121 | Exact Score: Eritrea 3 - 2 South Africa?
+  1.0090 | Yes@0.010 No@0.999 | liq=1393.8519 | Spread: Sporting Kansas City (-3.5)
+  1.0100 | Yes@0.011 No@0.999 | liq=3929.87849 | Exact Score: Sacramento Republic FC 3 - 3 Las Vegas Lig
+  1.0100 | Yes@0.370 No@0.640 | liq=4534.6732 | Will Albirex Niigata win on 2026-10-03?

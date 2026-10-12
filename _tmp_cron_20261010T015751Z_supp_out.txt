@@ -1,0 +1,28 @@
+Scan: 500 markets (59 priced) in 50.5s
+BRACKETS (net edge, best-ask): 0
+Near-misses (<=1.005): 3
+  1.005 | Yes@0.015 No@0.990 | liq=3757 | CA Unión vs. CSyD Defensa y Justicia: CSyD Defensa
+  1.005 | Yes@0.009 No@0.996 | liq=2074 | Clermont Foot 63 vs. Red Star FC: O/U 7.5
+  1.005 | Yes@0.010 No@0.995 | liq=12114 | Kyōto Sanga FC vs. FC Machida Zelvia: O/U 7.5
+Best total across all priced markets: 1.005
+Tier history (lowest 6 tiers):
+  [1.005] n=3
+    1.005 | Yes@0.015 No@0.990 | liq=3757 | CA Unión vs. CSyD Defensa y Justicia: CSyD Defensa
+    1.005 | Yes@0.009 No@0.996 | liq=2074 | Clermont Foot 63 vs. Red Star FC: O/U 7.5
+    1.005 | Yes@0.010 No@0.995 | liq=12114 | Kyōto Sanga FC vs. FC Machida Zelvia: O/U 7.5
+  [1.006] n=2
+    1.006 | Yes@0.010 No@0.996 | liq=1882 | FK Chornomorets Odesa vs. FK Kharkiv: O/U 7.5
+    1.006 | Yes@0.012 No@0.994 | liq=1822 | Falkirk FC vs. Dundee FC: O/U 7.5
+  [1.010] n=5
+    1.010 | Yes@0.330 No@0.680 | liq=72395 | FC Seoul vs. Jeju SK FC: O/U 3.5
+    1.010 | Yes@0.160 No@0.850 | liq=129753 | Kent State vs. Western Michigan
+    1.010 | Yes@0.410 No@0.600 | liq=4040 | Spread: Nomme Kalju FC (-1.5)
+    1.010 | Yes@0.160 No@0.850 | liq=16464 | Spread: Real Madrid CF (-3.5)
+    1.010 | Yes@0.300 No@0.710 | liq=12811 | Will FC Lokomotiv 1929 Sofia vs. PFC Lokomotiv Plo
+  [1.013] n=1
+    1.013 | Yes@0.998 No@0.015 | liq=104 | Will Dplus KIA Qualify for Worlds 2026?
+  [1.017] n=1
+    1.017 | Yes@0.018 No@0.999 | liq=12279 | Exact Score: New England Revolution 1 - 4 Seattle 
+  [1.018] n=2
+    1.018 | Yes@0.019 No@0.999 | liq=10660 | Exact Score: New England Revolution 2 - 4 Seattle 
+    1.018 | Yes@0.019 No@0.999 | liq=5138 | Exact Score: Sporting Kansas City 5 - 1 Portland T

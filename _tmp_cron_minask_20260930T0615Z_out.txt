@@ -1,0 +1,8 @@
+priced 84
+floor 1.0010 Will Anthropic have the best AI model at the end of Septembe
+brackets 0
+near_1.000_1.005 4
+   1.0010 Y@0.997 N@0.004 liq 24904.77791 | Will Anthropic have the best AI model at the end of Septembe
+   1.0010 Y@0.002 N@0.999 liq 22697.7788 | Will Yehude Simón Munaro win the next Lima mayoral elections
+   1.0020 Y@0.033 N@0.969 liq 14488.63464 | Will the 5-year Treasury yield dip below 4.10% before 2027?
+   1.0050 Y@0.998 N@0.007 liq 17859.9807 | Nothing Ever Happens: September

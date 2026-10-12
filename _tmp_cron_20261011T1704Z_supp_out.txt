@@ -1,0 +1,12 @@
+TRUE FLOOR: 1.0030
+band<=1.005 n=2:
+  1.0030 | Y@0.004 N@0.999 | liq=4269.08796 | Will the price of Ethereum be between $3,000 and $3,100 on O
+  1.0050 | Y@0.010 N@0.995 | liq=3515.02291 | Real Valladolid CF vs. Albacete Balompié: O/U 7.5
+tier<=1.020 n=23:
+  1.0030 | Y@0.004 N@0.999 | liq=4269.08796 | Will the price of Ethereum be between $3,000 and $3,100 on O
+  1.0050 | Y@0.010 N@0.995 | liq=3515.02291 | Real Valladolid CF vs. Albacete Balompié: O/U 7.5
+  1.0080 | Y@0.010 N@0.998 | liq=6617.91885 | Spread: Venezia FC (-3.5)
+  1.0090 | Y@0.010 N@0.999 | liq=5657.97499 | Spread: ES Troyes AC (-3.5)
+  1.0090 | Y@0.010 N@0.999 | liq=4542.49948 | Spread: Los Angeles Galaxy (-3.5)
+books: two_sided=66 yes_only=406 no_only=4 empty=24 total=500
+scan_time=61.3s

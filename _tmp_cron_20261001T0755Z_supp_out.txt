@@ -1,0 +1,5 @@
+MIN-ASK check over 500 markets
+Best floor sum: 1.0010
+Near-misses (min-ask sum <= 1.005): 2
+  1.0010 | Yes@0.002 No@0.999 | liq=$57,688 | Will Yehude Simón Munaro win the next Lima mayoral elec
+  1.0040 | Yes@0.014 No@0.990 | liq=$17,607 | Greece vs. Netherlands: O/U 7.5

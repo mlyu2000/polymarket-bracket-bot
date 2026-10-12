@@ -1,0 +1,14 @@
+Best-ask floor scan: 500 markets, 101 with both-side asks, 50.3s
+true brackets (min-ask sum < 1.00): 0
+true near-misses (1.000-1.005): 5
+  1.0020 | Yes@0.0070 No@0.9950 | liq=91775.894 | Will Microsoft be the largest company in the world by m
+  1.0040 | Yes@0.0090 No@0.9950 | liq=1792.57849 | Exact Score: West Ham United FC 0 - 3 Queens Park Range
+  1.0040 | Yes@0.0060 No@0.9980 | liq=3904.48657 | Will US unemployment reach at least 6.0% in 2026?
+  1.0050 | Yes@0.0090 No@0.9960 | liq=2643.86334 | Exact Score: BV Borussia 09 Dortmund 0 - 3 SV Werder Br
+  1.0050 | Yes@0.0100 No@0.9950 | liq=1638.57528 | Exact Score: FC Augsburg 2 - 0 FC Bayern München?
+Lowest 5 sums overall:
+  1.0020 | Yes@0.0070 No@0.9950 | liq=91775.894 | Will Microsoft be the largest company in the world by m
+  1.0040 | Yes@0.0090 No@0.9950 | liq=1792.57849 | Exact Score: West Ham United FC 0 - 3 Queens Park Range
+  1.0040 | Yes@0.0060 No@0.9980 | liq=3904.48657 | Will US unemployment reach at least 6.0% in 2026?
+  1.0050 | Yes@0.0090 No@0.9960 | liq=2643.86334 | Exact Score: BV Borussia 09 Dortmund 0 - 3 SV Werder Br
+  1.0050 | Yes@0.0100 No@0.9950 | liq=1638.57528 | Exact Score: FC Augsburg 2 - 0 FC Bayern München?

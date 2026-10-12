@@ -1,0 +1,68 @@
+{
+ "run": "20261006T223858Z",
+ "ts": "2026-10-06T22:38:58Z",
+ "markets": 500,
+ "priced": 92,
+ "floor": 1.002,
+ "brackets_minask": 0,
+ "band": 4,
+ "top8": [
+  {
+   "sum": 1.002,
+   "q": "Will the highest temperature in New York City be between 62-",
+   "yes": 0.999,
+   "no": 0.003,
+   "liq": 807.10713
+  },
+  {
+   "sum": 1.002,
+   "q": "Exact Score: SC Recife 3 - 2 S\u00e3o Bernardo FC?",
+   "yes": 0.025,
+   "no": 0.977,
+   "liq": 5903.62464
+  },
+  {
+   "sum": 1.003,
+   "q": "Antigua and Barbuda vs. Aruba: O/U 7.5",
+   "yes": 0.008,
+   "no": 0.995,
+   "liq": 6562.5072
+  },
+  {
+   "sum": 1.004,
+   "q": "Will US unemployment reach at least 6.0% in 2026?",
+   "yes": 0.007,
+   "no": 0.997,
+   "liq": 3367.02077
+  },
+  {
+   "sum": 1.006,
+   "q": "Exact Score: Lille OSC 1 - 3 Le Havre AC?",
+   "yes": 0.014,
+   "no": 0.992,
+   "liq": 1966.76166
+  },
+  {
+   "sum": 1.007,
+   "q": "Exact Score: AS Monaco FC 4 - 3 Toulouse FC?",
+   "yes": 0.011,
+   "no": 0.996,
+   "liq": 1540.02705
+  },
+  {
+   "sum": 1.008,
+   "q": "Exact Score: West Ham United FC 0 - 3 Queens Park Rangers FC",
+   "yes": 0.01,
+   "no": 0.998,
+   "liq": 8122.20776
+  },
+  {
+   "sum": 1.008,
+   "q": "Exact Score: Lille OSC 5 - 2 Le Havre AC?",
+   "yes": 0.013,
+   "no": 0.995,
+   "liq": 1386.26195
+  }
+ ],
+ "scan_time_s": 55.3
+}

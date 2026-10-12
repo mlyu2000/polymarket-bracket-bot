@@ -1,0 +1,11 @@
+[min-ask] 500 markets in 44.5s
+[min-ask] TRUE BRACKETS (best-ask sum < 1.0): 0
+[min-ask] top closest sums (best-ask):
+  1.0010 | Yes@0.002 No@0.999 | liq=61993.97301 | Will Pepa Millán be the next Prime Minister of Spain?
+  1.0010 | Yes@0.004 No@0.997 | liq=2943.79693 | Will US unemployment reach at least 6.0% in 2026?
+  1.0040 | Yes@0.005 No@0.999 | liq=3861.90951 | Avaí FC vs. Ceará SC: O/U 7.5
+  1.0040 | Yes@0.005 No@0.999 | liq=3729.42056 | Ōita Trinita vs. Montedio Yamagata: O/U 8.5
+  1.0090 | Yes@0.010 No@0.999 | liq=1989.76486 | Albion FC vs. Defensor Sporting: O/U 8.5
+  1.0090 | Yes@0.010 No@0.999 | liq=2349.05671 | Chesterfield FC vs. Tranmere Rovers FC: O/U 8.5
+  1.0090 | Yes@0.010 No@0.999 | liq=1672.28457 | Exact Score: BV Borussia 09 Dortmund 2 - 4 SV Werder Bremen?
+  1.0090 | Yes@0.010 No@0.999 | liq=2220.61768 | Stroemmen IF vs. Sandnes Ulf: O/U 8.5

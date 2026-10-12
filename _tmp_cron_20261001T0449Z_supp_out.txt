@@ -1,0 +1,14 @@
+priced markets: 82
+brackets (best-ask sum < 1.00): 0
+near-misses (<=1.005): 2
+--- top 10 lowest sums ---
+  1.0010 | Yes@0.002 No@0.999 | liq=58745.39843 | Will Yehude Simón Munaro win the next Lima mayoral elections
+  1.0010 | Yes@0.032 No@0.969 | liq=14132.72194 | Will the 5-year Treasury yield dip below 4.10% before 2027?
+  1.0090 | Yes@0.010 No@0.999 | liq=3750.98414 | Spread: CA Platense (-3.5)
+  1.0090 | Yes@0.010 No@0.999 | liq=3653.66995 | Spread: Sporting Kansas City (-3.5)
+  1.0100 | Yes@0.300 No@0.710 | liq=2074.2741 | Nicaragua vs. Costa Rica: Nicaragua 1st Half O/U 0.5
+  1.0100 | Yes@0.270 No@0.740 | liq=8561.4708 | Will the next Google Gemini Pro model be released by October
+  1.0130 | Yes@0.014 No@0.999 | liq=2285.52991 | FK Austria Wien vs. FC Internazionale Milano: O/U 7.5
+  1.0130 | Yes@0.015 No@0.998 | liq=11198.5437 | Greece vs. Netherlands: O/U 7.5
+  1.0200 | Yes@0.570 No@0.450 | liq=2792.1831 | Nicaragua vs. Costa Rica: Nicaragua O/U 0.5
+  1.0200 | Yes@0.580 No@0.440 | liq=589.154 | St. Lucia vs. Guadeloupe: Guadeloupe O/U 1.5

@@ -1,0 +1,110 @@
+{
+  "n_priced": 76,
+  "best_top15": [
+    {
+      "q": "SV Darmstadt 98 vs. FC Energie Cottbus: FC Energie Cottbus O/U 5.5",
+      "yes_best": 0.012,
+      "no_best": 0.991,
+      "sum_best": 1.003,
+      "liq": 1832.7421
+    },
+    {
+      "q": "Clermont Foot 63 vs. Red Star FC: O/U 7.5",
+      "yes_best": 0.007,
+      "no_best": 0.997,
+      "sum_best": 1.004,
+      "liq": 3149.15121
+    },
+    {
+      "q": "Falkirk FC vs. Dundee FC: O/U 7.5",
+      "yes_best": 0.012,
+      "no_best": 0.994,
+      "sum_best": 1.006,
+      "liq": 3712.43895
+    },
+    {
+      "q": "HNK Hajduk Split vs. GNK Dinamo Zagreb: O/U 7.5",
+      "yes_best": 0.016,
+      "no_best": 0.991,
+      "sum_best": 1.007,
+      "liq": 3027.01348
+    },
+    {
+      "q": "Al Ettifaq Saudi Club vs. Al Khaleej Saudi Club: O/U 7.5",
+      "yes_best": 0.017,
+      "no_best": 0.991,
+      "sum_best": 1.008,
+      "liq": 2870.21709
+    },
+    {
+      "q": "Exact Score: New England Revolution 4 - 3 Seattle Sounders FC?",
+      "yes_best": 0.016,
+      "no_best": 0.993,
+      "sum_best": 1.009,
+      "liq": 3519.43173
+    },
+    {
+      "q": "ES Troyes AC vs. Olympique de Marseille: O/U 2.5",
+      "yes_best": 0.62,
+      "no_best": 0.39,
+      "sum_best": 1.01,
+      "liq": 50722.8658
+    },
+    {
+      "q": "Atalanta BC vs. Venezia FC: O/U 2.5",
+      "yes_best": 0.63,
+      "no_best": 0.38,
+      "sum_best": 1.01,
+      "liq": 45655.8474
+    },
+    {
+      "q": "AEK Athens vs. OFI Crete: O/U 2.5",
+      "yes_best": 0.63,
+      "no_best": 0.38,
+      "sum_best": 1.01,
+      "liq": 10121.2225
+    },
+    {
+      "q": "Cercle Brugge vs. RSC Anderlecht: O/U 1.5",
+      "yes_best": 0.84,
+      "no_best": 0.17,
+      "sum_best": 1.01,
+      "liq": 23322.8541
+    },
+    {
+      "q": "Sheffield United FC vs. Lincoln City FC: Both Teams to Score",
+      "yes_best": 0.53,
+      "no_best": 0.48,
+      "sum_best": 1.01,
+      "liq": 16259.3542
+    },
+    {
+      "q": "RAAL La Louviere vs. Club Brugge: O/U 3.5",
+      "yes_best": 0.41,
+      "no_best": 0.6,
+      "sum_best": 1.01,
+      "liq": 10531.5551
+    },
+    {
+      "q": "Oldham Athletic AFC vs. Accrington Stanley FC: 1st Half O/U 1.5",
+      "yes_best": 0.32,
+      "no_best": 0.69,
+      "sum_best": 1.01,
+      "liq": 3945.8112
+    },
+    {
+      "q": "FK IMT Novi Beograd vs. FK Radnik Surdulica: O/U 1.5",
+      "yes_best": 0.73,
+      "no_best": 0.28,
+      "sum_best": 1.01,
+      "liq": 9515.9779
+    },
+    {
+      "q": "Spread: Hapoel Be`er Sheva FC (-2.5)",
+      "yes_best": 0.26,
+      "no_best": 0.75,
+      "sum_best": 1.01,
+      "liq": 6149.2048
+    }
+  ]
+}

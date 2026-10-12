@@ -1,0 +1,6 @@
+bestask scan: 500 markets (73 priced) in 47.5s
+BRACKETS via detector: 0
+TRUE FLOOR min(Yes_ask+No_ask) across priced markets: 1.001
+NEAR-MISSES (best asks, 1.0 < sum <= 1.005): 2
+  1.001 | Yes@0.002 No@0.999 | liq=45052.55235 | Will Pepa Millán be the next Prime Minister of Spa
+  1.001 | Yes@0.004 No@0.997 | liq=2955.529 | Will US unemployment reach at least 6.0% in 2026?

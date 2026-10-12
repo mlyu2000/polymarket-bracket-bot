@@ -1,0 +1,9 @@
+best-ask priced markets: 63
+BRACKETS best-ask sum<1.00: 0
+NEAR-MISS best-ask 1.00<=sum<=1.005: 5
+  1.0010 | Yes@0.002 No@0.999 | liq=948.83724 | Will Anders Dreyer win 2026 MLS Most Valuable Player?
+  1.0020 | Yes@0.136 No@0.866 | liq=651.84344 | Will China's annual inflation in 2026 be between 0.1% a
+  1.0020 | Yes@0.033 No@0.969 | liq=9440.73232 | Will the 5-year Treasury yield dip below 4.10% before 2
+  1.0030 | Yes@0.004 No@0.999 | liq=8732.84484 | Will Jairo Palheta win the 2026 Amapá gubernatorial ele
+  1.0030 | Yes@0.004 No@0.999 | liq=2267.27924 | Will the highest temperature in Paris be 24°C on Septem
+min best-ask sum overall: 1.0010

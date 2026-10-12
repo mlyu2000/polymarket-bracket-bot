@@ -1,0 +1,12 @@
+Markets with priced books: 82
+BEST-ASK floor sum: 1.0090
+Top 8 closest to <1.00 (best asks):
+  1.0090 | Yes@0.010 No@0.999 | liq=8049.9414 | Spread: CA Platense (-3.5)
+  1.0090 | Yes@0.010 No@0.999 | liq=6626.63714 | Spread: Sporting Kansas City (-3.5)
+  1.0100 | Yes@0.450 No@0.560 | liq=7611.9385 | CA Independiente vs. Instituto AC Córdoba: Both Teams t
+  1.0100 | Yes@0.170 No@0.840 | liq=12619.1346 | Dreamcash FDV above $20M one day after launch?
+  1.0100 | Yes@0.012 No@0.998 | liq=3883.04841 | Exact Score: Helmond Sport 3 - 0 Heracles Almelo?
+  1.0190 | Yes@0.020 No@0.999 | liq=7173.66355 | Exact Score: Helmond Sport 4 - 2 Heracles Almelo?
+  1.0200 | Yes@0.330 No@0.690 | liq=1256.6891 | Greece vs. Germany: Greece O/U 1.5
+  1.0200 | Yes@0.800 No@0.220 | liq=22573.4109 | Will the price of Bitcoin be above $82,000 on October 8
+TRUE BRACKETS (best-ask sum<1.00): 0

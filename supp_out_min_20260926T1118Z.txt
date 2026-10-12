@@ -1,0 +1,14 @@
+min-ask floor scan: 500 markets in 47.9s
+top 10 by sum(min asks):
+  1.0010 | Yes@0.002 No@0.999 | liq=1791.03029 | Will Anders Dreyer win 2026 MLS Most Valuable Player?
+  1.0010 | Yes@0.004 No@0.997 | liq=106922.71814 | Will Ethereum dip to $2,000 in September?
+  1.0020 | Yes@0.035 No@0.967 | liq=17801.09643 | Iran full airspace closure by September 30?
+  1.0030 | Yes@0.004 No@0.999 | liq=15407.73799 | Will Jairo Palheta win the 2026 Amapá gubernatorial election
+  1.0040 | Yes@0.010 No@0.994 | liq=4046.89592 | Exact Score: CA Colegiales 2 - 3 Chacarita Juniors?
+  1.0040 | Yes@0.007 No@0.997 | liq=3849.76253 | Exact Score: Quilmes AC 3 - 3 CA Guemes?
+  1.0040 | Yes@0.006 No@0.998 | liq=24194.65044 | Faroe Islands vs. Kazakhstan: O/U 7.5
+  1.0040 | Yes@0.008 No@0.996 | liq=7907.97301 | Spread: D.C. United SC (-2.5)
+  1.0050 | Yes@0.010 No@0.995 | liq=4045.46621 | Exact Score: CA Colegiales 0 - 3 Chacarita Juniors?
+  1.0060 | Yes@0.007 No@0.999 | liq=3854.00279 | Exact Score: Quilmes AC 0 - 3 CA Guemes?
+count sum<=1.005: 9
+count sum<1.00: 0

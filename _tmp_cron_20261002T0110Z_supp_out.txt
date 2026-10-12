@@ -1,0 +1,15 @@
+markets=500 priced_books=72
+--- top 10 lowest YES+NO best-ask sums ---
+  sum=1.009  | Yes@0.010 No@0.999 | liq=9232.52084 | Spread: Sporting Kansas City (-3.5)
+  sum=1.010  | Yes@0.170 No@0.840 | liq=19574.2781 | Dreamcash FDV above $20M one day after launch?
+  sum=1.011  | Yes@0.012 No@0.999 | liq=3915.1057 | Exact Score: Helmond Sport 3 - 0 Heracles Almelo?
+  sum=1.019  | Yes@0.020 No@0.999 | liq=7031.27942 | Exact Score: Helmond Sport 4 - 2 Heracles Almelo?
+  sum=1.020  | Yes@0.330 No@0.690 | liq=1324.59 | Greece vs. Germany: Greece O/U 1.5
+  sum=1.020  | Yes@0.470 No@0.550 | liq=5138.7066 | Martinique vs. Honduras: Honduras O/U 1.5
+  sum=1.020  | Yes@0.450 No@0.570 | liq=158.9637 | Will the Columbus Blue Jackets make the 2026-27 NHL Playoffs
+  sum=1.026  | Yes@0.027 No@0.999 | liq=3298.63218 | Exact Score: Stroemsgodset IF 0 - 2 Aasane Fotball?
+  sum=1.028  | Yes@0.039 No@0.989 | liq=2436.73062 | Gemini 4.0 released by October 5, 2026?
+  sum=1.030  | Yes@0.490 No@0.540 | liq=3659.8989 | Cagliari Calcio vs. Juventus FC: O/U 2.5
+count(sum<=1.00)=0
+count(sum<=1.005)=0
+count(sum<=1.01)=2

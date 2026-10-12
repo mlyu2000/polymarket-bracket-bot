@@ -1,0 +1,7 @@
+priced books: 94/500
+min-ask sum < 1.00: 0
+min-ask near-miss [1.000, 1.005]: 3
+  1.0020 | Yes@0.006 No@0.996 | liq=8656.014 | CA Paranaense vs. CA Mineiro: O/U 7.5
+  1.0040 | Yes@0.007 No@0.997 | liq=3302.82595 | Will US unemployment reach at least 6.0% in 2026?
+  1.0050 | Yes@0.008 No@0.997 | liq=8711.73344 | Exact Score: West Ham United FC 0 - 3 Queens Park Rangers FC
+absolute floor: 1.0020 | CA Paranaense vs. CA Mineiro: O/U 7.5

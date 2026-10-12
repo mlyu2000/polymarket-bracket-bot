@@ -1,0 +1,127 @@
+{
+ "run": "20261007T162516Z",
+ "ts": "2026-10-07T16:25:16Z",
+ "markets": 500,
+ "priced": 105,
+ "floor": 1.002,
+ "brackets_minask": 0,
+ "detector_opps": 0,
+ "band": 8,
+ "top8": [
+  {
+   "sum": 1.002,
+   "q": "Will Split be the fewest played map at VALORANT Champions 20",
+   "yes": 0.007,
+   "no": 0.995,
+   "liq": 455.40264
+  },
+  {
+   "sum": 1.004,
+   "q": "Will US unemployment reach at least 6.0% in 2026?",
+   "yes": 0.008,
+   "no": 0.996,
+   "liq": 2536.93536
+  },
+  {
+   "sum": 1.005,
+   "q": "Cruzeiro EC vs. S\u00e3o Paulo FC: O/U 7.5",
+   "yes": 0.009,
+   "no": 0.996,
+   "liq": 5200.33107
+  },
+  {
+   "sum": 1.005,
+   "q": "Exact Score: West Ham United FC 0 - 3 Queens Park Rangers FC",
+   "yes": 0.008,
+   "no": 0.997,
+   "liq": 8545.80462
+  },
+  {
+   "sum": 1.005,
+   "q": "Exact Score: Ipswich Town FC 0 - 5 Fulham FC?",
+   "yes": 0.008,
+   "no": 0.997,
+   "liq": 17135.3374
+  },
+  {
+   "sum": 1.005,
+   "q": "Exact Score: Ipswich Town FC 5 - 1 Fulham FC?",
+   "yes": 0.008,
+   "no": 0.997,
+   "liq": 17592.32605
+  },
+  {
+   "sum": 1.005,
+   "q": "Exact Score: Ipswich Town FC 3 - 4 Fulham FC?",
+   "yes": 0.009,
+   "no": 0.996,
+   "liq": 12968.16066
+  },
+  {
+   "sum": 1.005,
+   "q": "Exact Score: Ipswich Town FC 4 - 3 Fulham FC?",
+   "yes": 0.009,
+   "no": 0.996,
+   "liq": 14511.97636
+  }
+ ],
+ "band_rows": [
+  {
+   "sum": 1.002,
+   "q": "Will Split be the fewest played map at VALORANT Champions 20",
+   "yes": 0.007,
+   "no": 0.995,
+   "liq": 455.40264
+  },
+  {
+   "sum": 1.004,
+   "q": "Will US unemployment reach at least 6.0% in 2026?",
+   "yes": 0.008,
+   "no": 0.996,
+   "liq": 2536.93536
+  },
+  {
+   "sum": 1.005,
+   "q": "Cruzeiro EC vs. S\u00e3o Paulo FC: O/U 7.5",
+   "yes": 0.009,
+   "no": 0.996,
+   "liq": 5200.33107
+  },
+  {
+   "sum": 1.005,
+   "q": "Exact Score: West Ham United FC 0 - 3 Queens Park Rangers FC",
+   "yes": 0.008,
+   "no": 0.997,
+   "liq": 8545.80462
+  },
+  {
+   "sum": 1.005,
+   "q": "Exact Score: Ipswich Town FC 0 - 5 Fulham FC?",
+   "yes": 0.008,
+   "no": 0.997,
+   "liq": 17135.3374
+  },
+  {
+   "sum": 1.005,
+   "q": "Exact Score: Ipswich Town FC 5 - 1 Fulham FC?",
+   "yes": 0.008,
+   "no": 0.997,
+   "liq": 17592.32605
+  },
+  {
+   "sum": 1.005,
+   "q": "Exact Score: Ipswich Town FC 3 - 4 Fulham FC?",
+   "yes": 0.009,
+   "no": 0.996,
+   "liq": 12968.16066
+  },
+  {
+   "sum": 1.005,
+   "q": "Exact Score: Ipswich Town FC 4 - 3 Fulham FC?",
+   "yes": 0.009,
+   "no": 0.996,
+   "liq": 14511.97636
+  }
+ ],
+ "scan_time_s": 47.5
+}

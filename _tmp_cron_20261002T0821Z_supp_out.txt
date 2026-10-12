@@ -1,0 +1,5 @@
+supp-scan: 500 markets in 48.3s (best-ask basis)
+best-ask BRACKETS (<1.00): 0
+best-ask near-misses (1.000..1.005): 1
+  1.0010 | Yes@0.004 No@0.997 | liq=3831.98287 | Will US unemployment reach at least 6.0% in 2026?
+floor across 65 priced markets: min=1.0010 p10=1.0200 median=1.0690

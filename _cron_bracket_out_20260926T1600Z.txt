@@ -1,0 +1,9 @@
+Scan: 500 markets in 49.4s
+BRACKETS (sum < 1.00): 0
+Near-misses (asks[0], <=1.005): 0
+Near-misses (min-ask, detector-consistent, <=1.005): 13
+  1.0010 | Yes@0.002 No@0.999 | liq=1733.15437 | Will Anders Dreyer win 2026 MLS Most Valuable Play
+  1.0010 | Yes@0.010 No@0.991 | liq=8480.58196 | Will Elon Musk post 360-379 tweets from September 
+  1.0020 | Yes@0.005 No@0.997 | liq=4881.25109 | Faroe Islands vs. Kazakhstan: O/U 7.5
+  1.0030 | Yes@0.010 No@0.993 | liq=8937.558 | Exact Score: Boca Juniors de Cali 3 - 3 Boyaca Pat
+  1.0030 | Yes@0.010 No@0.993 | liq=12325.85318 | Exact Score: CA Penarol Montevideo 2 - 3 CA Boston

@@ -1,0 +1,6 @@
+min-ask scan over 500 markets; near-misses(<=1.005) using MIN asks: 4
+  1.0030 | Yes@0.004 No@0.999 | liq=28085.88179 | Exact Score: Ipswich Town FC 4 - 4 Fulham FC?
+  1.0040 | Yes@0.007 No@0.997 | liq=6807.97919 | Exact Score: BV Borussia 09 Dortmund 0 - 3 SV Werd
+  1.0050 | Yes@0.009 No@0.996 | liq=4475.10037 | CA Paranaense vs. CA Mineiro: O/U 7.5
+  1.0050 | Yes@0.009 No@0.996 | liq=3182.62371 | Will US unemployment reach at least 6.0% in 2026?
+global min-ask floor: 1.0030 across 88 priced markets

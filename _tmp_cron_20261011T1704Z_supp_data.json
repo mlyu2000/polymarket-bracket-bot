@@ -1,0 +1,303 @@
+{
+  "floor": 1.003,
+  "band_le_1_005": [
+    {
+      "total": 1.003,
+      "q": "Will the price of Ethereum be between $3,000 and $3,100 on October 12?",
+      "yes": 0.004,
+      "no": 0.999,
+      "liq": 4269.08796,
+      "yes_depth": 5703.21,
+      "no_depth": 15.0
+    },
+    {
+      "total": 1.005,
+      "q": "Real Valladolid CF vs. Albacete Balompi\u00e9: O/U 7.5",
+      "yes": 0.01,
+      "no": 0.995,
+      "liq": 3515.02291,
+      "yes_depth": 23110.05,
+      "no_depth": 150319.0
+    }
+  ],
+  "tier_le_1_02": [
+    {
+      "total": 1.003,
+      "q": "Will the price of Ethereum be between $3,000 and $3,100 on October 12?",
+      "yes": 0.004,
+      "no": 0.999,
+      "liq": 4269.08796,
+      "yes_depth": 5703.21,
+      "no_depth": 15.0
+    },
+    {
+      "total": 1.005,
+      "q": "Real Valladolid CF vs. Albacete Balompi\u00e9: O/U 7.5",
+      "yes": 0.01,
+      "no": 0.995,
+      "liq": 3515.02291,
+      "yes_depth": 23110.05,
+      "no_depth": 150319.0
+    },
+    {
+      "total": 1.008,
+      "q": "Spread: Venezia FC (-3.5)",
+      "yes": 0.01,
+      "no": 0.998,
+      "liq": 6617.91885,
+      "yes_depth": 26789.8,
+      "no_depth": 1079.24
+    },
+    {
+      "total": 1.009,
+      "q": "Spread: ES Troyes AC (-3.5)",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 5657.97499,
+      "yes_depth": 30652.87,
+      "no_depth": 3116.0
+    },
+    {
+      "total": 1.009,
+      "q": "Spread: Los Angeles Galaxy (-3.5)",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 4542.49948,
+      "yes_depth": 23661.83,
+      "no_depth": 1065.0
+    },
+    {
+      "total": 1.01,
+      "q": "Wolverhampton Wanderers FC vs. Bolton Wanderers FC: O/U 3.5",
+      "yes": 0.37,
+      "no": 0.64,
+      "liq": 12023.5552,
+      "yes_depth": 15710.33,
+      "no_depth": 18530.32
+    },
+    {
+      "total": 1.01,
+      "q": "Aarhus GF vs. S\u00f8nderjyske Fodbold: O/U 4.5",
+      "yes": 0.24,
+      "no": 0.77,
+      "liq": 8834.745,
+      "yes_depth": 12807.97,
+      "no_depth": 17691.32
+    },
+    {
+      "total": 1.01,
+      "q": "Spread: Club Olimpia (-1.5)",
+      "yes": 0.28,
+      "no": 0.73,
+      "liq": 2842.2756,
+      "yes_depth": 6726.38,
+      "no_depth": 6291.48
+    },
+    {
+      "total": 1.01,
+      "q": "Giants vs. Commanders: O/U 41.5",
+      "yes": 0.43,
+      "no": 0.58,
+      "liq": 43499.9828,
+      "yes_depth": 314739.64,
+      "no_depth": 222743.69999999998
+    },
+    {
+      "total": 1.01,
+      "q": "Will Washington Capitals be the 2027 NHL Eastern Conference Champion?",
+      "yes": 0.1,
+      "no": 0.91,
+      "liq": 50684.1823,
+      "yes_depth": 3258584.36,
+      "no_depth": 130067.11
+    }
+  ],
+  "two_sided": 66,
+  "yes_only": 406,
+  "no_only": 4,
+  "empty": 24,
+  "markets": 500,
+  "scan_time": 61.339406967163086,
+  "bottom20": [
+    {
+      "total": 1.003,
+      "q": "Will the price of Ethereum be between $3,000 and $3,100 on October 12?",
+      "yes": 0.004,
+      "no": 0.999,
+      "liq": 4269.08796,
+      "yes_depth": 5703.21,
+      "no_depth": 15.0
+    },
+    {
+      "total": 1.005,
+      "q": "Real Valladolid CF vs. Albacete Balompi\u00e9: O/U 7.5",
+      "yes": 0.01,
+      "no": 0.995,
+      "liq": 3515.02291,
+      "yes_depth": 23110.05,
+      "no_depth": 150319.0
+    },
+    {
+      "total": 1.008,
+      "q": "Spread: Venezia FC (-3.5)",
+      "yes": 0.01,
+      "no": 0.998,
+      "liq": 6617.91885,
+      "yes_depth": 26789.8,
+      "no_depth": 1079.24
+    },
+    {
+      "total": 1.009,
+      "q": "Spread: ES Troyes AC (-3.5)",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 5657.97499,
+      "yes_depth": 30652.87,
+      "no_depth": 3116.0
+    },
+    {
+      "total": 1.009,
+      "q": "Spread: Los Angeles Galaxy (-3.5)",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 4542.49948,
+      "yes_depth": 23661.83,
+      "no_depth": 1065.0
+    },
+    {
+      "total": 1.01,
+      "q": "Wolverhampton Wanderers FC vs. Bolton Wanderers FC: O/U 3.5",
+      "yes": 0.37,
+      "no": 0.64,
+      "liq": 12023.5552,
+      "yes_depth": 15710.33,
+      "no_depth": 18530.32
+    },
+    {
+      "total": 1.01,
+      "q": "Aarhus GF vs. S\u00f8nderjyske Fodbold: O/U 4.5",
+      "yes": 0.24,
+      "no": 0.77,
+      "liq": 8834.745,
+      "yes_depth": 12807.97,
+      "no_depth": 17691.32
+    },
+    {
+      "total": 1.01,
+      "q": "Spread: Club Olimpia (-1.5)",
+      "yes": 0.28,
+      "no": 0.73,
+      "liq": 2842.2756,
+      "yes_depth": 6726.38,
+      "no_depth": 6291.48
+    },
+    {
+      "total": 1.01,
+      "q": "Giants vs. Commanders: O/U 41.5",
+      "yes": 0.43,
+      "no": 0.58,
+      "liq": 43499.9828,
+      "yes_depth": 314739.64,
+      "no_depth": 222743.69999999998
+    },
+    {
+      "total": 1.01,
+      "q": "Will Washington Capitals be the 2027 NHL Eastern Conference Champion?",
+      "yes": 0.1,
+      "no": 0.91,
+      "liq": 50684.1823,
+      "yes_depth": 3258584.36,
+      "no_depth": 130067.11
+    },
+    {
+      "total": 1.01,
+      "q": "CR Flamengo vs. Fluminense FC: O/U 5.5",
+      "yes": 0.07,
+      "no": 0.94,
+      "liq": 9071.769,
+      "yes_depth": 19994.22,
+      "no_depth": 52419.95
+    },
+    {
+      "total": 1.012,
+      "q": "Spread: Lille OSC (-1.5)",
+      "yes": 0.02,
+      "no": 0.992,
+      "liq": 4420.72705,
+      "yes_depth": 259547.63999999998,
+      "no_depth": 1778.72
+    },
+    {
+      "total": 1.012,
+      "q": "Spread: LASK Linz (-1.5)",
+      "yes": 0.03,
+      "no": 0.982,
+      "liq": 3114.68478,
+      "yes_depth": 256223.22,
+      "no_depth": 1226.8
+    },
+    {
+      "total": 1.016,
+      "q": "Spread: Viking FK (-1.5)",
+      "yes": 0.017,
+      "no": 0.999,
+      "liq": 2948.52429,
+      "yes_depth": 255668.14,
+      "no_depth": 5.0
+    },
+    {
+      "total": 1.017,
+      "q": "Will Dplus KIA Qualify for Worlds 2026?",
+      "yes": 0.998,
+      "no": 0.019,
+      "liq": 125.95823,
+      "yes_depth": 105.1,
+      "no_depth": 360.37
+    },
+    {
+      "total": 1.019,
+      "q": "Spread: FK Kauno \u017dalgiris (-1.5)",
+      "yes": 0.02,
+      "no": 0.999,
+      "liq": 1307.9726,
+      "yes_depth": 3448.07,
+      "no_depth": 5.0
+    },
+    {
+      "total": 1.019,
+      "q": "Spread: FK Kauno \u017dalgiris (-2.5)",
+      "yes": 0.02,
+      "no": 0.999,
+      "liq": 421.679,
+      "yes_depth": 1547.73,
+      "no_depth": 5.0
+    },
+    {
+      "total": 1.02,
+      "q": "Spread: 49ers (-4.5)",
+      "yes": 0.25,
+      "no": 0.77,
+      "liq": 16739.8031,
+      "yes_depth": 21860.44,
+      "no_depth": 40790.16
+    },
+    {
+      "total": 1.02,
+      "q": "Spread: Burnley FC (-1.5)",
+      "yes": 0.36,
+      "no": 0.66,
+      "liq": 14366.2193,
+      "yes_depth": 20226.09,
+      "no_depth": 18108.98
+    },
+    {
+      "total": 1.02,
+      "q": "Mitre Santiago del Estero vs. Colon de Santa Fe: O/U 4.5",
+      "yes": 0.04,
+      "no": 0.98,
+      "liq": 785.1538,
+      "yes_depth": 66584.43000000001,
+      "no_depth": 2349.0
+    }
+  ]
+}

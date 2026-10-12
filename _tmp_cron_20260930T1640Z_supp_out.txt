@@ -1,0 +1,12 @@
+Markets with priced books: 86
+Top 10 by min-ask sum:
+  sum=1.001 Yes@0.002 No@0.999 liq=68847.05706 | Will Yehude Simón Munaro win the next Lima mayoral elec (near-miss <=1.005)
+  sum=1.001 Yes@0.032 No@0.969 liq=13762.20915 | Will the 5-year Treasury yield dip below 4.10% before 2 (near-miss <=1.005)
+  sum=1.004 Yes@0.104 No@0.900 liq=32246.51548 | Will the Democratic Party win the TX-32 House seat? (near-miss <=1.005)
+  sum=1.007 Yes@0.014 No@0.993 liq=2329.9014 | Greece vs. Netherlands: O/U 7.5
+  sum=1.009 Yes@0.010 No@0.999 liq=3438.31108 | Spread: Sporting Kansas City (-3.5)
+  sum=1.010 Yes@0.370 No@0.640 liq=6518.9154 | Will Albirex Niigata win on 2026-10-03?
+  sum=1.010 Yes@0.180 No@0.830 liq=35184.9812 | Will Sporting Jax win on 2026-09-30?
+  sum=1.013 Yes@0.014 No@0.999 liq=3350.32367 | Exact Score: Sacramento Republic FC 3 - 3 Las Vegas Lig
+  sum=1.017 Yes@0.022 No@0.995 liq=2734.99874 | Exact Score: FC Tulsa 5 - 1 New Mexico United?
+  sum=1.018 Yes@0.019 No@0.999 liq=1166.82988 | Spread: CA Platense (-3.5)

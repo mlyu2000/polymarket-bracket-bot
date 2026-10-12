@@ -1,0 +1,11 @@
+priced markets: 64
+best-ask sums < 1.00: 0
+closest 8 by best-ask sum:
+  1.0050 | Yes@0.009 No@0.996 | liq=1964.90155 | Clermont Foot 63 vs. Red Star FC: O/U 7.5
+  1.0050 | Yes@0.010 No@0.995 | liq=12133.75732 | Kyōto Sanga FC vs. FC Machida Zelvia: O/U 7.5
+  1.0060 | Yes@0.010 No@0.996 | liq=1885.54396 | FK Chornomorets Odesa vs. FK Kharkiv: O/U 7.5
+  1.0060 | Yes@0.012 No@0.994 | liq=1553.61175 | Falkirk FC vs. Dundee FC: O/U 7.5
+  1.0100 | Yes@0.170 No@0.840 | liq=145380.39 | Kent State vs. Western Michigan
+  1.0100 | Yes@0.410 No@0.600 | liq=4022.2374 | Spread: Nomme Kalju FC (-1.5)
+  1.0100 | Yes@0.170 No@0.840 | liq=8515.7745 | Spread: Real Madrid CF (-3.5)
+  1.0100 | Yes@0.060 No@0.950 | liq=65.6679 | Will Fernando Mendoza have 3,500+ passing yards in the 2026-27 NFL reg

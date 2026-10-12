@@ -1,0 +1,18 @@
+SUPP min-ask scan: 500 markets (109 with two-sided asks) in 50.2s
+FLOOR (best 8 min-ask sums):
+  1.002 | Yes@0.008 No@0.994 | liq=10466.9165 | Exact Score: West Ham United FC 0 - 3 Queens Park Range
+  1.002 | Yes@0.010 No@0.992 | liq=309.06787 | Will the highest temperature in Warsaw be 22°C on Octob
+  1.005 | Yes@0.009 No@0.996 | liq=4733.53602 | CA Paranaense vs. CA Mineiro: O/U 7.5
+  1.005 | Yes@0.010 No@0.995 | liq=3294.23224 | Kashiwa Reysol vs. Vissel Kōbe: O/U 7.5
+  1.005 | Yes@0.015 No@0.990 | liq=7245.99353 | SE Palmeiras vs. EC Bahia: O/U 7.5
+  1.005 | Yes@0.009 No@0.996 | liq=3184.20371 | Will US unemployment reach at least 6.0% in 2026?
+  1.006 | Yes@0.007 No@0.999 | liq=6955.76258 | Exact Score: BV Borussia 09 Dortmund 0 - 3 SV Werder Br
+  1.006 | Yes@0.008 No@0.998 | liq=17820.05214 | Exact Score: Ipswich Town FC 2 - 5 Fulham FC?
+MIN-ASK BRACKETS (<1.00): 0
+BAND <=1.005 count: 6
+NEXT-OUT (just above band):
+  1.006 | Yes@0.007 No@0.999 | liq=6955.76258 | Exact Score: BV Borussia 09 Dortmund 0 - 3 SV Werder Br
+  1.006 | Yes@0.008 No@0.998 | liq=17820.05214 | Exact Score: Ipswich Town FC 2 - 5 Fulham FC?
+  1.006 | Yes@0.009 No@0.997 | liq=15428.59018 | Exact Score: Ipswich Town FC 4 - 3 Fulham FC?
+  1.007 | Yes@0.015 No@0.992 | liq=12339.53975 | Exact Score: Racing Club de Lens 0 - 4 Olympique Lyonna
+  1.008 | Yes@0.013 No@0.995 | liq=9275.97241 | Exact Score: Lille OSC 5 - 2 Le Havre AC?

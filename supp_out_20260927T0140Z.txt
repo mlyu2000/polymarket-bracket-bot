@@ -1,0 +1,22 @@
+SCAN_TS_UTC=2026-09-27T01:50:41Z
+Scan: 500 markets in 43.9s
+BRACKETS (sum < 1.00): 0
+Near-misses (<=1.005): 7
+  1.001 | Yes@0.002 No@0.999 | liq=1267.51854 | Will Anders Dreyer win 2026 MLS Most Valuable Play
+  1.003 | Yes@0.008 No@0.995 | liq=20572.51032 | Spread: D.C. United SC (-2.5)
+  1.003 | Yes@0.004 No@0.999 | liq=609.36317 | Will Jairo Palheta win the 2026 Amapá gubernatoria
+  1.004 | Yes@0.006 No@0.998 | liq=2310.55461 | Exact Score: Club Almagro 3 - 3 Nueva Chicago?
+  1.004 | Yes@0.016 No@0.988 | liq=68.58 | Real Salt Lake vs. New England Revolution: Real Sa
+  1.005 | Yes@0.040 No@0.965 | liq=72954.40453 | Exact Score: Denmark 1 - 2 Wales?
+  1.005 | Yes@0.011 No@0.994 | liq=5005.9357 | Exact Score: Orange County SC 3 - 3 Pittsburgh Riv
+Top-10 lowest sums (all markets):
+  1.0010 | liq=1267.51854
+  1.0030 | liq=609.36317
+  1.0030 | liq=20572.51032
+  1.0040 | liq=68.58
+  1.0040 | liq=2310.55461
+  1.0050 | liq=5005.9357
+  1.0050 | liq=72954.40453
+  1.0070 | liq=3261.95649
+  1.0070 | liq=3571.98075
+  1.0070 | liq=7181.77945

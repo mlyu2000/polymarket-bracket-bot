@@ -1,0 +1,5 @@
+SUPP min-ask scan: 500 markets, 95 priced, 58.9s
+FLOOR: 1.005 | Yes@0.007 No@0.998 | liq=3935.97087 | Will US unemployment reach at least 6.0% in 2026?
+MINASK near-misses (<=1.005): 2
+  1.005 | Yes@0.008 No@0.997 | liq=10605.94684 | Exact Score: BV Borussia 09 Dortmund 0 - 3 SV Werder Bremen?
+  1.005 | Yes@0.007 No@0.998 | liq=3935.97087 | Will US unemployment reach at least 6.0% in 2026?

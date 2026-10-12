@@ -1,0 +1,6 @@
+markets=500 best-ask near-misses(<=1.005)=6
+  1.0030 | Yes@0.004 No@0.999 | liq=6660.97492 | Cruzeiro EC vs. São Paulo FC: O/U 8.5
+  1.0040 | Yes@0.008 No@0.996 | liq=3489.81388 | Will US unemployment reach at least 6.0% in 2026?
+  1.0050 | Yes@0.009 No@0.996 | liq=4868.9393 | Cruzeiro EC vs. São Paulo FC: O/U 7.5
+  1.0050 | Yes@0.008 No@0.997 | liq=1774.65926 | Exact Score: Ipswich Town FC 0 - 5 Fulham FC?
+  1.0050 | Yes@0.008 No@0.997 | liq=1598.03597 | Exact Score: Ipswich Town FC 5 - 1 Fulham FC?

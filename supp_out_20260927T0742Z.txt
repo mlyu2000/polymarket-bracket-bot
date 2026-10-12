@@ -1,0 +1,11 @@
+MIN-ASK SUPPLEMENT 2026-09-27T07:42Z: 500 markets in 47.7s
+BRACKETS (best-ask sum < 1.00): 0
+Best 8 sums (min-ask):
+  1.0010 | Yes@0.002 No@0.999 | liq=1836.65317 | Will Anders Dreyer win 2026 MLS Most Valuable Play
+  1.0010 | Yes@0.016 No@0.985 | liq=25473.47683 | Will Dallas Wings win the 2026 WNBA Finals?
+  1.0010 | Yes@0.035 No@0.966 | liq=199832.63039 | Will the New England Patriots win the 2027 NFL lea
+  1.0030 | Yes@0.004 No@0.999 | liq=5687.55396 | RCD Mallorca vs. UD Almería: O/U 8.5
+  1.0030 | Yes@0.004 No@0.999 | liq=602.16558 | Will Jairo Palheta win the 2026 Amapá gubernatoria
+  1.0030 | Yes@0.034 No@0.969 | liq=2947.46542 | Will Symbiotic launch a token by December 31, 2026
+  1.0040 | Yes@0.005 No@0.999 | liq=924.48437 | Will MIO: Memories in Orbit win Best Independent G
+  1.0050 | Yes@0.007 No@0.998 | liq=4836.29904 | Exact Score: Gimnasia Y Tiro de Salta 3 - 3 Atleti

@@ -1,0 +1,470 @@
+[
+ {
+  "total": 1.005,
+  "q": "Ky\u014dto Sanga FC vs. FC Machida Zelvia: O/U 7.5",
+  "yes": 0.01,
+  "no": 0.995,
+  "yes_sz": 17.0,
+  "no_sz": 3383.0,
+  "liq": 3971.18696
+ },
+ {
+  "total": 1.005,
+  "q": "Clermont Foot 63 vs. Red Star FC: O/U 7.5",
+  "yes": 0.009,
+  "no": 0.996,
+  "yes_sz": 9.0,
+  "no_sz": 2350.0,
+  "liq": 1786.16634
+ },
+ {
+  "total": 1.006,
+  "q": "Falkirk FC vs. Dundee FC: O/U 7.5",
+  "yes": 0.012,
+  "no": 0.994,
+  "yes_sz": 9.0,
+  "no_sz": 1566.0,
+  "liq": 757.44092
+ },
+ {
+  "total": 1.006,
+  "q": "South Melbourne FC vs. Melbourne Victory FC: O/U 7.5",
+  "yes": 0.013,
+  "no": 0.993,
+  "yes_sz": 6.0,
+  "no_sz": 671.0,
+  "liq": 1471.82725
+ },
+ {
+  "total": 1.006,
+  "q": "FK Chornomorets Odesa vs. FK Kharkiv: O/U 7.5",
+  "yes": 0.01,
+  "no": 0.996,
+  "yes_sz": 6.0,
+  "no_sz": 1175.0,
+  "liq": 1912.37945
+ },
+ {
+  "total": 1.01,
+  "q": "Exact Score: Alianza FC 1 - 2 \u00c1guilas Doradas Rionegro?",
+  "yes": 0.08,
+  "no": 0.93,
+  "yes_sz": 388.0,
+  "no_sz": 2526.0,
+  "liq": 51030.5956
+ },
+ {
+  "total": 1.01,
+  "q": "Will Fernando Mendoza have 3,500+ passing yards in the 2026-27 NFL reg",
+  "yes": 0.06,
+  "no": 0.95,
+  "yes_sz": 60.0,
+  "no_sz": 81.0,
+  "liq": 154.4782
+ },
+ {
+  "total": 1.01,
+  "q": "Kent State vs. Western Michigan",
+  "yes": 0.17,
+  "no": 0.84,
+  "yes_sz": 6230.49,
+  "no_sz": 138.6,
+  "liq": 152013.4448
+ },
+ {
+  "total": 1.01,
+  "q": "Spread: Real Madrid CF (-3.5)",
+  "yes": 0.17,
+  "no": 0.84,
+  "yes_sz": 1785.06,
+  "no_sz": 416.0,
+  "liq": 10351.7848
+ },
+ {
+  "total": 1.01,
+  "q": "Will Washington Capitals be the 2027 NHL Eastern Conference Champion?",
+  "yes": 0.12,
+  "no": 0.89,
+  "yes_sz": 850.0,
+  "no_sz": 50.0,
+  "liq": 54671.1091
+ },
+ {
+  "total": 1.01,
+  "q": "Will Modena FC 2018 win on 2026-10-11?",
+  "yes": 0.48,
+  "no": 0.53,
+  "yes_sz": 296.0,
+  "no_sz": 247.08,
+  "liq": 11822.388
+ },
+ {
+  "total": 1.017,
+  "q": "Will Dplus KIA Qualify for Worlds 2026?",
+  "yes": 0.998,
+  "no": 0.019,
+  "yes_sz": 105.1,
+  "no_sz": 34.4,
+  "liq": 174.10778
+ },
+ {
+  "total": 1.019,
+  "q": "Exact Score: New England Revolution 1 - 4 Seattle Sounders FC?",
+  "yes": 0.02,
+  "no": 0.999,
+  "yes_sz": 150.0,
+  "no_sz": 150.0,
+  "liq": 5455.95707
+ },
+ {
+  "total": 1.019,
+  "q": "Exact Score: New England Revolution 2 - 4 Seattle Sounders FC?",
+  "yes": 0.02,
+  "no": 0.999,
+  "yes_sz": 150.0,
+  "no_sz": 150.0,
+  "liq": 5301.45509
+ },
+ {
+  "total": 1.02,
+  "q": "Atalanta BC vs. Venezia FC: O/U 2.5",
+  "yes": 0.63,
+  "no": 0.39,
+  "yes_sz": 1903.82,
+  "no_sz": 1719.0,
+  "liq": 57612.3478
+ },
+ {
+  "total": 1.02,
+  "q": "Exact Score: New England Revolution 5 - 2 Seattle Sounders FC?",
+  "yes": 0.021,
+  "no": 0.999,
+  "yes_sz": 50.0,
+  "no_sz": 150.0,
+  "liq": 4105.37186
+ },
+ {
+  "total": 1.02,
+  "q": "Sheffield United FC vs. Lincoln City FC: Both Teams to Score",
+  "yes": 0.54,
+  "no": 0.48,
+  "yes_sz": 1493.0,
+  "no_sz": 2695.75,
+  "liq": 16793.6687
+ },
+ {
+  "total": 1.02,
+  "q": "Will FC Lokomotiv 1929 Sofia vs. PFC Lokomotiv Plovdiv end in a draw?",
+  "yes": 0.3,
+  "no": 0.72,
+  "yes_sz": 1005.0,
+  "no_sz": 4768.67,
+  "liq": 16278.1811
+ },
+ {
+  "total": 1.02,
+  "q": "Will Oper\u00e1rio Ferrovi\u00e1rio EC vs. Goi\u00e1s EC end in a draw?",
+  "yes": 0.32,
+  "no": 0.7,
+  "yes_sz": 291.98,
+  "no_sz": 102.0,
+  "liq": 5874.8211
+ },
+ {
+  "total": 1.02,
+  "q": "Spread: Nomme Kalju FC (-1.5)",
+  "yes": 0.41,
+  "no": 0.61,
+  "yes_sz": 44.0,
+  "no_sz": 49.0,
+  "liq": 2848.7904
+ },
+ {
+  "total": 1.02,
+  "q": "Will Blackpool FC win on 2026-10-10?",
+  "yes": 0.28,
+  "no": 0.74,
+  "yes_sz": 931.0,
+  "no_sz": 1291.41,
+  "liq": 17910.1874
+ },
+ {
+  "total": 1.022,
+  "q": "Exact Score: New England Revolution 4 - 3 Seattle Sounders FC?",
+  "yes": 0.023,
+  "no": 0.999,
+  "yes_sz": 150.0,
+  "no_sz": 150.0,
+  "liq": 4222.20525
+ },
+ {
+  "total": 1.023,
+  "q": "Exact Score: Sporting Kansas City 5 - 1 Portland Timbers?",
+  "yes": 0.024,
+  "no": 0.999,
+  "yes_sz": 50.0,
+  "no_sz": 150.0,
+  "liq": 2591.39133
+ },
+ {
+  "total": 1.03,
+  "q": "Will Evgenii Malkin record 100+ points?",
+  "yes": 0.05,
+  "no": 0.98,
+  "yes_sz": 27.43,
+  "no_sz": 69.29,
+  "liq": 11676.6845
+ },
+ {
+  "total": 1.03,
+  "q": "Crusaders FC vs. Larne FC: Larne FC O/U 2.5",
+  "yes": 0.43,
+  "no": 0.6,
+  "yes_sz": 215.0,
+  "no_sz": 242.0,
+  "liq": 1831.3638
+ },
+ {
+  "total": 1.03,
+  "q": "Will the highest temperature in London be 14\u00b0C on October 11?",
+  "yes": 0.06,
+  "no": 0.97,
+  "yes_sz": 16.11,
+  "no_sz": 140.0,
+  "liq": 2729.3975
+ },
+ {
+  "total": 1.03,
+  "q": "CD Eldense vs. C\u00f3rdoba CF: 1st Half O/U 0.5",
+  "yes": 0.77,
+  "no": 0.26,
+  "yes_sz": 615.0,
+  "no_sz": 508.0,
+  "liq": 2300.8379
+ },
+ {
+  "total": 1.03,
+  "q": "FC Internazionale Milano vs. Parma Calcio 1913: FC Internazionale Mila",
+  "yes": 0.83,
+  "no": 0.2,
+  "yes_sz": 1500.0,
+  "no_sz": 683.2,
+  "liq": 6309.232
+ },
+ {
+  "total": 1.03,
+  "q": "Iowa vs. Washington: 1H O/U 30.5",
+  "yes": 0.19,
+  "no": 0.84,
+  "yes_sz": 214.0,
+  "no_sz": 458.0,
+  "liq": 11437.3495
+ },
+ {
+  "total": 1.03,
+  "q": "CA Estudiantes vs. Deportivo Moron: Deportivo Moron O/U 0.5",
+  "yes": 0.57,
+  "no": 0.46,
+  "yes_sz": 5.0,
+  "no_sz": 5.0,
+  "liq": 180.5992
+ },
+ {
+  "total": 1.03,
+  "q": "Will USD/JPY hit 190 (High) in 2026?",
+  "yes": 0.07,
+  "no": 0.96,
+  "yes_sz": 13.67,
+  "no_sz": 29.89,
+  "liq": 192.9551
+ },
+ {
+  "total": 1.04,
+  "q": "Will monthly inflation increase by 0.4% in September?",
+  "yes": 0.11,
+  "no": 0.93,
+  "yes_sz": 180.0,
+  "no_sz": 38.79,
+  "liq": 7301.7726
+ },
+ {
+  "total": 1.04,
+  "q": "Argentino vs. San Martin de Corrientes",
+  "yes": 0.5,
+  "no": 0.54,
+  "yes_sz": 10.0,
+  "no_sz": 5.0,
+  "liq": 2096.2765
+ },
+ {
+  "total": 1.041,
+  "q": "Will Pittsburgh Steelers finish the 2026-27 NFL regular season with th",
+  "yes": 0.042,
+  "no": 0.999,
+  "yes_sz": 80.0,
+  "no_sz": 5.01,
+  "liq": 234.15287
+ },
+ {
+  "total": 1.046,
+  "q": "Exact Score: Mansfield Town FC 4 - 3 Bromley FC?",
+  "yes": 0.047,
+  "no": 0.999,
+  "yes_sz": 1228.59,
+  "no_sz": 150.0,
+  "liq": 2467.14653
+ },
+ {
+  "total": 1.051,
+  "q": "Exact Score: Stevenage FC 1 - 4 Wigan Athletic FC?",
+  "yes": 0.052,
+  "no": 0.999,
+  "yes_sz": 1259.2,
+  "no_sz": 150.0,
+  "liq": 2406.87176
+ },
+ {
+  "total": 1.062,
+  "q": "Will the Ornn H100 Index be between $2.00 and $2.25 on October 31, 202",
+  "yes": 0.069,
+  "no": 0.993,
+  "yes_sz": 6.67,
+  "no_sz": 30.0,
+  "liq": 341.33425
+ },
+ {
+  "total": 1.079,
+  "q": "Will Moonshot be the third-best AI lab at the end of November 2026?",
+  "yes": 0.092,
+  "no": 0.987,
+  "yes_sz": 43.0,
+  "no_sz": 30.0,
+  "liq": 349.27298
+ },
+ {
+  "total": 1.081,
+  "q": "Will the Republican Party candidate win the 2026 OH-14 House election ",
+  "yes": 0.133,
+  "no": 0.948,
+  "yes_sz": 70.0,
+  "no_sz": 70.0,
+  "liq": 648.75637
+ },
+ {
+  "total": 1.088,
+  "q": "Will Florida be Ranked #1 during the 2026-27 CFB season?",
+  "yes": 0.107,
+  "no": 0.981,
+  "yes_sz": 55.36,
+  "no_sz": 20.0,
+  "liq": 68.88048
+ },
+ {
+  "total": 1.12,
+  "q": "Will SZA headline Coachella 2027?",
+  "yes": 0.63,
+  "no": 0.49,
+  "yes_sz": 119.61,
+  "no_sz": 63.0,
+  "liq": 156.2136
+ },
+ {
+  "total": 1.15,
+  "q": "Will the New Orleans Saints have more than 7.5 wins during the 2026 NF",
+  "yes": 0.49,
+  "no": 0.66,
+  "yes_sz": 20.0,
+  "no_sz": 240.0,
+  "liq": 539.2375
+ },
+ {
+  "total": 1.203,
+  "q": "Club Puebla vs. Club Le\u00f3n FC: Club Le\u00f3n FC O/U 5.5",
+  "yes": 0.205,
+  "no": 0.998,
+  "yes_sz": 5.0,
+  "no_sz": 3460.0,
+  "liq": 1517.24749
+ },
+ {
+  "total": 1.31,
+  "q": "Will Jack Eichel record 30+ goals in the 2026-27 regular season?",
+  "yes": 0.64,
+  "no": 0.67,
+  "yes_sz": 20.0,
+  "no_sz": 19.97,
+  "liq": 20.2079
+ },
+ {
+  "total": 1.409,
+  "q": "1. FSV Mainz 05 vs. Bayer 04 Leverkusen: 1. FSV Mainz 05 O/U 5.5",
+  "yes": 0.413,
+  "no": 0.996,
+  "yes_sz": 30.0,
+  "no_sz": 3777.5,
+  "liq": 1411.47148
+ },
+ {
+  "total": 1.495,
+  "q": "Genoa CFC vs. ACF Fiorentina: Genoa CFC O/U 4.5",
+  "yes": 0.498,
+  "no": 0.997,
+  "yes_sz": 24.0,
+  "no_sz": 11960.0,
+  "liq": 1094.60149
+ },
+ {
+  "total": 1.627,
+  "q": "Spread: LASK Linz (-1.5)",
+  "yes": 0.628,
+  "no": 0.999,
+  "yes_sz": 225.0,
+  "no_sz": 116.43,
+  "liq": 705.97622
+ },
+ {
+  "total": 1.756,
+  "q": "SSC Napoli vs. Frosinone Calcio: Frosinone Calcio O/U 4.5",
+  "yes": 0.758,
+  "no": 0.998,
+  "yes_sz": 5.0,
+  "no_sz": 29725.0,
+  "liq": 515.57109
+ },
+ {
+  "total": 1.759,
+  "q": "AS Monaco FC vs. Toulouse FC: Toulouse FC O/U 4.5",
+  "yes": 0.762,
+  "no": 0.997,
+  "yes_sz": 5.0,
+  "no_sz": 4340.0,
+  "liq": 304.9719
+ },
+ {
+  "total": 1.783,
+  "q": "1. FC Union Berlin vs. SV 07 Elversberg: 1. FC Union Berlin O/U 5.5",
+  "yes": 0.789,
+  "no": 0.994,
+  "yes_sz": 25.0,
+  "no_sz": 5540.0,
+  "liq": 362.05618
+ },
+ {
+  "total": 1.88,
+  "q": "Sabah FK vs. SK Slavia Praha: Sabah FK 1st Half O/U 2.5",
+  "yes": 0.9,
+  "no": 0.98,
+  "yes_sz": 5.0,
+  "no_sz": 5.0,
+  "liq": 746.9779
+ },
+ {
+  "total": 1.9,
+  "q": "Sabah FK vs. SK Slavia Praha: SK Slavia Praha O/U 5.5",
+  "yes": 0.92,
+  "no": 0.98,
+  "yes_sz": 4135.89,
+  "no_sz": 5.0,
+  "liq": 690.8967
+ }
+]

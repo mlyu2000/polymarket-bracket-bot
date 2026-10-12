@@ -1,0 +1,7 @@
+min-ask pass: 500 markets in 50.9s; 134 priced
+true floor sum: 1.0020
+min-ask near-misses (<=1.005): 3
+  1.0020 | Yes@0.004 No@0.998 | liq=1594.85832 | Will the highest temperature in Qingdao be 24°C on October 5?
+  1.0030 | Yes@0.006 No@0.997 | liq=3605.96331 | Will US unemployment reach at least 6.0% in 2026?
+  1.0040 | Yes@0.008 No@0.996 | liq=2547.83683 | Exact Score: BV Borussia 09 Dortmund 0 - 3 SV Werder Bremen?
+min-ask BRACKETS (sum<1.0): 0

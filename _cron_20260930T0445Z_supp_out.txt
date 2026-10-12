@@ -1,0 +1,9 @@
+priced=86/500 true_floor=1.001
+  1.001 | Yes@0.997 No@0.004 | liq=25672.11311 | Will Anthropic have the best AI model at the end of Septembe
+  1.001 | Yes@0.002 No@0.999 | liq=29349.68365 | Will Yehude Simón Munaro win the next Lima mayoral elections
+  1.002 | Yes@0.003 No@0.999 | liq=4126.06708 | Seychelles vs. Sri Lanka: O/U 8.5
+  1.002 | Yes@0.033 No@0.969 | liq=14441.29363 | Will the 5-year Treasury yield dip below 4.10% before 2027?
+  1.005 | Yes@0.998 No@0.007 | liq=17859.9807 | Nothing Ever Happens: September
+  1.009 | Yes@0.010 No@0.999 | liq=4180.7828 | Exact Score: Eritrea 4 - 0 South Africa?
+  1.009 | Yes@0.010 No@0.999 | liq=3206.90198 | Spread: Bolivia (-1.5)
+  1.009 | Yes@0.010 No@0.999 | liq=17.28639 | Will Julia Stiles be eliminated in week 3 of Dancing With Th

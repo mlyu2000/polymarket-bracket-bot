@@ -1,0 +1,12 @@
+SUPP (true best-ask via min): 500 markets
+true sum<1.000: 0 | true near-miss 1.000-1.005: 5
+  1.0010 | Y@0.002 N@0.999 | liq=71236.64922 | Will Yehude Simón Munaro win the next Lima mayoral elections
+  1.0010 | Y@0.032 N@0.969 | liq=14434.7564 | Will the 5-year Treasury yield dip below 4.10% before 2027?
+  1.0010 | Y@0.002 N@0.999 | liq=3937.98282 | Will the highest temperature in Paris be 15°C or below on Oc
+  1.0010 | Y@0.985 N@0.016 | liq=12166.01397 | Will the price of Ethereum be above $2,400 on October 2?
+  1.0050 | Y@0.998 N@0.007 | liq=17664.12266 | Nothing Ever Happens: September
+  1.0070 | Y@0.008 N@0.999 | liq=17372.33463 | Exact Score: Eritrea 3 - 3 South Africa?
+  1.0080 | Y@0.106 N@0.902 | liq=32380.9428 | Will the Democratic Party win the TX-32 House seat?
+  1.0090 | Y@0.010 N@0.999 | liq=2096.98045 | Spread: Sporting Kansas City (-3.5)
+  1.0100 | Y@0.370 N@0.640 | liq=3637.7946 | Will Albirex Niigata win on 2026-10-03?
+  1.0160 | Y@0.050 N@0.966 | liq=3459.00449 | Will Elon Musk post 780-799 tweets in October 2026?

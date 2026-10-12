@@ -1,0 +1,9 @@
+Markets with priced books (min-ask basis): 108
+TRUE BRACKETS (min-ask sum < 1.00, below detector floor): 0
+NEAR-MISSES (min-ask sum <= 1.005): 6
+  1.0050 | Yes@0.009 No@0.996 | liq=5151.51518 | Cruzeiro EC vs. São Paulo FC: O/U 7.5
+  1.0050 | Yes@0.008 No@0.997 | liq=17488.44272 | Exact Score: Ipswich Town FC 0 - 5 Fulham FC?
+  1.0050 | Yes@0.009 No@0.996 | liq=13331.26545 | Exact Score: Ipswich Town FC 3 - 4 Fulham FC?
+  1.0050 | Yes@0.009 No@0.996 | liq=14816.87246 | Exact Score: Ipswich Town FC 4 - 3 Fulham FC?
+  1.0050 | Yes@0.008 No@0.997 | liq=17903.42435 | Exact Score: Ipswich Town FC 5 - 1 Fulham FC?
+  1.0050 | Yes@0.008 No@0.997 | liq=8607.40785 | Exact Score: West Ham United FC 0 - 3 Queens Park 

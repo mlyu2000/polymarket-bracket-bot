@@ -1,0 +1,11 @@
+Scan: 500 markets in 47.3s
+BRACKETS (sum < 1.00): 0
+Near-misses asks[0]-based (<=1.005): 0
+Near-misses best-ask-based (1.00 < sum <= 1.005): 7
+  1.001 | Yes@0.002 No@0.999 | liq=1282.64463 | Will Anders Dreyer win 2026 MLS Most Valuable Play
+  1.001 | Yes@0.004 No@0.997 | liq=105764.97217 | Will Ethereum dip to $2,000 in September?
+  1.003 | Yes@0.004 No@0.999 | liq=15807.17575 | Will Jairo Palheta win the 2026 Amapá gubernatoria
+  1.004 | Yes@0.005 No@0.999 | liq=6508.62494 | AD Ceuta FC vs. Real Sociedad de Fútbol B: O/U 8.5
+  1.004 | Yes@0.006 No@0.998 | liq=4924.2047 | Faroe Islands vs. Kazakhstan: O/U 7.5
+  1.004 | Yes@0.008 No@0.996 | liq=6680.63186 | Spread: D.C. United SC (-2.5)
+  1.004 | Yes@0.005 No@0.999 | liq=7913.15579 | Will Elon Musk post 80-99 tweets from September 29

@@ -1,0 +1,92 @@
+{
+ "run": "20261008T013358Z",
+ "ts": "2026-10-08T01:33:58Z",
+ "markets": 500,
+ "priced": 94,
+ "floor": 1.002,
+ "brackets_minask": 0,
+ "detector_opps": 0,
+ "band": 3,
+ "top8": [
+  {
+   "sum": 1.002,
+   "q": "CA Paranaense vs. CA Mineiro: O/U 7.5",
+   "yes": 0.006,
+   "no": 0.996,
+   "liq": 8656.014
+  },
+  {
+   "sum": 1.004,
+   "q": "Will US unemployment reach at least 6.0% in 2026?",
+   "yes": 0.007,
+   "no": 0.997,
+   "liq": 3302.82595
+  },
+  {
+   "sum": 1.005,
+   "q": "Exact Score: West Ham United FC 0 - 3 Queens Park Rangers FC",
+   "yes": 0.008,
+   "no": 0.997,
+   "liq": 8711.73344
+  },
+  {
+   "sum": 1.006,
+   "q": "FC CFR 1907 Cluj vs. FC Universitatea Cluj: O/U 7.5",
+   "yes": 0.012,
+   "no": 0.994,
+   "liq": 4501.40739
+  },
+  {
+   "sum": 1.006,
+   "q": "Exact Score: BV Borussia 09 Dortmund 0 - 3 SV Werder Bremen?",
+   "yes": 0.007,
+   "no": 0.999,
+   "liq": 6175.8425
+  },
+  {
+   "sum": 1.006,
+   "q": "Exact Score: Racing Club de Lens 1 - 5 Olympique Lyonnais?",
+   "yes": 0.01,
+   "no": 0.996,
+   "liq": 15657.67315
+  },
+  {
+   "sum": 1.006,
+   "q": "Exact Score: Stade Brestois 29 5 - 0 Angers SCO?",
+   "yes": 0.011,
+   "no": 0.995,
+   "liq": 9154.14557
+  },
+  {
+   "sum": 1.006,
+   "q": "Exact Score: Stade Brestois 29 4 - 3 Angers SCO?",
+   "yes": 0.01,
+   "no": 0.996,
+   "liq": 9723.07867
+  }
+ ],
+ "band_rows": [
+  {
+   "sum": 1.002,
+   "q": "CA Paranaense vs. CA Mineiro: O/U 7.5",
+   "yes": 0.006,
+   "no": 0.996,
+   "liq": 8656.014
+  },
+  {
+   "sum": 1.004,
+   "q": "Will US unemployment reach at least 6.0% in 2026?",
+   "yes": 0.007,
+   "no": 0.997,
+   "liq": 3302.82595
+  },
+  {
+   "sum": 1.005,
+   "q": "Exact Score: West Ham United FC 0 - 3 Queens Park Rangers FC",
+   "yes": 0.008,
+   "no": 0.997,
+   "liq": 8711.73344
+  }
+ ],
+ "scan_time_s": 49.1
+}

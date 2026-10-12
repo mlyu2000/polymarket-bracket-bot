@@ -1,0 +1,12 @@
+Supp (min-ask): 500 markets, 101 priced, in 44.9s
+TRUE brackets (min-ask sum < 1.000): 0
+Near-misses 1.000-1.005: 8
+  1.0020 | Yes@0.006 No@0.996 | liq=6297.93763 | CA Paranaense vs. CA Mineiro: O/U 7.5
+  1.0020 | Yes@0.006 No@0.996 | liq=116.4077 | CR Brasil vs. AC Goianiense: CR Brasil O/U 5.5
+  1.0030 | Yes@0.007 No@0.996 | liq=1444.3877 | CR Brasil vs. AC Goianiense: AC Goianiense O/U 4.5
+  1.0050 | Yes@0.008 No@0.997 | liq=18046.22045 | Exact Score: Ipswich Town FC 0 - 5 Fulham FC?
+  1.0050 | Yes@0.009 No@0.996 | liq=14027.38695 | Exact Score: Ipswich Town FC 3 - 4 Fulham FC?
+  1.0050 | Yes@0.008 No@0.997 | liq=17758.44406 | Exact Score: Ipswich Town FC 5 - 1 Fulham FC?
+  1.0050 | Yes@0.008 No@0.997 | liq=8575.49832 | Exact Score: West Ham United FC 0 - 3 Queens Park 
+  1.0050 | Yes@0.008 No@0.997 | liq=3397.2794 | Will US unemployment reach at least 6.0% in 2026?
+Floor (best sum overall): 1.0020 | CA Paranaense vs. CA Mineiro: O/U 7.5

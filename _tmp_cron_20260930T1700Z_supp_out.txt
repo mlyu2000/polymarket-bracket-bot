@@ -1,0 +1,11 @@
+Markets priced: 86
+BRACKETS via best(min) ask, sum<1.00: 0
+Top-8 lowest sums (best-ask method):
+  1.0010 | Yes@0.002 No@0.999 | <=1.005 | Will Yehude Simón Munaro win the next Lima mayoral elec
+  1.0010 | Yes@0.032 No@0.969 | <=1.005 | Will the 5-year Treasury yield dip below 4.10% before 2
+  1.0040 | Yes@0.104 No@0.900 | <=1.005 | Will the Democratic Party win the TX-32 House seat?
+  1.0070 | Yes@0.014 No@0.993 |  | Greece vs. Netherlands: O/U 7.5
+  1.0090 | Yes@0.010 No@0.999 |  | Spread: Sporting Kansas City (-3.5)
+  1.0100 | Yes@0.370 No@0.640 |  | Will Albirex Niigata win on 2026-10-03?
+  1.0100 | Yes@0.180 No@0.830 |  | Will Sporting Jax win on 2026-09-30?
+  1.0130 | Yes@0.014 No@0.999 |  | Exact Score: Sacramento Republic FC 3 - 3 Las Vegas Lig

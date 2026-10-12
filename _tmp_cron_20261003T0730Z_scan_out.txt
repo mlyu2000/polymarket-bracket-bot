@@ -1,0 +1,14 @@
+Scan: 500 markets in 46.4s
+BRACKETS (detected, sum<1 after buffers): 0
+Near-misses (asks[0], <=1.005): 0
+SUPP best-ask(min) floor: priced=57
+  MIN SUM = 1.0010
+  1.0010 | Yes@0.002 No@0.999 | liq=62618.82475 | Will Pepa Millán be the next Prime Minister of Spa
+  1.0010 | Yes@0.004 No@0.997 | liq=2893.79893 | Will US unemployment reach at least 6.0% in 2026?
+  1.0040 | Yes@0.005 No@0.999 | liq=3792.80732 | Avaí FC vs. Ceará SC: O/U 7.5
+  1.0090 | Yes@0.010 No@0.999 | liq=1955.17727 | Albion FC vs. Defensor Sporting: O/U 8.5
+  1.0090 | Yes@0.010 No@0.999 | liq=2350.24584 | Chesterfield FC vs. Tranmere Rovers FC: O/U 8.5
+  1.0090 | Yes@0.010 No@0.999 | liq=1628.23299 | Exact Score: BV Borussia 09 Dortmund 2 - 4 SV Werd
+  1.0090 | Yes@0.010 No@0.999 | liq=1639.41909 | Stroemmen IF vs. Sandnes Ulf: O/U 8.5
+  1.0090 | Yes@0.014 No@0.995 | liq=452.36106 | Will Z.ai be the third-best AI lab at the end of O
+  raw min-sums below 1.000: 0

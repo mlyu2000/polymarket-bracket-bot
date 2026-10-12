@@ -1,0 +1,12 @@
+markets=500 priced=113
+sum<1.00 (true brackets): 0
+sum<=1.005 (near-misses): 7
+top 8 lowest sums:
+  1.003 | Yes@0.004 No@0.999 | liq=27240.34679 | Exact Score: Ipswich Town FC 4 - 4 Fulham FC?
+  1.004 | Yes@0.009 No@0.995 | liq=4026.58694 | Cruzeiro EC vs. São Paulo FC: O/U 7.5
+  1.005 | Yes@0.008 No@0.997 | liq=18184.24637 | Exact Score: Ipswich Town FC 0 - 5 Fulham FC?
+  1.005 | Yes@0.009 No@0.996 | liq=14133.89175 | Exact Score: Ipswich Town FC 3 - 4 Fulham FC?
+  1.005 | Yes@0.008 No@0.997 | liq=17904.53038 | Exact Score: Ipswich Town FC 5 - 1 Fulham FC?
+  1.005 | Yes@0.008 No@0.997 | liq=8715.34442 | Exact Score: West Ham United FC 0 - 3 Queens Park Rangers FC
+  1.005 | Yes@0.009 No@0.996 | liq=3200.99162 | Will US unemployment reach at least 6.0% in 2026?
+  1.006 | Yes@0.007 No@0.999 | liq=3412.32226 | Exact Score: BV Borussia 09 Dortmund 0 - 3 SV Werder Bremen?

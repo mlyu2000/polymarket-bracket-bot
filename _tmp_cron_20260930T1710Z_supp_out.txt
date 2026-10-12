@@ -1,0 +1,7 @@
+Markets scanned: 500
+DET + MIN-ASK BRACKETS (best-ask sum < 1.00): 0
+MIN-ASK near-misses (<=1.005): 4
+  1.0010 | Yes@0.002 No@0.999 | Will Karim Bouamrane win the 2027 French president
+  1.0010 | Yes@0.002 No@0.999 | Will Yehude Simón Munaro win the next Lima mayoral
+  1.0010 | Yes@0.032 No@0.969 | Will the 5-year Treasury yield dip below 4.10% bef
+  1.0040 | Yes@0.104 No@0.900 | Will the Democratic Party win the TX-32 House seat

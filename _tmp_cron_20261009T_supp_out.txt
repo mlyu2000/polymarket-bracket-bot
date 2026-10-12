@@ -1,0 +1,18 @@
+Markets: 500 | priced best-ask pairs: 58
+TRUE FLOOR (min sum): 1.0050
+
+Top 10 lowest best-ask sums:
+  1.0050 | Yes@0.009(sz 9) No@0.996(sz 2350) | liq 1972.2503 | Clermont Foot 63 vs. Red Star FC: O/U 7.5
+  1.0050 | Yes@0.010(sz 17) No@0.995(sz 3383) | liq 3965.30196 | Kyōto Sanga FC vs. FC Machida Zelvia: O/U 7.5
+  1.0060 | Yes@0.010(sz 6) No@0.996(sz 1175) | liq 1901.43045 | FK Chornomorets Odesa vs. FK Kharkiv: O/U 7.5
+  1.0060 | Yes@0.012(sz 9) No@0.994(sz 1566) | liq 1457.73184 | Falkirk FC vs. Dundee FC: O/U 7.5
+  1.0100 | Yes@0.060(sz 40) No@0.950(sz 61) | liq 44.8875 | Will Fernando Mendoza have 3,500+ passing yards in the 202
+  1.0100 | Yes@0.120(sz 850) No@0.890(sz 50) | liq 54181.4036 | Will Washington Capitals be the 2027 NHL Eastern Conferenc
+  1.0100 | Yes@0.170(sz 1785) No@0.840(sz 416) | liq 10365.4048 | Spread: Real Madrid CF (-3.5)
+  1.0100 | Yes@0.170(sz 17393) No@0.840(sz 157) | liq 164672.3052 | Kent State vs. Western Michigan
+  1.0110 | Yes@0.998(sz 105) No@0.013(sz 7) | liq 175.90975 | Will Dplus KIA Qualify for Worlds 2026?
+  1.0190 | Yes@0.020(sz 150) No@0.999(sz 150) | liq 5453.11307 | Exact Score: New England Revolution 1 - 4 Seattle Sounders
+
+sum < 1.00: 0
+sum <= 1.005: 2
+sum <= 1.01: 8

@@ -1,0 +1,7 @@
+markets=500 priced_pairs=89 detector_brackets=0
+true_floor_sum=1.0030
+near_misses_bestask(<=1.005)=4
+  1.0030 | Yes@0.004 No@0.999 | liq=28081.47379 | Exact Score: Ipswich Town FC 4 - 4 Fulham FC?
+  1.0040 | Yes@0.007 No@0.997 | liq=6800.85665 | Exact Score: BV Borussia 09 Dortmund 0 - 3 SV Werder Bremen?
+  1.0040 | Yes@0.008 No@0.996 | liq=3389.64711 | Will US unemployment reach at least 6.0% in 2026?
+  1.0050 | Yes@0.009 No@0.996 | liq=4445.14037 | CA Paranaense vs. CA Mineiro: O/U 7.5

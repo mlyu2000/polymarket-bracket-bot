@@ -1,0 +1,12 @@
+priced markets: 56/500
+TRUE FLOOR (min-ask sum): 1.0070 | Al Ettifaq Saudi Club vs. Al Khaleej Saudi Club: O/U 7.5 | Yes@0.015 No@0.992 | liq=2379.57496
+true brackets (sum<1.00): 0
+band <=1.005: 0
+next tier (>1.005):
+  1.0070 | Al Ettifaq Saudi Club vs. Al Khaleej Saudi Club: O/U 7.5 | Yes@0.015 No@0.992 | liq=2379.57496
+  1.0100 | AEK Athens vs. OFI Crete: O/U 2.5 | Yes@0.640 No@0.370 | liq=15066.506
+  1.0100 | Atalanta BC vs. Venezia FC: O/U 2.5 | Yes@0.630 No@0.380 | liq=46169.9583
+  1.0100 | ES Troyes AC vs. Olympique de Marseille: O/U 2.5 | Yes@0.620 No@0.390 | liq=57426.5333
+  1.0100 | Exact Score: Bohemians Praha 1905 1 - 2 FC Baník Ostrava? | Yes@0.080 No@0.930 | liq=12814.0711
+  1.0100 | Ironi Tiberias vs. Hapoel Be`er Sheva FC: O/U 2.5 | Yes@0.650 No@0.360 | liq=4664.8297
+detector-opps: 0 | paper executions: 0

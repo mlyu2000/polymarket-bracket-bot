@@ -1,0 +1,7 @@
+markets=500 priced_pairs=88 detector_hits=0
+TRUE near-misses (min-ask sum<=1.01): 5
+  1.0010 | Yes@0.002 No@0.999 | liq=61358.56758 active=True closed=False | Will Yehude Simón Munaro win the next Lima mayoral elections
+  1.0040 | Yes@0.005 No@0.999 | liq=5451.95942 active=True closed=False | Spread: CA Platense (-3.5)
+  1.0090 | Yes@0.010 No@0.999 | liq=5350.53027 active=True closed=False | Spread: Sporting Kansas City (-3.5)
+  1.0100 | Yes@0.170 No@0.840 | liq=12874.2728 active=True closed=False | Dreamcash FDV above $20M one day after launch?
+  1.0100 | Yes@0.370 No@0.640 | liq=6282.7465 active=True closed=False | Will Albirex Niigata win on 2026-10-03?

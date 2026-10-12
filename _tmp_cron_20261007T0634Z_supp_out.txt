@@ -1,0 +1,6 @@
+🔍 Scan(min-ask): 500 markets (101 with 2-sided books) in 73.0s
+✅ BRACKETS (sum < 1.00): 0
+📊 Near-misses (≤1.005, best-ask basis): 3
+  1.003 | Yes@0.004 No@0.999 | liq=6926 | Cruzeiro EC vs. São Paulo FC: O/U 8.5
+  1.005 | Yes@0.009 No@0.996 | liq=5149 | Cruzeiro EC vs. São Paulo FC: O/U 7.5
+  1.005 | Yes@0.008 No@0.997 | liq=8265 | Exact Score: West Ham United FC 0 - 3 Queens Park 

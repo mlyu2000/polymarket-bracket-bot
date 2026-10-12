@@ -1,0 +1,4 @@
+min-ask check: 500 markets in 57.2s
+TRUE BRACKETS (best-ask sum < 1.00): 0
+NEAR-MISS (sum in [1.00, 1.005]): 0
+priced=86 floor=1.0060

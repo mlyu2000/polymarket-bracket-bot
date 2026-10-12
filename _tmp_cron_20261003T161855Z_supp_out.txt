@@ -1,0 +1,4 @@
+[minask] Scan: 500 markets (63 priced) in 51.8s
+[minask] BRACKETS (sum < 1.00): 0
+[minask] Near-misses (<=1.005): 1
+  1.001 | Yes@0.004 No@0.997 | liq=3419.13375 | Will US unemployment reach at least 6.0% in 2026?

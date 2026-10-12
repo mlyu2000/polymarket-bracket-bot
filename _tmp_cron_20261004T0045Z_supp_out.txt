@@ -1,0 +1,14 @@
+Markets: 500 | priced (both books): 97 | 47.7s
+TRUE brackets on best asks (sum<1.00): 0
+Top-10 lowest best-ask totals:
+  1.0010 | Yes@0.120 No@0.881 | liq=873.93822 | Will Max Holloway fight Justin Gaethje next? 📊<=1.005
+  1.0020 | Yes@0.005 No@0.997 | liq=3545.13488 | Will US unemployment reach at least 6.0% in 2026? 📊<=1.005
+  1.0050 | Yes@0.009 No@0.996 | liq=2140.875 | Exact Score: BV Borussia 09 Dortmund 0 - 3 SV Werder Bremen? 📊<=1.005
+  1.0060 | Yes@0.009 No@0.997 | liq=4851.71809 | CA Bucaramanga vs. CDP Junior FC: O/U 7.5
+  1.0070 | Yes@0.008 No@0.999 | liq=8077.66571 | Vegalta Sendai vs. Júbilo Iwata: O/U 7.5
+  1.0100 | Yes@0.030 No@0.980 | liq=872.41931 | Chicago Fire FC vs. Vancouver Whitecaps FC: Vancouver Whitecaps FC O/U
+  1.0100 | Yes@0.650 No@0.360 | liq=232552.2261 | Will the Democrats win the Texas Senate race in 2026?
+  1.0110 | Yes@0.012 No@0.999 | liq=5729.98439 | Hokkaidō Consadole Sapporo vs. Iwaki FC: O/U 7.5
+  1.0120 | Yes@0.013 No@0.999 | liq=5904.41719 | Belize vs. French Guiana: O/U 6.5
+  1.0120 | Yes@0.013 No@0.999 | liq=1771.28519 | Exact Score: Racing Club de Lens 5 - 2 Olympique Lyonnais?
+Near-misses on best asks (1.000<=sum<=1.005): 3

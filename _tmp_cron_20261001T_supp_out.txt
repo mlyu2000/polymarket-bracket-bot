@@ -1,0 +1,7 @@
+Markets: 500 (priced=85, unpriced=415)
+BEST-ASK BRACKETS (min-sum < 1.00): 0
+BEST-ASK NEAR-MISSES (<=1.005): 3
+  1.0010 | YesB@0.002 NoB@0.999 | liq=56895.84113 | Will Yehude Simón Munaro win the next Lima mayoral
+  1.0010 | YesB@0.032 NoB@0.969 | liq=14345.04001 | Will the 5-year Treasury yield dip below 4.10% bef
+  1.0050 | YesB@0.010 NoB@0.995 | liq=2602.5013 | Azerbaijan vs. Liechtenstein: Liechtenstein O/U 2.
+FLOOR (best-ask): 1.0010

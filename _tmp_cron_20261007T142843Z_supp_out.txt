@@ -1,0 +1,7 @@
+markets=500 best-ask near-misses(<=1.005)=7
+  1.0040 | Yes@0.014 No@0.990 | liq=1172.89844 | Red Bull Bragantino vs. Mirassol FC: Red Bull Bragantin
+  1.0040 | Yes@0.006 No@0.998 | liq=1254.93138 | Will Split be the fewest played map at VALORANT Champio
+  1.0050 | Yes@0.009 No@0.996 | liq=9020.34799 | Cruzeiro EC vs. São Paulo FC: O/U 7.5
+  1.0050 | Yes@0.008 No@0.997 | liq=16457.6296 | Exact Score: Ipswich Town FC 0 - 5 Fulham FC?
+  1.0050 | Yes@0.009 No@0.996 | liq=13208.1597 | Exact Score: Ipswich Town FC 3 - 4 Fulham FC?
+persisted runs/scan_20261007T143115Z.json floor=1.004 priced=96

@@ -1,0 +1,119 @@
+{
+ "markets": 500,
+ "priced": 115,
+ "true_brackets_lt_1": [],
+ "near_1_to_1.005": [
+  {
+   "sum": 1.003,
+   "yes_ask": 0.006,
+   "no_ask": 0.997,
+   "yes_bid": 0.003,
+   "no_bid": 0.994,
+   "spread_pct": -0.3,
+   "liq": 3731.75194,
+   "q": "Will US unemployment reach at least 6.0% in 2026?"
+  }
+ ],
+ "top10_lowest": [
+  {
+   "sum": 1.003,
+   "yes_ask": 0.006,
+   "no_ask": 0.997,
+   "yes_bid": 0.003,
+   "no_bid": 0.994,
+   "spread_pct": -0.3,
+   "liq": 3731.75194,
+   "q": "Will US unemployment reach at least 6.0% in 2026?"
+  },
+  {
+   "sum": 1.006,
+   "yes_ask": 0.009,
+   "no_ask": 0.997,
+   "yes_bid": 0.003,
+   "no_bid": 0.991,
+   "spread_pct": -0.6,
+   "liq": 1670.222,
+   "q": "Exact Score: Ipswich Town FC 1 - 5 Fulham FC?"
+  },
+  {
+   "sum": 1.007,
+   "yes_ask": 0.008,
+   "no_ask": 0.999,
+   "yes_bid": 0.001,
+   "no_bid": 0.992,
+   "spread_pct": -0.7,
+   "liq": 2224.05413,
+   "q": "Exact Score: Ipswich Town FC 0 - 5 Fulham FC?"
+  },
+  {
+   "sum": 1.008,
+   "yes_ask": 0.015,
+   "no_ask": 0.993,
+   "yes_bid": 0.007,
+   "no_bid": 0.985,
+   "spread_pct": -0.8,
+   "liq": 2298.24157,
+   "q": "Exact Score: Lille OSC 1 - 3 Le Havre AC?"
+  },
+  {
+   "sum": 1.009,
+   "yes_ask": 0.01,
+   "no_ask": 0.999,
+   "yes_bid": 0.001,
+   "no_bid": 0.99,
+   "spread_pct": -0.9,
+   "liq": 1983.36165,
+   "q": "Exact Score: TSG 1899 Hoffenheim 5 - 3 Hamburger SV?"
+  },
+  {
+   "sum": 1.009,
+   "yes_ask": 0.016,
+   "no_ask": 0.993,
+   "yes_bid": 0.007,
+   "no_bid": 0.984,
+   "spread_pct": -0.9,
+   "liq": 1526.26499,
+   "q": "Exact Score: Ipswich Town FC 4 - 0 Fulham FC?"
+  },
+  {
+   "sum": 1.01,
+   "yes_ask": 0.48,
+   "no_ask": 0.53,
+   "yes_bid": 0.47,
+   "no_bid": 0.52,
+   "spread_pct": -1.0,
+   "liq": 7823.2655,
+   "q": "Spread: Boise State (-6.5)"
+  },
+  {
+   "sum": 1.01,
+   "yes_ask": 0.5,
+   "no_ask": 0.51,
+   "yes_bid": 0.49,
+   "no_bid": 0.5,
+   "spread_pct": -1.0,
+   "liq": 835.5225,
+   "q": "Will the Carolina Panthers have more than 7.5 wins during the 2026 NFL"
+  },
+  {
+   "sum": 1.01,
+   "yes_ask": 0.61,
+   "no_ask": 0.4,
+   "yes_bid": 0.6,
+   "no_bid": 0.39,
+   "spread_pct": -1.0,
+   "liq": 5740.3598,
+   "q": "Will the price of Solana be above $120 on October 6?"
+  },
+  {
+   "sum": 1.012,
+   "yes_ask": 0.018,
+   "no_ask": 0.994,
+   "yes_bid": 0.006,
+   "no_bid": 0.982,
+   "spread_pct": -1.2,
+   "liq": 7880.9983,
+   "q": "Will the price of Bitcoin be between $92,000 and $94,000 on October 7?"
+  }
+ ]
+}

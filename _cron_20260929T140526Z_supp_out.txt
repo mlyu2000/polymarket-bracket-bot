@@ -1,0 +1,4 @@
+🔍 [min-ask] Scan: 500 markets (83 priced) in 55.5s
+✅ BRACKETS (sum < 1.00): 0
+📊 Near-misses (≤1.005, best-ask): 1
+  1.001 | Yes@0.033 No@0.968 | liq=15279.84606 | Will the 5-year Treasury yield dip below 4.10% bef

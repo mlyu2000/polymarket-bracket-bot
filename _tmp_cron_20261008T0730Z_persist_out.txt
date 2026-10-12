@@ -1,0 +1,106 @@
+{
+ "run": "20261008T073543Z",
+ "ts": "2026-10-08T07:35:43Z",
+ "markets": 500,
+ "priced": 88,
+ "floor": 1.002,
+ "brackets_minask": 0,
+ "detector_opps": 0,
+ "band": 5,
+ "top8": [
+  {
+   "sum": 1.002,
+   "q": "CA Paranaense vs. CA Mineiro: O/U 7.5",
+   "yes": 0.006,
+   "no": 0.996,
+   "liq": 8108.38269
+  },
+  {
+   "sum": 1.003,
+   "q": "Exact Score: Ipswich Town FC 4 - 4 Fulham FC?",
+   "yes": 0.004,
+   "no": 0.999,
+   "liq": 27981.97379
+  },
+  {
+   "sum": 1.005,
+   "q": "Will US unemployment reach at least 6.0% in 2026?",
+   "yes": 0.009,
+   "no": 0.996,
+   "liq": 3185.09193
+  },
+  {
+   "sum": 1.005,
+   "q": "FC CFR 1907 Cluj vs. FC Universitatea Cluj: O/U 7.5",
+   "yes": 0.011,
+   "no": 0.994,
+   "liq": 4222.59988
+  },
+  {
+   "sum": 1.005,
+   "q": "Exact Score: West Ham United FC 0 - 3 Queens Park Rangers FC",
+   "yes": 0.008,
+   "no": 0.997,
+   "liq": 10064.1725
+  },
+  {
+   "sum": 1.006,
+   "q": "Exact Score: BV Borussia 09 Dortmund 0 - 3 SV Werder Bremen?",
+   "yes": 0.007,
+   "no": 0.999,
+   "liq": 5658.66463
+  },
+  {
+   "sum": 1.006,
+   "q": "Exact Score: Ipswich Town FC 5 - 2 Fulham FC?",
+   "yes": 0.007,
+   "no": 0.999,
+   "liq": 21640.46119
+  },
+  {
+   "sum": 1.007,
+   "q": "SE Palmeiras vs. EC Bahia: O/U 7.5",
+   "yes": 0.014,
+   "no": 0.993,
+   "liq": 7797.45591
+  }
+ ],
+ "band_rows": [
+  {
+   "sum": 1.002,
+   "q": "CA Paranaense vs. CA Mineiro: O/U 7.5",
+   "yes": 0.006,
+   "no": 0.996,
+   "liq": 8108.38269
+  },
+  {
+   "sum": 1.003,
+   "q": "Exact Score: Ipswich Town FC 4 - 4 Fulham FC?",
+   "yes": 0.004,
+   "no": 0.999,
+   "liq": 27981.97379
+  },
+  {
+   "sum": 1.005,
+   "q": "Will US unemployment reach at least 6.0% in 2026?",
+   "yes": 0.009,
+   "no": 0.996,
+   "liq": 3185.09193
+  },
+  {
+   "sum": 1.005,
+   "q": "FC CFR 1907 Cluj vs. FC Universitatea Cluj: O/U 7.5",
+   "yes": 0.011,
+   "no": 0.994,
+   "liq": 4222.59988
+  },
+  {
+   "sum": 1.005,
+   "q": "Exact Score: West Ham United FC 0 - 3 Queens Park Rangers FC",
+   "yes": 0.008,
+   "no": 0.997,
+   "liq": 10064.1725
+  }
+ ],
+ "scan_time_s": 47.2
+}

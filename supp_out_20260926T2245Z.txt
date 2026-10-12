@@ -1,0 +1,8 @@
+TRUE-BEST-ASK floor check: 120/500 markets priced
+Near-misses (best-ask sum <= 1.005): 6
+  1.001 | Yes@0.002 No@0.999 | liq=1196.85022 | Will Anders Dreyer win 2026 MLS Most Valuable Play
+  1.003 | Yes@0.007 No@0.996 | liq=14806.18232 | Spread: D.C. United SC (-2.5)
+  1.003 | Yes@0.004 No@0.999 | liq=12920.60368 | Will Jairo Palheta win the 2026 Amapá gubernatoria
+  1.004 | Yes@0.032 No@0.972 | liq=930.51397 | Exact Score: Boca Juniors de Cali 3 - 3 Boyaca Pat
+  1.005 | Yes@0.040 No@0.965 | liq=86327.90229 | Exact Score: Denmark 1 - 2 Wales?
+  1.005 | Yes@0.011 No@0.994 | liq=5324.13461 | Exact Score: Orange County SC 3 - 3 Pittsburgh Riv

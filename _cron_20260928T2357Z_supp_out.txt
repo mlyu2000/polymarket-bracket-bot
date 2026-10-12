@@ -1,0 +1,5 @@
+[min-ask corrected] 68/500 markets priced in 44.8s
+TRUE BRACKETS sum<1.000 (min best ask): 0
+Near-misses 1.000-1.005 (min best ask): 2
+  1.0010 | Yes@0.033 No@0.968 | liq=15587.7186 | Will the 5-year Treasury yield dip below 4.10% before 2027?
+  1.0010 | Yes@0.002 No@0.999 | liq=1168.02986 | Will the highest temperature in Guangzhou be 40°C or higher 

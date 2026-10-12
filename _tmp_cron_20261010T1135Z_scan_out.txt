@@ -1,0 +1,4 @@
+Scan: 500 markets in 49.6s
+BRACKETS (sum < 1.00): 0
+Near-misses (<=1.005 asks0): 0
+detector_opps_count=0 paper_executions=0

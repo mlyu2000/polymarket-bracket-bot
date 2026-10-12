@@ -1,0 +1,4 @@
+min-ask check: 500 markets in 46.2s; priced=82
+TRUE brackets (min-ask sum<1.00): 0
+Near-misses (1.000-1.005): 0
+Floor sum observed: 1.0090

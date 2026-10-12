@@ -1,0 +1,13 @@
+Supp (min-ask, correct best ask): 500 markets (90 priced) in 46.5s
+Brackets sum<1.000: 0
+Near-misses <=1.005: 2
+  1.001 | Yes@0.002 No@0.999 | liq=57141.81151 | Will Yehude Simón Munaro win the next Lima mayoral elections
+  1.005 | Yes@0.010 No@0.995 | liq=2913.1723 | Greece vs. Netherlands: Netherlands O/U 5.5
+  1.007 | Yes@0.011 No@0.996 | liq=1839.02368 | FK Austria Wien vs. FC Internazionale Milano: O/U 7.5
+  1.009 | Yes@0.010 No@0.999 | liq=2621.41608 | Azerbaijan vs. Liechtenstein: Liechtenstein O/U 2.5
+  1.009 | Yes@0.010 No@0.999 | liq=2912.52614 | Spread: CA Platense (-3.5)
+  1.009 | Yes@0.010 No@0.999 | liq=5561.65862 | Spread: Sporting Kansas City (-3.5)
+  1.010 | Yes@0.360 No@0.650 | liq=8088.4925 | Republic of Ireland vs. Austria: Republic of Ireland 1st Hal
+  1.010 | Yes@0.240 No@0.770 | liq=14580.6601 | Spread: Germany (-3.5)
+  1.010 | Yes@0.370 No@0.640 | liq=6482.7666 | Will Albirex Niigata win on 2026-10-03?
+  1.017 | Yes@0.020 No@0.997 | liq=55.9926 | Azerbaijan vs. Liechtenstein: Liechtenstein 1st Half O/U 1.5

@@ -1,0 +1,7 @@
+⏱ min-ask supplement: 500 markets in 44.1s | 84 with both asks
+🔴 TRUE BRACKETS (min-ask sum < 1.00): 0
+📊 min-ask near-misses (1.000–1.005): 3
+  1.0010 | Yes@0.033 No@0.968 | liq=9814.49649 | Will the 5-year Treasury yield dip below 4.10% before 2027?
+  1.0020 | Yes@0.136 No@0.866 | liq=553.89182 | Will China's annual inflation in 2026 be between 0.1% and 0.
+  1.0030 | Yes@0.006 No@0.997 | liq=49823.06443 | Georgia vs. Ukraine: O/U 7.5
+Floor (lowest min-ask sum): 1.0010 — Will the 5-year Treasury yield dip below 4.10% before 2027?

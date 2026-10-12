@@ -1,0 +1,5 @@
+[min-ask] markets=500 priced=96
+[min-ask] TRUE brackets (sum<1.000): 0
+[min-ask] near-misses (1.000-1.005): 2
+  1.0010 | Yes@0.002 No@0.999 | liq=62651.78692 | Will Yehude Simón Munaro win the next Lima mayoral
+  1.0040 | Yes@0.005 No@0.999 | liq=2518.20318 | Spread: CA Platense (-3.5)

@@ -1,0 +1,11 @@
+min-ask scan: 500 markets (104 priced) in 48.3s
+BRACKETS (detector, sum<1.00): 0
+Near-misses (<=1.005, true min-ask): 7
+  1.003 | Yes@0.006 No@0.997 | liq=30756.67268 | Exact Score: BV Borussia 09 Dortmund 0 - 3 SV Werd
+  1.003 | Yes@0.008 No@0.995 | liq=24412.77355 | Exact Score: West Ham United FC 0 - 3 Queens Park 
+  1.004 | Yes@0.008 No@0.996 | liq=3379.82896 | Will US unemployment reach at least 6.0% in 2026?
+  1.005 | Yes@0.009 No@0.996 | liq=14249.16592 | CA Paranaense vs. CA Mineiro: O/U 7.5
+  1.005 | Yes@0.007 No@0.998 | liq=5285.84681 | Exact Score: BV Borussia 09 Dortmund 2 - 4 SV Werd
+  1.005 | Yes@0.009 No@0.996 | liq=8858.21346 | Exact Score: Montpellier HSC 0 - 3 Grenoble Foot 3
+  1.005 | Yes@0.010 No@0.995 | liq=3282.88374 | Kashiwa Reysol vs. Vissel Kōbe: O/U 7.5
+True floor across priced markets: 1.003

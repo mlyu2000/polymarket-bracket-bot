@@ -1,0 +1,5 @@
+min-ask check: 500 markets in 44.8s
+TRUE BRACKETS (best-ask sum < 1.00): 0
+NEAR-MISS (sum in [1.00, 1.005]): 1
+  sum=1.0040 | Yes@0.007 No@0.997 | liq=3470.2475 | Will US unemployment reach at least 6.0% in 2026?
+priced=88 floor=1.0040

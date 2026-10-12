@@ -1,0 +1,9 @@
+SCANmarkets=500 scan_time=50.1s
+BRACKETS=0
+NEARVERBATIM(asks0)=0
+NEARMIN(<=1.005)=4
+  1.0020 yes@0.004 no@0.998 liq=1589.56468 | Will the highest temperature in Qingdao be 24°C on
+  1.0030 yes@0.006 no@0.997 liq=3595.59675 | Will US unemployment reach at least 6.0% in 2026?
+  1.0040 yes@0.008 no@0.996 liq=2551.62683 | Exact Score: BV Borussia 09 Dortmund 0 - 3 SV Werd
+  1.0040 yes@0.009 no@0.995 liq=1994.00422 | Will the highest temperature in Austin be between 
+FLOOR min-ask sum=1.0020 yes@0.004 no@0.998 liq=1589.56468 | Will the highest temperature in Qingdao be 24°C on

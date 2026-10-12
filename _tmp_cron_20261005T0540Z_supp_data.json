@@ -1,0 +1,272 @@
+[
+ {
+  "total": 1.003,
+  "q": "Will US unemployment reach at least 6.0% in 2026?",
+  "yes": 0.006,
+  "no": 0.997,
+  "liq": 4047.96911,
+  "yes_size": 302,
+  "no_size": 1562
+ },
+ {
+  "total": 1.004,
+  "q": "Exact Score: BV Borussia 09 Dortmund 0 - 3 SV Werder Bremen?",
+  "yes": 0.008,
+  "no": 0.996,
+  "liq": 2506.74583,
+  "yes_size": 300,
+  "no_size": 18
+ },
+ {
+  "total": 1.006,
+  "q": "Exact Score: Ipswich Town FC 0 - 5 Fulham FC?",
+  "yes": 0.008,
+  "no": 0.998,
+  "liq": 2245.33459,
+  "yes_size": 310,
+  "no_size": 14085
+ },
+ {
+  "total": 1.006,
+  "q": "Exact Score: Lille OSC 1 - 3 Le Havre AC?",
+  "yes": 0.014,
+  "no": 0.992,
+  "liq": 1257.03365,
+  "yes_size": 100,
+  "no_size": 795
+ },
+ {
+  "total": 1.009,
+  "q": "Exact Score: TSG 1899 Hoffenheim 5 - 3 Hamburger SV?",
+  "yes": 0.01,
+  "no": 0.999,
+  "liq": 1831.54459,
+  "yes_size": 310,
+  "no_size": 5
+ },
+ {
+  "total": 1.009,
+  "q": "Will the highest temperature in Dallas be 69\u00b0F or below on O",
+  "yes": 0.01,
+  "no": 0.999,
+  "liq": 3370.42897,
+  "yes_size": 791,
+  "no_size": 79
+ },
+ {
+  "total": 1.01,
+  "q": "Chicago Fire FC vs. Vancouver Whitecaps FC: Vancouver Whitec",
+  "yes": 0.03,
+  "no": 0.98,
+  "liq": 619.90151,
+  "yes_size": 9,
+  "no_size": 5
+ },
+ {
+  "total": 1.01,
+  "q": "Spread: Boise State (-6.5)",
+  "yes": 0.48,
+  "no": 0.53,
+  "liq": 7609.5108,
+  "yes_size": 9,
+  "no_size": 530
+ },
+ {
+  "total": 1.012,
+  "q": "Exact Score: AS Monaco FC 4 - 3 Toulouse FC?",
+  "yes": 0.013,
+  "no": 0.999,
+  "liq": 1699.20699,
+  "yes_size": 310,
+  "no_size": 5
+ },
+ {
+  "total": 1.012,
+  "q": "Exact Score: Racing Club de Lens 5 - 2 Olympique Lyonnais?",
+  "yes": 0.013,
+  "no": 0.999,
+  "liq": 1508.76645,
+  "yes_size": 210,
+  "no_size": 28
+ },
+ {
+  "total": 1.013,
+  "q": "Exact Score: Club Nacional de Football 1 - 4 Montevideo City",
+  "yes": 0.019,
+  "no": 0.994,
+  "liq": 9675.68586,
+  "yes_size": 130,
+  "no_size": 1730
+ },
+ {
+  "total": 1.02,
+  "q": "Spread: Uruguay (-4.5)",
+  "yes": 0.38,
+  "no": 0.64,
+  "liq": 109.2498,
+  "yes_size": 30,
+  "no_size": 5
+ },
+ {
+  "total": 1.02,
+  "q": "Stade Rennais FC 1901 vs. AJ Auxerre: Both Teams to Score",
+  "yes": 0.59,
+  "no": 0.43,
+  "liq": 8917.8005,
+  "yes_size": 483,
+  "no_size": 390
+ },
+ {
+  "total": 1.03,
+  "q": "Cuba vs. St. Kitts and Nevis: St. Kitts and Nevis O/U 1.5",
+  "yes": 0.36,
+  "no": 0.67,
+  "liq": 1070.127,
+  "yes_size": 5,
+  "no_size": 75
+ },
+ {
+  "total": 1.03,
+  "q": "OGC Nice vs. RC Strasbourg Alsace: Both Teams to Score",
+  "yes": 0.61,
+  "no": 0.42,
+  "liq": 6116.0377,
+  "yes_size": 676,
+  "no_size": 737
+ },
+ {
+  "total": 1.03,
+  "q": "Will Eintracht Braunschweig win on 2026-10-09?",
+  "yes": 0.36,
+  "no": 0.67,
+  "liq": 5767.729,
+  "yes_size": 880,
+  "no_size": 305
+ },
+ {
+  "total": 1.03,
+  "q": "Will Maccabi Petah Tikva FC win on 2026-10-10?",
+  "yes": 0.29,
+  "no": 0.74,
+  "liq": 1583.2897,
+  "yes_size": 9,
+  "no_size": 35
+ },
+ {
+  "total": 1.03,
+  "q": "Will USD/JPY hit 190 (High) in 2026?",
+  "yes": 0.07,
+  "no": 0.96,
+  "liq": 349.2677,
+  "yes_size": 13,
+  "no_size": 25
+ },
+ {
+  "total": 1.031,
+  "q": "Will the price of Bitcoin be between $92,000 and $94,000 on ",
+  "yes": 0.032,
+  "no": 0.999,
+  "liq": 7515.77372,
+  "yes_size": 5058,
+  "no_size": 6385
+ },
+ {
+  "total": 1.038,
+  "q": "Exact Score: BV Borussia 09 Dortmund 4 - 4 SV Werder Bremen?",
+  "yes": 0.039,
+  "no": 0.999,
+  "liq": 1058.02693,
+  "yes_size": 300,
+  "no_size": 28
+ },
+ {
+  "total": 1.038,
+  "q": "Exact Score: Racing Club de Lens 4 - 4 Olympique Lyonnais?",
+  "yes": 0.039,
+  "no": 0.999,
+  "liq": 1253.79859,
+  "yes_size": 200,
+  "no_size": 28
+ },
+ {
+  "total": 1.039,
+  "q": "Exact Score: Montpellier HSC 4 - 4 Grenoble Foot 38?",
+  "yes": 0.04,
+  "no": 0.999,
+  "liq": 745.11554,
+  "yes_size": 5,
+  "no_size": 33
+ },
+ {
+  "total": 1.04,
+  "q": "Will the Denver Broncos have more than 8.5 wins during the 2",
+  "yes": 0.72,
+  "no": 0.32,
+  "liq": 211.0277,
+  "yes_size": 300,
+  "no_size": 40
+ },
+ {
+  "total": 1.041,
+  "q": "Exact Score: Montpellier HSC 3 - 3 Grenoble Foot 38?",
+  "yes": 0.042,
+  "no": 0.999,
+  "liq": 336.13984,
+  "yes_size": 5,
+  "no_size": 5
+ },
+ {
+  "total": 1.041,
+  "q": "Exact Score: West Ham United FC 4 - 4 Queens Park Rangers FC",
+  "yes": 0.042,
+  "no": 0.999,
+  "liq": 972.45845,
+  "yes_size": 100,
+  "no_size": 33
+ },
+ {
+  "total": 1.041,
+  "q": "Will Atlanta Falcons finish the 2026-27 NFL regular season w",
+  "yes": 0.042,
+  "no": 0.999,
+  "liq": 193.11601,
+  "yes_size": 80,
+  "no_size": 5
+ },
+ {
+  "total": 1.041,
+  "q": "Will Carolina Panthers finish the 2026-27 NFL regular season",
+  "yes": 0.042,
+  "no": 0.999,
+  "liq": 193.10801,
+  "yes_size": 80,
+  "no_size": 5
+ },
+ {
+  "total": 1.041,
+  "q": "Will Cleveland Browns finish the 2026-27 NFL regular season ",
+  "yes": 0.042,
+  "no": 0.999,
+  "liq": 192.895,
+  "yes_size": 80,
+  "no_size": 5
+ },
+ {
+  "total": 1.041,
+  "q": "Will Denver Broncos finish the 2026-27 NFL regular season wi",
+  "yes": 0.042,
+  "no": 0.999,
+  "liq": 192.996,
+  "yes_size": 80,
+  "no_size": 5
+ },
+ {
+  "total": 1.041,
+  "q": "Will Houston Texans finish the 2026-27 NFL regular season wi",
+  "yes": 0.042,
+  "no": 0.999,
+  "liq": 194.2938,
+  "yes_size": 80,
+  "no_size": 5
+ }
+]

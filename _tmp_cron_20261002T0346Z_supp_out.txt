@@ -1,0 +1,14 @@
+Best-ask floor scan: 500 markets, 67 with both-side asks, 47.1s
+Lowest 10 Yes+No best-ask sums:
+  1.0100 | Yes@0.0120 No@0.9980 | liq=3760.21136 | Exact Score: Helmond Sport 3 - 0 Heracles Almelo?
+  1.0100 | Yes@0.5400 No@0.4700 | liq=16130.0571 | Game Spread: Ekaterina Alexandrova (-1.5) vs Aliaksandr
+  1.0120 | Yes@0.0320 No@0.9800 | liq=2731.63554 | AD Cali vs. Alianza FC: O/U 8.5
+  1.0190 | Yes@0.0200 No@0.9990 | liq=7046.45122 | Exact Score: Helmond Sport 4 - 2 Heracles Almelo?
+  1.0190 | Yes@0.2110 No@0.8080 | liq=3190.4557 | Will Fabian Ruiz finish in the top 5 of the 2026 Ballon
+  1.0200 | Yes@0.4700 No@0.5500 | liq=3593.3306 | Martinique vs. Honduras: Honduras O/U 1.5
+  1.0200 | Yes@0.6000 No@0.4200 | liq=965.3447 | NVIDIA (NVDA) Up or Down on October 2?
+  1.0200 | Yes@0.3000 No@0.7200 | liq=8034.424 | Will Côte d'Ivoire vs. Cameroon end in a draw?
+  1.0210 | Yes@0.0220 No@0.9990 | liq=8053.16209 | Exact Score: Helmond Sport 5 - 1 Heracles Almelo?
+  1.0240 | Yes@0.0350 No@0.9890 | liq=2679.73613 | Gemini 4.0 released by October 5, 2026?
+TRUE BRACKETS (best-ask sum < 1.000): 0
+Near-misses (1.000-1.005, best-ask): 0

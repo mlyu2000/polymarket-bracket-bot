@@ -1,0 +1,10 @@
+🔍 MIN-ASK Scan: 500 markets (116 priced) in 48.6s
+✅ Detector BRACKETS: 0
+🔧 Raw min-ask brackets (sum<1.00, any guard): 0
+📊 Best min-ask totals (top 8):
+  1.0030 | Yes@0.004 No@0.999 | liq=27023.68979 | Exact Score: Ipswich Town FC 4 - 4 Fulham FC?
+  1.0040 | Yes@0.009 No@0.995 | liq=4259.4321 | Cruzeiro EC vs. São Paulo FC: O/U 7.5
+  1.0050 | Yes@0.008 No@0.997 | liq=18040.08845 | Exact Score: Ipswich Town FC 0 - 5 Fulham FC?
+  1.0050 | Yes@0.009 No@0.996 | liq=14039.65095 | Exact Score: Ipswich Town FC 3 - 4 Fulham FC?
+  1.0050 | Yes@0.008 No@0.997 | liq=17765.73806 | Exact Score: Ipswich Town FC 5 - 1 Fulham FC?
+  1.0050 | Yes@0.008 No@0.997 | liq=8575.49832 | Exact Score: West Ham United FC 0 - 3 Queens Park 

@@ -1,0 +1,8 @@
+priced markets: 56
+TRUE brackets (min-ask sum < 1.0): 0
+top 5 best sums (min-ask):
+  1.0050 | Yes@0.009 No@0.996 | liq=1809.58635 | Clermont Foot 63 vs. Red Star FC: O/U 7.5
+  1.0050 | Yes@0.010 No@0.995 | liq=12505.59694 | Kyōto Sanga FC vs. FC Machida Zelvia: O/U 7.5
+  1.0050 | Yes@0.012 No@0.993 | liq=8017.5391 | South Melbourne FC vs. Melbourne Victory FC: O/U 7.5
+  1.0060 | Yes@0.010 No@0.996 | liq=1836.21393 | FK Chornomorets Odesa vs. FK Kharkiv: O/U 7.5
+  1.0060 | Yes@0.012 No@0.994 | liq=2052.70835 | Falkirk FC vs. Dundee FC: O/U 7.5

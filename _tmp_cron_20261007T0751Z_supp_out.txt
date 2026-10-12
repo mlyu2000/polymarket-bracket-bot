@@ -1,0 +1,5 @@
+min-ask check over 500 markets in 48.7s (books missing asks: 399)
+TRUE near-misses (min-ask sum <=1.005): 3
+  1.003 | YesMin@0.004 NoMin@0.999 (ask0 0.999/0.999) | liq=6940.40868 | Cruzeiro EC vs. São Paulo FC: O/U 8.5
+  1.005 | YesMin@0.009 NoMin@0.996 (ask0 0.999/0.999) | liq=5143.30709 | Cruzeiro EC vs. São Paulo FC: O/U 7.5
+  1.005 | YesMin@0.008 NoMin@0.997 (ask0 0.999/0.999) | liq=8276.23972 | Exact Score: West Ham United FC 0 - 3 Queens Park Range

@@ -1,0 +1,7 @@
+priced markets (liq>0, both asks): 65
+best floor seen: sum=1.0010 | Yes@0.002 No@0.999 | liq=56939 | Will Pepa Millán be the next Prime Minister of Spain?
+near-misses (<=1.005, best-ask): 4
+  1.0010 | Yes@0.002 No@0.999 | liq=56939 | Will Pepa Millán be the next Prime Minister of Spain?
+  1.0010 | Yes@0.004 No@0.997 | liq=2956 | Will US unemployment reach at least 6.0% in 2026?
+  1.0030 | Yes@0.009 No@0.994 | liq=4947 | Exact Score: Albirex Niigata 3 - 3 Tokushima Vortis?
+  1.0040 | Yes@0.005 No@0.999 | liq=3743 | Ōita Trinita vs. Montedio Yamagata: O/U 8.5

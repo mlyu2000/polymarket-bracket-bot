@@ -1,0 +1,4 @@
+🔍 Scan: 500 markets in 49.5s
+✅ BRACKETS (sum < 1.00): 0
+📊 Near-misses (≤1.005): 0
+PAPER: {'attempts': 0, 'both_filled': 0, 'one_leg': 0, 'neither': 0, 'unwind': 0, 'total_pnl': 0.0}

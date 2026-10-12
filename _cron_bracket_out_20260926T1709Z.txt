@@ -1,0 +1,7 @@
+🔍 Scan: 500 markets in 48.9s
+✅ BRACKETS (sum < 1.00): 0
+📊 Near-misses (≤1.005): 4
+  1.001 | Yes@0.002 No@0.999 | liq=1231.98895 | Will Anders Dreyer win 2026 MLS Most Valuable Play
+  1.003 | Yes@0.010 No@0.993 | liq=9055.57618 | Exact Score: Boca Juniors de Cali 3 - 3 Boyaca Pat
+  1.003 | Yes@0.007 No@0.996 | liq=3330.54708 | Exact Score: CA Estudiantes 2 - 3 CA San Miguel?
+  1.003 | Yes@0.004 No@0.999 | liq=15431.69943 | Will Jairo Palheta win the 2026 Amapá gubernatoria

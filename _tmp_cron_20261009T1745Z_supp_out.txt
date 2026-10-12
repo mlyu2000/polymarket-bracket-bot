@@ -1,0 +1,15 @@
+SUPP best-ask scan: 500 markets, 60 priced, 440 skipped, 47.5s
+--- TRUE best-ask sums <= 1.005 (near-misses) ---
+  1.0050 | Yes@0.012 No@0.993 | liq=12487 | FC Sochaux-Montbéliard vs. US Boulogne Côte d'Opale: O/U 6.5
+  1.0050 | Yes@0.006 No@0.999 | liq=4937 | Gimnasia y Esgrima de La Plata vs. CA Tucumán: O/U 7.5
+  1.0050 | Yes@0.010 No@0.995 | liq=3672 | Kyōto Sanga FC vs. FC Machida Zelvia: O/U 7.5
+near-miss total count: 3
+--- 8 lowest best-ask sums overall ---
+  1.0050 | Yes@0.012 No@0.993 | liq=12487 | FC Sochaux-Montbéliard vs. US Boulogne Côte d'Opale: O/U 6.5
+  1.0050 | Yes@0.006 No@0.999 | liq=4937 | Gimnasia y Esgrima de La Plata vs. CA Tucumán: O/U 7.5
+  1.0050 | Yes@0.010 No@0.995 | liq=3672 | Kyōto Sanga FC vs. FC Machida Zelvia: O/U 7.5
+  1.0060 | Yes@0.010 No@0.996 | liq=1618 | FK Chornomorets Odesa vs. FK Kharkiv: O/U 7.5
+  1.0060 | Yes@0.013 No@0.993 | liq=1489 | South Melbourne FC vs. Melbourne Victory FC: O/U 7.5
+  1.0100 | Yes@0.720 No@0.290 | liq=17409 | AS Nancy-Lorraine vs. En Avant Guingamp: 1st Half O/U 0.5
+  1.0100 | Yes@0.080 No@0.930 | liq=17144 | Exact Score: Alianza FC 1 - 2 Águilas Doradas Rionegro?
+  1.0100 | Yes@0.170 No@0.840 | liq=90101 | Kent State vs. Western Michigan

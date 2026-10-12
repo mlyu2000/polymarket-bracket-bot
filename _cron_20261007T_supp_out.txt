@@ -1,0 +1,10 @@
+minask scan: 500 markets, 108 priced, 49.5s
+TRUE sum<1.00 (best asks): 0
+TRUE near-miss 1.00<=sum<=1.005: 6
+  1.0040 | Yes@0.007 No@0.997 | liq=3392.80602 | Will US unemployment reach at least 6.0% in 2026?
+  1.0050 | Yes@0.009 No@0.996 | liq=5119.34717 | Cruzeiro EC vs. São Paulo FC: O/U 7.5
+  1.0050 | Yes@0.008 No@0.997 | liq=17155.33784 | Exact Score: Ipswich Town FC 0 - 5 Fulham FC?
+  1.0050 | Yes@0.009 No@0.996 | liq=12998.16057 | Exact Score: Ipswich Town FC 3 - 4 Fulham FC?
+  1.0050 | Yes@0.009 No@0.996 | liq=14507.96836 | Exact Score: Ipswich Town FC 4 - 3 Fulham FC?
+  1.0050 | Yes@0.008 No@0.997 | liq=17595.33205 | Exact Score: Ipswich Town FC 5 - 1 Fulham FC?
+Global best-ask floor: 1.0040 | Will US unemployment reach at least 6.0% in 2026?

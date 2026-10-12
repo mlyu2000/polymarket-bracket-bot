@@ -1,0 +1,7 @@
+🔍 Scan: 500 markets in 46.3s
+✅ BRACKETS (sum < 1.00): 0
+📊 Near-misses (≤1.005, verbatim asks[0]): 0
+📊 Near-misses (≤1.005, best-ask min()): 2
+  1.0010 | Yes@0.049 No@0.952 | liq=24244.47728 | Will Lauren Boebert resign by October 31, 2026?
+  1.0010 | Yes@0.004 No@0.997 | liq=5115.05639 | Will US unemployment reach at least 6.0% in 2026?
+⚠️ Sub-1.000 best-ask pairs filtered by detector guards: 0

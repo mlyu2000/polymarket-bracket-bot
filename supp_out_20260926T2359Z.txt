@@ -1,0 +1,13 @@
+priced markets: 140
+TOP5 best ask[0] sums:
+  1.3800 | Crusaders FC vs. Bangor FC: Crusaders FC O/U 1.5
+  1.6160 | Cheltenham Town FC vs. Chesterfield FC: Chesterfield FC O/U 
+  1.7570 | York City FC vs. Gillingham FC: Gillingham FC O/U 4.5
+  1.9300 | Spread: RCD Mallorca (-1.5)
+  1.9640 | Swindon Town FC vs. Accrington Stanley FC: Accrington Stanle
+TOP5 best min-ask sums:
+  1.0010 | Will Anders Dreyer win 2026 MLS Most Valuable Player?
+  1.0010 | Will Elon Musk post 360-379 tweets from September 29 to Octo
+  1.0030 | Exact Score: Boca Juniors de Cali 3 - 3 Boyaca Patriotas?
+  1.0030 | Exact Score: CA Penarol Montevideo 2 - 3 CA Boston River?
+  1.0030 | Exact Score: Deportivo Madryn 0 - 3 CA Central Norte Salta?

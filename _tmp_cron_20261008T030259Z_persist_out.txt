@@ -1,0 +1,106 @@
+{
+ "run": "20261008T030521Z",
+ "ts": "2026-10-08T03:05:21Z",
+ "markets": 500,
+ "priced": 101,
+ "floor": 1.002,
+ "brackets_minask": 0,
+ "detector_opps": 0,
+ "band": 5,
+ "top8": [
+  {
+   "sum": 1.002,
+   "q": "CA Paranaense vs. CA Mineiro: O/U 7.5",
+   "yes": 0.006,
+   "no": 0.996,
+   "liq": 8825.15455
+  },
+  {
+   "sum": 1.005,
+   "q": "Exact Score: West Ham United FC 0 - 3 Queens Park Rangers FC",
+   "yes": 0.008,
+   "no": 0.997,
+   "liq": 9786.0904
+  },
+  {
+   "sum": 1.005,
+   "q": "Exact Score: Ipswich Town FC 0 - 5 Fulham FC?",
+   "yes": 0.008,
+   "no": 0.997,
+   "liq": 19190.7992
+  },
+  {
+   "sum": 1.005,
+   "q": "Exact Score: Ipswich Town FC 5 - 1 Fulham FC?",
+   "yes": 0.008,
+   "no": 0.997,
+   "liq": 18915.79094
+  },
+  {
+   "sum": 1.005,
+   "q": "Exact Score: Ipswich Town FC 3 - 4 Fulham FC?",
+   "yes": 0.009,
+   "no": 0.996,
+   "liq": 15207.929
+  },
+  {
+   "sum": 1.006,
+   "q": "Will US unemployment reach at least 6.0% in 2026?",
+   "yes": 0.009,
+   "no": 0.997,
+   "liq": 3192.52159
+  },
+  {
+   "sum": 1.006,
+   "q": "FC CFR 1907 Cluj vs. FC Universitatea Cluj: O/U 7.5",
+   "yes": 0.012,
+   "no": 0.994,
+   "liq": 4769.03051
+  },
+  {
+   "sum": 1.006,
+   "q": "Exact Score: BV Borussia 09 Dortmund 0 - 3 SV Werder Bremen?",
+   "yes": 0.007,
+   "no": 0.999,
+   "liq": 8142.1665
+  }
+ ],
+ "band_rows": [
+  {
+   "sum": 1.002,
+   "q": "CA Paranaense vs. CA Mineiro: O/U 7.5",
+   "yes": 0.006,
+   "no": 0.996,
+   "liq": 8825.15455
+  },
+  {
+   "sum": 1.005,
+   "q": "Exact Score: West Ham United FC 0 - 3 Queens Park Rangers FC",
+   "yes": 0.008,
+   "no": 0.997,
+   "liq": 9786.0904
+  },
+  {
+   "sum": 1.005,
+   "q": "Exact Score: Ipswich Town FC 0 - 5 Fulham FC?",
+   "yes": 0.008,
+   "no": 0.997,
+   "liq": 19190.7992
+  },
+  {
+   "sum": 1.005,
+   "q": "Exact Score: Ipswich Town FC 5 - 1 Fulham FC?",
+   "yes": 0.008,
+   "no": 0.997,
+   "liq": 18915.79094
+  },
+  {
+   "sum": 1.005,
+   "q": "Exact Score: Ipswich Town FC 3 - 4 Fulham FC?",
+   "yes": 0.009,
+   "no": 0.996,
+   "liq": 15207.929
+  }
+ ],
+ "scan_time_s": 76.0
+}

@@ -1,0 +1,12 @@
+[min-ask supplement] 500 markets in 46.1s, 84 priced
+true brackets sum<1.000: 0
+lowest 8 true sums:
+  1.0010 | Yes@0.033 No@0.968 | liq=9829.66252 | Will the 5-year Treasury yield dip below 4.10% before 2027?
+  1.0020 | Yes@0.136 No@0.866 | liq=546.27431 | Will China's annual inflation in 2026 be between 0.1% and 0.
+  1.0030 | Yes@0.006 No@0.997 | liq=49847.71201 | Georgia vs. Ukraine: O/U 7.5
+  1.0060 | Yes@0.007 No@0.999 | liq=8203.55753 | Guadeloupe vs. Barbados: O/U 7.5
+  1.0080 | Yes@0.009 No@0.999 | liq=788.56769 | Will Khamenei post 40-44 posts from September 29 to October 
+  1.0090 | Yes@0.010 No@0.999 | liq=2908.76567 | Jamaica vs. Honduras: O/U 8.5
+  1.0090 | Yes@0.010 No@0.999 | liq=6130.01378 | Spread: América FC (-3.5)
+  1.0100 | Yes@0.390 No@0.620 | liq=771.9986 | Will any player have 1,750+ receiving yards in the 2026-27 N
+near-misses (<=1.005): 3

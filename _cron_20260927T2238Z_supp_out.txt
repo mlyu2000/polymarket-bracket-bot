@@ -1,0 +1,7 @@
+Supp(best-ask): 500 markets (66 priced) in 46.3s
+BRACKETS (net_edge>=threshold via detector): 0
+Near-misses best-ask sum<=1.005: 4
+  1.0010 | Yes@0.002 No@0.999 | liq=718.75415 | Will Anders Dreyer win 2026 MLS Most Valuable Player?
+  1.0020 | Yes@0.136 No@0.866 | liq=540.47798 | Will China's annual inflation in 2026 be between 0.1% and 0.
+  1.0020 | Yes@0.033 No@0.969 | liq=9652.86477 | Will the 5-year Treasury yield dip below 4.10% before 2027?
+  1.0030 | Yes@0.004 No@0.999 | liq=8705.79284 | Will Jairo Palheta win the 2026 Amapá gubernatorial election

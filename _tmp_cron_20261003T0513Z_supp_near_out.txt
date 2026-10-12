@@ -1,0 +1,6 @@
+priced markets (liq>0, both asks): 62
+near-misses (<=1.005, best-ask): 4
+  1.0010 | Yes@0.002 No@0.999 | liq=61994 | passMINLIQ=True | Will Pepa Millán be the next Prime Minister of Spain?
+  1.0010 | Yes@0.004 No@0.997 | liq=2944 | passMINLIQ=True | Will US unemployment reach at least 6.0% in 2026?
+  1.0040 | Yes@0.005 No@0.999 | liq=3862 | passMINLIQ=True | Avaí FC vs. Ceará SC: O/U 7.5
+  1.0040 | Yes@0.005 No@0.999 | liq=3729 | passMINLIQ=True | Ōita Trinita vs. Montedio Yamagata: O/U 8.5

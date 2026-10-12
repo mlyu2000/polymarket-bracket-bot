@@ -1,0 +1,9 @@
+MARKETS=500 PRICED=76 ELAPSED=49.6s
+FLOOR_SUM=1.0020 :: Will US unemployment reach at least 6.0% in 2026?
+BRACKETS=0
+NEAR_MISSES_LE_1.005=5
+  1.0020 Y@0.005 N@0.997 LIQ=4079.49495 :: Will US unemployment reach at least 6.0% in 2026?
+  1.0040 Y@0.005 N@0.999 LIQ=2174.38569 :: CA Cerro vs. Montevideo Wanderers: O/U 8.5
+  1.0040 Y@0.012 N@0.992 LIQ=2331.42093 :: CD Castellón vs. AD Ceuta FC: AD Ceuta FC O/U 3.5
+  1.0050 Y@0.009 N@0.996 LIQ=2098.63377 :: Exact Score: BV Borussia 09 Dortmund 0 - 3 SV Werder Bremen?
+  1.0050 Y@0.010 N@0.995 LIQ=8271.7577 :: Real Sporting de Gijón vs. Celta Fortuna: O/U 7.5

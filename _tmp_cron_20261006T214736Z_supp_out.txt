@@ -1,0 +1,5 @@
+min-ask floor check: 3 markets with best-ask sum <= 1.005 (of 91 priced)
+global floor sum = 1.003; 5 lowest = ['1.003', '1.003', '1.004', '1.007', '1.008']
+  [M] 1.003 | Yes@0.008 No@0.995 | liq=3933.8131 | Antigua and Barbuda vs. Aruba: O/U 7.5
+  [M] 1.003 | Yes@0.006 No@0.997 | liq=3559.95158 | Will US unemployment reach at least 6.0% in 2026?
+  [M] 1.004 | Yes@0.031 No@0.973 | liq=55724.05443 | Exact Score: SC Recife 3 - 2 São Bernardo FC?

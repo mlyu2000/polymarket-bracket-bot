@@ -1,0 +1,17 @@
+Markets with both-side asks: 96
+True floor (min-ask best sum, top 10):
+  1.0020 | Yes@0.005 No@0.997 | liq=4061.29748 | Will US unemployment reach at least 6.0% in 2026?
+  1.0030 | Yes@0.004 No@0.999 | liq=1350.68064 | Will the highest temperature in Tel Aviv be 33°C on October 
+  1.0050 | Yes@0.009 No@0.996 | liq=2464.40281 | Exact Score: BV Borussia 09 Dortmund 0 - 3 SV Werder Bremen?
+  1.0060 | Yes@0.009 No@0.997 | liq=3089.03506 | CA Bucaramanga vs. CDP Junior FC: O/U 7.5
+  1.0060 | Yes@0.010 No@0.996 | liq=10545.11651 | Real Sporting de Gijón vs. Celta Fortuna: O/U 7.5
+  1.0090 | Yes@0.010 No@0.999 | liq=1834.57205 | Atletico de Rafaela vs. CA Atlanta: O/U 8.5
+  1.0090 | Yes@0.010 No@0.999 | liq=2588.25977 | CA Central Norte Salta vs. CA Racing de Cordoba: O/U 8.5
+  1.0090 | Yes@0.010 No@0.999 | liq=1638.39133 | CA Cerro vs. Montevideo Wanderers: O/U 8.5
+  1.0090 | Yes@0.010 No@0.999 | liq=1390.36641 | San Martin de San Juan vs. Club Almagro: O/U 8.5
+  1.0100 | Yes@0.030 No@0.980 | liq=644.06269 | Chicago Fire FC vs. Vancouver Whitecaps FC: Vancouver Whitec
+Near-miss count (<=1.005, min-ask): 3
+  1.0020 | Yes@0.005 No@0.997 | liq=4061.29748 | Will US unemployment reach at least 6.0% in 2026?
+  1.0030 | Yes@0.004 No@0.999 | liq=1350.68064 | Will the highest temperature in Tel Aviv be 33°C on October 
+  1.0050 | Yes@0.009 No@0.996 | liq=2464.40281 | Exact Score: BV Borussia 09 Dortmund 0 - 3 SV Werder Bremen?
+Count <=1.010: 11

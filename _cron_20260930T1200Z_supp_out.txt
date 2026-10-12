@@ -1,0 +1,7 @@
+min-ask scan: 500 markets in 48.9s
+BRACKETS sum<1.000 (min-ask, liq>0): 0
+Near-misses <=1.005 (min-ask): 3
+  1.0010 | Yes@0.002 No@0.999 | liq=26680.71339 | Will Yehude Simón Munaro win the next Lima mayoral elec
+  1.0010 | Yes@0.002 No@0.999 | liq=1920.34102 | Will the highest temperature in Chengdu be 30°C on Octo
+  1.0020 | Yes@0.033 No@0.969 | liq=14222.34321 | Will the 5-year Treasury yield dip below 4.10% before 2
+floor sums (best 5 across all liq): ['1.001', '1.001', '1.002', '1.005', '1.005']

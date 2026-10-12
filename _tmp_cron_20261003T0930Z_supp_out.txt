@@ -1,0 +1,7 @@
+⏱  supp scan 48.2s | priced books: 58/500
+✅ TRUE BRACKETS (best-ask sum < 1.00): 0
+📊 TRUE Near-misses (1.000 < sum <= 1.005): 3
+  1.0010 | Yes@0.002 No@0.999 | liq=50535.70247 | Will Pepa Millán be the next Prime Minister of Spa
+  1.0010 | Yes@0.004 No@0.997 | liq=2893.79893 | Will US unemployment reach at least 6.0% in 2026?
+  1.0040 | Yes@0.005 No@0.999 | liq=3062.59014 | Avaí FC vs. Ceará SC: O/U 7.5
+floor check: min_sums reported above; near-miss threshold 1.005

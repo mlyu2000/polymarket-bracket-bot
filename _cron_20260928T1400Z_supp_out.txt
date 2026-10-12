@@ -1,0 +1,14 @@
+Supp best-ask scan: 500 markets, 75 with both asks, in 49.6s
+TRUE best-ask sums < 1.00: 0
+Best-ask near-misses (1.000 < sum <= 1.005): 2
+Top 10 lowest sums overall:
+  1.0010 | Yes@0.033 No@0.968 | liq=9841.14049 | Will the 5-year Treasury yield dip below 4.10% before 2027?
+  1.0030 | Yes@0.006 No@0.997 | liq=47455.19645 | Georgia vs. Ukraine: O/U 7.5
+  1.0060 | Yes@0.007 No@0.999 | liq=6464.70265 | Guadeloupe vs. Barbados: O/U 7.5
+  1.0080 | Yes@0.009 No@0.999 | liq=538.44469 | Will Khamenei post 40-44 posts from September 29 to October 
+  1.0090 | Yes@0.010 No@0.999 | liq=3009.24413 | Jamaica vs. Honduras: O/U 8.5
+  1.0090 | Yes@0.010 No@0.999 | liq=5924.95123 | Spread: América FC (-3.5)
+  1.0090 | Yes@0.011 No@0.998 | liq=576.99413 | Will Netflix, Inc. (NFLX) hit (HIGH) $105 in September?
+  1.0100 | Yes@0.510 No@0.500 | liq=8030.0585 | Spread: Turkmenistan (-5.5)
+  1.0100 | Yes@0.390 No@0.620 | liq=1810.5884 | Will any player have 1,750+ receiving yards in the 2026-27 N
+  1.0290 | Yes@0.030 No@0.999 | liq=2305.99683 | Exact Score: FC Tulsa 5 - 1 New Mexico United?

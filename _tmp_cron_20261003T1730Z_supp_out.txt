@@ -1,0 +1,15 @@
+best-ask floor: 1.0060 (Exact Score: Santa Cruz FC PE 3 - 3 Maringa FC PR?)
+markets=500 priced=58
+count sum<=1.000: 0
+count sum<=1.001: 0
+count sum<=1.005: 0
+count sum<=1.010: 4
+top-8 best-ask totals:
+  1.0060 | Yes@0.008 No@0.998 | liq=36439.75724 | Exact Score: Santa Cruz FC PE 3 - 3 Maringa FC PR?
+  1.0060 | Yes@0.009 No@0.997 | liq=3332.4725 | Will US unemployment reach at least 6.0% in 2026?
+  1.0100 | Yes@0.030 No@0.980 | liq=512.01815 | Chicago Fire FC vs. Vancouver Whitecaps FC: Vancouver W
+  1.0100 | Yes@0.080 No@0.930 | liq=835.4861 | Will the Ornn H200 Index be between $4.50 and $5.00 on 
+  1.0120 | Yes@0.013 No@0.999 | liq=2408.24614 | Will the highest temperature in Paris be 20°C or below 
+  1.0140 | Yes@0.015 No@0.999 | liq=2001.09711 | Belize vs. French Guiana: O/U 6.5
+  1.0180 | Yes@0.019 No@0.999 | liq=5225.13541 | Exact Score: Blaublitz Akita 3 - 3 Sagan Tosu?
+  1.0200 | Yes@0.390 No@0.630 | liq=1116.8966 | Colon de Santa Fe vs. CA Estudiantes: Colon de Santa Fe

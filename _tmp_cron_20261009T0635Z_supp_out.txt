@@ -1,0 +1,13 @@
+min-ask pass: 500 markets, 86 priced both-sides, detector_hits=0
+TRUE floor (10 lowest Yes+No best-ask sums):
+  1.0020 | Yes@0.005 No@0.997 | liq=59711.69969 | Exact Score: BV Borussia 09 Dortmund 0 - 3 SV Werder Bremen?
+  1.0040 | Yes@0.008 No@0.996 | liq=29330.6918 | Exact Score: West Ham United FC 0 - 3 Queens Park Rangers FC?
+  1.0040 | Yes@0.008 No@0.996 | liq=10868.779 | Exact Score: Montpellier HSC 0 - 3 Grenoble Foot 38?
+  1.0050 | Yes@0.010 No@0.995 | liq=11594.2098 | Kashiwa Reysol vs. Vissel Kōbe: O/U 7.5
+  1.0060 | Yes@0.010 No@0.996 | liq=9298.56081 | Exact Score: Montpellier HSC 3 - 3 Grenoble Foot 38?
+  1.0060 | Yes@0.011 No@0.995 | liq=18604.03805 | Exact Score: FC Sochaux-Montbéliard 3 - 3 US Boulogne Côte d'Opale?
+  1.0080 | Yes@0.014 No@0.994 | liq=4023.98982 | FC Sochaux-Montbéliard vs. US Boulogne Côte d'Opale: O/U 6.5
+  1.0100 | Yes@0.210 No@0.800 | liq=4389.1492 | Spread: UCF (-0.5)
+  1.0100 | Yes@0.090 No@0.920 | liq=8701.4358 | Spread: En Avant Guingamp (-1.5)
+  1.0100 | Yes@0.510 No@0.500 | liq=14065.6953 | Bolton Wanderers FC vs. Stoke City FC: O/U 2.5
+true brackets (<1.00): 0 | true near (1.000-1.005): 4

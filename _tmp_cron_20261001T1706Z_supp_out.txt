@@ -1,0 +1,10 @@
+Priced markets (min-ask basis): 87/500
+sum<1.000: 0
+sum<=1.005: 2
+sum<=1.01: 4
+Top 5 closest (min best asks):
+  1.001 | Yes@0.002 No@0.999 | liq=61900.12148 | Will Yehude Simón Munaro win the next Lima mayoral
+  1.004 | Yes@0.005 No@0.999 | liq=5651.51442 | Spread: CA Platense (-3.5)
+  1.009 | Yes@0.010 No@0.999 | liq=5285.51227 | Spread: Sporting Kansas City (-3.5)
+  1.010 | Yes@0.170 No@0.840 | liq=12864.7737 | Dreamcash FDV above $20M one day after launch?
+  1.016 | Yes@0.018 No@0.998 | liq=2526.0815 | Exact Score: Helmond Sport 3 - 0 Heracles Almelo?

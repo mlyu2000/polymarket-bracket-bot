@@ -1,0 +1,1 @@
+runs: 2026-10-08T23:30Z scan+persist (500 markets, 0 brackets; verbatim asks0 scan 43.1s: 0 BRACKETS, 0 asks0 near-misses (known DESC artifact); supp minask 44.4s: 95/500 priced, floor 1.002->1.002 held (sole holder Dortmund 0-3); band 5->6: adds ['SE Palmeiras vs. EC Bahia: O/U 7.5']; no drops; priced 95->95; detector-opps: 0, paper: no executions)

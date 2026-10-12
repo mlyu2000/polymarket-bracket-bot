@@ -1,0 +1,8 @@
+Scan: 500 markets (88 priced) in 49.3s
+BRACKETS via detector (best asks, sum<1.00): 0
+Near-misses (best-ask sum<=1.005): 4
+  1.001 | Yes@0.002 No@0.999 | liq=70966.22119 | Will Yehude Simón Munaro win the next Lima mayoral
+  1.001 | Yes@0.032 No@0.969 | liq=14526.37548 | Will the 5-year Treasury yield dip below 4.10% bef
+  1.003 | Yes@0.998 No@0.005 | liq=19090.67583 | Nothing Ever Happens: September
+  1.004 | Yes@0.104 No@0.900 | liq=32307.07418 | Will the Democratic Party win the TX-32 House seat
+True floor: 1.001 | Yes@0.032 No@0.969 | liq=14526.37548 | Will the 5-year Treasury yield dip below 4.10% bef

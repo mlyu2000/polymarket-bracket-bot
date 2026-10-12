@@ -1,0 +1,9 @@
+[BEST-ASK SCAN] 500 markets (82 priced) in 47.8s
+BRACKETS via detector (sum < 1.00): 0
+Near-misses best-ask sum <= 1.005: 6
+  1.001 | Yes@0.002 No@0.999 | liq=499.04844 | Will Anders Dreyer win 2026 MLS Most Valuable Play
+  1.003 | Yes@0.004 No@0.999 | liq=8684.1508 | Will Jairo Palheta win the 2026 Amapá gubernatoria
+  1.003 | Yes@0.137 No@0.866 | liq=548.65128 | Will China's annual inflation in 2026 be between 0
+  1.004 | Yes@0.006 No@0.998 | liq=4128.69408 | Exact Score: Club Almagro 3 - 3 Nueva Chicago?
+  1.004 | Yes@0.005 No@0.999 | liq=8118.52169 | Exact Score: Gimnasia Y Tiro de Salta 3 - 3 Atleti
+  1.005 | Yes@0.007 No@0.998 | liq=5071.8946 | Exact Score: CD Maipu 3 - 3 CA Temperley?

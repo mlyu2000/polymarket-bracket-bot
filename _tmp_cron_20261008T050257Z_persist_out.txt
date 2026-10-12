@@ -1,0 +1,92 @@
+{
+ "run": "20261008T050605Z",
+ "ts": "2026-10-08T05:06:05Z",
+ "markets": 500,
+ "priced": 91,
+ "floor": 1.003,
+ "brackets_minask": 0,
+ "detector_opps": 0,
+ "band": 3,
+ "top8": [
+  {
+   "sum": 1.003,
+   "q": "Exact Score: Ipswich Town FC 4 - 4 Fulham FC?",
+   "yes": 0.004,
+   "no": 0.999,
+   "liq": 27291.33979
+  },
+  {
+   "sum": 1.004,
+   "q": "Will US unemployment reach at least 6.0% in 2026?",
+   "yes": 0.008,
+   "no": 0.996,
+   "liq": 3391.62711
+  },
+  {
+   "sum": 1.005,
+   "q": "CA Paranaense vs. CA Mineiro: O/U 7.5",
+   "yes": 0.009,
+   "no": 0.996,
+   "liq": 4141.46037
+  },
+  {
+   "sum": 1.006,
+   "q": "FC CFR 1907 Cluj vs. FC Universitatea Cluj: O/U 7.5",
+   "yes": 0.011,
+   "no": 0.995,
+   "liq": 4033.63969
+  },
+  {
+   "sum": 1.006,
+   "q": "Exact Score: Ipswich Town FC 5 - 2 Fulham FC?",
+   "yes": 0.007,
+   "no": 0.999,
+   "liq": 21728.74119
+  },
+  {
+   "sum": 1.007,
+   "q": "SE Palmeiras vs. EC Bahia: O/U 7.5",
+   "yes": 0.014,
+   "no": 0.993,
+   "liq": 5389.57872
+  },
+  {
+   "sum": 1.007,
+   "q": "Exact Score: West Ham United FC 0 - 3 Queens Park Rangers FC",
+   "yes": 0.008,
+   "no": 0.999,
+   "liq": 9799.33936
+  },
+  {
+   "sum": 1.009,
+   "q": "Will the lowest temperature in Qingdao be 20\u00b0C on October 9?",
+   "yes": 0.01,
+   "no": 0.999,
+   "liq": 134.8818
+  }
+ ],
+ "band_rows": [
+  {
+   "sum": 1.003,
+   "q": "Exact Score: Ipswich Town FC 4 - 4 Fulham FC?",
+   "yes": 0.004,
+   "no": 0.999,
+   "liq": 27291.33979
+  },
+  {
+   "sum": 1.004,
+   "q": "Will US unemployment reach at least 6.0% in 2026?",
+   "yes": 0.008,
+   "no": 0.996,
+   "liq": 3391.62711
+  },
+  {
+   "sum": 1.005,
+   "q": "CA Paranaense vs. CA Mineiro: O/U 7.5",
+   "yes": 0.009,
+   "no": 0.996,
+   "liq": 4141.46037
+  }
+ ],
+ "scan_time_s": 64.8
+}

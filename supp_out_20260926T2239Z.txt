@@ -1,0 +1,10 @@
+min-ask scan: 500 markets in 63.0s | priced: 120
+sum < 1.000: 0 | sum <= 1.005: 9
+  1.001 | Y@0.002 N@0.999 | liq=1186 | Will Anders Dreyer win 2026 MLS Most Valuable Player?
+  1.002 | Y@0.007 N@0.995 | liq=14 | Exact Score: CA Penarol Montevideo 3 - 3 CA Boston Rive
+  1.003 | Y@0.007 N@0.996 | liq=21071 | Spread: D.C. United SC (-2.5)
+  1.003 | Y@0.004 N@0.999 | liq=12872 | Will Jairo Palheta win the 2026 Amapá gubernatorial ele
+  1.004 | Y@0.025 N@0.979 | liq=14 | Exact Score: CA Penarol Montevideo 1 - 3 CA Boston Rive
+  1.004 | Y@0.020 N@0.984 | liq=14 | Exact Score: CA Penarol Montevideo 2 - 3 CA Boston Rive
+  1.005 | Y@0.040 N@0.965 | liq=73719 | Exact Score: Denmark 1 - 2 Wales?
+  1.005 | Y@0.011 N@0.994 | liq=5364 | Exact Score: Orange County SC 3 - 3 Pittsburgh Riverhou

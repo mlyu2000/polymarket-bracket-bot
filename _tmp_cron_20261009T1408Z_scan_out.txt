@@ -1,0 +1,4 @@
+🔍 Scan: 500 markets in 72.0s
+✅ BRACKETS (sum < 1.00): 0
+📊 Near-misses (≤1.005): 0
+SCAN_DONE

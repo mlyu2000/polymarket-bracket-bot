@@ -1,0 +1,15 @@
+markets with both books: 82
+== TRUE min-ask floor (top 5, any total) ==
+  1.001 | Yes@0.002 No@0.999 | liq=1160 | Will Anders Dreyer win 2026 MLS Most Valuable Play
+  1.003 | Yes@0.004 No@0.999 | liq=8686 | Will Jairo Palheta win the 2026 Amapá gubernatoria
+  1.003 | Yes@0.137 No@0.866 | liq=567 | Will China's annual inflation in 2026 be between 0
+  1.004 | Yes@0.005 No@0.999 | liq=8423 | Exact Score: Gimnasia Y Tiro de Salta 3 - 3 Atleti
+  1.005 | Yes@0.007 No@0.998 | liq=5072 | Exact Score: CD Maipu 3 - 3 CA Temperley?
+== TRUE near-misses <=1.005 ==
+  1.001 | Yes@0.002 No@0.999 | liq=1160 | Will Anders Dreyer win 2026 MLS Most Valuable Play
+  1.003 | Yes@0.004 No@0.999 | liq=8686 | Will Jairo Palheta win the 2026 Amapá gubernatoria
+  1.003 | Yes@0.137 No@0.866 | liq=567 | Will China's annual inflation in 2026 be between 0
+  1.004 | Yes@0.005 No@0.999 | liq=8423 | Exact Score: Gimnasia Y Tiro de Salta 3 - 3 Atleti
+  1.005 | Yes@0.007 No@0.998 | liq=5072 | Exact Score: CD Maipu 3 - 3 CA Temperley?
+  1.005 | Yes@0.017 No@0.988 | liq=3697 | SD Eibar vs. UD Las Palmas: SD Eibar O/U 5.5
+== TRUE brackets (min-ask sum < 1.00): 0 ==

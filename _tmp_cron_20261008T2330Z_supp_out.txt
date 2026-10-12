@@ -1,0 +1,10 @@
+min-ask scan: 500 markets (95 priced) in 44.4s
+BRACKETS (detector, sum<1.00): 0
+Near-misses (<=1.005, true min-ask): 6
+  1.002 | Yes@0.005 No@0.997 | liq=36750.51569 | Exact Score: BV Borussia 09 Dortmund 0 - 3 SV Werd
+  1.004 | Yes@0.008 No@0.996 | liq=30014.36364 | Exact Score: West Ham United FC 0 - 3 Queens Park 
+  1.005 | Yes@0.009 No@0.996 | liq=8060.39704 | Exact Score: Montpellier HSC 0 - 3 Grenoble Foot 3
+  1.005 | Yes@0.010 No@0.995 | liq=9086.15472 | Exact Score: Montpellier HSC 3 - 3 Grenoble Foot 3
+  1.005 | Yes@0.010 No@0.995 | liq=3238.50229 | Kashiwa Reysol vs. Vissel Kōbe: O/U 7.5
+  1.005 | Yes@0.016 No@0.989 | liq=13711.15949 | SE Palmeiras vs. EC Bahia: O/U 7.5
+True floor across priced markets: 1.002

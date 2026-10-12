@@ -1,0 +1,7 @@
+Markets: 500 | best-ask sums computed: 97
+TRUE best-ask sum < 1.00: 0
+TRUE best-ask sum in [1.00, 1.005]: 3
+  1.0020 | Yes@0.005 No@0.997 | liq=3635.5461 | Will US unemployment reach at least 6.0% in 2026?
+  1.0030 | Yes@0.004 No@0.999 | liq=1381.01978 | Will the highest temperature in Tel Aviv be 33°C on Oct
+  1.0050 | Yes@0.009 No@0.996 | liq=2530.15681 | Exact Score: BV Borussia 09 Dortmund 0 - 3 SV Werder Br
+Floor (min sum): 1.0020 | median: 1.0540

@@ -1,0 +1,8 @@
+🔍 [best-ask corrected] Scan: 500 markets (85 priced) in 48.8s
+✅ BRACKETS (best-ask sum < 1.00): 0
+📊 Near-misses best-ask (≤1.005): 5
+  1.001 | Yes@0.002 No@0.999 | liq=1350.41943 | Will Anders Dreyer win 2026 MLS Most Valuable Play
+  1.003 | Yes@0.004 No@0.999 | liq=13913.3463 | RCD Mallorca vs. UD Almería: O/U 8.5
+  1.003 | Yes@0.004 No@0.999 | liq=8729.37685 | Will Jairo Palheta win the 2026 Amapá gubernatoria
+  1.003 | Yes@0.027 No@0.976 | liq=8921.64836 | Will the 5-year Treasury yield dip below 4.10% bef
+  1.005 | Yes@0.006 No@0.999 | liq=4082.17992 | Exact Score: Racing Club Avellaneda 3 - 3 Boca Jun

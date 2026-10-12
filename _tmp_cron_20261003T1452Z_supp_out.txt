@@ -1,0 +1,5 @@
+Markets with both books priced: 54
+Detector brackets: 0
+Best-ask near-misses (<=1.005): 1
+  1.0010 | Yes@0.004 No@0.997 | liq=3417.1538 | Will US unemployment reach at least 6.0% in 2026?
+Floor (lowest best-ask sum): 1.0010

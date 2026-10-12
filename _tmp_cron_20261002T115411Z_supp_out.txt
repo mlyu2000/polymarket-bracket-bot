@@ -1,0 +1,10 @@
+priced markets: 77/500
+min best-ask sum: 1.0010
+  [1.0010 | liq=15773.46646 | Will Lauren Boebert resign by October 31, 2026?]
+  [1.0010 | liq=3317.82162 | Will US unemployment reach at least 6.0% in 2026?]
+  [1.0100 | liq=95247.3549 | Exact Score: Ukraine 0 - 1 Northern Ireland?]
+  [1.0100 | liq=1040.1193 | Greece vs. Germany: Greece O/U 1.5]
+  [1.0100 | liq=26606.078 | Will CA Boca Juniors win on 2026-10-04?]
+  [1.0100 | liq=13001.0865 | Will Côte d'Ivoire vs. Cameroon end in a draw?]
+  [1.0100 | liq=4163.9706 | Will the highest temperature in Milan be 24°C on O]
+  [1.0130 | liq=5161.60672 | Exact Score: Albirex Niigata 3 - 3 Tokushima Vorti]

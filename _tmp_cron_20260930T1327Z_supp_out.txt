@@ -1,0 +1,8 @@
+[supp min-ask] 500 markets (90 priced) in 47.3s
+[supp min-ask] BRACKETS (sum<1.00): 0
+[supp min-ask] Near-misses (sum<=1.005): 4
+  1.001 | Yes@0.002 No@0.999 | liq=70364.1836 | Will Yehude Simón Munaro win the next Lima mayoral
+  1.001 | Yes@0.032 No@0.969 | liq=14509.51984 | Will the 5-year Treasury yield dip below 4.10% bef
+  1.003 | Yes@0.998 No@0.005 | liq=19076.98683 | Nothing Ever Happens: September
+  1.004 | Yes@0.104 No@0.900 | liq=31934.01604 | Will the Democratic Party win the TX-32 House seat
+[supp] record written to /tmp/supp_record_1327.json

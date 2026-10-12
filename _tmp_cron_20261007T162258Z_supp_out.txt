@@ -1,0 +1,87 @@
+{
+ "priced": 104,
+ "floor": 1.004,
+ "band": 7,
+ "band_rows": [
+  {
+   "sum": 1.004,
+   "q": "Will US unemployment reach at least 6.0% in 2026?",
+   "yes": 0.008,
+   "no": 0.996,
+   "liq": 3466.5273
+  },
+  {
+   "sum": 1.005,
+   "q": "Cruzeiro EC vs. S\u00e3o Paulo FC: O/U 7.5",
+   "yes": 0.009,
+   "no": 0.996,
+   "liq": 5193.33217
+  },
+  {
+   "sum": 1.005,
+   "q": "Exact Score: West Ham United FC 0 - 3 Queens Park Rangers FC",
+   "yes": 0.008,
+   "no": 0.997,
+   "liq": 8545.80462
+  },
+  {
+   "sum": 1.005,
+   "q": "Exact Score: Ipswich Town FC 0 - 5 Fulham FC?",
+   "yes": 0.008,
+   "no": 0.997,
+   "liq": 17135.3374
+  },
+  {
+   "sum": 1.005,
+   "q": "Exact Score: Ipswich Town FC 5 - 1 Fulham FC?",
+   "yes": 0.008,
+   "no": 0.997,
+   "liq": 17592.32605
+  },
+  {
+   "sum": 1.005,
+   "q": "Exact Score: Ipswich Town FC 3 - 4 Fulham FC?",
+   "yes": 0.009,
+   "no": 0.996,
+   "liq": 12968.16066
+  },
+  {
+   "sum": 1.005,
+   "q": "Exact Score: Ipswich Town FC 4 - 3 Fulham FC?",
+   "yes": 0.009,
+   "no": 0.996,
+   "liq": 14511.97636
+  }
+ ],
+ "next_out": [
+  {
+   "sum": 1.006,
+   "q": "Exact Score: Racing Club de Lens 1 - 5 Olympique Lyonnais?",
+   "yes": 0.01,
+   "no": 0.996,
+   "liq": 9152.35069
+  },
+  {
+   "sum": 1.006,
+   "q": "Exact Score: Stade Brestois 29 4 - 3 Angers SCO?",
+   "yes": 0.01,
+   "no": 0.996,
+   "liq": 1452.62369
+  },
+  {
+   "sum": 1.006,
+   "q": "Exact Score: Ipswich Town FC 1 - 5 Fulham FC?",
+   "yes": 0.01,
+   "no": 0.996,
+   "liq": 13923.14384
+  },
+  {
+   "sum": 1.006,
+   "q": "Exact Score: Ipswich Town FC 5 - 2 Fulham FC?",
+   "yes": 0.007,
+   "no": 0.999,
+   "liq": 20526.47581
+  }
+ ],
+ "top_liq": 20526.47581
+}

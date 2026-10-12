@@ -1,0 +1,12 @@
+Best-ask check: 67/500 markets priced in 47.4s
+Floor (min sum of best asks): 1.0010
+True brackets (<1.00): 0
+Near-misses (1.000-1.005): 1
+  1.0010 | Yes@0.004 No@0.997 | liq=2955.529 | Will US unemployment reach at least 6.0% in 2026?
+  1.0100 | Yes@0.710 No@0.300 | liq=13772.1364 | Counter-Strike: MOUZ vs M80 - Map 1 Winner
+  1.0100 | Yes@0.011 No@0.999 | liq=979.87443 | Exact Score: BV Borussia 09 Dortmund 2 - 4 SV Werder Br
+  1.0100 | Yes@0.530 No@0.480 | liq=68329.8425 | Spread: Toledo (-20.5)
+  1.0100 | Yes@0.290 No@0.720 | liq=17516.614 | Will Côte d'Ivoire vs. Cameroon end in a draw?
+  1.0120 | Yes@0.013 No@0.999 | liq=1219.66019 | Exact Score: Racing Club de Lens 5 - 2 Olympique Lyonna
+  1.0130 | Yes@0.019 No@0.994 | liq=8922.45004 | Exact Score: Albirex Niigata 3 - 3 Tokushima Vortis?
+  1.0140 | Yes@0.015 No@0.999 | liq=2732.27471 | Will Esteban Ocon win the 2026 F1 Bahrain Grand Prix?

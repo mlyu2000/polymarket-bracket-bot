@@ -1,0 +1,14 @@
+priced markets: 51
+TRUE sum<1.00: 0 | sum<=1.005: 3
+--- floor top 10 ---
+  1.005 | Y@0.006(sz 23) N@0.999(sz 55) | liq 79685.08825 | Gimnasia y Esgrima de La Plata vs. CA Tucumán: O/U 7.5
+  1.005 | Y@0.010(sz 17) N@0.995(sz 3383) | liq 3994.86886 | Kyōto Sanga FC vs. FC Machida Zelvia: O/U 7.5
+  1.005 | Y@0.009(sz 9) N@0.996(sz 2350) | liq 1751.17171 | Clermont Foot 63 vs. Red Star FC: O/U 7.5
+  1.006 | Y@0.012(sz 9) N@0.994(sz 1566) | liq 757.72092 | Falkirk FC vs. Dundee FC: O/U 7.5
+  1.006 | Y@0.013(sz 6) N@0.993(sz 671) | liq 1499.82152 | South Melbourne FC vs. Melbourne Victory FC: O/U 7.5
+  1.006 | Y@0.010(sz 6) N@0.996(sz 1175) | liq 1917.37715 | FK Chornomorets Odesa vs. FK Kharkiv: O/U 7.5
+  1.010 | Y@0.080(sz 538) N@0.930(sz 2454) | liq 44361.8355 | Exact Score: Alianza FC 1 - 2 Águilas Doradas Rionegro?
+  1.010 | Y@0.060(sz 40) N@0.950(sz 61) | liq 62.6875 | Will Fernando Mendoza have 3,500+ passing yards in the 2026-27 NFL reg
+  1.010 | Y@0.170(sz 4730) N@0.840(sz 411) | liq 145180.2246 | Kent State vs. Western Michigan
+  1.010 | Y@0.170(sz 1785) N@0.840(sz 416) | liq 7985.3347 | Spread: Real Madrid CF (-3.5)
+--- all sum<1.00 ---

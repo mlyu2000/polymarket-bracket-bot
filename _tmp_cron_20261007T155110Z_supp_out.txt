@@ -1,0 +1,13 @@
+Detector BRACKETS: 0
+Best min-ask totals (top 10 of 106 priced):
+  1.005 | Yes@0.009 No@0.996 | liq=5224.67699 |  Cruzeiro EC vs. São Paulo FC: O/U 7.5
+  1.005 | Yes@0.008 No@0.997 | liq=16588.72407 |  Exact Score: Ipswich Town FC 0 - 5 Fulham FC?
+  1.005 | Yes@0.009 No@0.996 | liq=13274.25946 |  Exact Score: Ipswich Town FC 3 - 4 Fulham FC?
+  1.005 | Yes@0.009 No@0.996 | liq=14508.07636 |  Exact Score: Ipswich Town FC 4 - 3 Fulham FC?
+  1.005 | Yes@0.008 No@0.997 | liq=17007.81905 |  Exact Score: Ipswich Town FC 5 - 1 Fulham FC?
+  1.005 | Yes@0.008 No@0.997 | liq=8350.06578 |  Exact Score: West Ham United FC 0 - 3 Queens Park 
+  1.005 | Yes@0.009 No@0.996 | liq=3449.43402 |  Will US unemployment reach at least 6.0% in 2026?
+  1.006 | Yes@0.010 No@0.996 | liq=13331.65086 |  Exact Score: Ipswich Town FC 1 - 5 Fulham FC?
+  1.006 | Yes@0.007 No@0.999 | liq=20854.97121 |  Exact Score: Ipswich Town FC 5 - 2 Fulham FC?
+  1.006 | Yes@0.010 No@0.996 | liq=9138.62659 |  Exact Score: Racing Club de Lens 1 - 5 Olympique L
+min-ask totals < 1.000: 0 | <= 1.005: 7

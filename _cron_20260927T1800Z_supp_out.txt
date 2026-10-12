@@ -1,0 +1,8 @@
+[supp best-ask] 500 markets (81 with both books) in 47.1s
+[supp] near-misses (min-ask sum <= 1.005): 5
+  1.001 | Yes@0.002 No@0.999 | liq=4726.20326 | Korea Republic vs. Uruguay: O/U 8.5
+  1.001 | Yes@0.002 No@0.999 | liq=629.92404 | Will Anders Dreyer win 2026 MLS Most Valuable Play
+  1.002 | Yes@0.136 No@0.866 | liq=592.71779 | Will China's annual inflation in 2026 be between 0
+  1.003 | Yes@0.004 No@0.999 | liq=8772.3706 | Will Jairo Palheta win the 2026 Amapá gubernatoria
+  1.004 | Yes@0.005 No@0.999 | liq=7876.60692 | Exact Score: Gimnasia Y Tiro de Salta 3 - 3 Atleti
+[supp] true floor this run: 1.001
