@@ -1,0 +1,1 @@
+cron scan 2026-10-12T1335Z: floor 1.0030 (Venezia FC -3.5 spread, SOLO) — down from 1.0070 (NH-02 Dem seat) at 1319Z; 0 actionable brackets; tiers le1005=1 le1010=11 le1020=24 le1030=27; structural two-sided=71 yes_only=421

@@ -1,0 +1,161 @@
+{
+  "ts": "2026-10-12T13:36:45Z",
+  "markets": 500,
+  "floors": [
+    [
+      1.003,
+      "Spread: Venezia FC (-3.5)",
+      0.004,
+      0.999,
+      12018.38189
+    ],
+    [
+      1.008,
+      "Will the Democratic Party win the NH-02 House seat?",
+      0.954,
+      0.054,
+      50792.69009
+    ],
+    [
+      1.009,
+      "Spread: Ey\u00fcpspor (-3.5)",
+      0.01,
+      0.999,
+      11500.79365
+    ],
+    [
+      1.01,
+      "Exact Score: Red Bull Bragantino 1 - 2 Cruzeiro EC?",
+      0.08,
+      0.93,
+      18316.3228
+    ],
+    [
+      1.01,
+      "Millwall FC vs. Swansea City AFC: 1st Half O/U 0.5",
+      0.71,
+      0.3,
+      7634.368
+    ],
+    [
+      1.01,
+      "San Luis de Quillota leading at halftime?",
+      0.38,
+      0.63,
+      242.9582
+    ],
+    [
+      1.01,
+      "Spread: Real Madrid CF (-2.5)",
+      0.36,
+      0.65,
+      13359.1172
+    ],
+    [
+      1.01,
+      "Will Georgia have more than 11.5 wins during the 2026 CFB se",
+      0.42,
+      0.59,
+      796.5441
+    ],
+    [
+      1.01,
+      "Will Sheffield United FC win on 2026-10-14?",
+      0.31,
+      0.7,
+      20265.0434
+    ],
+    [
+      1.01,
+      "Will Washington Capitals be the 2027 NHL Eastern Conference ",
+      0.1,
+      0.91,
+      69920.0974
+    ]
+  ],
+  "entries": [
+    {
+      "total": 1.003,
+      "q": "Spread: Venezia FC (-3.5)",
+      "yes": 0.004,
+      "no": 0.999,
+      "liq": 12018.38189
+    },
+    {
+      "total": 1.008,
+      "q": "Will the Democratic Party win the NH-02 House seat?",
+      "yes": 0.954,
+      "no": 0.054,
+      "liq": 50792.69009
+    },
+    {
+      "total": 1.009,
+      "q": "Spread: Ey\u00fcpspor (-3.5)",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 11500.79365
+    },
+    {
+      "total": 1.01,
+      "q": "Will Washington Capitals be the 2027 NHL Eastern Conference Champion?",
+      "yes": 0.1,
+      "no": 0.91,
+      "liq": 69920.0974
+    },
+    {
+      "total": 1.01,
+      "q": "Spread: Real Madrid CF (-2.5)",
+      "yes": 0.36,
+      "no": 0.65,
+      "liq": 13359.1172
+    },
+    {
+      "total": 1.01,
+      "q": "Wolverhampton Wanderers FC vs. Bolton Wanderers FC: O/U 3.5",
+      "yes": 0.37,
+      "no": 0.64,
+      "liq": 17954.8429
+    },
+    {
+      "total": 1.01,
+      "q": "Exact Score: Red Bull Bragantino 1 - 2 Cruzeiro EC?",
+      "yes": 0.08,
+      "no": 0.93,
+      "liq": 18316.3228
+    },
+    {
+      "total": 1.01,
+      "q": "San Luis de Quillota leading at halftime?",
+      "yes": 0.38,
+      "no": 0.63,
+      "liq": 242.9582
+    },
+    {
+      "total": 1.01,
+      "q": "Will Sheffield United FC win on 2026-10-14?",
+      "yes": 0.31,
+      "no": 0.7,
+      "liq": 20265.0434
+    },
+    {
+      "total": 1.01,
+      "q": "Millwall FC vs. Swansea City AFC: 1st Half O/U 0.5",
+      "yes": 0.71,
+      "no": 0.3,
+      "liq": 7634.368
+    }
+  ],
+  "tiers": {
+    "le1000": 0,
+    "le1005": 1,
+    "le1010": 11,
+    "le1020": 24,
+    "le1030": 27
+  },
+  "structural": {
+    "two_sided": 71,
+    "yes_only": 421,
+    "no_only": 0,
+    "empty": 8
+  }
+}
