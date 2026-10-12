@@ -1,0 +1,16 @@
+structural: two_sided=26 yes_only=45 no_only=2 empty=426 total=500
+TRUE FLOOR (min of all asks, two-sided): 1.0060
+  1.0060 | Yes@0.015 No@0.991 | liq=18694 | Spread: Galatasaray SK (-2.5)
+  1.0060 | Yes@0.008 No@0.998 | liq=12307 | Spread: ŠK Slovan Bratislava (-2.5)
+  1.0070 | Yes@0.038 No@0.969 | liq=21032 | Exact Score: Galatasaray SK 0 - 5 FC Barcelona?
+  1.0090 | Yes@0.010 No@0.999 | liq=2529 | Will the highest temperature in Amsterdam be 13°C on October
+  1.0090 | Yes@0.010 No@0.999 | liq=13160 | Spread: Eyüpspor (-3.5)
+  1.0100 | Yes@0.610 No@0.400 | liq=39519 | Dijon Football Côte d'Or vs. FC Metz: Both Teams to Score
+  1.0100 | Yes@0.100 No@0.910 | liq=49649 | Will Washington Capitals be the 2027 NHL Eastern Conference 
+  1.0100 | Yes@0.360 No@0.650 | liq=13783 | Spread: Real Madrid CF (-2.5)
+  <= 1.000: 0
+  <= 1.005: 0
+  <= 1.010: 15
+  <= 1.020: 26
+  <= 1.030: 29
+median total (two-sided rows): 1.0410 (n=74)

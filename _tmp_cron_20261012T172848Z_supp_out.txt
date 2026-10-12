@@ -1,0 +1,15 @@
+two_sided=74 yes_only=417 no_only=1 empty=8
+tiers: {'<=1.005': 3, '<=1.01': 14, '<=1.02': 25, '<=1.03': 32, '<=1.05': 45}
+FLOOR: 1.0010 | Yes@0.146 No@0.855 | Will Flávio Bolsonaro win the second round of the 
+top10:
+  1.0010 | Yes@0.146 No@0.855 | liq 94835.86604 | Will Flávio Bolsonaro win the second round of the 
+  1.0020 | Yes@0.006 No@0.996 | liq 973.96 | KFUM-Kameratene Oslo vs. Vålerenga Fotball: Vålere
+  1.0050 | Yes@0.015 No@0.990 | liq 23711.15641 | Spread: Galatasaray SK (-2.5)
+  1.0060 | Yes@0.954 No@0.052 | liq 50784.44768 | Will the Democratic Party win the NH-02 House seat
+  1.0070 | Yes@0.008 No@0.999 | liq 20384.13766 | Spread: ŠK Slovan Bratislava (-2.5)
+  1.0090 | Yes@0.010 No@0.999 | liq 2563.07496 | Will the highest temperature in Amsterdam be 13°C 
+  1.0100 | Yes@0.080 No@0.930 | liq 19897.5623 | Exact Score: Red Bull Bragantino 1 - 2 Cruzeiro EC
+  1.0100 | Yes@0.710 No@0.300 | liq 8724.2751 | Millwall FC vs. Swansea City AFC: 1st Half O/U 0.5
+  1.0100 | Yes@0.340 No@0.670 | liq 20955.1931 | Spread: Burnley FC (-1.5)
+  1.0100 | Yes@0.360 No@0.650 | liq 13639.2481 | Spread: Real Madrid CF (-2.5)
+band<=1.005 n=3

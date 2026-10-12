@@ -1,0 +1,95 @@
+{
+ "ts_utc": "2026-10-12T17:31:17Z",
+ "n_markets": 500,
+ "n_two_sided": 74,
+ "yes_only": 417,
+ "no_only": 1,
+ "empty": 8,
+ "tiers": {
+  "<=1.005": 3,
+  "<=1.01": 14,
+  "<=1.02": 25,
+  "<=1.03": 32,
+  "<=1.05": 45
+ },
+ "floor": [
+  1.001,
+  "Will Fl\u00e1vio Bolsonaro win the second round of the ",
+  0.146,
+  0.855,
+  94835.86604
+ ],
+ "top10": [
+  [
+   1.001,
+   "Will Fl\u00e1vio Bolsonaro win the second round of the ",
+   0.146,
+   0.855,
+   94835.86604
+  ],
+  [
+   1.002,
+   "KFUM-Kameratene Oslo vs. V\u00e5lerenga Fotball: V\u00e5lere",
+   0.006,
+   0.996,
+   973.96
+  ],
+  [
+   1.005,
+   "Spread: Galatasaray SK (-2.5)",
+   0.015,
+   0.99,
+   23711.15641
+  ],
+  [
+   1.006,
+   "Will the Democratic Party win the NH-02 House seat",
+   0.954,
+   0.052,
+   50784.44768
+  ],
+  [
+   1.007,
+   "Spread: \u0160K Slovan Bratislava (-2.5)",
+   0.008,
+   0.999,
+   20384.13766
+  ],
+  [
+   1.009,
+   "Will the highest temperature in Amsterdam be 13\u00b0C ",
+   0.01,
+   0.999,
+   2563.07496
+  ],
+  [
+   1.01,
+   "Exact Score: Red Bull Bragantino 1 - 2 Cruzeiro EC",
+   0.08,
+   0.93,
+   19897.5623
+  ],
+  [
+   1.01,
+   "Millwall FC vs. Swansea City AFC: 1st Half O/U 0.5",
+   0.71,
+   0.3,
+   8724.2751
+  ],
+  [
+   1.01,
+   "Spread: Burnley FC (-1.5)",
+   0.34,
+   0.67,
+   20955.1931
+  ],
+  [
+   1.01,
+   "Spread: Real Madrid CF (-2.5)",
+   0.36,
+   0.65,
+   13639.2481
+  ]
+ ],
+ "n_band_1005": 3
+}

@@ -1,0 +1,10 @@
+scan 1728Z: floor TIES all-time low 1.0010 (Bolsonaro 8-12% margin, big book); 0 brackets, 0 actionable
+
+- Verbatim scan: 500 markets/54.4s, 0 BRACKETS, 0 asks[0] near-misses (DESC-sort artifact)
+- True floor (min-ask, 74/500 two-sided priced): 1.0010
+  - Flávio Bolsonaro 2026 BR 2nd-round win-margin 8-12%: Y@0.146 N@0.855, liq 94.8k — ties all-time low 1.0010 (2200Z 10-10)
+  - KFUM-Kameratene Oslo vs. Vålerenga O/U: 1.0020, liq 974 (thin)
+  - Galatasaray SK (-2.5): HELD 1.0050, liq 23.7k
+- Tiers: <=1.005 n=3, <=1.010 n=14, <=1.020 n=25, <=1.030 n=32
+- Structural: 74 two-sided / 417 yes_only / 1 no_only / 8 empty = 85.2% not bracket-able
+- Floor 0.021 above 0.98 actionable threshold — NOT actionable, 0 positive gross edge

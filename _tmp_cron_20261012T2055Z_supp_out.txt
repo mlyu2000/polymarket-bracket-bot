@@ -1,0 +1,161 @@
+{
+  "ts": "2026-10-12T20:57:22Z",
+  "markets": 500,
+  "floors": [
+    [
+      1.001,
+      "Will the highest temperature in Atlanta be between 80-81\u00b0F o",
+      0.002,
+      0.999,
+      2194.10937
+    ],
+    [
+      1.005,
+      "Spread: Galatasaray SK (-2.5)",
+      0.015,
+      0.99,
+      23037.72811
+    ],
+    [
+      1.006,
+      "Spread: \u0160K Slovan Bratislava (-2.5)",
+      0.008,
+      0.998,
+      13614.2763
+    ],
+    [
+      1.01,
+      "Spread: Burnley FC (-1.5)",
+      0.34,
+      0.67,
+      25969.197
+    ],
+    [
+      1.01,
+      "Spread: Manchester City FC (-3.5)",
+      0.05,
+      0.96,
+      14422.9093
+    ],
+    [
+      1.01,
+      "Spread: Real Madrid CF (-2.5)",
+      0.36,
+      0.65,
+      13669.9563
+    ],
+    [
+      1.01,
+      "US-Iran Hormuz Agreement by October 31?",
+      0.136,
+      0.874,
+      42867.25024
+    ],
+    [
+      1.01,
+      "Will Georgia have more than 11.5 wins during the 2026 CFB se",
+      0.42,
+      0.59,
+      1791.0845
+    ],
+    [
+      1.01,
+      "Will Sheffield United FC win on 2026-10-14?",
+      0.3,
+      0.71,
+      28641.1497
+    ],
+    [
+      1.01,
+      "Will Washington Capitals be the 2027 NHL Eastern Conference ",
+      0.1,
+      0.91,
+      55597.9302
+    ]
+  ],
+  "entries": [
+    {
+      "total": 1.001,
+      "q": "Will the highest temperature in Atlanta be between 80-81\u00b0F on October 14?",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 2194.10937
+    },
+    {
+      "total": 1.005,
+      "q": "Spread: Galatasaray SK (-2.5)",
+      "yes": 0.015,
+      "no": 0.99,
+      "liq": 23037.72811
+    },
+    {
+      "total": 1.006,
+      "q": "Spread: \u0160K Slovan Bratislava (-2.5)",
+      "yes": 0.008,
+      "no": 0.998,
+      "liq": 13614.2763
+    },
+    {
+      "total": 1.01,
+      "q": "Will Washington Capitals be the 2027 NHL Eastern Conference Champion?",
+      "yes": 0.1,
+      "no": 0.91,
+      "liq": 55597.9302
+    },
+    {
+      "total": 1.01,
+      "q": "Spread: Manchester City FC (-3.5)",
+      "yes": 0.05,
+      "no": 0.96,
+      "liq": 14422.9093
+    },
+    {
+      "total": 1.01,
+      "q": "Spread: Real Madrid CF (-2.5)",
+      "yes": 0.36,
+      "no": 0.65,
+      "liq": 13669.9563
+    },
+    {
+      "total": 1.01,
+      "q": "Spread: Burnley FC (-1.5)",
+      "yes": 0.34,
+      "no": 0.67,
+      "liq": 25969.197
+    },
+    {
+      "total": 1.01,
+      "q": "US-Iran Hormuz Agreement by October 31?",
+      "yes": 0.136,
+      "no": 0.874,
+      "liq": 42867.25024
+    },
+    {
+      "total": 1.01,
+      "q": "Wolverhampton Wanderers FC vs. Bolton Wanderers FC: O/U 3.5",
+      "yes": 0.37,
+      "no": 0.64,
+      "liq": 23036.8916
+    },
+    {
+      "total": 1.01,
+      "q": "Will Sheffield United FC win on 2026-10-14?",
+      "yes": 0.3,
+      "no": 0.71,
+      "liq": 28641.1497
+    }
+  ],
+  "tiers": {
+    "le1000": 0,
+    "le1005": 2,
+    "le1010": 12,
+    "le1020": 29,
+    "le1030": 32
+  },
+  "structural": {
+    "two_sided": 68,
+    "yes_only": 422,
+    "no_only": 0,
+    "empty": 10
+  }
+}

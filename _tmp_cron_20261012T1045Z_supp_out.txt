@@ -1,0 +1,10 @@
+structural: two_sided=26 yes_only=36 no_only=2 empty=435 total=500
+TRUE FLOOR (min of all asks, two-sided): 1.0040
+  1.0040 | Yes@0.014 No@0.990 | liq=26243 | Spread: Viking FK (-1.5)
+  1.0040 | Yes@0.005 No@0.999 | liq=8991 | Spread: Venezia FC (-3.5)
+  1.0090 | Yes@0.010 No@0.999 | liq=2170 | Spread: Eyüpspor (-3.5)
+  1.0100 | Yes@0.100 No@0.910 | liq=70193 | Will Washington Capitals be the 2027 NHL Eastern Conference 
+  1.0100 | Yes@0.360 No@0.650 | liq=13539 | Spread: Real Madrid CF (-2.5)
+  1.0100 | Yes@0.500 No@0.510 | liq=303 | Will the Utah Mammoth record 100+ points?
+  1.0100 | Yes@0.954 No@0.056 | liq=50773 | Will the Democratic Party win the NH-02 House seat?
+  1.0100 | Yes@0.370 No@0.640 | liq=17581 | Wolverhampton Wanderers FC vs. Bolton Wanderers FC: O/U 3.5

@@ -1,0 +1,95 @@
+{
+ "ts_utc": "2026-10-12T17:51:19Z",
+ "n_markets": 500,
+ "n_two_sided": 73,
+ "yes_only": 418,
+ "no_only": 1,
+ "empty": 8,
+ "tiers": {
+  "<=1.005": 1,
+  "<=1.01": 13,
+  "<=1.02": 25,
+  "<=1.03": 30,
+  "<=1.05": 43
+ },
+ "floor": [
+  1.005,
+  "Spread: Galatasaray SK (-2.5)",
+  0.015,
+  0.99,
+  19016.26091
+ ],
+ "top10": [
+  [
+   1.005,
+   "Spread: Galatasaray SK (-2.5)",
+   0.015,
+   0.99,
+   19016.26091
+  ],
+  [
+   1.006,
+   "Real Oviedo vs. SD Eibar: Real Oviedo O/U 4.5",
+   0.014,
+   0.992,
+   1803.48
+  ],
+  [
+   1.006,
+   "Will the Democratic Party win the NH-02 House seat",
+   0.954,
+   0.052,
+   50786.43568
+  ],
+  [
+   1.007,
+   "Spread: \u0160K Slovan Bratislava (-2.5)",
+   0.008,
+   0.999,
+   20340.11765
+  ],
+  [
+   1.009,
+   "Will the highest temperature in Amsterdam be 13\u00b0C ",
+   0.01,
+   0.999,
+   2503.84437
+  ],
+  [
+   1.01,
+   "Al Gharafa SC vs. Esteghlal FC Tehran: 1st Half O/",
+   0.36,
+   0.65,
+   10184.1939
+  ],
+  [
+   1.01,
+   "Exact Score: Red Bull Bragantino 1 - 2 Cruzeiro EC",
+   0.08,
+   0.93,
+   19180.3533
+  ],
+  [
+   1.01,
+   "Millwall FC vs. Swansea City AFC: 1st Half O/U 0.5",
+   0.71,
+   0.3,
+   8720.5651
+  ],
+  [
+   1.01,
+   "Spread: Burnley FC (-1.5)",
+   0.34,
+   0.67,
+   21182.5931
+  ],
+  [
+   1.01,
+   "Will Georgia have more than 11.5 wins during the 2",
+   0.42,
+   0.59,
+   853.7309
+  ]
+ ],
+ "n_band_1005": 1
+}

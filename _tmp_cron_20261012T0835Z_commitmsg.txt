@@ -1,0 +1,9 @@
+cron scan 20261012T0835Z: 500 mkts in 48.6s, 0 brackets, 0 executions; min-ask TRUE FLOOR 1.0030 HOLDING (unchanged from 0821Z/0749Z/0735Z/0718Z/0630Z — 4th+ consecutive scan at 1.0030, tie since 0630Z = 165+ min) — FK Livyi Bereh vs FK Zorya Luhansk O/U 8.5 (Y@0.004 N@0.999 liq~3530, was ~4497 @0749Z; Y/N prices unchanged, liq draining ~-1000). 0.023 above 0.98 actionable threshold — NOT actionable (floor needs <=0.98).
+
+NEAR-MISSES (<=1.005, min-ask both sides) n=3: FK Livyi Bereh O/U 8.5 1.0030 (floor, Y@0.004 N@0.999 liq~3530); Spread: Viking FK (-1.5) 1.0040 (Y@0.014 N@0.990 liq~21252, was ~21401); NEW: Spread: LASK Linz (-1.5) 1.0050 (Y@0.030 N@0.975 liq~11615).
+
+TIERS: <=1.005 n=3 (was 2 @0749Z — LASK Linz 1.0050 added), <=1.010 n=14 (was 12), <=1.020 n=24 (same), <=1.030 n=30 (was 29).
+
+Structural: 58 two_sided / 442 NOT bracket-able of 500 (11.6%): yes_only 429 / no_only 2 / empty 11. NO can't be acquired via YES bids (separate token book); ask-only bracket check complete. Detector uses min() correctly — 0 brackets is a REAL result, not an artifact. NOTE: task-script near-miss block uses asks[0] (worst ask, DESC-sorted) which always reports 0 — reconfirmed artifact; supp min-ask run used for all floor/near-miss data.
+
+Artifacts committed here (unpushed).
