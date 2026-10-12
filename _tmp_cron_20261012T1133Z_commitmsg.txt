@@ -1,0 +1,1 @@
+scan 2026-10-12T1133Z: 0 brackets | floor 1.0040 Venezia FC (-3.5) solo (Y@0.005 N@0.999, liq 9.1k) | tiers le1005=1 le1010=11 le1020=24 le1030=29
