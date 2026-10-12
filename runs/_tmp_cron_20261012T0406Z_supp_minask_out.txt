@@ -1,0 +1,6 @@
+SCAN 20261012T040757Z: 500 markets / 61 priced / 75.1s
+one-sided: {'yes_only': 427, 'no_only': 1, 'empty': 11, 'both': 61}
+BRACKETS (detector, sum<1.00): 0
+TRUE FLOOR (min-ask, <=1.005): 1.003 | Real Valladolid CF vs. Albacete Balompié: O/U 7.5
+  floor detail: Y@0.008 N@0.995 liq=7763.35491
+  1.0030 | Y@0.0150 N@0.9880 liq=34032.6319 | Will the price of Bitcoin be above $90,000 on Octo
