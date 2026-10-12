@@ -1,0 +1,53 @@
+{
+  "ts": "20261011T2358Z",
+  "markets": 500,
+  "priced": 59,
+  "scan_time": 54.01376008987427,
+  "true_floor": 1.003,
+  "floor_q": "Will the price of Bitcoin be above $90,000 on October 14?",
+  "floor_yes": 0.015,
+  "floor_no": 0.988,
+  "floor_liq": 40750.48753,
+  "band": [
+    [
+      1.003,
+      "Will the price of Bitcoin be above $90,000 on October 14?",
+      0.015,
+      0.988,
+      40750.48753
+    ],
+    [
+      1.005,
+      "Real Valladolid CF vs. Albacete Balompi\u00e9: O/U 7.5",
+      0.01,
+      0.995,
+      3134.78352
+    ],
+    [
+      1.005,
+      "Spread: Viking FK (-1.5)",
+      0.015,
+      0.99,
+      15526.35821
+    ],
+    [
+      1.005,
+      "Will the price of Ethereum be between $3,000 and $3,100 on O",
+      0.006,
+      0.999,
+      4330.05343
+    ]
+  ],
+  "tiers": {
+    "<=1.005": 4,
+    "<=1.010": 15,
+    "<=1.020": 22,
+    "<=1.030": 24
+  },
+  "structural": {
+    "two_sided": 59,
+    "yes_only": 424,
+    "no_only": 3,
+    "empty": 14
+  }
+}
