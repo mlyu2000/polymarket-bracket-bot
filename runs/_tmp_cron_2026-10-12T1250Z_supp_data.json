@@ -1,0 +1,90 @@
+{
+  "ts": "2026-10-12T1250Z",
+  "markets": 500,
+  "scan_time": 53.8,
+  "tiers": {
+    "le1000": 0,
+    "le1005": 1,
+    "le1010": 10,
+    "le1020": 21,
+    "le1030": 28
+  },
+  "structural": {
+    "two_sided": 72,
+    "yes_only": 420,
+    "no_only": 0,
+    "empty": 8
+  },
+  "top10": [
+    {
+      "total": 1.004,
+      "q": "Spread: Venezia FC (-3.5)",
+      "yes": 0.005,
+      "no": 0.999,
+      "liq": 9058.99345
+    },
+    {
+      "total": 1.008,
+      "q": "Will the Democratic Party win the NH-02 House seat?",
+      "yes": 0.954,
+      "no": 0.054,
+      "liq": 50883.20099
+    },
+    {
+      "total": 1.009,
+      "q": "Spread: Ey\u00fcpspor (-3.5)",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 2172.5052
+    },
+    {
+      "total": 1.01,
+      "q": "Exact Score: Red Bull Bragantino 1 - 2 Cruzeiro EC?",
+      "yes": 0.08,
+      "no": 0.93,
+      "liq": 18340.8728
+    },
+    {
+      "total": 1.01,
+      "q": "Millwall FC vs. Swansea City AFC: 1st Half O/U 0.5",
+      "yes": 0.71,
+      "no": 0.3,
+      "liq": 7664.828
+    },
+    {
+      "total": 1.01,
+      "q": "Spread: Real Madrid CF (-2.5)",
+      "yes": 0.36,
+      "no": 0.65,
+      "liq": 13732.2372
+    },
+    {
+      "total": 1.01,
+      "q": "Will Georgia have more than 11.5 wins during the 2026 CFB se",
+      "yes": 0.42,
+      "no": 0.59,
+      "liq": 762.303
+    },
+    {
+      "total": 1.01,
+      "q": "Will Sheffield United FC win on 2026-10-14?",
+      "yes": 0.31,
+      "no": 0.7,
+      "liq": 20377.1664
+    },
+    {
+      "total": 1.01,
+      "q": "Will Washington Capitals be the 2027 NHL Eastern Conference ",
+      "yes": 0.1,
+      "no": 0.91,
+      "liq": 69841.7094
+    },
+    {
+      "total": 1.01,
+      "q": "Wolverhampton Wanderers FC vs. Bolton Wanderers FC: O/U 3.5",
+      "yes": 0.37,
+      "no": 0.64,
+      "liq": 17988.6329
+    }
+  ]
+}
