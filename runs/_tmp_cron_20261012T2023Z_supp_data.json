@@ -1,0 +1,97 @@
+{
+ "ts_utc": "2026-10-12T20:25:58Z",
+ "n_markets": 500,
+ "n_two_sided": 68,
+ "yes_only": 424,
+ "no_only": 0,
+ "empty": 8,
+ "tiers": {
+  "<=1.005": 1,
+  "<=1.01": 14,
+  "<=1.02": 28,
+  "<=1.03": 32,
+  "<=1.05": 44
+ },
+ "floor": [
+  1.005,
+  "Spread: Galatasaray SK (-2.5)",
+  0.015,
+  0.99,
+  22954.21211
+ ],
+ "top10": [
+  [
+   1.005,
+   "Spread: Galatasaray SK (-2.5)",
+   0.015,
+   0.99,
+   22954.21211
+  ],
+  [
+   1.006,
+   "Spread: \u0160K Slovan Bratislava (-2.5)",
+   0.008,
+   0.998,
+   13833.88069
+  ],
+  [
+   1.007,
+   "Levante UD vs. Sevilla FC: Sevilla FC O/U 4.5",
+   0.008,
+   0.999,
+   2327.91
+  ],
+  [
+   1.009,
+   "US-Iran Hormuz Agreement by October 31?",
+   0.135,
+   0.874,
+   38807.39541
+  ],
+  [
+   1.01,
+   "Atalanta BC vs. P\u00e1fos FC: O/U 2.5",
+   0.62,
+   0.39,
+   5444.1055
+  ],
+  [
+   1.01,
+   "Club Always Ready leading at halftime?",
+   0.66,
+   0.35,
+   3808.4715
+  ],
+  [
+   1.01,
+   "Spread: Burnley FC (-1.5)",
+   0.34,
+   0.67,
+   24848.5888
+  ],
+  [
+   1.01,
+   "Spread: Manchester City FC (-3.5)",
+   0.05,
+   0.96,
+   14449.5229
+  ],
+  [
+   1.01,
+   "Spread: Real Madrid CF (-2.5)",
+   0.36,
+   0.65,
+   13592.3569
+  ],
+  [
+   1.01,
+   "Will Dplus KIA Qualify for Worlds 2026?",
+   0.998,
+   0.012,
+   130.12567
+  ]
+ ],
+ "n_band_1005": 1,
+ "median_minask": 1.041,
+ "best_gross_edge": -0.004999999999999893
+}

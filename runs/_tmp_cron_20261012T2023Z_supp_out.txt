@@ -1,0 +1,16 @@
+two_sided=68 yes_only=424 no_only=0 empty=8
+tiers: {'<=1.005': 1, '<=1.01': 14, '<=1.02': 28, '<=1.03': 32, '<=1.05': 44}
+best_gross_edge: -0.004999999999999893
+FLOOR: 1.0050 | Yes@0.015 No@0.990 | liq 22954.21211 | Spread: Galatasaray SK (-2.5)
+top10:
+  1.0050 | Yes@0.015 No@0.990 | liq 22954.21211 | Spread: Galatasaray SK (-2.5)
+  1.0060 | Yes@0.008 No@0.998 | liq 13833.88069 | Spread: ŠK Slovan Bratislava (-2.5)
+  1.0070 | Yes@0.008 No@0.999 | liq 2327.91 | Levante UD vs. Sevilla FC: Sevilla FC O/U 4.5
+  1.0090 | Yes@0.135 No@0.874 | liq 38807.39541 | US-Iran Hormuz Agreement by October 31?
+  1.0100 | Yes@0.620 No@0.390 | liq 5444.1055 | Atalanta BC vs. Páfos FC: O/U 2.5
+  1.0100 | Yes@0.660 No@0.350 | liq 3808.4715 | Club Always Ready leading at halftime?
+  1.0100 | Yes@0.340 No@0.670 | liq 24848.5888 | Spread: Burnley FC (-1.5)
+  1.0100 | Yes@0.050 No@0.960 | liq 14449.5229 | Spread: Manchester City FC (-3.5)
+  1.0100 | Yes@0.360 No@0.650 | liq 13592.3569 | Spread: Real Madrid CF (-2.5)
+  1.0100 | Yes@0.998 No@0.012 | liq 130.12567 | Will Dplus KIA Qualify for Worlds 2026?
+band<=1.005 n=1
