@@ -1,0 +1,16 @@
+two_sided=70 yes_only=422 no_only=0 empty=8
+tiers: {'<=1.005': 2, '<=1.01': 12, '<=1.02': 27, '<=1.03': 32, '<=1.05': 46}
+best_gross_edge: -0.0029999999999998916
+FLOOR: 1.0030 | Yes@0.954 No@0.049 | liq 61116.72397 | Will the Democratic Party win the NH-02 House seat?
+top10:
+  1.0030 | Yes@0.954 No@0.049 | liq 61116.72397 | Will the Democratic Party win the NH-02 House seat?
+  1.0050 | Yes@0.015 No@0.990 | liq 21153.56475 | Spread: Galatasaray SK (-2.5)
+  1.0060 | Yes@0.008 No@0.998 | liq 13728.84997 | Spread: ŠK Slovan Bratislava (-2.5)
+  1.0090 | Yes@0.135 No@0.874 | liq 36538.18116 | US-Iran Hormuz Agreement by October 31?
+  1.0100 | Yes@0.620 No@0.390 | liq 6085.6954 | Atalanta BC vs. Páfos FC: O/U 2.5
+  1.0100 | Yes@0.340 No@0.670 | liq 25398.6695 | Spread: Burnley FC (-1.5)
+  1.0100 | Yes@0.050 No@0.960 | liq 14458.7683 | Spread: Manchester City FC (-3.5)
+  1.0100 | Yes@0.360 No@0.650 | liq 13625.8299 | Spread: Real Madrid CF (-2.5)
+  1.0100 | Yes@0.420 No@0.590 | liq 1844.0044 | Will Georgia have more than 11.5 wins during the 2026 CFB season?
+  1.0100 | Yes@0.310 No@0.700 | liq 27790.509 | Will Sheffield United FC win on 2026-10-14?
+band<=1.005 n=2

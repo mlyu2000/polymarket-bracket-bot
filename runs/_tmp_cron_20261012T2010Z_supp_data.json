@@ -1,0 +1,97 @@
+{
+ "ts_utc": "2026-10-12T20:10:42Z",
+ "n_markets": 500,
+ "n_two_sided": 70,
+ "yes_only": 422,
+ "no_only": 0,
+ "empty": 8,
+ "tiers": {
+  "<=1.005": 2,
+  "<=1.01": 12,
+  "<=1.02": 27,
+  "<=1.03": 32,
+  "<=1.05": 46
+ },
+ "floor": [
+  1.003,
+  "Will the Democratic Party win the NH-02 House seat?",
+  0.954,
+  0.049,
+  61116.72397
+ ],
+ "top10": [
+  [
+   1.003,
+   "Will the Democratic Party win the NH-02 House seat?",
+   0.954,
+   0.049,
+   61116.72397
+  ],
+  [
+   1.005,
+   "Spread: Galatasaray SK (-2.5)",
+   0.015,
+   0.99,
+   21153.56475
+  ],
+  [
+   1.006,
+   "Spread: \u0160K Slovan Bratislava (-2.5)",
+   0.008,
+   0.998,
+   13728.84997
+  ],
+  [
+   1.009,
+   "US-Iran Hormuz Agreement by October 31?",
+   0.135,
+   0.874,
+   36538.18116
+  ],
+  [
+   1.01,
+   "Atalanta BC vs. P\u00e1fos FC: O/U 2.5",
+   0.62,
+   0.39,
+   6085.6954
+  ],
+  [
+   1.01,
+   "Spread: Burnley FC (-1.5)",
+   0.34,
+   0.67,
+   25398.6695
+  ],
+  [
+   1.01,
+   "Spread: Manchester City FC (-3.5)",
+   0.05,
+   0.96,
+   14458.7683
+  ],
+  [
+   1.01,
+   "Spread: Real Madrid CF (-2.5)",
+   0.36,
+   0.65,
+   13625.8299
+  ],
+  [
+   1.01,
+   "Will Georgia have more than 11.5 wins during the 2026 CFB season?",
+   0.42,
+   0.59,
+   1844.0044
+  ],
+  [
+   1.01,
+   "Will Sheffield United FC win on 2026-10-14?",
+   0.31,
+   0.7,
+   27790.509
+  ]
+ ],
+ "n_band_1005": 2,
+ "median_minask": 1.041,
+ "best_gross_edge": -0.0029999999999998916
+}
