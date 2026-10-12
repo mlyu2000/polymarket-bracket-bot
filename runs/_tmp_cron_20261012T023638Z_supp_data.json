@@ -1,0 +1,53 @@
+{
+  "ts": "20261012T023638Z",
+  "markets": 500,
+  "priced": 60,
+  "scan_time": 54.68287801742554,
+  "true_floor": 1.003,
+  "floor_q": "Will the price of Bitcoin be above $90,000 on October 14?",
+  "floor_yes": 0.015,
+  "floor_no": 0.988,
+  "floor_liq": 40741.42966,
+  "band": [
+    [
+      1.003,
+      "Will the price of Bitcoin be above $90,000 on October 14?",
+      0.015,
+      0.988,
+      40741.42966
+    ],
+    [
+      1.004,
+      "Will the price of Ethereum be between $3,000 and $3,100 on O",
+      0.005,
+      0.999,
+      3834.15318
+    ],
+    [
+      1.005,
+      "Real Valladolid CF vs. Albacete Balompi\u00e9: O/U 7.5",
+      0.01,
+      0.995,
+      3848.90333
+    ],
+    [
+      1.005,
+      "Will the Democratic Party win the NH-02 House seat?",
+      0.954,
+      0.051,
+      50342.43117
+    ]
+  ],
+  "tiers": {
+    "<=1.005": 4,
+    "<=1.010": 17,
+    "<=1.020": 24,
+    "<=1.030": 26
+  },
+  "structural": {
+    "two_sided": 60,
+    "yes_only": 426,
+    "no_only": 1,
+    "empty": 13
+  }
+}
