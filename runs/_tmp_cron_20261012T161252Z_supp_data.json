@@ -1,0 +1,28 @@
+{
+  "ts": "20261012T161252Z",
+  "markets": 500,
+  "priced": 72,
+  "scan_time": 53.3,
+  "one_sided": {
+    "yes_only": 419,
+    "no_only": 0,
+    "empty": 9,
+    "both": 72
+  },
+  "floor": 1.005,
+  "floor_q": "Spread: Galatasaray SK (-2.5)",
+  "floor_yes": 0.015,
+  "floor_no": 0.99,
+  "floor_liq": 18410.38241,
+  "band": [
+    [
+      1.005,
+      "Spread: Galatasaray SK (-2.5)",
+      0.015,
+      0.99,
+      18410.38241
+    ]
+  ],
+  "brackets": [],
+  "detector_opps": 0
+}

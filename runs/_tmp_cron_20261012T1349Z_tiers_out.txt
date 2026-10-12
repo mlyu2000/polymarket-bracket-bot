@@ -1,0 +1,8 @@
+le1.000: 0
+le1.005: 1
+le1.010: 12
+le1.020: 24
+le1.030: 30
+le1.040: 32
+band<=1.005 members: [(1.003, 'Spread: Venezia FC (-3.5)', 0.004, 0.999, 41412.4)]
+structural: two_sided=73 yes_only=417 no_only=0 empty=10
