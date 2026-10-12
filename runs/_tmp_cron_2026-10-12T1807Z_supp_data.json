@@ -1,0 +1,220 @@
+{
+  "ts": "2026-10-12T1807Z",
+  "markets": 500,
+  "two_sided": 73,
+  "yes_only": 427,
+  "brackets": [],
+  "near_1_03": [
+    [
+      1.003,
+      "Levante UD vs. Sevilla FC: Sevilla FC O/U 4.5",
+      0.01,
+      0.993,
+      1108.6358
+    ],
+    [
+      1.005,
+      "Spread: Galatasaray SK (-2.5)",
+      0.015,
+      0.99,
+      18977.46091
+    ],
+    [
+      1.006,
+      "Will the Democratic Party win the NH-02 House seat",
+      0.954,
+      0.052,
+      50787.80742
+    ],
+    [
+      1.007,
+      "Spread: \u0160K Slovan Bratislava (-2.5)",
+      0.008,
+      0.999,
+      17142.24635
+    ],
+    [
+      1.009,
+      "Will the highest temperature in Amsterdam be 13\u00b0C ",
+      0.01,
+      0.999,
+      2516.55396
+    ],
+    [
+      1.01,
+      "Exact Score: Red Bull Bragantino 1 - 2 Cruzeiro EC",
+      0.08,
+      0.93,
+      18841.3533
+    ],
+    [
+      1.01,
+      "Millwall FC vs. Swansea City AFC: 1st Half O/U 0.5",
+      0.71,
+      0.3,
+      8665.5651
+    ],
+    [
+      1.01,
+      "Spread: Burnley FC (-1.5)",
+      0.34,
+      0.67,
+      21229.7931
+    ],
+    [
+      1.01,
+      "Spread: Real Madrid CF (-2.5)",
+      0.36,
+      0.65,
+      13633.0065
+    ],
+    [
+      1.01,
+      "Will Georgia have more than 11.5 wins during the 2",
+      0.42,
+      0.59,
+      909.6411
+    ],
+    [
+      1.01,
+      "Will Sheffield United FC win on 2026-10-14?",
+      0.31,
+      0.7,
+      21889.9772
+    ],
+    [
+      1.01,
+      "Will Washington Capitals be the 2027 NHL Eastern C",
+      0.1,
+      0.91,
+      50492.4345
+    ],
+    [
+      1.01,
+      "Wolverhampton Wanderers FC vs. Bolton Wanderers FC",
+      0.37,
+      0.64,
+      21650.8162
+    ],
+    [
+      1.013,
+      "Spread: Manchester United FC (-3.5)",
+      0.015,
+      0.998,
+      15445.75752
+    ],
+    [
+      1.016,
+      "Spread: MH Hapoel Be'er Sheva (-2.5)",
+      0.017,
+      0.999,
+      2359.73058
+    ],
+    [
+      1.016,
+      "Will Fernando Mendoza have 3,500+ passing yards in",
+      0.06,
+      0.956,
+      179.53536
+    ],
+    [
+      1.017,
+      "Will Dplus KIA Qualify for Worlds 2026?",
+      0.998,
+      0.019,
+      89.84387
+    ],
+    [
+      1.019,
+      "Spread: Lillestr\u00f8m SK (-2.5)",
+      0.02,
+      0.999,
+      3317.61916
+    ],
+    [
+      1.019,
+      "Will the lowest temperature in Seattle be 35\u00b0F or ",
+      0.021,
+      0.998,
+      208.90962
+    ],
+    [
+      1.02,
+      "Al Gharafa SC vs. Esteghlal FC Tehran: 1st Half O/",
+      0.37,
+      0.65,
+      11159.9611
+    ],
+    [
+      1.02,
+      "Club Always Ready leading at halftime?",
+      0.66,
+      0.36,
+      1779.8939
+    ],
+    [
+      1.02,
+      "Spread: Manchester City FC (-3.5)",
+      0.06,
+      0.96,
+      19041.2066
+    ],
+    [
+      1.02,
+      "Washington State vs. Oregon State: O/U 51.5",
+      0.56,
+      0.46,
+      11342.4365
+    ],
+    [
+      1.02,
+      "Will CE Sabadell FC win on 2026-10-18?",
+      0.34,
+      0.68,
+      7135.4976
+    ],
+    [
+      1.02,
+      "Will the Utah Mammoth record 100+ points?",
+      0.49,
+      0.53,
+      296.5503
+    ],
+    [
+      1.03,
+      "Arsenal FC vs. Lille OSC: Lille OSC O/U 0.5",
+      0.48,
+      0.55,
+      20073.4161
+    ],
+    [
+      1.03,
+      "Atalanta BC vs. P\u00e1fos FC: O/U 2.5",
+      0.63,
+      0.4,
+      5647.6889
+    ],
+    [
+      1.03,
+      "Spread: Brighton & Hove Albion FC (-5.5)",
+      0.25,
+      0.78,
+      3036.831
+    ],
+    [
+      1.03,
+      "Will Feyenoord finish as runner-up in the 2026-27 ",
+      0.032,
+      0.998,
+      166.30708
+    ],
+    [
+      1.03,
+      "Will USD/JPY hit 190 (High) in 2026?",
+      0.07,
+      0.96,
+      114.3793
+    ]
+  ],
+  "scan_time": 56.05981373786926
+}
