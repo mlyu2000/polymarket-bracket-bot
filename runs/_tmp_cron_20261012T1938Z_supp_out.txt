@@ -1,0 +1,16 @@
+two_sided=69 yes_only=419 no_only=2 empty=10
+tiers: {'<=1.005': 1, '<=1.01': 11, '<=1.02': 26, '<=1.03': 33, '<=1.05': 45}
+best_gross_edge: -0.004999999999999893
+FLOOR: 1.0050 | Yes@0.015 No@0.990 | liq 21005.63121 | Spread: Galatasaray SK (-2.5)
+top10:
+  1.0050 | Yes@0.015 No@0.990 | liq 21005.63121 | Spread: Galatasaray SK (-2.5)
+  1.0060 | Yes@0.008 No@0.998 | liq 13845.88903 | Spread: ŠK Slovan Bratislava (-2.5)
+  1.0090 | Yes@0.010 No@0.999 | liq 2784.01841 | Will the highest temperature in Amsterdam be 13°C on October 14?
+  1.0100 | Yes@0.340 No@0.670 | liq 24099.1386 | Spread: Burnley FC (-1.5)
+  1.0100 | Yes@0.050 No@0.960 | liq 14458.2383 | Spread: Manchester City FC (-3.5)
+  1.0100 | Yes@0.360 No@0.650 | liq 13566.6399 | Spread: Real Madrid CF (-2.5)
+  1.0100 | Yes@0.550 No@0.460 | liq 11430.5251 | Washington State vs. Oregon State: O/U 51.5
+  1.0100 | Yes@0.420 No@0.590 | liq 693.5498 | Will Georgia have more than 11.5 wins during the 2026 CFB season?
+  1.0100 | Yes@0.310 No@0.700 | liq 28343.276 | Will Sheffield United FC win on 2026-10-14?
+  1.0100 | Yes@0.100 No@0.910 | liq 56417.3345 | Will Washington Capitals be the 2027 NHL Eastern Conference Champion?
+band<=1.005 n=1

@@ -1,0 +1,97 @@
+{
+ "ts_utc": "2026-10-12T19:40:51Z",
+ "n_markets": 500,
+ "n_two_sided": 69,
+ "yes_only": 419,
+ "no_only": 2,
+ "empty": 10,
+ "tiers": {
+  "<=1.005": 1,
+  "<=1.01": 11,
+  "<=1.02": 26,
+  "<=1.03": 33,
+  "<=1.05": 45
+ },
+ "floor": [
+  1.005,
+  "Spread: Galatasaray SK (-2.5)",
+  0.015,
+  0.99,
+  21005.63121
+ ],
+ "top10": [
+  [
+   1.005,
+   "Spread: Galatasaray SK (-2.5)",
+   0.015,
+   0.99,
+   21005.63121
+  ],
+  [
+   1.006,
+   "Spread: \u0160K Slovan Bratislava (-2.5)",
+   0.008,
+   0.998,
+   13845.88903
+  ],
+  [
+   1.009,
+   "Will the highest temperature in Amsterdam be 13\u00b0C on October 14?",
+   0.01,
+   0.999,
+   2784.01841
+  ],
+  [
+   1.01,
+   "Spread: Burnley FC (-1.5)",
+   0.34,
+   0.67,
+   24099.1386
+  ],
+  [
+   1.01,
+   "Spread: Manchester City FC (-3.5)",
+   0.05,
+   0.96,
+   14458.2383
+  ],
+  [
+   1.01,
+   "Spread: Real Madrid CF (-2.5)",
+   0.36,
+   0.65,
+   13566.6399
+  ],
+  [
+   1.01,
+   "Washington State vs. Oregon State: O/U 51.5",
+   0.55,
+   0.46,
+   11430.5251
+  ],
+  [
+   1.01,
+   "Will Georgia have more than 11.5 wins during the 2026 CFB season?",
+   0.42,
+   0.59,
+   693.5498
+  ],
+  [
+   1.01,
+   "Will Sheffield United FC win on 2026-10-14?",
+   0.31,
+   0.7,
+   28343.276
+  ],
+  [
+   1.01,
+   "Will Washington Capitals be the 2027 NHL Eastern Conference Champion?",
+   0.1,
+   0.91,
+   56417.3345
+  ]
+ ],
+ "n_band_1005": 1,
+ "median_minask": 1.041,
+ "best_gross_edge": -0.004999999999999893
+}
