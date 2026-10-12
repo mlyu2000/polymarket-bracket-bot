@@ -1,0 +1,114 @@
+{
+  "ts": "20261012T212847Z",
+  "markets": 500,
+  "two_sided": 68,
+  "yes_only": 424,
+  "empty": 8,
+  "top": [
+    {
+      "total": 1.001,
+      "q": "Will the highest temperature in Atlanta be between 80-81\u00b0F on October ",
+      "y": 0.002,
+      "n": 0.999,
+      "liq": 1632.52595
+    },
+    {
+      "total": 1.005,
+      "q": "Spread: Galatasaray SK (-2.5)",
+      "y": 0.015,
+      "n": 0.99,
+      "liq": 21468.07996
+    },
+    {
+      "total": 1.006,
+      "q": "Spread: \u0160K Slovan Bratislava (-2.5)",
+      "y": 0.008,
+      "n": 0.998,
+      "liq": 13147.85943
+    },
+    {
+      "total": 1.009,
+      "q": "Spread: FC Porto (-3.5)",
+      "y": 0.01,
+      "n": 0.999,
+      "liq": 1393.38286
+    },
+    {
+      "total": 1.009,
+      "q": "Spread: Lincoln Red Imps FC (-2.5)",
+      "y": 0.01,
+      "n": 0.999,
+      "liq": 1416.64759
+    },
+    {
+      "total": 1.01,
+      "q": "Atalanta BC vs. P\u00e1fos FC: O/U 2.5",
+      "y": 0.62,
+      "n": 0.39,
+      "liq": 6144.6754
+    },
+    {
+      "total": 1.01,
+      "q": "Spread: Burnley FC (-1.5)",
+      "y": 0.34,
+      "n": 0.67,
+      "liq": 25024.8469
+    },
+    {
+      "total": 1.01,
+      "q": "Spread: Manchester City FC (-3.5)",
+      "y": 0.05,
+      "n": 0.96,
+      "liq": 14435.3493
+    },
+    {
+      "total": 1.01,
+      "q": "Spread: Real Madrid CF (-2.5)",
+      "y": 0.36,
+      "n": 0.65,
+      "liq": 12855.7899
+    },
+    {
+      "total": 1.01,
+      "q": "US-Iran Hormuz Agreement by October 31?",
+      "y": 0.136,
+      "n": 0.874,
+      "liq": 40109.51387
+    },
+    {
+      "total": 1.01,
+      "q": "Will Georgia have more than 11.5 wins during the 2026 CFB season?",
+      "y": 0.42,
+      "n": 0.59,
+      "liq": 1810.8845
+    },
+    {
+      "total": 1.01,
+      "q": "Will Washington Capitals be the 2027 NHL Eastern Conference Champion?",
+      "y": 0.1,
+      "n": 0.91,
+      "liq": 55426.888
+    },
+    {
+      "total": 1.01,
+      "q": "Will the highest temperature in Atlanta be between 92-93\u00b0F on October ",
+      "y": 0.012,
+      "n": 0.998,
+      "liq": 1509.40764
+    },
+    {
+      "total": 1.01,
+      "q": "Wolverhampton Wanderers FC vs. Bolton Wanderers FC: O/U 3.5",
+      "y": 0.37,
+      "n": 0.64,
+      "liq": 22551.4516
+    },
+    {
+      "total": 1.011,
+      "q": "Spread: \u0160K Slovan Bratislava (-3.5)",
+      "y": 0.013,
+      "n": 0.998,
+      "liq": 9960.66048
+    }
+  ]
+}
