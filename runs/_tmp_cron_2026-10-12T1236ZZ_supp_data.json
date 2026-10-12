@@ -1,0 +1,287 @@
+{
+  "generated_at": "2026-10-12T1236Z",
+  "markets": 500,
+  "two_sided_bracketable": 72,
+  "top": [
+    {
+      "q": "Spread: Venezia FC (-3.5)",
+      "yes": 0.005,
+      "no": 0.999,
+      "sum": 1.004,
+      "liq": 9068.95345
+    },
+    {
+      "q": "Will Dplus KIA Qualify for Worlds 2026?",
+      "yes": 0.998,
+      "no": 0.01,
+      "sum": 1.008,
+      "liq": 119.02595
+    },
+    {
+      "q": "Spread: Ey\u00fcpspor (-3.5)",
+      "yes": 0.01,
+      "no": 0.999,
+      "sum": 1.009,
+      "liq": 2187.23018
+    },
+    {
+      "q": "Will Washington Capitals be the 2027 NHL Eastern Conference Champion?",
+      "yes": 0.1,
+      "no": 0.91,
+      "sum": 1.01,
+      "liq": 69905.8391
+    },
+    {
+      "q": "Spread: Real Madrid CF (-2.5)",
+      "yes": 0.36,
+      "no": 0.65,
+      "sum": 1.01,
+      "liq": 13829.4872
+    },
+    {
+      "q": "Will the Democratic Party win the NH-02 House seat?",
+      "yes": 0.954,
+      "no": 0.056,
+      "sum": 1.01,
+      "liq": 50791.64018
+    },
+    {
+      "q": "Wolverhampton Wanderers FC vs. Bolton Wanderers FC: O/U 3.5",
+      "yes": 0.37,
+      "no": 0.64,
+      "sum": 1.01,
+      "liq": 15034.1718
+    },
+    {
+      "q": "Exact Score: Red Bull Bragantino 1 - 2 Cruzeiro EC?",
+      "yes": 0.08,
+      "no": 0.93,
+      "sum": 1.01,
+      "liq": 17585.1916
+    },
+    {
+      "q": "Will Sheffield United FC win on 2026-10-14?",
+      "yes": 0.31,
+      "no": 0.7,
+      "sum": 1.01,
+      "liq": 17605.8306
+    },
+    {
+      "q": "Exact Score: Galatasaray SK 0 - 5 FC Barcelona?",
+      "yes": 0.037,
+      "no": 0.973,
+      "sum": 1.01,
+      "liq": 19323.48808
+    },
+    {
+      "q": "Spread: Galatasaray SK (-2.5)",
+      "yes": 0.014,
+      "no": 0.998,
+      "sum": 1.012,
+      "liq": 17109.07111
+    },
+    {
+      "q": "Spread: Manchester United FC (-3.5)",
+      "yes": 0.015,
+      "no": 0.998,
+      "sum": 1.013,
+      "liq": 15240.62397
+    },
+    {
+      "q": "North East United FC leading at halftime?",
+      "yes": 0.23,
+      "no": 0.79,
+      "sum": 1.02,
+      "liq": 3023.3339
+    },
+    {
+      "q": "Spread: Manchester City FC (-3.5)",
+      "yes": 0.05,
+      "no": 0.97,
+      "sum": 1.02,
+      "liq": 13368.4961
+    },
+    {
+      "q": "Spread: Burnley FC (-1.5)",
+      "yes": 0.35,
+      "no": 0.67,
+      "sum": 1.02,
+      "liq": 15161.2626
+    },
+    {
+      "q": "Will Fernando Mendoza have 3,500+ passing yards in the 2026-27 NFL regular season?",
+      "yes": 0.06,
+      "no": 0.96,
+      "sum": 1.02,
+      "liq": 158.93282
+    },
+    {
+      "q": "Millwall FC vs. Swansea City AFC: 1st Half O/U 0.5",
+      "yes": 0.72,
+      "no": 0.3,
+      "sum": 1.02,
+      "liq": 6478.069
+    },
+    {
+      "q": "Spread: \u0160K Slovan Bratislava (-2.5)",
+      "yes": 0.023,
+      "no": 0.999,
+      "sum": 1.022,
+      "liq": 12120.3352
+    },
+    {
+      "q": "Real Valladolid CF vs. Albacete Balompi\u00e9: Real Valladolid CF O/U 5.5",
+      "yes": 0.121,
+      "no": 0.903,
+      "sum": 1.024,
+      "liq": 724.26549
+    },
+    {
+      "q": "Arsenal FC vs. Lille OSC: Lille OSC O/U 0.5",
+      "yes": 0.48,
+      "no": 0.55,
+      "sum": 1.03,
+      "liq": 26271.9775
+    },
+    {
+      "q": "Will the Utah Mammoth record 100+ points?",
+      "yes": 0.5,
+      "no": 0.53,
+      "sum": 1.03,
+      "liq": 256.785
+    },
+    {
+      "q": "Atalanta BC vs. P\u00e1fos FC: O/U 2.5",
+      "yes": 0.63,
+      "no": 0.4,
+      "sum": 1.03,
+      "liq": 5374.2157
+    },
+    {
+      "q": "San Luis de Quillota leading at halftime?",
+      "yes": 0.39,
+      "no": 0.64,
+      "sum": 1.03,
+      "liq": 301.1387
+    },
+    {
+      "q": "Club Always Ready leading at halftime?",
+      "yes": 0.68,
+      "no": 0.35,
+      "sum": 1.03,
+      "liq": 726.0054
+    },
+    {
+      "q": "Will Georgia have more than 11.5 wins during the 2026 CFB season?",
+      "yes": 0.42,
+      "no": 0.61,
+      "sum": 1.03,
+      "liq": 753.8428
+    },
+    {
+      "q": "Will USD/JPY hit 190 (High) in 2026?",
+      "yes": 0.07,
+      "no": 0.96,
+      "sum": 1.03,
+      "liq": 104.3838
+    },
+    {
+      "q": "Washington State vs. Oregon State: O/U 51.5",
+      "yes": 0.56,
+      "no": 0.47,
+      "sum": 1.03,
+      "liq": 8825.6241
+    },
+    {
+      "q": "Real Oviedo vs. SD Eibar: Real Oviedo O/U 4.5",
+      "yes": 0.031,
+      "no": 0.999,
+      "sum": 1.03,
+      "liq": 244.6631
+    },
+    {
+      "q": "Spread: \u0160K Slovan Bratislava (-3.5)",
+      "yes": 0.04,
+      "no": 0.999,
+      "sum": 1.039,
+      "liq": 225.41674
+    },
+    {
+      "q": "Spread: MH Hapoel Be'er Sheva (-2.5)",
+      "yes": 0.04,
+      "no": 0.999,
+      "sum": 1.039,
+      "liq": 399.28821
+    },
+    {
+      "q": "Al-Ittihad Club vs. Shabab Al Ahli Dubai: O/U 2.5",
+      "yes": 0.62,
+      "no": 0.42,
+      "sum": 1.04,
+      "liq": 6649.5776
+    },
+    {
+      "q": "Will Pittsburgh Steelers finish the 2026-27 NFL regular season with the most return yards?",
+      "yes": 0.042,
+      "no": 0.999,
+      "sum": 1.041,
+      "liq": 193.43698
+    },
+    {
+      "q": "Will Jacksonville Jaguars finish the 2026-27 NFL regular season with the most return yards?",
+      "yes": 0.042,
+      "no": 0.999,
+      "sum": 1.041,
+      "liq": 193.3795
+    },
+    {
+      "q": "Will Denver Broncos finish the 2026-27 NFL regular season with the most return yards?",
+      "yes": 0.042,
+      "no": 0.999,
+      "sum": 1.041,
+      "liq": 193.44363
+    },
+    {
+      "q": "Will Kansas City Chiefs finish the 2026-27 NFL regular season with the most return yards?",
+      "yes": 0.042,
+      "no": 0.999,
+      "sum": 1.041,
+      "liq": 195.46745
+    },
+    {
+      "q": "Will Las Vegas Raiders finish the 2026-27 NFL regular season with the most return yards?",
+      "yes": 0.042,
+      "no": 0.999,
+      "sum": 1.041,
+      "liq": 195.32702
+    },
+    {
+      "q": "Will Atlanta Falcons finish the 2026-27 NFL regular season with the most return yards?",
+      "yes": 0.042,
+      "no": 0.999,
+      "sum": 1.041,
+      "liq": 192.70787
+    },
+    {
+      "q": "Will Carolina Panthers finish the 2026-27 NFL regular season with the most return yards?",
+      "yes": 0.042,
+      "no": 0.999,
+      "sum": 1.041,
+      "liq": 192.78265
+    },
+    {
+      "q": "Will New Orleans Saints finish the 2026-27 NFL regular season with the most return yards?",
+      "yes": 0.042,
+      "no": 0.999,
+      "sum": 1.041,
+      "liq": 196.27161
+    },
+    {
+      "q": "Will San Francisco 49ers finish the 2026-27 NFL regular season with the most return yards?",
+      "yes": 0.042,
+      "no": 0.999,
+      "sum": 1.041,
+      "liq": 195.36257
+    }
+  ]
+}
