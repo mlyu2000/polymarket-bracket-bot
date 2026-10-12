@@ -1,0 +1,695 @@
+{
+  "ts": "20261012T1536Z",
+  "markets": 500,
+  "two_sided_priced": 74,
+  "floor": {
+    "q": "Spread: Galatasaray SK (-2.5)",
+    "yes_min": 0.015,
+    "no_min": 0.991,
+    "total": 1.006,
+    "liq": 18694.2962,
+    "n_yes_asks": 35,
+    "n_no_asks": 8
+  },
+  "tiers": {
+    "le1005": 0,
+    "le1010": 15,
+    "le1020": 25,
+    "le1030": 28
+  },
+  "median": 1.041,
+  "structural": {
+    "two_sided": 26,
+    "yes_only": 433,
+    "no_only": 2,
+    "empty": 39
+  },
+  "rows": [
+    {
+      "q": "Spread: Galatasaray SK (-2.5)",
+      "yes_min": 0.015,
+      "no_min": 0.991,
+      "total": 1.006,
+      "liq": 18694.2962,
+      "n_yes_asks": 35,
+      "n_no_asks": 8
+    },
+    {
+      "q": "Will the Democratic Party win the NH-02 House seat?",
+      "yes_min": 0.954,
+      "no_min": 0.052,
+      "total": 1.006,
+      "liq": 50882.8887,
+      "n_yes_asks": 19,
+      "n_no_asks": 41
+    },
+    {
+      "q": "Spread: ŠK Slovan Bratislava (-2.5)",
+      "yes_min": 0.008,
+      "no_min": 0.998,
+      "total": 1.006,
+      "liq": 12366.3327,
+      "n_yes_asks": 25,
+      "n_no_asks": 2
+    },
+    {
+      "q": "Exact Score: Galatasaray SK 0 - 5 FC Barcelona?",
+      "yes_min": 0.038,
+      "no_min": 0.969,
+      "total": 1.007,
+      "liq": 20992.1675,
+      "n_yes_asks": 33,
+      "n_no_asks": 8
+    },
+    {
+      "q": "Will the highest temperature in Amsterdam be 13°C on Oc",
+      "yes_min": 0.01,
+      "no_min": 0.999,
+      "total": 1.009,
+      "liq": 2587.5999,
+      "n_yes_asks": 74,
+      "n_no_asks": 1
+    },
+    {
+      "q": "Spread: Eyüpspor (-3.5)",
+      "yes_min": 0.01,
+      "no_min": 0.999,
+      "total": 1.009,
+      "liq": 13882.671,
+      "n_yes_asks": 36,
+      "n_no_asks": 1
+    },
+    {
+      "q": "Dijon Football Côte d'Or vs. FC Metz: Both Teams to Sco",
+      "yes_min": 0.61,
+      "no_min": 0.4,
+      "total": 1.01,
+      "liq": 43448.4322,
+      "n_yes_asks": 24,
+      "n_no_asks": 28
+    },
+    {
+      "q": "Will Washington Capitals be the 2027 NHL Eastern Confer",
+      "yes_min": 0.1,
+      "no_min": 0.91,
+      "total": 1.01,
+      "liq": 49418.8161,
+      "n_yes_asks": 22,
+      "n_no_asks": 6
+    },
+    {
+      "q": "Spread: Real Madrid CF (-2.5)",
+      "yes_min": 0.36,
+      "no_min": 0.65,
+      "total": 1.01,
+      "liq": 13515.7928,
+      "n_yes_asks": 21,
+      "n_no_asks": 13
+    },
+    {
+      "q": "Spread: Burnley FC (-1.5)",
+      "yes_min": 0.34,
+      "no_min": 0.67,
+      "total": 1.01,
+      "liq": 21326.7125,
+      "n_yes_asks": 23,
+      "n_no_asks": 15
+    },
+    {
+      "q": "Wolverhampton Wanderers FC vs. Bolton Wanderers FC: O/U",
+      "yes_min": 0.37,
+      "no_min": 0.64,
+      "total": 1.01,
+      "liq": 21747.9679,
+      "n_yes_asks": 26,
+      "n_no_asks": 25
+    },
+    {
+      "q": "Exact Score: Red Bull Bragantino 1 - 2 Cruzeiro EC?",
+      "yes_min": 0.08,
+      "no_min": 0.93,
+      "total": 1.01,
+      "liq": 19643.6008,
+      "n_yes_asks": 20,
+      "n_no_asks": 6
+    },
+    {
+      "q": "Will Sheffield United FC win on 2026-10-14?",
+      "yes_min": 0.31,
+      "no_min": 0.7,
+      "total": 1.01,
+      "liq": 21007.6679,
+      "n_yes_asks": 24,
+      "n_no_asks": 20
+    },
+    {
+      "q": "Millwall FC vs. Swansea City AFC: 1st Half O/U 0.5",
+      "yes_min": 0.71,
+      "no_min": 0.3,
+      "total": 1.01,
+      "liq": 8688.128,
+      "n_yes_asks": 21,
+      "n_no_asks": 25
+    },
+    {
+      "q": "Will Georgia have more than 11.5 wins during the 2026 C",
+      "yes_min": 0.42,
+      "no_min": 0.59,
+      "total": 1.01,
+      "liq": 792.12,
+      "n_yes_asks": 5,
+      "n_no_asks": 10
+    },
+    {
+      "q": "Spread: Manchester United FC (-3.5)",
+      "yes_min": 0.015,
+      "no_min": 0.998,
+      "total": 1.013,
+      "liq": 15324.9387,
+      "n_yes_asks": 23,
+      "n_no_asks": 2
+    },
+    {
+      "q": "Will Fernando Mendoza have 3,500+ passing yards in the ",
+      "yes_min": 0.06,
+      "no_min": 0.957,
+      "total": 1.017,
+      "liq": 182.5799,
+      "n_yes_asks": 6,
+      "n_no_asks": 8
+    },
+    {
+      "q": "Will Dplus KIA Qualify for Worlds 2026?",
+      "yes_min": 0.998,
+      "no_min": 0.019,
+      "total": 1.017,
+      "liq": 128.1185,
+      "n_yes_asks": 1,
+      "n_no_asks": 13
+    },
+    {
+      "q": "Will the lowest temperature in Seattle be 35°F or below",
+      "yes_min": 0.021,
+      "no_min": 0.998,
+      "total": 1.019,
+      "liq": 207.1656,
+      "n_yes_asks": 16,
+      "n_no_asks": 2
+    },
+    {
+      "q": "Spread: Manchester City FC (-3.5)",
+      "yes_min": 0.06,
+      "no_min": 0.96,
+      "total": 1.02,
+      "liq": 14336.7422,
+      "n_yes_asks": 19,
+      "n_no_asks": 4
+    },
+    {
+      "q": "Will the Utah Mammoth record 100+ points?",
+      "yes_min": 0.49,
+      "no_min": 0.53,
+      "total": 1.02,
+      "liq": 259.4203,
+      "n_yes_asks": 8,
+      "n_no_asks": 8
+    },
+    {
+      "q": "Al Gharafa SC vs. Esteghlal FC Tehran: 1st Half O/U 1.5",
+      "yes_min": 0.36,
+      "no_min": 0.66,
+      "total": 1.02,
+      "liq": 10765.6781,
+      "n_yes_asks": 22,
+      "n_no_asks": 15
+    },
+    {
+      "q": "Al-Ittihad Club vs. Shabab Al Ahli Dubai: O/U 2.5",
+      "yes_min": 0.62,
+      "no_min": 0.4,
+      "total": 1.02,
+      "liq": 8177.5323,
+      "n_yes_asks": 23,
+      "n_no_asks": 26
+    },
+    {
+      "q": "San Luis de Quillota leading at halftime?",
+      "yes_min": 0.35,
+      "no_min": 0.67,
+      "total": 1.02,
+      "liq": 1187.1002,
+      "n_yes_asks": 6,
+      "n_no_asks": 4
+    },
+    {
+      "q": "Club Always Ready leading at halftime?",
+      "yes_min": 0.66,
+      "no_min": 0.36,
+      "total": 1.02,
+      "liq": 2065.9023,
+      "n_yes_asks": 11,
+      "n_no_asks": 9
+    },
+    {
+      "q": "Arsenal FC vs. Lille OSC: Lille OSC O/U 0.5",
+      "yes_min": 0.48,
+      "no_min": 0.55,
+      "total": 1.03,
+      "liq": 26193.1713,
+      "n_yes_asks": 21,
+      "n_no_asks": 25
+    },
+    {
+      "q": "Atalanta BC vs. Páfos FC: O/U 2.5",
+      "yes_min": 0.63,
+      "no_min": 0.4,
+      "total": 1.03,
+      "liq": 5012.3671,
+      "n_yes_asks": 18,
+      "n_no_asks": 18
+    },
+    {
+      "q": "Will USD/JPY hit 190 (High) in 2026?",
+      "yes_min": 0.07,
+      "no_min": 0.96,
+      "total": 1.03,
+      "liq": 114.3793,
+      "n_yes_asks": 15,
+      "n_no_asks": 4
+    },
+    {
+      "q": "Spread: ŠK Slovan Bratislava (-3.5)",
+      "yes_min": 0.04,
+      "no_min": 0.999,
+      "total": 1.039,
+      "liq": 225.4168,
+      "n_yes_asks": 7,
+      "n_no_asks": 1
+    },
+    {
+      "q": "Spread: Brighton & Hove Albion FC (-5.5)",
+      "yes_min": 0.26,
+      "no_min": 0.78,
+      "total": 1.04,
+      "liq": 1764.8281,
+      "n_yes_asks": 15,
+      "n_no_asks": 10
+    },
+    {
+      "q": "Washington State vs. Oregon State: O/U 51.5",
+      "yes_min": 0.56,
+      "no_min": 0.48,
+      "total": 1.04,
+      "liq": 11022.4129,
+      "n_yes_asks": 16,
+      "n_no_asks": 14
+    },
+    {
+      "q": "M15 Quito: Ivan Dreycopp vs Jose Luis Claro",
+      "yes_min": 0.92,
+      "no_min": 0.12,
+      "total": 1.04,
+      "liq": 1434.4589,
+      "n_yes_asks": 7,
+      "n_no_asks": 7
+    },
+    {
+      "q": "Will Pittsburgh Steelers finish the 2026-27 NFL regular",
+      "yes_min": 0.042,
+      "no_min": 0.999,
+      "total": 1.041,
+      "liq": 193.3874,
+      "n_yes_asks": 6,
+      "n_no_asks": 1
+    },
+    {
+      "q": "Will Jacksonville Jaguars finish the 2026-27 NFL regula",
+      "yes_min": 0.042,
+      "no_min": 0.999,
+      "total": 1.041,
+      "liq": 193.4357,
+      "n_yes_asks": 7,
+      "n_no_asks": 1
+    },
+    {
+      "q": "Will Denver Broncos finish the 2026-27 NFL regular seas",
+      "yes_min": 0.042,
+      "no_min": 0.999,
+      "total": 1.041,
+      "liq": 193.005,
+      "n_yes_asks": 6,
+      "n_no_asks": 1
+    },
+    {
+      "q": "Will Kansas City Chiefs finish the 2026-27 NFL regular ",
+      "yes_min": 0.042,
+      "no_min": 0.999,
+      "total": 1.041,
+      "liq": 193.4475,
+      "n_yes_asks": 7,
+      "n_no_asks": 1
+    },
+    {
+      "q": "Will Las Vegas Raiders finish the 2026-27 NFL regular s",
+      "yes_min": 0.042,
+      "no_min": 0.999,
+      "total": 1.041,
+      "liq": 193.4199,
+      "n_yes_asks": 7,
+      "n_no_asks": 1
+    },
+    {
+      "q": "Will Las Vegas Raiders finish the 2026-27 NFL regular s",
+      "yes_min": 0.042,
+      "no_min": 0.999,
+      "total": 1.041,
+      "liq": 193.4197,
+      "n_yes_asks": 7,
+      "n_no_asks": 1
+    },
+    {
+      "q": "Will Atlanta Falcons finish the 2026-27 NFL regular sea",
+      "yes_min": 0.042,
+      "no_min": 0.999,
+      "total": 1.041,
+      "liq": 195.5275,
+      "n_yes_asks": 9,
+      "n_no_asks": 1
+    },
+    {
+      "q": "Will Carolina Panthers finish the 2026-27 NFL regular s",
+      "yes_min": 0.042,
+      "no_min": 0.999,
+      "total": 1.041,
+      "liq": 195.2078,
+      "n_yes_asks": 9,
+      "n_no_asks": 1
+    },
+    {
+      "q": "Will New Orleans Saints finish the 2026-27 NFL regular ",
+      "yes_min": 0.042,
+      "no_min": 0.999,
+      "total": 1.041,
+      "liq": 193.332,
+      "n_yes_asks": 6,
+      "n_no_asks": 1
+    },
+    {
+      "q": "Will San Francisco 49ers finish the 2026-27 NFL regular",
+      "yes_min": 0.042,
+      "no_min": 0.999,
+      "total": 1.041,
+      "liq": 193.0229,
+      "n_yes_asks": 6,
+      "n_no_asks": 1
+    },
+    {
+      "q": "Will Seattle Seahawks finish the 2026-27 NFL regular se",
+      "yes_min": 0.042,
+      "no_min": 0.999,
+      "total": 1.041,
+      "liq": 195.5098,
+      "n_yes_asks": 8,
+      "n_no_asks": 1
+    },
+    {
+      "q": "Exact Score: AFC Bournemouth 4 - 4 SK Puntigamer Sturm ",
+      "yes_min": 0.047,
+      "no_min": 0.999,
+      "total": 1.046,
+      "liq": 1600.367,
+      "n_yes_asks": 16,
+      "n_no_asks": 1
+    },
+    {
+      "q": "Spread: Lincoln Red Imps FC (-2.5)",
+      "yes_min": 0.05,
+      "no_min": 0.999,
+      "total": 1.049,
+      "liq": 1151.688,
+      "n_yes_asks": 11,
+      "n_no_asks": 1
+    },
+    {
+      "q": "Spread: HNK Hajduk Split (-2.5)",
+      "yes_min": 0.06,
+      "no_min": 0.999,
+      "total": 1.059,
+      "liq": 1301.6149,
+      "n_yes_asks": 16,
+      "n_no_asks": 1
+    },
+    {
+      "q": "Spread: SK Puntigamer Sturm Graz (-1.5)",
+      "yes_min": 0.06,
+      "no_min": 0.999,
+      "total": 1.059,
+      "liq": 1556.5621,
+      "n_yes_asks": 19,
+      "n_no_asks": 1
+    },
+    {
+      "q": "Will Dallas Cowboys finish the 2026-27 NFL regular seas",
+      "yes_min": 0.07,
+      "no_min": 0.999,
+      "total": 1.069,
+      "liq": 183.956,
+      "n_yes_asks": 6,
+      "n_no_asks": 1
+    },
+    {
+      "q": "Spread: FK Jablonec (-2.5)",
+      "yes_min": 0.07,
+      "no_min": 0.999,
+      "total": 1.069,
+      "liq": 1262.2707,
+      "n_yes_asks": 15,
+      "n_no_asks": 1
+    },
+    {
+      "q": "Exact Score: AFC Bournemouth 0 - 3 SK Puntigamer Sturm ",
+      "yes_min": 0.071,
+      "no_min": 0.999,
+      "total": 1.07,
+      "liq": 2455.3087,
+      "n_yes_asks": 15,
+      "n_no_asks": 1
+    },
+    {
+      "q": "Spread: Fenerbahçe SK (-3.5)",
+      "yes_min": 0.079,
+      "no_min": 0.999,
+      "total": 1.078,
+      "liq": 2643.1438,
+      "n_yes_asks": 19,
+      "n_no_asks": 1
+    },
+    {
+      "q": "Will Indianapolis Colts finish the 2026-27 NFL regular ",
+      "yes_min": 0.08,
+      "no_min": 0.999,
+      "total": 1.079,
+      "liq": 206.7058,
+      "n_yes_asks": 8,
+      "n_no_asks": 1
+    },
+    {
+      "q": "Will Tennessee Titans finish the 2026-27 NFL regular se",
+      "yes_min": 0.08,
+      "no_min": 0.999,
+      "total": 1.079,
+      "liq": 206.5398,
+      "n_yes_asks": 8,
+      "n_no_asks": 1
+    },
+    {
+      "q": "Exact Score: Central Coast Mariners FC 5 - 5 Newcastle ",
+      "yes_min": 0.08,
+      "no_min": 0.999,
+      "total": 1.079,
+      "liq": 1050.2452,
+      "n_yes_asks": 12,
+      "n_no_asks": 1
+    },
+    {
+      "q": "Exact Score: Qingdao Hainiu FC 5 - 5 Liaoning Tieren FC",
+      "yes_min": 0.08,
+      "no_min": 0.999,
+      "total": 1.079,
+      "liq": 69.3763,
+      "n_yes_asks": 7,
+      "n_no_asks": 1
+    },
+    {
+      "q": "Exact Score: Shandong Taishan FC 5 - 5 Zhejiang Zhiye F",
+      "yes_min": 0.08,
+      "no_min": 0.999,
+      "total": 1.079,
+      "liq": 69.6489,
+      "n_yes_asks": 7,
+      "n_no_asks": 1
+    },
+    {
+      "q": "Will Florida be Ranked #1 during the 2026-27 CFB season",
+      "yes_min": 0.09,
+      "no_min": 0.998,
+      "total": 1.088,
+      "liq": 56.43,
+      "n_yes_asks": 3,
+      "n_no_asks": 2
+    },
+    {
+      "q": "Spread: KF Egnatia Rrogozhinë (-2.5)",
+      "yes_min": 0.099,
+      "no_min": 0.999,
+      "total": 1.098,
+      "liq": 66.7205,
+      "n_yes_asks": 7,
+      "n_no_asks": 1
+    },
+    {
+      "q": "Next Z.ai GLM (5.4+) released by October 31, 2026?",
+      "yes_min": 0.62,
+      "no_min": 0.48,
+      "total": 1.1,
+      "liq": 582.2158,
+      "n_yes_asks": 8,
+      "n_no_asks": 11
+    },
+    {
+      "q": "Atalanta BC vs. Venezia FC: Venezia FC O/U 4.5",
+      "yes_min": 0.169,
+      "no_min": 0.998,
+      "total": 1.167,
+      "liq": 2690.5901,
+      "n_yes_asks": 24,
+      "n_no_asks": 1
+    },
+    {
+      "q": "Levante UD vs. Sevilla FC: Sevilla FC O/U 4.5",
+      "yes_min": 0.184,
+      "no_min": 0.995,
+      "total": 1.179,
+      "liq": 1680.1066,
+      "n_yes_asks": 16,
+      "n_no_asks": 1
+    },
+    {
+      "q": "Spread: MH Hapoel Be'er Sheva (-2.5)",
+      "yes_min": 0.199,
+      "no_min": 0.999,
+      "total": 1.198,
+      "liq": 353.8285,
+      "n_yes_asks": 12,
+      "n_no_asks": 1
+    },
+    {
+      "q": "Spread: Páfos FC (-1.5)",
+      "yes_min": 0.21,
+      "no_min": 0.997,
+      "total": 1.207,
+      "liq": 313.1311,
+      "n_yes_asks": 10,
+      "n_no_asks": 3
+    },
+    {
+      "q": "Will Jack Eichel record 30+ goals in the 2026-27 regula",
+      "yes_min": 0.6,
+      "no_min": 0.7,
+      "total": 1.3,
+      "liq": 26.1744,
+      "n_yes_asks": 5,
+      "n_no_asks": 6
+    },
+    {
+      "q": "Spread: FK Bodø/Glimt (-4.5)",
+      "yes_min": 0.369,
+      "no_min": 0.999,
+      "total": 1.368,
+      "liq": 186.41,
+      "n_yes_asks": 7,
+      "n_no_asks": 1
+    },
+    {
+      "q": "Sabah FK vs. SK Slavia Praha: Sabah FK 1st Half O/U 2.5",
+      "yes_min": 0.59,
+      "no_min": 0.98,
+      "total": 1.57,
+      "liq": 10829.6537,
+      "n_yes_asks": 17,
+      "n_no_asks": 2
+    },
+    {
+      "q": "Spread: NEC (-4.5)",
+      "yes_min": 0.62,
+      "no_min": 0.999,
+      "total": 1.619,
+      "liq": 10.8863,
+      "n_yes_asks": 5,
+      "n_no_asks": 1
+    },
+    {
+      "q": "Spread: Paris Saint-Germain FC (-5.5)",
+      "yes_min": 0.62,
+      "no_min": 0.999,
+      "total": 1.619,
+      "liq": 10.8826,
+      "n_yes_asks": 6,
+      "n_no_asks": 1
+    },
+    {
+      "q": "Spread: AS Omónoia Leukosías (-4.5)",
+      "yes_min": 0.64,
+      "no_min": 0.999,
+      "total": 1.639,
+      "liq": 10.3829,
+      "n_yes_asks": 5,
+      "n_no_asks": 1
+    },
+    {
+      "q": "Abha Saudi Club vs. Al Faisaly Saudi Club: O/U 1.5",
+      "yes_min": 0.98,
+      "no_min": 0.76,
+      "total": 1.74,
+      "liq": 88.9986,
+      "n_yes_asks": 2,
+      "n_no_asks": 6
+    },
+    {
+      "q": "Spread: Olympique de Marseille (-3.5)",
+      "yes_min": 0.82,
+      "no_min": 0.99,
+      "total": 1.81,
+      "liq": 13.0645,
+      "n_yes_asks": 4,
+      "n_no_asks": 1
+    },
+    {
+      "q": "Will Tetairoa McMillan have 1,149.5+ receiving yards in",
+      "yes_min": 0.9,
+      "no_min": 0.99,
+      "total": 1.89,
+      "liq": 5.6669,
+      "n_yes_asks": 2,
+      "n_no_asks": 1
+    },
+    {
+      "q": "Spread: Club Atlético de Madrid (-4.5)",
+      "yes_min": 0.93,
+      "no_min": 0.99,
+      "total": 1.92,
+      "liq": 3.9496,
+      "n_yes_asks": 6,
+      "n_no_asks": 1
+    },
+    {
+      "q": "Spread: PFC Ludogorets 1945 Razgrad (-4.5)",
+      "yes_min": 0.99,
+      "no_min": 0.99,
+      "total": 1.98,
+      "liq": 0.6597,
+      "n_yes_asks": 1,
+      "n_no_asks": 1
+    }
+  ]
+}
