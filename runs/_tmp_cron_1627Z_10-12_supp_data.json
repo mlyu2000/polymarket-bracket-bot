@@ -1,0 +1,22 @@
+{
+  "ts_utc": "2026-10-12 16:27Z",
+  "markets_scanned": 500,
+  "scan_time_s": 56.4,
+  "brackets_sum_lt_1": 0,
+  "true_floor_min_ask": 1.0050,
+  "floor_market": "Spread: Galatasaray SK (-2.5)",
+  "floor_detail": {"yes": 0.0150, "no": 0.9900, "liq": 22522, "asks0_artifact": {"yes": 0.9990, "no": 0.9990}},
+  "two_sided_markets": 73,
+  "counts": {"lt_0.98": 0, "le_1.005": 1, "le_1.010": 16},
+  "median_floor": 1.0410,
+  "top8": [
+    [1.0050, 0.015, 0.99, "Spread: Galatasaray SK (-2.5)", 22522],
+    [1.0060, 0.008, 0.998, "Spread: ŠK Slovan Bratislava (-2.5)", 12365],
+    [1.0060, 0.954, 0.052, "Will the Democratic Party win the NH-02 House seat?", 50862],
+    [1.0080, 0.01, 0.998, "Atalanta BC vs. Venezia FC: Venezia FC O/U 4.5", 4667],
+    [1.0090, 0.01, 0.999, "Spread: Eyüpspor (-3.5)", 15798],
+    [1.0090, 0.01, 0.999, "Will the highest temperature in Amsterdam be 13°C on October 12?", 2530],
+    [1.0100, 0.08, 0.93, "Exact Score: Red Bull Bragantino 1 - 2 Cruzeiro EC?", 20567],
+    [1.0100, 0.1, 0.91, "Will Washington Capitals be the 2027 NHL Eastern Conference ...", 50572]
+  ]
+}
