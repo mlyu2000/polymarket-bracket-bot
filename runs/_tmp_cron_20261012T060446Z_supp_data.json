@@ -1,0 +1,28 @@
+{
+  "ts": "20261012T060446Z",
+  "markets": 500,
+  "priced": 59,
+  "scan_time": 53.8,
+  "one_sided": {
+    "yes_only": 429,
+    "no_only": 1,
+    "empty": 11,
+    "both": 59
+  },
+  "floor": 1.004,
+  "floor_q": "Spread: Viking FK (-1.5)",
+  "floor_yes": 0.015,
+  "floor_no": 0.989,
+  "floor_liq": 21267.48023,
+  "band": [
+    [
+      1.004,
+      "Spread: Viking FK (-1.5)",
+      0.015,
+      0.989,
+      21267.48023
+    ]
+  ],
+  "brackets": [],
+  "detector_opps": 0
+}
