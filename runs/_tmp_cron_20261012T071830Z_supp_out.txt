@@ -1,0 +1,17 @@
+markets=500 priced_pairs=59 detector_hits=0 scan=69.5s
+one_sided: yes_only=428 no_only=1 empty=12
+TRUE FLOOR: 1.0030 | Yes@0.004 No@0.999 | liq=4495 | FK Livyi Bereh vs. FK Zorya Luhansk: O/U 8.5
+tiers: {'1.005': 2, '1.01': 12, '1.02': 24, '1.03': 29, '1.05': 41, '1.1': 53}
+top12 (min-ask sums):
+  1.0030 | Yes@0.004 No@0.999 | liq=4495 | FK Livyi Bereh vs. FK Zorya Luhansk: O/U 8.5
+  1.0040 | Yes@0.014 No@0.990 | liq=21820 | Spread: Viking FK (-1.5)
+  1.0080 | Yes@0.010 No@0.998 | liq=6400 | Spread: Venezia FC (-3.5)
+  1.0080 | Yes@0.954 No@0.054 | liq=49350 | Will the Democratic Party win the NH-02 House seat?
+  1.0100 | Yes@0.240 No@0.770 | liq=10188 | Aarhus GF vs. Sønderjyske Fodbold: O/U 4.5
+  1.0100 | Yes@0.080 No@0.930 | liq=23698 | Exact Score: Red Bull Bragantino 1 - 2 Cruzeiro EC?
+  1.0100 | Yes@0.360 No@0.650 | liq=14174 | Spread: Real Madrid CF (-2.5)
+  1.0100 | Yes@0.150 No@0.860 | liq=109584 | Will LASK Linz vs. Liverpool FC end in a draw?
+  1.0100 | Yes@0.310 No@0.700 | liq=18470 | Will Sheffield United FC win on 2026-10-14?
+  1.0100 | Yes@0.280 No@0.730 | liq=26687 | Will Tom Dyas win the 2026 Kelowna mayoral election?
+  1.0100 | Yes@0.100 No@0.910 | liq=78676 | Will Washington Capitals be the 2027 NHL Eastern Conference 
+  1.0100 | Yes@0.370 No@0.640 | liq=16301 | Wolverhampton Wanderers FC vs. Bolton Wanderers FC: O/U 3.5

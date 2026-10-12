@@ -1,0 +1,130 @@
+{
+  "ts": "20261012T071830Z",
+  "markets": 500,
+  "priced": 59,
+  "scan_time": 69.5,
+  "one_sided": {
+    "yes_only": 428,
+    "no_only": 1,
+    "empty": 12,
+    "both": 59
+  },
+  "floor": 1.003,
+  "floor_q": "FK Livyi Bereh vs. FK Zorya Luhansk: O/U 8.5",
+  "floor_yes": 0.004,
+  "floor_no": 0.999,
+  "floor_liq": 4494.92273,
+  "band": [
+    [
+      1.003,
+      "FK Livyi Bereh vs. FK Zorya Luhansk: O/U 8.5",
+      0.004,
+      0.999,
+      4494.92273
+    ],
+    [
+      1.004,
+      "Spread: Viking FK (-1.5)",
+      0.014,
+      0.99,
+      21819.89568
+    ]
+  ],
+  "brackets": [],
+  "detector_opps": 0,
+  "best_gross_edge": -0.003,
+  "tiers": {
+    "1.005": 2,
+    "1.01": 12,
+    "1.02": 24,
+    "1.03": 29,
+    "1.05": 41,
+    "1.1": 53
+  },
+  "top12": [
+    [
+      1.003,
+      "FK Livyi Bereh vs. FK Zorya Luhansk: O/U 8.5",
+      0.004,
+      0.999,
+      4494.92
+    ],
+    [
+      1.004,
+      "Spread: Viking FK (-1.5)",
+      0.014,
+      0.99,
+      21819.9
+    ],
+    [
+      1.008,
+      "Spread: Venezia FC (-3.5)",
+      0.01,
+      0.998,
+      6399.58
+    ],
+    [
+      1.008,
+      "Will the Democratic Party win the NH-02 House seat?",
+      0.954,
+      0.054,
+      49350.16
+    ],
+    [
+      1.01,
+      "Aarhus GF vs. S\u00f8nderjyske Fodbold: O/U 4.5",
+      0.24,
+      0.77,
+      10187.66
+    ],
+    [
+      1.01,
+      "Exact Score: Red Bull Bragantino 1 - 2 Cruzeiro EC?",
+      0.08,
+      0.93,
+      23697.56
+    ],
+    [
+      1.01,
+      "Spread: Real Madrid CF (-2.5)",
+      0.36,
+      0.65,
+      14174.03
+    ],
+    [
+      1.01,
+      "Will LASK Linz vs. Liverpool FC end in a draw?",
+      0.15,
+      0.86,
+      109584.24
+    ],
+    [
+      1.01,
+      "Will Sheffield United FC win on 2026-10-14?",
+      0.31,
+      0.7,
+      18469.95
+    ],
+    [
+      1.01,
+      "Will Tom Dyas win the 2026 Kelowna mayoral election?",
+      0.28,
+      0.73,
+      26686.66
+    ],
+    [
+      1.01,
+      "Will Washington Capitals be the 2027 NHL Eastern Conference ",
+      0.1,
+      0.91,
+      78676.44
+    ],
+    [
+      1.01,
+      "Wolverhampton Wanderers FC vs. Bolton Wanderers FC: O/U 3.5",
+      0.37,
+      0.64,
+      16300.99
+    ]
+  ]
+}
