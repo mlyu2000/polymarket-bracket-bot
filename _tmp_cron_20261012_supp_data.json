@@ -1,0 +1,46 @@
+{
+  "ts": "20261012",
+  "markets": 500,
+  "priced": 58,
+  "scan_time": 61.45943021774292,
+  "true_floor": 1.003,
+  "floor_q": "Will the price of Bitcoin be above $90,000 on October 14?",
+  "floor_yes": 0.015,
+  "floor_no": 0.988,
+  "floor_liq": 40520.45422,
+  "band": [
+    [
+      1.003,
+      "Will the price of Bitcoin be above $90,000 on October 14?",
+      0.015,
+      0.988,
+      40520.45422
+    ],
+    [
+      1.005,
+      "Real Valladolid CF vs. Albacete Balompi\u00e9: O/U 7.5",
+      0.01,
+      0.995,
+      3848.38479
+    ],
+    [
+      1.005,
+      "Will the price of Ethereum be between $3,000 and $3,100 on O",
+      0.006,
+      0.999,
+      4345.02087
+    ]
+  ],
+  "tiers": {
+    "<=1.005": 3,
+    "<=1.010": 14,
+    "<=1.020": 23,
+    "<=1.030": 25
+  },
+  "structural": {
+    "two_sided": 58,
+    "yes_only": 426,
+    "no_only": 1,
+    "empty": 15
+  }
+}
