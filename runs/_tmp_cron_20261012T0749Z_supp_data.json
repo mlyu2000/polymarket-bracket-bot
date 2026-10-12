@@ -1,0 +1,41 @@
+{
+  "ts": "20261012T0749Z",
+  "markets": 500,
+  "priced": 60,
+  "scan_time": 76.93645191192627,
+  "true_floor": 1.003,
+  "floor_q": "FK Livyi Bereh vs. FK Zorya Luhansk: O/U 8.5",
+  "floor_yes": 0.004,
+  "floor_no": 0.999,
+  "floor_liq": 4496.82485,
+  "band": [
+    [
+      1.003,
+      "FK Livyi Bereh vs. FK Zorya Luhansk: O/U 8.5",
+      0.004,
+      0.999,
+      4496.82485
+    ],
+    [
+      1.004,
+      "Spread: Viking FK (-1.5)",
+      0.014,
+      0.99,
+      21400.98845
+    ]
+  ],
+  "tiers": {
+    "<=1.005": 2,
+    "<=1.010": 12,
+    "<=1.020": 24,
+    "<=1.030": 29,
+    "<=1.050": 40,
+    "<=1.100": 53
+  },
+  "structural": {
+    "two_sided": 60,
+    "yes_only": 427,
+    "no_only": 2,
+    "empty": 11
+  }
+}
