@@ -1,0 +1,91 @@
+{
+  "ts": "20261012T052315Z",
+  "markets": 500,
+  "two_sided": 60,
+  "floor": [
+    1.005,
+    "Spread: Viking FK (-1.5)",
+    0.015,
+    0.99,
+    19918.06425
+  ],
+  "bands": {
+    "le_1.005": 1,
+    "le_1.010": 12,
+    "le_1.020": 23,
+    "le_1.030": 26,
+    "le_1.050": 41
+  },
+  "top10": [
+    [
+      1.005,
+      "Spread: Viking FK (-1.5)",
+      0.015,
+      0.99,
+      19918.06425
+    ],
+    [
+      1.007,
+      "Spread: Galatasaray SK (-2.5)",
+      0.014,
+      0.993,
+      15328.01201
+    ],
+    [
+      1.008,
+      "Spread: Venezia FC (-3.5)",
+      0.01,
+      0.998,
+      6405.88947
+    ],
+    [
+      1.008,
+      "Will the Democratic Party win the NH-02 House seat?",
+      0.954,
+      0.054,
+      50247.3064
+    ],
+    [
+      1.009,
+      "FK Livyi Bereh vs. FK Zorya Luhansk: O/U 8.5",
+      0.01,
+      0.999,
+      4070.7277
+    ],
+    [
+      1.01,
+      "Aarhus GF vs. S\u00f8nderjyske Fodbold: O/U 4.5",
+      0.24,
+      0.77,
+      11077.1254
+    ],
+    [
+      1.01,
+      "Exact Score: Red Bull Bragantino 1 - 2 Cruzeiro EC?",
+      0.08,
+      0.93,
+      19415.2731
+    ],
+    [
+      1.01,
+      "Spread: Real Madrid CF (-2.5)",
+      0.36,
+      0.65,
+      13394.3398
+    ],
+    [
+      1.01,
+      "Will Sheffield United FC win on 2026-10-14?",
+      0.31,
+      0.7,
+      16773.3996
+    ],
+    [
+      1.01,
+      "Will Washington Capitals be the 2027 NHL Eastern Conference Champion?",
+      0.1,
+      0.91,
+      49195.4497
+    ]
+  ]
+}
