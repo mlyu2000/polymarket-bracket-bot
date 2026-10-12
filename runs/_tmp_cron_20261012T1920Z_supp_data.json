@@ -1,0 +1,97 @@
+{
+ "ts_utc": "2026-10-12T19:22:52Z",
+ "n_markets": 500,
+ "n_two_sided": 69,
+ "yes_only": 419,
+ "no_only": 1,
+ "empty": 11,
+ "tiers": {
+  "<=1.005": 2,
+  "<=1.01": 14,
+  "<=1.02": 28,
+  "<=1.03": 32,
+  "<=1.05": 46
+ },
+ "floor": [
+  1.004,
+  "Levante UD vs. Sevilla FC: Sevilla FC O/U 4.5",
+  0.02,
+  0.984,
+  2414.36952
+ ],
+ "top10": [
+  [
+   1.004,
+   "Levante UD vs. Sevilla FC: Sevilla FC O/U 4.5",
+   0.02,
+   0.984,
+   2414.36952
+  ],
+  [
+   1.005,
+   "Spread: Galatasaray SK (-2.5)",
+   0.015,
+   0.99,
+   21149.59101
+  ],
+  [
+   1.006,
+   "Will the Democratic Party win the NH-02 House seat?",
+   0.954,
+   0.052,
+   50787.9191
+  ],
+  [
+   1.007,
+   "Spread: \u0160K Slovan Bratislava (-2.5)",
+   0.008,
+   0.999,
+   12734.82794
+  ],
+  [
+   1.009,
+   "Will the highest temperature in Amsterdam be 13\u00b0C on October 14?",
+   0.01,
+   0.999,
+   2424.15592
+  ],
+  [
+   1.01,
+   "Millwall FC vs. Swansea City AFC: 1st Half O/U 0.5",
+   0.71,
+   0.3,
+   8588.5979
+  ],
+  [
+   1.01,
+   "Spread: Burnley FC (-1.5)",
+   0.34,
+   0.67,
+   23144.185
+  ],
+  [
+   1.01,
+   "Spread: Manchester City FC (-3.5)",
+   0.05,
+   0.96,
+   14355.0551
+  ],
+  [
+   1.01,
+   "Spread: Real Madrid CF (-2.5)",
+   0.36,
+   0.65,
+   13507.1999
+  ],
+  [
+   1.01,
+   "Will Georgia have more than 11.5 wins during the 2026 CFB season?",
+   0.42,
+   0.59,
+   784.7498
+  ]
+ ],
+ "n_band_1005": 2,
+ "median_minask": 1.041,
+ "best_gross_edge": -0.0040000000000000036
+}
