@@ -1,0 +1,161 @@
+{
+  "ts": "2026-10-12T18:37:24Z",
+  "markets": 500,
+  "floors": [
+    [
+      1.005,
+      "Levante UD vs. Sevilla FC: Sevilla FC O/U 4.5",
+      0.012,
+      0.993,
+      2802.24223
+    ],
+    [
+      1.005,
+      "Spread: Galatasaray SK (-2.5)",
+      0.015,
+      0.99,
+      19697.19901
+    ],
+    [
+      1.005,
+      "Will there be a Hormuz agreement, oil below $80, and the Dem",
+      0.048,
+      0.957,
+      115423.94334
+    ],
+    [
+      1.007,
+      "Spread: \u0160K Slovan Bratislava (-2.5)",
+      0.008,
+      0.999,
+      12491.90835
+    ],
+    [
+      1.007,
+      "Will the Democratic Party win the NH-02 House seat?",
+      0.954,
+      0.053,
+      50786.43564
+    ],
+    [
+      1.009,
+      "Will the highest temperature in Amsterdam be 13\u00b0C on October",
+      0.01,
+      0.999,
+      2538.74365
+    ],
+    [
+      1.01,
+      "Exact Score: Red Bull Bragantino 1 - 2 Cruzeiro EC?",
+      0.08,
+      0.93,
+      18565.9415
+    ],
+    [
+      1.01,
+      "Millwall FC vs. Swansea City AFC: 1st Half O/U 0.5",
+      0.71,
+      0.3,
+      8397.5459
+    ],
+    [
+      1.01,
+      "Spread: Al Ain FC (-2.5)",
+      0.73,
+      0.28,
+      12376.8211
+    ],
+    [
+      1.01,
+      "Spread: Burnley FC (-1.5)",
+      0.34,
+      0.67,
+      21131.2583
+    ]
+  ],
+  "entries": [
+    {
+      "total": 1.005,
+      "q": "Spread: Galatasaray SK (-2.5)",
+      "yes": 0.015,
+      "no": 0.99,
+      "liq": 19697.19901
+    },
+    {
+      "total": 1.005,
+      "q": "Will there be a Hormuz agreement, oil below $80, and the Democrats win the Senat",
+      "yes": 0.048,
+      "no": 0.957,
+      "liq": 115423.94334
+    },
+    {
+      "total": 1.005,
+      "q": "Levante UD vs. Sevilla FC: Sevilla FC O/U 4.5",
+      "yes": 0.012,
+      "no": 0.993,
+      "liq": 2802.24223
+    },
+    {
+      "total": 1.007,
+      "q": "Will the Democratic Party win the NH-02 House seat?",
+      "yes": 0.954,
+      "no": 0.053,
+      "liq": 50786.43564
+    },
+    {
+      "total": 1.007,
+      "q": "Spread: \u0160K Slovan Bratislava (-2.5)",
+      "yes": 0.008,
+      "no": 0.999,
+      "liq": 12491.90835
+    },
+    {
+      "total": 1.009,
+      "q": "Will the highest temperature in Amsterdam be 13\u00b0C on October 14?",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 2538.74365
+    },
+    {
+      "total": 1.01,
+      "q": "Will Washington Capitals be the 2027 NHL Eastern Conference Champion?",
+      "yes": 0.1,
+      "no": 0.91,
+      "liq": 53113.0673
+    },
+    {
+      "total": 1.01,
+      "q": "Spread: Real Madrid CF (-2.5)",
+      "yes": 0.36,
+      "no": 0.65,
+      "liq": 13373.6339
+    },
+    {
+      "total": 1.01,
+      "q": "Spread: Burnley FC (-1.5)",
+      "yes": 0.34,
+      "no": 0.67,
+      "liq": 21131.2583
+    },
+    {
+      "total": 1.01,
+      "q": "Wolverhampton Wanderers FC vs. Bolton Wanderers FC: O/U 3.5",
+      "yes": 0.37,
+      "no": 0.64,
+      "liq": 21340.6674
+    }
+  ],
+  "tiers": {
+    "le1000": 0,
+    "le1005": 3,
+    "le1010": 16,
+    "le1020": 28,
+    "le1030": 33
+  },
+  "structural": {
+    "two_sided": 76,
+    "yes_only": 414,
+    "no_only": 1,
+    "empty": 9
+  }
+}
