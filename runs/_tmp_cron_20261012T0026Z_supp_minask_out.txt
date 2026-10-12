@@ -1,0 +1,9 @@
+TRUE FLOOR (min all-ask both sides):
+  1.0010 Y@0.0060 N@0.9950 liq=967 | Will the highest temperature in Seoul (Incheon) be 28°C on O
+  1.0030 Y@0.0150 N@0.9880 liq=40732 | Will the price of Bitcoin be above $90,000 on October 14?
+  1.0050 Y@0.0060 N@0.9990 liq=3847 | Will the price of Ethereum be between $3,000 and $3,100 on O
+  1.0050 Y@0.0100 N@0.9950 liq=3144 | Real Valladolid CF vs. Albacete Balompié: O/U 7.5
+  1.0050 Y@0.0150 N@0.9900 liq=15524 | Spread: Viking FK (-1.5)
+TIERS: {"<=1.003": 2, "<=1.005": 5, "<=1.01": 16, "<=1.02": 23, "<=1.03": 26, "<=1.05": 41}
+STRUCTURAL: two_sided=61 yes_only=421 no_only=3 empty=15 (NOT bracket-able ~88%)
+FLOOR=1.0010 best_gross_edge=+0.0010 gap_to_0.98=+0.0210

@@ -1,0 +1,56 @@
+{
+  "ts": "20261012T0026Z",
+  "floor": 1.001,
+  "top5": [
+    {
+      "sum": 1.001,
+      "yes": 0.006,
+      "no": 0.995,
+      "q": "Will the highest temperature in Seoul (Incheon) be 28\u00b0C on O",
+      "liq": 967.33828
+    },
+    {
+      "sum": 1.003,
+      "yes": 0.015,
+      "no": 0.988,
+      "q": "Will the price of Bitcoin be above $90,000 on October 14?",
+      "liq": 40731.97053
+    },
+    {
+      "sum": 1.005,
+      "yes": 0.006,
+      "no": 0.999,
+      "q": "Will the price of Ethereum be between $3,000 and $3,100 on O",
+      "liq": 3846.71723
+    },
+    {
+      "sum": 1.005,
+      "yes": 0.01,
+      "no": 0.995,
+      "q": "Real Valladolid CF vs. Albacete Balompi\u00e9: O/U 7.5",
+      "liq": 3143.51441
+    },
+    {
+      "sum": 1.005,
+      "yes": 0.015,
+      "no": 0.99,
+      "q": "Spread: Viking FK (-1.5)",
+      "liq": 15523.82621
+    }
+  ],
+  "tiers": {
+    "<=1.003": 2,
+    "<=1.005": 5,
+    "<=1.01": 16,
+    "<=1.02": 23,
+    "<=1.03": 26,
+    "<=1.05": 41
+  },
+  "structural": {
+    "two_sided": 61,
+    "yes_only": 421,
+    "no_only": 3,
+    "empty": 15,
+    "total": 500
+  }
+}
