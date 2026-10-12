@@ -1,0 +1,41 @@
+{
+ "ts": "2026-10-12T0917Z",
+ "markets": 500,
+ "priced": 59,
+ "one_sided": 430,
+ "both_empty": 11,
+ "scan_time": 53.0,
+ "floor": 1.004,
+ "floor_q": "Spread: Viking FK (-1.5)",
+ "brackets": 0,
+ "band": [
+  [
+   1.004,
+   "Spread: Viking FK (-1.5)",
+   0.014,
+   0.99,
+   28642.94
+  ]
+ ],
+ "next_tier": [
+  [
+   1.007,
+   "Spread: Venezia FC (-3.5)",
+   0.009,
+   0.998,
+   6665.57
+  ],
+  [
+   1.008,
+   "Will the Democratic Party win the NH-02 House seat?",
+   0.954,
+   0.054,
+   50778.3
+  ]
+ ],
+ "tiers": {
+  "le_1010": 10,
+  "le_1020": 22
+ },
+ "actionable": 0
+}
