@@ -1,0 +1,614 @@
+{
+ "markets": 500,
+ "scan_time": 61.52384090423584,
+ "floor": 1.003,
+ "floor_q": "Will the price of Bitcoin be above $90,000 on October 14?",
+ "le": {
+  "1.005": [
+   [
+    1.003,
+    "Will the price of Bitcoin be above $90,000 on October 14?",
+    0.015,
+    0.988,
+    40733.13365
+   ],
+   [
+    1.005,
+    "Real Valladolid CF vs. Albacete Balompi\u00e9: O/U 7.5",
+    0.01,
+    0.995,
+    3141.77932
+   ],
+   [
+    1.005,
+    "Spread: Viking FK (-1.5)",
+    0.015,
+    0.99,
+    15525.26621
+   ],
+   [
+    1.005,
+    "Will the price of Ethereum be between $3,000 and $3,100 on O",
+    0.006,
+    0.999,
+    4331.05324
+   ]
+  ],
+  "1.010": [
+   [
+    1.003,
+    "Will the price of Bitcoin be above $90,000 on October 14?",
+    0.015,
+    0.988,
+    40733.13365
+   ],
+   [
+    1.005,
+    "Real Valladolid CF vs. Albacete Balompi\u00e9: O/U 7.5",
+    0.01,
+    0.995,
+    3141.77932
+   ],
+   [
+    1.005,
+    "Spread: Viking FK (-1.5)",
+    0.015,
+    0.99,
+    15525.26621
+   ],
+   [
+    1.005,
+    "Will the price of Ethereum be between $3,000 and $3,100 on O",
+    0.006,
+    0.999,
+    4331.05324
+   ],
+   [
+    1.006,
+    "Dijon Football C\u00f4te d'Or vs. FC Metz: O/U 7.5",
+    0.013,
+    0.993,
+    2697.035
+   ]
+  ],
+  "1.020": [
+   [
+    1.003,
+    "Will the price of Bitcoin be above $90,000 on October 14?",
+    0.015,
+    0.988,
+    40733.13365
+   ],
+   [
+    1.005,
+    "Real Valladolid CF vs. Albacete Balompi\u00e9: O/U 7.5",
+    0.01,
+    0.995,
+    3141.77932
+   ],
+   [
+    1.005,
+    "Spread: Viking FK (-1.5)",
+    0.015,
+    0.99,
+    15525.26621
+   ],
+   [
+    1.005,
+    "Will the price of Ethereum be between $3,000 and $3,100 on O",
+    0.006,
+    0.999,
+    4331.05324
+   ],
+   [
+    1.006,
+    "Dijon Football C\u00f4te d'Or vs. FC Metz: O/U 7.5",
+    0.013,
+    0.993,
+    2697.035
+   ]
+  ],
+  "1.030": [
+   [
+    1.003,
+    "Will the price of Bitcoin be above $90,000 on October 14?",
+    0.015,
+    0.988,
+    40733.13365
+   ],
+   [
+    1.005,
+    "Real Valladolid CF vs. Albacete Balompi\u00e9: O/U 7.5",
+    0.01,
+    0.995,
+    3141.77932
+   ],
+   [
+    1.005,
+    "Spread: Viking FK (-1.5)",
+    0.015,
+    0.99,
+    15525.26621
+   ],
+   [
+    1.005,
+    "Will the price of Ethereum be between $3,000 and $3,100 on O",
+    0.006,
+    0.999,
+    4331.05324
+   ],
+   [
+    1.006,
+    "Dijon Football C\u00f4te d'Or vs. FC Metz: O/U 7.5",
+    0.013,
+    0.993,
+    2697.035
+   ]
+  ],
+  "1.050": [
+   [
+    1.003,
+    "Will the price of Bitcoin be above $90,000 on October 14?",
+    0.015,
+    0.988,
+    40733.13365
+   ],
+   [
+    1.005,
+    "Real Valladolid CF vs. Albacete Balompi\u00e9: O/U 7.5",
+    0.01,
+    0.995,
+    3141.77932
+   ],
+   [
+    1.005,
+    "Spread: Viking FK (-1.5)",
+    0.015,
+    0.99,
+    15525.26621
+   ],
+   [
+    1.005,
+    "Will the price of Ethereum be between $3,000 and $3,100 on O",
+    0.006,
+    0.999,
+    4331.05324
+   ],
+   [
+    1.006,
+    "Dijon Football C\u00f4te d'Or vs. FC Metz: O/U 7.5",
+    0.013,
+    0.993,
+    2697.035
+   ]
+  ]
+ },
+ "counts": {
+  "1.005": 4,
+  "1.010": 15,
+  "1.020": 23,
+  "1.030": 26,
+  "1.050": 39
+ },
+ "struct": {
+  "two_sided": 59,
+  "yes_only": 422,
+  "no_only": 3,
+  "empty": 16
+ },
+ "rows": [
+  {
+   "q": "Will the lowest temperature in Munich be 0\u00b0C on October 13?",
+   "total": 1.46,
+   "yes": 0.66,
+   "no": 0.8,
+   "liq": 204.0446
+  },
+  {
+   "q": "Will Kuopion PS vs. Trabzonspor end in a draw?",
+   "total": 1.01,
+   "yes": 0.21,
+   "no": 0.8,
+   "liq": 9915.924
+  },
+  {
+   "q": "Will Washington Capitals be the 2027 NHL Eastern Conference Champion?",
+   "total": 1.01,
+   "yes": 0.1,
+   "no": 0.91,
+   "liq": 50894.6797
+  },
+  {
+   "q": "Spread: Manchester United FC (-3.5)",
+   "total": 1.013,
+   "yes": 0.014,
+   "no": 0.999,
+   "liq": 3826.53787
+  },
+  {
+   "q": "Spread: Viking FK (-1.5)",
+   "total": 1.005,
+   "yes": 0.015,
+   "no": 0.99,
+   "liq": 15525.26621
+  },
+  {
+   "q": "Spread: Galatasaray SK (-2.5)",
+   "total": 1.007,
+   "yes": 0.014,
+   "no": 0.993,
+   "liq": 7307.75518
+  },
+  {
+   "q": "Spread: HNK Hajduk Split (-2.5)",
+   "total": 1.059,
+   "yes": 0.06,
+   "no": 0.999,
+   "liq": 329.399
+  },
+  {
+   "q": "Spread: SK Puntigamer Sturm Graz (-1.5)",
+   "total": 1.059,
+   "yes": 0.06,
+   "no": 0.999,
+   "liq": 537.86914
+  },
+  {
+   "q": "Sabah FK vs. SK Slavia Praha: Sabah FK 1st Half O/U 2.5",
+   "total": 1.75,
+   "yes": 0.77,
+   "no": 0.98,
+   "liq": 2993.5443
+  },
+  {
+   "q": "Spread: LASK Linz (-1.5)",
+   "total": 1.012,
+   "yes": 0.03,
+   "no": 0.982,
+   "liq": 5104.4111
+  },
+  {
+   "q": "Spread: Manchester City FC (-3.5)",
+   "total": 1.03,
+   "yes": 0.06,
+   "no": 0.97,
+   "liq": 3996.3031
+  },
+  {
+   "q": "Puerto Montt vs. San Luis de Quillota: Puerto Montt O/U 0.5",
+   "total": 1.96,
+   "yes": 0.98,
+   "no": 0.98,
+   "liq": 2.3198
+  },
+  {
+   "q": "Spread: Real Madrid CF (-2.5)",
+   "total": 1.01,
+   "yes": 0.36,
+   "no": 0.65,
+   "liq": 13552.716
+  },
+  {
+   "q": "Arsenal FC vs. Lille OSC: Lille OSC O/U 0.5",
+   "total": 1.03,
+   "yes": 0.48,
+   "no": 0.55,
+   "liq": 16143.4569
+  },
+  {
+   "q": "Will Florida be Ranked #1 during the 2026-27 CFB season?",
+   "total": 1.088,
+   "yes": 0.09,
+   "no": 0.998,
+   "liq": 39.35
+  },
+  {
+   "q": "Will the Utah Mammoth record 100+ points?",
+   "total": 1.02,
+   "yes": 0.51,
+   "no": 0.51,
+   "liq": 167.7632
+  },
+  {
+   "q": "Spread: Burnley FC (-1.5)",
+   "total": 1.02,
+   "yes": 0.35,
+   "no": 0.67,
+   "liq": 15925.5011
+  },
+  {
+   "q": "Will Yandy D\u00edaz lead the 2026 MLB Postseason in RBI?",
+   "total": 1.17,
+   "yes": 0.2,
+   "no": 0.97,
+   "liq": 80.5603
+  },
+  {
+   "q": "Tractor Tabriz vs. Al-Shamal: 1st Half O/U 0.5",
+   "total": 1.01,
+   "yes": 0.68,
+   "no": 0.33,
+   "liq": 4199.2532
+  },
+  {
+   "q": "Will Fernando Mendoza have 3,500+ passing yards in the 2026-27 NFL reg",
+   "total": 1.031,
+   "yes": 0.06,
+   "no": 0.971,
+   "liq": 60.88678
+  },
+  {
+   "q": "Wolverhampton Wanderers FC vs. Bolton Wanderers FC: O/U 3.5",
+   "total": 1.01,
+   "yes": 0.37,
+   "no": 0.64,
+   "liq": 12836.8772
+  },
+  {
+   "q": "Exact Score: Red Bull Bragantino 1 - 2 Cruzeiro EC?",
+   "total": 1.01,
+   "yes": 0.08,
+   "no": 0.93,
+   "liq": 9440.1051
+  },
+  {
+   "q": "Aarhus GF vs. S\u00f8nderjyske Fodbold: O/U 4.5",
+   "total": 1.01,
+   "yes": 0.24,
+   "no": 0.77,
+   "liq": 8904.1443
+  },
+  {
+   "q": "Will the price of Bitcoin be above $90,000 on October 14?",
+   "total": 1.003,
+   "yes": 0.015,
+   "no": 0.988,
+   "liq": 40733.13365
+  },
+  {
+   "q": "Will Sheffield United FC win on 2026-10-14?",
+   "total": 1.01,
+   "yes": 0.31,
+   "no": 0.7,
+   "liq": 17394.7495
+  },
+  {
+   "q": "Will FK Obolon Kyiv vs. FK Kryvbas Kryvyi Rih end in a draw?",
+   "total": 1.26,
+   "yes": 0.63,
+   "no": 0.63,
+   "liq": 1007.6594
+  },
+  {
+   "q": "Millwall FC vs. Swansea City AFC: 1st Half O/U 0.5",
+   "total": 1.02,
+   "yes": 0.72,
+   "no": 0.3,
+   "liq": 6569.5028
+  },
+  {
+   "q": "Will Jack Eichel record 30+ goals in the 2026-27 regular season?",
+   "total": 1.29,
+   "yes": 0.69,
+   "no": 0.6,
+   "liq": 25.6559
+  },
+  {
+   "q": "Will Dplus KIA Qualify for Worlds 2026?",
+   "total": 1.013,
+   "yes": 0.998,
+   "no": 0.015,
+   "liq": 132.00922
+  },
+  {
+   "q": "Will the price of Ethereum be between $3,000 and $3,100 on October 12?",
+   "total": 1.005,
+   "yes": 0.006,
+   "no": 0.999,
+   "liq": 4331.05324
+  },
+  {
+   "q": "Next Z.ai GLM (5.4+) released by October 31, 2026?",
+   "total": 1.1,
+   "yes": 0.62,
+   "no": 0.48,
+   "liq": 491.6614
+  },
+  {
+   "q": "Will USD/JPY hit 190 (High) in 2026?",
+   "total": 1.03,
+   "yes": 0.07,
+   "no": 0.96,
+   "liq": 104.659
+  },
+  {
+   "q": "Atalanta BC vs. Venezia FC: Venezia FC O/U 4.5",
+   "total": 1.176,
+   "yes": 0.179,
+   "no": 0.997,
+   "liq": 1375.6037
+  },
+  {
+   "q": "Levante UD vs. Sevilla FC: Sevilla FC O/U 4.5",
+   "total": 1.172,
+   "yes": 0.178,
+   "no": 0.994,
+   "liq": 1788.77624
+  },
+  {
+   "q": "CA Talleres vs. CA Independiente: CA Talleres O/U 4.5",
+   "total": 1.015,
+   "yes": 0.021,
+   "no": 0.994,
+   "liq": 10.94999
+  },
+  {
+   "q": "Real Valladolid CF vs. Albacete Balompi\u00e9: O/U 7.5",
+   "total": 1.005,
+   "yes": 0.01,
+   "no": 0.995,
+   "liq": 3141.77932
+  },
+  {
+   "q": "Dijon Football C\u00f4te d'Or vs. FC Metz: O/U 7.5",
+   "total": 1.006,
+   "yes": 0.013,
+   "no": 0.993,
+   "liq": 2697.035
+  },
+  {
+   "q": "Will Pittsburgh Steelers finish the 2026-27 NFL regular season with th",
+   "total": 1.041,
+   "yes": 0.042,
+   "no": 0.999,
+   "liq": 192.708
+  },
+  {
+   "q": "Will Indianapolis Colts finish the 2026-27 NFL regular season with the",
+   "total": 1.079,
+   "yes": 0.08,
+   "no": 0.999,
+   "liq": 178.87987
+  },
+  {
+   "q": "Will Jacksonville Jaguars finish the 2026-27 NFL regular season with t",
+   "total": 1.041,
+   "yes": 0.042,
+   "no": 0.999,
+   "liq": 195.38299
+  },
+  {
+   "q": "Will Tennessee Titans finish the 2026-27 NFL regular season with the m",
+   "total": 1.079,
+   "yes": 0.08,
+   "no": 0.999,
+   "liq": 179.12001
+  },
+  {
+   "q": "Will Denver Broncos finish the 2026-27 NFL regular season with the mos",
+   "total": 1.041,
+   "yes": 0.042,
+   "no": 0.999,
+   "liq": 192.95994
+  },
+  {
+   "q": "Will Kansas City Chiefs finish the 2026-27 NFL regular season with the",
+   "total": 1.041,
+   "yes": 0.042,
+   "no": 0.999,
+   "liq": 192.70801
+  },
+  {
+   "q": "Will Las Vegas Raiders finish the 2026-27 NFL regular season with the ",
+   "total": 1.041,
+   "yes": 0.042,
+   "no": 0.999,
+   "liq": 195.90799
+  },
+  {
+   "q": "Will Dallas Cowboys finish the 2026-27 NFL regular season with the mos",
+   "total": 1.069,
+   "yes": 0.07,
+   "no": 0.999,
+   "liq": 183.06801
+  },
+  {
+   "q": "Will Atlanta Falcons finish the 2026-27 NFL regular season with the mo",
+   "total": 1.041,
+   "yes": 0.042,
+   "no": 0.999,
+   "liq": 192.70801
+  },
+  {
+   "q": "Will Carolina Panthers finish the 2026-27 NFL regular season with the ",
+   "total": 1.041,
+   "yes": 0.042,
+   "no": 0.999,
+   "liq": 195.40482
+  },
+  {
+   "q": "Will New Orleans Saints finish the 2026-27 NFL regular season with the",
+   "total": 1.041,
+   "yes": 0.042,
+   "no": 0.999,
+   "liq": 192.90601
+  },
+  {
+   "q": "Will San Francisco 49ers finish the 2026-27 NFL regular season with th",
+   "total": 1.041,
+   "yes": 0.042,
+   "no": 0.999,
+   "liq": 192.70801
+  },
+  {
+   "q": "Will Seattle Seahawks finish the 2026-27 NFL regular season with the m",
+   "total": 1.041,
+   "yes": 0.042,
+   "no": 0.999,
+   "liq": 196.05799
+  },
+  {
+   "q": "Spread: PFC Ludogorets 1945 Razgrad (-4.5)",
+   "total": 1.98,
+   "yes": 0.99,
+   "no": 0.99,
+   "liq": 0.6597
+  },
+  {
+   "q": "Spread: Venezia FC (-3.5)",
+   "total": 1.008,
+   "yes": 0.01,
+   "no": 0.998,
+   "liq": 6390.24742
+  },
+  {
+   "q": "Spread: \u0160K Slovan Bratislava (-2.5)",
+   "total": 1.016,
+   "yes": 0.017,
+   "no": 0.999,
+   "liq": 5566.70808
+  },
+  {
+   "q": "Spread: Lillestr\u00f8m SK (-2.5)",
+   "total": 1.049,
+   "yes": 0.05,
+   "no": 0.999,
+   "liq": 1367.11662
+  },
+  {
+   "q": "Spread: Lincoln Red Imps FC (-2.5)",
+   "total": 1.049,
+   "yes": 0.05,
+   "no": 0.999,
+   "liq": 1323.35959
+  },
+  {
+   "q": "Spread: FK Jablonec (-2.5)",
+   "total": 1.069,
+   "yes": 0.07,
+   "no": 0.999,
+   "liq": 615.64598
+  },
+  {
+   "q": "Exact Score: AFC Bournemouth 0 - 3 SK Puntigamer Sturm Graz?",
+   "total": 1.054,
+   "yes": 0.055,
+   "no": 0.999,
+   "liq": 2015.90219
+  },
+  {
+   "q": "Exact Score: AFC Bournemouth 4 - 4 SK Puntigamer Sturm Graz?",
+   "total": 1.052,
+   "yes": 0.053,
+   "no": 0.999,
+   "liq": 890.70273
+  },
+  {
+   "q": "Exact Score: Sydney FC 5 - 5 Western Sydney Wanderers FC?",
+   "total": 1.075,
+   "yes": 0.076,
+   "no": 0.999,
+   "liq": 380.33982
+  }
+ ]
+}
