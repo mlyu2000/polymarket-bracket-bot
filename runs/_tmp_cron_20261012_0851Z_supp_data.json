@@ -1,0 +1,30 @@
+{
+ "ts": "2026-10-12T08:51:56Z",
+ "markets": 500,
+ "brackets": [],
+ "near_misses": [
+  [
+   1.004,
+   "Spread: Viking FK (-1.5)",
+   0.014,
+   0.99,
+   27785.76945
+  ],
+  [
+   1.005,
+   "Spread: LASK Linz (-1.5)",
+   0.03,
+   0.975,
+   11623.84113
+  ]
+ ],
+ "scan_time": 52.3,
+ "floor": 0.999,
+ "median_min_sum": 1.03,
+ "structural": {
+  "two_sided": 57,
+  "yes_only": 430,
+  "no_only": 2,
+  "empty": 11
+ }
+}
