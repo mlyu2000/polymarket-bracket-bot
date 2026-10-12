@@ -1,0 +1,46 @@
+{
+  "ts": "20261012T0450Z",
+  "markets": 500,
+  "priced": 61,
+  "scan_time": 53.3713641166687,
+  "true_floor": 1.003,
+  "floor_q": "Will the price of Bitcoin be above $90,000 on October 14?",
+  "floor_yes": 0.016,
+  "floor_no": 0.987,
+  "floor_liq": 39361.84798,
+  "band": [
+    [
+      1.003,
+      "Will the price of Bitcoin be above $90,000 on October 14?",
+      0.016,
+      0.987,
+      39361.84798
+    ],
+    [
+      1.004,
+      "FK Livyi Bereh vs. FK Zorya Luhansk: O/U 8.5",
+      0.005,
+      0.999,
+      4430.72058
+    ],
+    [
+      1.005,
+      "Spread: Viking FK (-1.5)",
+      0.015,
+      0.99,
+      23755.34206
+    ]
+  ],
+  "tiers": {
+    "<=1.005": 3,
+    "<=1.010": 16,
+    "<=1.020": 23,
+    "<=1.030": 26
+  },
+  "structural": {
+    "two_sided": 61,
+    "yes_only": 427,
+    "no_only": 1,
+    "empty": 11
+  }
+}
