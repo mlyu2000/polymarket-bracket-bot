@@ -1,0 +1,92 @@
+{
+  "ts": "2026-10-12T01:21:07Z",
+  "markets": 500,
+  "scan_time": 56.1,
+  "brackets": 0,
+  "structural": {
+    "two_sided": 62,
+    "yes_only": 423,
+    "no_only": 2,
+    "empty": 13
+  },
+  "bands": {
+    "<=1.005": 4,
+    "<=1.010": 14,
+    "<=1.020": 24
+  },
+  "floor": 1.003,
+  "floor_market": "Will the price of Bitcoin be above $90,000 on October 1",
+  "median": 1.041,
+  "top10": [
+    [
+      1.003,
+      "Will the price of Bitcoin be above $90,000 on October 1",
+      0.015,
+      0.988,
+      40656.52634
+    ],
+    [
+      1.005,
+      "Real Valladolid CF vs. Albacete Balompi\u00e9: O/U 7.5",
+      0.01,
+      0.995,
+      3847.28279
+    ],
+    [
+      1.005,
+      "Spread: Viking FK (-1.5)",
+      0.015,
+      0.99,
+      15520.24121
+    ],
+    [
+      1.005,
+      "Will the price of Ethereum be between $3,000 and $3,100",
+      0.006,
+      0.999,
+      4349.62929
+    ],
+    [
+      1.007,
+      "Spread: Galatasaray SK (-2.5)",
+      0.014,
+      0.993,
+      7408.83518
+    ],
+    [
+      1.008,
+      "Spread: Venezia FC (-3.5)",
+      0.01,
+      0.998,
+      7098.72514
+    ],
+    [
+      1.01,
+      "Aarhus GF vs. S\u00f8nderjyske Fodbold: O/U 4.5",
+      0.24,
+      0.77,
+      10186.1441
+    ],
+    [
+      1.01,
+      "Exact Score: Red Bull Bragantino 1 - 2 Cruzeiro EC?",
+      0.08,
+      0.93,
+      10705.8242
+    ],
+    [
+      1.01,
+      "Spread: Real Madrid CF (-2.5)",
+      0.36,
+      0.65,
+      13275.8177
+    ],
+    [
+      1.01,
+      "Tractor Tabriz vs. Al-Shamal: 1st Half O/U 0.5",
+      0.68,
+      0.33,
+      5630.1746
+    ]
+  ]
+}
