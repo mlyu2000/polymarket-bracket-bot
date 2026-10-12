@@ -1,0 +1,47 @@
+{
+  "ts_utc": "2026-10-12T05:07:42.404807+00:00",
+  "floor_min_ask_sum": 1.005,
+  "n_markets": 500,
+  "n_two_sided": 61,
+  "n_band_le_1_005": 1,
+  "n_band_le_1_010": 14,
+  "n_band_le_1_020": 21,
+  "lowest_5": [
+    [
+      1.005,
+      "Spread: Viking FK (-1.5)",
+      0.015,
+      0.99,
+      20500.81177
+    ],
+    [
+      1.007,
+      "Spread: Galatasaray SK (-2.5)",
+      0.014,
+      0.993,
+      15312.22336
+    ],
+    [
+      1.007,
+      "Will Dplus KIA Qualify for Worlds 2026?",
+      0.998,
+      0.009,
+      128.26422
+    ],
+    [
+      1.008,
+      "Will the Democratic Party win the NH-02 House seat?",
+      0.954,
+      0.054,
+      50247.3064
+    ],
+    [
+      1.008,
+      "Spread: Venezia FC (-3.5)",
+      0.01,
+      0.998,
+      6405.88947
+    ]
+  ],
+  "note": "asks[0] near-miss bug reproduced (asks DESC-sorted); min-ask floor recomputed"
+}
