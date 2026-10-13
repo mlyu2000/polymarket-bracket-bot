@@ -1,0 +1,163 @@
+{
+  "ts": "2026-10-13T02:10:24Z",
+  "markets": 500,
+  "floors": [
+    [
+      1.003,
+      "Spread: \u0160K Slovan Bratislava (-3.5)",
+      0.005,
+      0.998,
+      15693.8123
+    ],
+    [
+      1.005,
+      "Spread: Galatasaray SK (-2.5)",
+      0.015,
+      0.99,
+      23926.83734
+    ],
+    [
+      1.006,
+      "Spread: \u0160K Slovan Bratislava (-2.5)",
+      0.008,
+      0.998,
+      16856.6223
+    ],
+    [
+      1.007,
+      "Exact Score: Venezia FC 4 - 2 SSC Napoli?",
+      0.009,
+      0.998,
+      2175.45222
+    ],
+    [
+      1.008,
+      "Spread: Fenerbah\u00e7e SK (-3.5)",
+      0.01,
+      0.998,
+      15556.91419
+    ],
+    [
+      1.01,
+      "Atalanta BC vs. P\u00e1fos FC: O/U 2.5",
+      0.62,
+      0.39,
+      6091.4929
+    ],
+    [
+      1.01,
+      "Pohankova vs. Wang: Match O/U 21.5",
+      0.46,
+      0.55,
+      18987.9458
+    ],
+    [
+      1.01,
+      "Spread: Burnley FC (-1.5)",
+      0.34,
+      0.67,
+      26840.9573
+    ],
+    [
+      1.01,
+      "Spread: Real Madrid CF (-2.5)",
+      0.36,
+      0.65,
+      13522.2261
+    ],
+    [
+      1.01,
+      "Will Georgia have more than 11.5 wins during the 2026 CFB se",
+      0.42,
+      0.59,
+      1326.8148
+    ]
+  ],
+  "entries": [
+    {
+      "total": 1.003,
+      "q": "Spread: \u0160K Slovan Bratislava (-3.5)",
+      "yes": 0.005,
+      "no": 0.998,
+      "liq": 15693.8123
+    },
+    {
+      "total": 1.005,
+      "q": "Spread: Galatasaray SK (-2.5)",
+      "yes": 0.015,
+      "no": 0.99,
+      "liq": 23926.83734
+    },
+    {
+      "total": 1.006,
+      "q": "Spread: \u0160K Slovan Bratislava (-2.5)",
+      "yes": 0.008,
+      "no": 0.998,
+      "liq": 16856.6223
+    },
+    {
+      "total": 1.007,
+      "q": "Exact Score: Venezia FC 4 - 2 SSC Napoli?",
+      "yes": 0.009,
+      "no": 0.998,
+      "liq": 2175.45222
+    },
+    {
+      "total": 1.008,
+      "q": "Spread: Fenerbah\u00e7e SK (-3.5)",
+      "yes": 0.01,
+      "no": 0.998,
+      "liq": 15556.91419
+    },
+    {
+      "total": 1.01,
+      "q": "Will Washington Capitals be the 2027 NHL Eastern Conference Champion?",
+      "yes": 0.1,
+      "no": 0.91,
+      "liq": 48630.3402
+    },
+    {
+      "total": 1.01,
+      "q": "Spread: Real Madrid CF (-2.5)",
+      "yes": 0.36,
+      "no": 0.65,
+      "liq": 13522.2261
+    },
+    {
+      "total": 1.01,
+      "q": "Spread: Burnley FC (-1.5)",
+      "yes": 0.34,
+      "no": 0.67,
+      "liq": 26840.9573
+    },
+    {
+      "total": 1.01,
+      "q": "Atalanta BC vs. P\u00e1fos FC: O/U 2.5",
+      "yes": 0.62,
+      "no": 0.39,
+      "liq": 6091.4929
+    },
+    {
+      "total": 1.01,
+      "q": "Wolverhampton Wanderers FC vs. Bolton Wanderers FC: O/U 3.5",
+      "yes": 0.37,
+      "no": 0.64,
+      "liq": 21600.1496
+    }
+  ],
+  "tiers": {
+    "le1000": 0,
+    "le1005": 2,
+    "le1010": 13,
+    "le1020": 24,
+    "le1030": 31
+  },
+  "structural": {
+    "two_sided": 67,
+    "yes_only": 425,
+    "no_only": 0,
+    "empty": 8
+  },
+  "median_two_sided": 1.038,
+  "n_two_sided_totals": 67
+}
