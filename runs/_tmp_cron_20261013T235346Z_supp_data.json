@@ -1,0 +1,63 @@
+{
+  "ts": "20261013T235346Z",
+  "markets": 500,
+  "priced": 74,
+  "scan_time": 51.3,
+  "one_sided": {
+    "yes_only": 418,
+    "no_only": 0,
+    "empty": 8,
+    "both": 74
+  },
+  "floor": 1.004,
+  "floor_q": "Spread: Lillestr\u00f8m SK (-3.5)",
+  "floor_yes": 0.005,
+  "floor_no": 0.999,
+  "floor_liq": 3882.43382,
+  "band": [
+    [
+      1.004,
+      "Spread: Lillestr\u00f8m SK (-3.5)",
+      0.005,
+      0.999,
+      3882.43382
+    ],
+    [
+      1.004,
+      "Spread: SC Uni\u00e3o Torreense (-3.5)",
+      0.005,
+      0.999,
+      3653.22928
+    ],
+    [
+      1.004,
+      "Spread: \u0160K Slovan Bratislava (-2.5)",
+      0.009,
+      0.995,
+      22461.43209
+    ],
+    [
+      1.004,
+      "Spread: \u0160K Slovan Bratislava (-3.5)",
+      0.005,
+      0.999,
+      17425.04724
+    ],
+    [
+      1.005,
+      "Spread: Sporting Kansas City (-2.5)",
+      0.009,
+      0.996,
+      6260.84782
+    ]
+  ],
+  "brackets": [],
+  "detector_opps": 0,
+  "band_counts": {
+    "le_1.005": 5,
+    "le_1.010": 22,
+    "le_1.020": 39,
+    "le_1.030": 46
+  },
+  "median_2sided": 1.02
+}

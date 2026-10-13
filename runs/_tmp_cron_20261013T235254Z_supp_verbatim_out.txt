@@ -1,0 +1,12 @@
+SCAN 20261013T235346Z: 500 markets / 74 two-sided / 51.3s
+one-sided: {'yes_only': 418, 'no_only': 0, 'empty': 8, 'both': 74}
+BRACKETS (detector, sum<1.00): 0
+TRUE FLOOR (min-ask, <=1.005): 1.004 | Spread: Lillestrøm SK (-3.5)
+  floor detail: Y@0.005 N@0.999 liq=3882.43382
+  1.0040 | Y@0.0050 N@0.9990 liq=3653.22928 | Spread: SC União Torreense (-3.5)
+  1.0040 | Y@0.0090 N@0.9950 liq=22461.43209 | Spread: ŠK Slovan Bratislava (-2.5)
+  1.0040 | Y@0.0050 N@0.9990 liq=17425.04724 | Spread: ŠK Slovan Bratislava (-3.5)
+  1.0050 | Y@0.0090 N@0.9960 liq=6260.84782 | Spread: Sporting Kansas City (-2.5)
+band counts: {'le_1.005': 5, 'le_1.010': 22, 'le_1.020': 39, 'le_1.030': 46}
+median 2-sided min-ask sum: 1.02
+not bracketable: 85.2% one-sided; of two-sided, 5 at floor band
