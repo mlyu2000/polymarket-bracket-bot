@@ -1,0 +1,8 @@
+🔍 Scan: 500 markets in 53.4s
+✅ BRACKETS (sum < 1.00): 0
+📊 Near-misses (≤1.005): 5
+  1.002 | Yes@0.004 No@0.998 | Spread: ŠK Slovan Bratislava (-3.5)
+  1.004 | Yes@0.013 No@0.991 | FC Internazionale Milano vs. Club Brugge KV: Club 
+  1.004 | Yes@0.005 No@0.999 | Spread: Sporting Kansas City (-3.5)
+  1.004 | Yes@0.060 No@0.944 | Will Fernando Mendoza have 3,500+ passing yards in
+  1.005 | Yes@0.006 No@0.999 | Exact Score: Venezia FC 4 - 3 SSC Napoli?

@@ -1,0 +1,175 @@
+{
+  "ts": "20261013T095916Z",
+  "markets": 500,
+  "scan": "verbatim (asks[0]) + supplementary min-ask",
+  "structural": {
+    "two_sided": 73,
+    "yes_only": 419,
+    "no_only": 0,
+    "empty": 8
+  },
+  "not_bracketable_pct": 85.4,
+  "tiers": {
+    "le1000": 0,
+    "le1005": 5,
+    "le1010": 20,
+    "le1020": 32,
+    "le1030": 37,
+    "le1050": 52
+  },
+  "median_two_sided_total": 1.03,
+  "floors_top10": [
+    [
+      1.002,
+      "Spread: \u0160K Slovan Bratislava (-3.5)",
+      0.004,
+      0.998,
+      16028.34283
+    ],
+    [
+      1.004,
+      "FC Internazionale Milano vs. Club Brugge KV: Club ",
+      0.013,
+      0.991,
+      13232.54343
+    ],
+    [
+      1.004,
+      "Spread: Sporting Kansas City (-3.5)",
+      0.005,
+      0.999,
+      3049.65254
+    ],
+    [
+      1.004,
+      "Will Fernando Mendoza have 3,500+ passing yards in",
+      0.06,
+      0.944,
+      200.72421
+    ],
+    [
+      1.005,
+      "Exact Score: Venezia FC 4 - 3 SSC Napoli?",
+      0.006,
+      0.999,
+      2023.60678
+    ],
+    [
+      1.006,
+      "Exact Score: Venezia FC 3 - 4 SSC Napoli?",
+      0.01,
+      0.996,
+      2214.47233
+    ],
+    [
+      1.006,
+      "Spread: \u0160K Slovan Bratislava (-2.5)",
+      0.008,
+      0.998,
+      17005.43128
+    ],
+    [
+      1.007,
+      "Exact Score: Venezia FC 4 - 2 SSC Napoli?",
+      0.009,
+      0.998,
+      2524.63191
+    ],
+    [
+      1.008,
+      "Spread: Fenerbah\u00e7e SK (-3.5)",
+      0.01,
+      0.998,
+      15930.8712
+    ],
+    [
+      1.009,
+      "Spread: Austin FC (-3.5)",
+      0.01,
+      0.999,
+      2603.80484
+    ]
+  ],
+  "entries_top10": [
+    {
+      "total": 1.002,
+      "q": "Spread: \u0160K Slovan Bratislava (-3.5)",
+      "yes": 0.004,
+      "no": 0.998,
+      "liq": 16028.34283
+    },
+    {
+      "total": 1.004,
+      "q": "Will Fernando Mendoza have 3,500+ passing yards in the 2026-",
+      "yes": 0.06,
+      "no": 0.944,
+      "liq": 200.72421
+    },
+    {
+      "total": 1.004,
+      "q": "FC Internazionale Milano vs. Club Brugge KV: Club Brugge KV ",
+      "yes": 0.013,
+      "no": 0.991,
+      "liq": 13232.54343
+    },
+    {
+      "total": 1.004,
+      "q": "Spread: Sporting Kansas City (-3.5)",
+      "yes": 0.005,
+      "no": 0.999,
+      "liq": 3049.65254
+    },
+    {
+      "total": 1.005,
+      "q": "Exact Score: Venezia FC 4 - 3 SSC Napoli?",
+      "yes": 0.006,
+      "no": 0.999,
+      "liq": 2023.60678
+    },
+    {
+      "total": 1.006,
+      "q": "Spread: \u0160K Slovan Bratislava (-2.5)",
+      "yes": 0.008,
+      "no": 0.998,
+      "liq": 17005.43128
+    },
+    {
+      "total": 1.006,
+      "q": "Exact Score: Venezia FC 3 - 4 SSC Napoli?",
+      "yes": 0.01,
+      "no": 0.996,
+      "liq": 2214.47233
+    },
+    {
+      "total": 1.007,
+      "q": "Exact Score: Venezia FC 4 - 2 SSC Napoli?",
+      "yes": 0.009,
+      "no": 0.998,
+      "liq": 2524.63191
+    },
+    {
+      "total": 1.008,
+      "q": "Spread: Fenerbah\u00e7e SK (-3.5)",
+      "yes": 0.01,
+      "no": 0.998,
+      "liq": 15930.8712
+    },
+    {
+      "total": 1.009,
+      "q": "Spread: Austin FC (-3.5)",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 2603.80484
+    }
+  ],
+  "tracked_floor_market": {
+    "q": "Will US unemployment reach at least 6.0% in 2026?",
+    "active": true,
+    "closed": false,
+    "min_ask": 0.004,
+    "max_bid": 0.002,
+    "n_asks": 25,
+    "n_bids": 2,
+    "liq": 6936.9359
+  }
+}
