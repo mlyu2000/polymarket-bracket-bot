@@ -1,0 +1,106 @@
+{
+  "run": "cron 20261013T2030Z",
+  "scan": {
+    "markets": 500,
+    "scan_time_s": 53.5,
+    "brackets": 0,
+    "near_misses_le_1p005_asks0": 0,
+    "note": "near-miss count in provided script uses asks[0]; CLOB books are DESC-sorted so asks[0] is the worst ask -> total<=1.005 unreachable (artifact)"
+  },
+  "true_minask": {
+    "two_sided": 73,
+    "yes_only": 418,
+    "no_only": 0,
+    "empty": 9,
+    "not_bracketable": 427,
+    "not_bracketable_pct": 85.4,
+    "brackets_lt_1": 0,
+    "floor_min": 1.004,
+    "floor_median": 1.022,
+    "bands": {
+      "le_1.005": 5,
+      "le_1.010": 22,
+      "le_1.020": 36,
+      "le_1.030": 43
+    },
+    "top10": [
+      [
+        1.004,
+        0.005,
+        0.999,
+        "Spread: Lillestrom SK (-3.5)",
+        3136
+      ],
+      [
+        1.004,
+        0.005,
+        0.999,
+        "Spread: SC Uniao Torreense (-3.5)",
+        5487
+      ],
+      [
+        1.004,
+        0.005,
+        0.999,
+        "Spread: SK Slovan Bratislava (-3.5)",
+        17588
+      ],
+      [
+        1.004,
+        0.008,
+        0.996,
+        "Spread: Sporting Kansas City (-2.5)",
+        6247
+      ],
+      [
+        1.004,
+        0.01,
+        0.994,
+        "Spread: SK Slovan Bratislava (-2.5)",
+        22285
+      ],
+      [
+        1.007,
+        0.008,
+        0.999,
+        "Exact Score: Bologna FC 1909 4 - 2 FC Internazionale",
+        2860
+      ],
+      [
+        1.007,
+        0.008,
+        0.999,
+        "Exact Score: Venezia FC 4 - 2 SSC Napoli?",
+        2863
+      ],
+      [
+        1.007,
+        0.03,
+        0.977,
+        "Spread: Olympique de Marseille (-3.5)",
+        3012
+      ],
+      [
+        1.008,
+        0.02,
+        0.988,
+        "Spread: Besiktas JK (-3.5)",
+        1226
+      ],
+      [
+        1.009,
+        0.01,
+        0.999,
+        "Spread: Aarhus GF (-3.5)",
+        1702
+      ]
+    ],
+    "asks_order_sanity": [
+      "0.999",
+      "0.995",
+      "0.994",
+      "0.91",
+      "0.909"
+    ]
+  }
+}

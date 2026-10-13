@@ -1,0 +1,7 @@
+markets=500 time=52.7s two_sided=73 yes_only=418 not_bracketable=427 (85.4%)
+TRUE brackets (min-ask sum < 1.00): 0
+floor stats: median=1.0220 min=1.0040
+  <= 1.005: 5
+  <= 1.01: 22
+  <= 1.02: 36
+  <= 1.03: 43
