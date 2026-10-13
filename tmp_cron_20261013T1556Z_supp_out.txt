@@ -1,0 +1,14 @@
+structural: 65 two-sided/426 yes-only/0 no-only/9 empty of 500 (87.0% not bracketable)
+median 2-sided min-ask floor: 1.0300
+  <= 1.000: n=0
+  <= 1.005: n=4
+  <= 1.010: n=10
+  <= 1.020: n=12
+  <= 1.030: n=7
+  <= 1.050: n=11
+lowest 5:
+  1.0030 | Y@0.0120 (35 asks) N@0.9910 (2 asks) | liq=10072.64944 | FC Internazionale Milano vs. Club Brugge KV: Club Brugg
+  1.0040 | Y@0.0050 (15 asks) N@0.9990 (1 asks) | liq=4357.04774 | Spread: Sporting Kansas City (-3.5)
+  1.0040 | Y@0.0100 (30 asks) N@0.9940 (6 asks) | liq=18329.65905 | Spread: ŠK Slovan Bratislava (-2.5)
+  1.0040 | Y@0.0050 (26 asks) N@0.9990 (1 asks) | liq=16147.88493 | Spread: ŠK Slovan Bratislava (-3.5)
+  1.0080 | Y@0.0090 (22 asks) N@0.9990 (1 asks) | liq=2722.02191 | Exact Score: Venezia FC 4 - 2 SSC Napoli?

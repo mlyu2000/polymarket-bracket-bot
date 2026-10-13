@@ -1,0 +1,153 @@
+{
+  "ts": "20261013T1556Z",
+  "markets": 500,
+  "scan": "verbatim (asks[0]) + supplementary min-ask",
+  "structural": {
+    "two_sided": 65,
+    "yes_only": 424,
+    "no_only": 0,
+    "empty": 11
+  },
+  "not_bracketable_pct": 87.0,
+  "tiers": {
+    "le1000": 0,
+    "le1005": 4,
+    "le1010": 13,
+    "le1020": 26,
+    "le1030": 33,
+    "le1050": 44
+  },
+  "median_two_sided_total": 1.03,
+  "floor": {
+    "sum": 1.003,
+    "yes": 0.012,
+    "no": 0.991,
+    "n_asks_y": 33,
+    "n_asks_n": 2,
+    "liq": 10072.64858,
+    "q": "FC Internazionale Milano vs. Club Brugge KV: Club Brugge KV O/U 3.5"
+  },
+  "top12": [
+    {
+      "sum": 1.003,
+      "yes": 0.012,
+      "no": 0.991,
+      "n_asks_y": 33,
+      "n_asks_n": 2,
+      "liq": 10072.64858,
+      "q": "FC Internazionale Milano vs. Club Brugge KV: Club Brugge KV O/U 3.5"
+    },
+    {
+      "sum": 1.004,
+      "yes": 0.005,
+      "no": 0.999,
+      "n_asks_y": 15,
+      "n_asks_n": 1,
+      "liq": 4561.05619,
+      "q": "Spread: Sporting Kansas City (-3.5)"
+    },
+    {
+      "sum": 1.004,
+      "yes": 0.01,
+      "no": 0.994,
+      "n_asks_y": 30,
+      "n_asks_n": 6,
+      "liq": 18274.6618,
+      "q": "Spread: \u0160K Slovan Bratislava (-2.5)"
+    },
+    {
+      "sum": 1.004,
+      "yes": 0.005,
+      "no": 0.999,
+      "n_asks_y": 26,
+      "n_asks_n": 1,
+      "liq": 16196.54108,
+      "q": "Spread: \u0160K Slovan Bratislava (-3.5)"
+    },
+    {
+      "sum": 1.008,
+      "yes": 0.009,
+      "no": 0.999,
+      "n_asks_y": 22,
+      "n_asks_n": 1,
+      "liq": 2722.02191,
+      "q": "Exact Score: Venezia FC 4 - 2 SSC Napoli?"
+    },
+    {
+      "sum": 1.009,
+      "yes": 0.01,
+      "no": 0.999,
+      "n_asks_y": 13,
+      "n_asks_n": 1,
+      "liq": 2869.80574,
+      "q": "Spread: Austin FC (-3.5)"
+    },
+    {
+      "sum": 1.009,
+      "yes": 0.01,
+      "no": 0.999,
+      "n_asks_y": 19,
+      "n_asks_n": 1,
+      "liq": 4874.24203,
+      "q": "Spread: Sporting Kansas City (-2.5)"
+    },
+    {
+      "sum": 1.009,
+      "yes": 0.01,
+      "no": 0.999,
+      "n_asks_y": 25,
+      "n_asks_n": 1,
+      "liq": 16161.94848,
+      "q": "Spread: Fenerbah\u00e7e SK (-3.5)"
+    },
+    {
+      "sum": 1.01,
+      "yes": 0.54,
+      "no": 0.47,
+      "n_asks_y": 18,
+      "n_asks_n": 15,
+      "liq": 42201.9226,
+      "q": "Spread: Patriots (-6.5)"
+    },
+    {
+      "sum": 1.01,
+      "yes": 0.51,
+      "no": 0.5,
+      "n_asks_y": 7,
+      "n_asks_n": 9,
+      "liq": 316.2329,
+      "q": "Will the Utah Mammoth record 100+ points?"
+    },
+    {
+      "sum": 1.01,
+      "yes": 0.67,
+      "no": 0.34,
+      "n_asks_y": 25,
+      "n_asks_n": 39,
+      "liq": 42236.9073,
+      "q": "Will Xi meet with Takaichi by December 31, 2026?"
+    },
+    {
+      "sum": 1.01,
+      "yes": 0.38,
+      "no": 0.63,
+      "n_asks_y": 34,
+      "n_asks_n": 16,
+      "liq": 21609.1169,
+      "q": "Will there be exactly 7 UK parliamentary by-elections in 2026?"
+    }
+  ],
+  "tracked_floor_market": {
+    "q": "Will US unemployment reach at least 6.0% in 2026?",
+    "slug": "will-us-unemployment-reach-at-least-6pt0-in-2026",
+    "active": true,
+    "closed": false,
+    "min_ask": 0.004,
+    "max_bid": 0.002,
+    "n_asks": 27,
+    "n_bids": 2,
+    "no_min_ask": 0.998,
+    "true_floor": 1.002,
+    "liq": "7394.86262"
+  }
+}
