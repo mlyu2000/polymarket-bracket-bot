@@ -1,0 +1,98 @@
+{
+  "ts": "20261013T093039Z",
+  "markets": 500,
+  "priced": 68,
+  "scan_time": 54.4,
+  "one_sided": {
+    "yes_only": 424,
+    "no_only": 0,
+    "empty": 8,
+    "both": 68
+  },
+  "median": 1.03,
+  "floor": 1.002,
+  "floor_q": "Spread: \u0160K Slovan Bratislava (-3.5)",
+  "floor_yes": 0.004,
+  "floor_no": 0.998,
+  "floor_liq": 16035.66386,
+  "band": [
+    [
+      1.002,
+      "Spread: \u0160K Slovan Bratislava (-3.5)",
+      0.004,
+      0.998,
+      16035.66
+    ],
+    [
+      1.004,
+      "FC Internazionale Milano vs. Club Brugge KV: Club Brugge KV ",
+      0.013,
+      0.991,
+      13406.61
+    ],
+    [
+      1.004,
+      "Spread: Sporting Kansas City (-3.5)",
+      0.005,
+      0.999,
+      1832.2
+    ],
+    [
+      1.004,
+      "Will Fernando Mendoza have 3,500+ passing yards in the 2026-",
+      0.06,
+      0.944,
+      216.82
+    ],
+    [
+      1.006,
+      "Exact Score: Venezia FC 3 - 4 SSC Napoli?",
+      0.01,
+      0.996,
+      2213.35
+    ],
+    [
+      1.006,
+      "Spread: \u0160K Slovan Bratislava (-2.5)",
+      0.008,
+      0.998,
+      17007.62
+    ],
+    [
+      1.007,
+      "Exact Score: Venezia FC 4 - 2 SSC Napoli?",
+      0.009,
+      0.998,
+      2528.2
+    ],
+    [
+      1.008,
+      "Spread: Fenerbah\u00e7e SK (-3.5)",
+      0.01,
+      0.998,
+      15931.06
+    ],
+    [
+      1.009,
+      "Spread: Austin FC (-3.5)",
+      0.01,
+      0.999,
+      1390.01
+    ],
+    [
+      1.009,
+      "Spread: FK Kauno \u017dalgiris (-1.5)",
+      0.01,
+      0.999,
+      813.55
+    ]
+  ],
+  "tiers": {
+    "le1.005": 4,
+    "le1.01": 19,
+    "le1.02": 30,
+    "le1.03": 35,
+    "le1.05": 47,
+    "le1.1": 55
+  }
+}
