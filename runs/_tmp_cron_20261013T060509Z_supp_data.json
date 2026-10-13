@@ -1,0 +1,175 @@
+{
+  "ts": "20261013T060509Z",
+  "markets": 500,
+  "scan": "verbatim (asks[0]) + supplementary min-ask",
+  "structural": {
+    "two_sided": 61,
+    "yes_only": 431,
+    "no_only": 0,
+    "empty": 8
+  },
+  "not_bracketable_pct": 87.8,
+  "tiers": {
+    "le1000": 0,
+    "le1005": 2,
+    "le1010": 14,
+    "le1020": 26,
+    "le1030": 33,
+    "le1050": 45
+  },
+  "median_two_sided_total": 1.03,
+  "floors_top10": [
+    [
+      1.002,
+      "Spread: \u0160K Slovan Bratislava (-3.5)",
+      0.004,
+      0.998,
+      15665.59638
+    ],
+    [
+      1.004,
+      "Spread: Sporting Kansas City (-3.5)",
+      0.005,
+      0.999,
+      1427.18375
+    ],
+    [
+      1.006,
+      "Spread: \u0160K Slovan Bratislava (-2.5)",
+      0.008,
+      0.998,
+      16866.24886
+    ],
+    [
+      1.007,
+      "Exact Score: Venezia FC 4 - 2 SSC Napoli?",
+      0.009,
+      0.998,
+      2395.62932
+    ],
+    [
+      1.007,
+      "Will Fernando Mendoza have 3,500+ passing yards in",
+      0.06,
+      0.947,
+      86.42691
+    ],
+    [
+      1.008,
+      "Spread: Fenerbah\u00e7e SK (-3.5)",
+      0.01,
+      0.998,
+      15564.42124
+    ],
+    [
+      1.009,
+      "Spread: Austin FC (-3.5)",
+      0.01,
+      0.999,
+      967.02095
+    ],
+    [
+      1.009,
+      "Spread: Sporting Kansas City (-2.5)",
+      0.01,
+      0.999,
+      3226.84934
+    ],
+    [
+      1.01,
+      "Spread: Burnley FC (-1.5)",
+      0.34,
+      0.67,
+      59341.6085
+    ],
+    [
+      1.01,
+      "Spread: Real Madrid CF (-2.5)",
+      0.36,
+      0.65,
+      12676.9774
+    ]
+  ],
+  "entries_top10": [
+    {
+      "total": 1.002,
+      "q": "Spread: \u0160K Slovan Bratislava (-3.5)",
+      "yes": 0.004,
+      "no": 0.998,
+      "liq": 15665.59638
+    },
+    {
+      "total": 1.004,
+      "q": "Spread: Sporting Kansas City (-3.5)",
+      "yes": 0.005,
+      "no": 0.999,
+      "liq": 1427.18375
+    },
+    {
+      "total": 1.006,
+      "q": "Spread: \u0160K Slovan Bratislava (-2.5)",
+      "yes": 0.008,
+      "no": 0.998,
+      "liq": 16866.24886
+    },
+    {
+      "total": 1.007,
+      "q": "Will Fernando Mendoza have 3,500+ passing yards in the 2026-",
+      "yes": 0.06,
+      "no": 0.947,
+      "liq": 86.42691
+    },
+    {
+      "total": 1.007,
+      "q": "Exact Score: Venezia FC 4 - 2 SSC Napoli?",
+      "yes": 0.009,
+      "no": 0.998,
+      "liq": 2395.62932
+    },
+    {
+      "total": 1.008,
+      "q": "Spread: Fenerbah\u00e7e SK (-3.5)",
+      "yes": 0.01,
+      "no": 0.998,
+      "liq": 15564.42124
+    },
+    {
+      "total": 1.009,
+      "q": "Spread: Austin FC (-3.5)",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 967.02095
+    },
+    {
+      "total": 1.009,
+      "q": "Spread: Sporting Kansas City (-2.5)",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 3226.84934
+    },
+    {
+      "total": 1.01,
+      "q": "Will Washington Capitals be the 2027 NHL Eastern Conference ",
+      "yes": 0.1,
+      "no": 0.91,
+      "liq": 46371.1316
+    },
+    {
+      "total": 1.01,
+      "q": "Spread: Real Madrid CF (-2.5)",
+      "yes": 0.36,
+      "no": 0.65,
+      "liq": 12676.9774
+    }
+  ],
+  "tracked_floor_market": {
+    "q": "Will US unemployment reach at least 6.0% in 2026?",
+    "active": true,
+    "closed": false,
+    "min_ask": 0.004,
+    "max_bid": 0.002,
+    "n_asks": 25,
+    "n_bids": 2,
+    "liq": 6937.13593
+  }
+}

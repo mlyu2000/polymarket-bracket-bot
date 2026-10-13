@@ -1,0 +1,80 @@
+{
+  "scan_time": 52.53632092475891,
+  "two_sided": 67,
+  "yes_only": 425,
+  "no_only": 0,
+  "empty": 8,
+  "median": 1.035,
+  "top": [
+    [
+      1.004,
+      "Spread: \u0160K Slovan Bratislava (-3.5)",
+      0.005,
+      0.999,
+      15689.48953
+    ],
+    [
+      1.005,
+      "Spread: Galatasaray SK (-2.5)",
+      0.015,
+      0.99,
+      23944.46934
+    ],
+    [
+      1.006,
+      "Spread: \u0160K Slovan Bratislava (-2.5)",
+      0.008,
+      0.998,
+      16866.10623
+    ],
+    [
+      1.007,
+      "Exact Score: Venezia FC 4 - 2 SSC Napoli?",
+      0.009,
+      0.998,
+      2177.95722
+    ],
+    [
+      1.008,
+      "Spread: Fenerbah\u00e7e SK (-3.5)",
+      0.01,
+      0.998,
+      15527.42466
+    ],
+    [
+      1.01,
+      "Atalanta BC vs. P\u00e1fos FC: O/U 2.5",
+      0.62,
+      0.39,
+      5990.8229
+    ],
+    [
+      1.01,
+      "Pohankova vs. Wang: Match O/U 21.5",
+      0.46,
+      0.55,
+      17785.5638
+    ],
+    [
+      1.01,
+      "Spread: Burnley FC (-1.5)",
+      0.34,
+      0.67,
+      26882.1446
+    ],
+    [
+      1.01,
+      "Spread: Real Madrid CF (-2.5)",
+      0.36,
+      0.65,
+      13453.6461
+    ],
+    [
+      1.01,
+      "Will Fernando Mendoza have 3,500+ passing yards in the 2026-",
+      0.06,
+      0.95,
+      105.84291
+    ]
+  ]
+}
