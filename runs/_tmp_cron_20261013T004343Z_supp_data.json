@@ -1,0 +1,28 @@
+{
+  "ts": "2026-10-13T00:43:43Z",
+  "markets": 500,
+  "brackets": 0,
+  "opps": [],
+  "near_misses_top": [
+    [
+      1.002,
+      "Spread: \u0160K Slovan Bratislava (-3.5)",
+      0.004,
+      0.998,
+      15637.5104
+    ],
+    [
+      1.005,
+      "Spread: Galatasaray SK (-2.5)",
+      0.015,
+      0.99,
+      23887.39606
+    ]
+  ],
+  "near_miss_count_1p005": 2,
+  "two_sided": 64,
+  "yes_only": 428,
+  "no_only": 0,
+  "empty": 8,
+  "scan_time": 55.190019369125366
+}

@@ -1,0 +1,126 @@
+{
+  "ts": "2026-10-13T00:44:50Z",
+  "tiers": {
+    "<=1.005": 2,
+    "<=1.010": 13,
+    "<=1.020": 25,
+    "<=1.030": 30,
+    "<=1.050": 44
+  },
+  "top15": [
+    [
+      1.003,
+      "Spread: \u0160K Slovan Bratislava (-3.5)",
+      0.005,
+      0.998,
+      15637.5104
+    ],
+    [
+      1.005,
+      "Spread: Galatasaray SK (-2.5)",
+      0.015,
+      0.99,
+      23887.39606
+    ],
+    [
+      1.006,
+      "Spread: \u0160K Slovan Bratislava (-2.5)",
+      0.008,
+      0.998,
+      16786.01031
+    ],
+    [
+      1.007,
+      "Exact Score: Venezia FC 4 - 2 SSC Napoli?",
+      0.009,
+      0.998,
+      2179.12488
+    ],
+    [
+      1.008,
+      "Spread: Fenerbah\u00e7e SK (-3.5)",
+      0.01,
+      0.998,
+      15544.17395
+    ],
+    [
+      1.008,
+      "Will the lowest temperature in Seattle be 35\u00b0F or below on October 13?",
+      0.01,
+      0.998,
+      220.89612
+    ],
+    [
+      1.01,
+      "Atalanta BC vs. P\u00e1fos FC: O/U 2.5",
+      0.62,
+      0.39,
+      6117.5254
+    ],
+    [
+      1.01,
+      "Pohankova vs. Wang: Match O/U 21.5",
+      0.46,
+      0.55,
+      19694.9536
+    ],
+    [
+      1.01,
+      "Spread: Burnley FC (-1.5)",
+      0.34,
+      0.67,
+      26726.5051
+    ],
+    [
+      1.01,
+      "Spread: Real Madrid CF (-2.5)",
+      0.36,
+      0.65,
+      13615.9725
+    ],
+    [
+      1.01,
+      "Will Georgia have more than 11.5 wins during the 2026 CFB season?",
+      0.42,
+      0.59,
+      2659.8093
+    ],
+    [
+      1.01,
+      "Will Washington Capitals be the 2027 NHL Eastern Conference Champion?",
+      0.1,
+      0.91,
+      48410.4841
+    ],
+    [
+      1.01,
+      "Wolverhampton Wanderers FC vs. Bolton Wanderers FC: O/U 3.5",
+      0.37,
+      0.64,
+      21688.1304
+    ],
+    [
+      1.012,
+      "Spread: FC Porto (-3.5)",
+      0.014,
+      0.998,
+      7310.44397
+    ],
+    [
+      1.012,
+      "Will Fernando Mendoza have 3,500+ passing yards in the 2026-27 NFL reg",
+      0.06,
+      0.952,
+      86.14183
+    ]
+  ],
+  "atl": [
+    [
+      1.041,
+      "Will Atlanta Falcons finish the 2026-27 NFL regular season with the mo",
+      0.042,
+      0.999,
+      195.94789
+    ]
+  ]
+}
