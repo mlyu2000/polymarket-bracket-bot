@@ -1,0 +1,84 @@
+{
+  "scan_time": 52.49634408950806,
+  "two_sided": 70,
+  "total": 500,
+  "bands": {
+    "1.005": 5,
+    "1.01": 18,
+    "1.02": 33,
+    "1.03": 39
+  },
+  "median": 1.03,
+  "top": [
+    [
+      1.003,
+      "Exact Score: FC Internazionale Milano 0 - 2 Club B",
+      0.009,
+      0.994,
+      157036.78273
+    ],
+    [
+      1.004,
+      "FC Internazionale Milano vs. Club Brugge KV: Club ",
+      0.013,
+      0.991,
+      10074.16858
+    ],
+    [
+      1.004,
+      "Spread: Sporting Kansas City (-3.5)",
+      0.005,
+      0.999,
+      4819.26411
+    ],
+    [
+      1.004,
+      "Spread: \u0160K Slovan Bratislava (-2.5)",
+      0.01,
+      0.994,
+      15642.1958
+    ],
+    [
+      1.004,
+      "Spread: \u0160K Slovan Bratislava (-3.5)",
+      0.005,
+      0.999,
+      13568.19998
+    ],
+    [
+      1.006,
+      "Spread: Real Sociedad de F\u00fatbol (-3.5)",
+      0.02,
+      0.986,
+      1257.79023
+    ],
+    [
+      1.008,
+      "Exact Score: Venezia FC 4 - 2 SSC Napoli?",
+      0.009,
+      0.999,
+      2718.77591
+    ],
+    [
+      1.009,
+      "Spread: Austin FC (-3.5)",
+      0.01,
+      0.999,
+      3150.54671
+    ],
+    [
+      1.009,
+      "Spread: Fenerbah\u00e7e SK (-3.5)",
+      0.01,
+      0.999,
+      13552.88378
+    ],
+    [
+      1.009,
+      "Spread: HNK Hajduk Split (-3.5)",
+      0.01,
+      0.999,
+      1171.81687
+    ]
+  ]
+}
