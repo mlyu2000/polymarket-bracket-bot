@@ -1,0 +1,175 @@
+{
+  "ts": "20261013T215137Z",
+  "markets": 500,
+  "scan": "verbatim (asks[0]) + supplementary min-ask",
+  "structural": {
+    "two_sided": 70,
+    "yes_only": 421,
+    "no_only": 1,
+    "empty": 8
+  },
+  "not_bracketable_pct": 86.0,
+  "tiers": {
+    "le1000": 0,
+    "le1005": 5,
+    "le1010": 18,
+    "le1020": 34,
+    "le1030": 40,
+    "le1050": 56
+  },
+  "median_two_sided_total": 1.03,
+  "floors_top10": [
+    [
+      1.004,
+      "Spread: Lillestr\u00f8m SK (-3.5)",
+      0.005,
+      0.999,
+      3850.0884
+    ],
+    [
+      1.004,
+      "Spread: SC Uni\u00e3o Torreense (-3.5)",
+      0.005,
+      0.999,
+      5214.83537
+    ],
+    [
+      1.004,
+      "Spread: Sporting Kansas City (-2.5)",
+      0.008,
+      0.996,
+      6237.86182
+    ],
+    [
+      1.004,
+      "Spread: \u0160K Slovan Bratislava (-2.5)",
+      0.01,
+      0.994,
+      22356.52655
+    ],
+    [
+      1.004,
+      "Spread: \u0160K Slovan Bratislava (-3.5)",
+      0.005,
+      0.999,
+      17426.12923
+    ],
+    [
+      1.007,
+      "Exact Score: Bologna FC 1909 4 - 2 FC Internaziona",
+      0.008,
+      0.999,
+      2880.71686
+    ],
+    [
+      1.007,
+      "Exact Score: Venezia FC 4 - 2 SSC Napoli?",
+      0.008,
+      0.999,
+      2864.86028
+    ],
+    [
+      1.008,
+      "Spread: HNK Hajduk Split (-2.5)",
+      0.01,
+      0.998,
+      2438.25008
+    ],
+    [
+      1.009,
+      "Spread: Aarhus GF (-3.5)",
+      0.01,
+      0.999,
+      1723.36519
+    ],
+    [
+      1.009,
+      "Spread: Austin FC (-3.5)",
+      0.01,
+      0.999,
+      3065.56557
+    ]
+  ],
+  "entries_top10": [
+    {
+      "total": 1.004,
+      "q": "Spread: Sporting Kansas City (-2.5)",
+      "yes": 0.008,
+      "no": 0.996,
+      "liq": 6237.86182
+    },
+    {
+      "total": 1.004,
+      "q": "Spread: \u0160K Slovan Bratislava (-2.5)",
+      "yes": 0.01,
+      "no": 0.994,
+      "liq": 22356.52655
+    },
+    {
+      "total": 1.004,
+      "q": "Spread: \u0160K Slovan Bratislava (-3.5)",
+      "yes": 0.005,
+      "no": 0.999,
+      "liq": 17426.12923
+    },
+    {
+      "total": 1.004,
+      "q": "Spread: SC Uni\u00e3o Torreense (-3.5)",
+      "yes": 0.005,
+      "no": 0.999,
+      "liq": 5214.83537
+    },
+    {
+      "total": 1.004,
+      "q": "Spread: Lillestr\u00f8m SK (-3.5)",
+      "yes": 0.005,
+      "no": 0.999,
+      "liq": 3850.0884
+    },
+    {
+      "total": 1.007,
+      "q": "Exact Score: Venezia FC 4 - 2 SSC Napoli?",
+      "yes": 0.008,
+      "no": 0.999,
+      "liq": 2864.86028
+    },
+    {
+      "total": 1.007,
+      "q": "Exact Score: Bologna FC 1909 4 - 2 FC Internazionale Milano?",
+      "yes": 0.008,
+      "no": 0.999,
+      "liq": 2880.71686
+    },
+    {
+      "total": 1.008,
+      "q": "Spread: HNK Hajduk Split (-2.5)",
+      "yes": 0.01,
+      "no": 0.998,
+      "liq": 2438.25008
+    },
+    {
+      "total": 1.009,
+      "q": "Spread: Austin FC (-3.5)",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 3065.56557
+    },
+    {
+      "total": 1.009,
+      "q": "Spread: Sporting Kansas City (-3.5)",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 4248.09712
+    }
+  ],
+  "tracked_floor_market": {
+    "q": "Will US unemployment reach at least 6.0% in 2026?",
+    "active": true,
+    "closed": false,
+    "min_ask": 0.004,
+    "max_bid": 0.002,
+    "n_asks": 25,
+    "n_bids": 2,
+    "liq": 6938.97697
+  }
+}
