@@ -1,0 +1,107 @@
+{
+  "ts": "2026-10-13T07:34:25Z",
+  "markets": 500,
+  "two_sided": 64,
+  "one_sided": 436,
+  "brackets_true": 0,
+  "bands": {
+    "1.005": 2,
+    "1.01": 15,
+    "1.02": 25,
+    "1.03": 32,
+    "1.05": 44
+  },
+  "median": 1.031,
+  "top": [
+    {
+      "total": 1.002,
+      "q": "Spread: \u0160K Slovan Bratislava (-3.5)",
+      "y": 0.004,
+      "n": 0.998,
+      "ny": 26,
+      "nn": 2,
+      "liq": 15668.9148
+    },
+    {
+      "total": 1.004,
+      "q": "Spread: Sporting Kansas City (-3.5)",
+      "y": 0.005,
+      "n": 0.999,
+      "ny": 10,
+      "nn": 1,
+      "liq": 1486.67767
+    },
+    {
+      "total": 1.006,
+      "q": "Spread: \u0160K Slovan Bratislava (-2.5)",
+      "y": 0.008,
+      "n": 0.998,
+      "ny": 32,
+      "nn": 2,
+      "liq": 16873.00674
+    },
+    {
+      "total": 1.006,
+      "q": "Will Fernando Mendoza have 3,500+ passing yards in the 2026-",
+      "y": 0.06,
+      "n": 0.946,
+      "ny": 8,
+      "nn": 9,
+      "liq": 153.85382
+    },
+    {
+      "total": 1.007,
+      "q": "Exact Score: Venezia FC 4 - 2 SSC Napoli?",
+      "y": 0.009,
+      "n": 0.998,
+      "ny": 19,
+      "nn": 2,
+      "liq": 2397.71332
+    },
+    {
+      "total": 1.008,
+      "q": "Spread: Fenerbah\u00e7e SK (-3.5)",
+      "y": 0.01,
+      "n": 0.998,
+      "ny": 25,
+      "nn": 2,
+      "liq": 15571.9209
+    },
+    {
+      "total": 1.009,
+      "q": "Spread: Austin FC (-3.5)",
+      "y": 0.01,
+      "n": 0.999,
+      "ny": 9,
+      "nn": 1,
+      "liq": 1034.99501
+    },
+    {
+      "total": 1.009,
+      "q": "Spread: FK Kauno \u017dalgiris (-1.5)",
+      "y": 0.01,
+      "n": 0.999,
+      "ny": 11,
+      "nn": 1,
+      "liq": 776.85791
+    },
+    {
+      "total": 1.009,
+      "q": "Spread: Sporting Kansas City (-2.5)",
+      "y": 0.01,
+      "n": 0.999,
+      "ny": 14,
+      "nn": 1,
+      "liq": 3180.90734
+    },
+    {
+      "total": 1.009,
+      "q": "Will Dplus KIA Qualify for Worlds 2026?",
+      "y": 0.998,
+      "n": 0.011,
+      "ny": 1,
+      "nn": 13,
+      "liq": 127.33707
+    }
+  ]
+}
