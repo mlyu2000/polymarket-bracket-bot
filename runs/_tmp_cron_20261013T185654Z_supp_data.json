@@ -1,0 +1,175 @@
+{
+  "ts": "20261013T185654Z",
+  "markets": 500,
+  "scan": "verbatim (asks[0]) + supplementary min-ask",
+  "structural": {
+    "two_sided": 73,
+    "yes_only": 417,
+    "no_only": 0,
+    "empty": 10
+  },
+  "not_bracketable_pct": 85.4,
+  "tiers": {
+    "le1000": 0,
+    "le1005": 5,
+    "le1010": 24,
+    "le1020": 40,
+    "le1030": 45,
+    "le1050": 59
+  },
+  "median_two_sided_total": 1.02,
+  "floors_top10": [
+    [
+      1.002,
+      "Burnley FC vs. Charlton Athletic FC: Burnley FC O/",
+      0.006,
+      0.996,
+      2518.58
+    ],
+    [
+      1.003,
+      "Exact Score: FC Internazionale Milano 0 - 2 Club B",
+      0.008,
+      0.995,
+      105206.91624
+    ],
+    [
+      1.004,
+      "Spread: Sporting Kansas City (-3.5)",
+      0.005,
+      0.999,
+      5043.10631
+    ],
+    [
+      1.004,
+      "Spread: \u0160K Slovan Bratislava (-3.5)",
+      0.005,
+      0.999,
+      16019.34161
+    ],
+    [
+      1.005,
+      "Spread: \u0160K Slovan Bratislava (-2.5)",
+      0.01,
+      0.995,
+      19540.28974
+    ],
+    [
+      1.008,
+      "Exact Score: Bologna FC 1909 4 - 2 FC Internaziona",
+      0.009,
+      0.999,
+      2706.59705
+    ],
+    [
+      1.008,
+      "Exact Score: Venezia FC 4 - 2 SSC Napoli?",
+      0.009,
+      0.999,
+      2712.40794
+    ],
+    [
+      1.008,
+      "Spread: Fenerbah\u00e7e SK (-3.5)",
+      0.009,
+      0.999,
+      17399.07896
+    ],
+    [
+      1.009,
+      "Spread: Aarhus GF (-3.5)",
+      0.01,
+      0.999,
+      1645.365
+    ],
+    [
+      1.009,
+      "Spread: Austin FC (-3.5)",
+      0.01,
+      0.999,
+      3370.49689
+    ]
+  ],
+  "entries_top10": [
+    {
+      "total": 1.002,
+      "q": "Burnley FC vs. Charlton Athletic FC: Burnley FC O/U 5.5",
+      "yes": 0.006,
+      "no": 0.996,
+      "liq": 2518.58
+    },
+    {
+      "total": 1.003,
+      "q": "Exact Score: FC Internazionale Milano 0 - 2 Club Brugge KV?",
+      "yes": 0.008,
+      "no": 0.995,
+      "liq": 105206.91624
+    },
+    {
+      "total": 1.004,
+      "q": "Spread: Sporting Kansas City (-3.5)",
+      "yes": 0.005,
+      "no": 0.999,
+      "liq": 5043.10631
+    },
+    {
+      "total": 1.004,
+      "q": "Spread: \u0160K Slovan Bratislava (-3.5)",
+      "yes": 0.005,
+      "no": 0.999,
+      "liq": 16019.34161
+    },
+    {
+      "total": 1.005,
+      "q": "Spread: \u0160K Slovan Bratislava (-2.5)",
+      "yes": 0.01,
+      "no": 0.995,
+      "liq": 19540.28974
+    },
+    {
+      "total": 1.008,
+      "q": "Spread: Fenerbah\u00e7e SK (-3.5)",
+      "yes": 0.009,
+      "no": 0.999,
+      "liq": 17399.07896
+    },
+    {
+      "total": 1.008,
+      "q": "Exact Score: Venezia FC 4 - 2 SSC Napoli?",
+      "yes": 0.009,
+      "no": 0.999,
+      "liq": 2712.40794
+    },
+    {
+      "total": 1.008,
+      "q": "Exact Score: Bologna FC 1909 4 - 2 FC Internazionale Milano?",
+      "yes": 0.009,
+      "no": 0.999,
+      "liq": 2706.59705
+    },
+    {
+      "total": 1.009,
+      "q": "Spread: Austin FC (-3.5)",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 3370.49689
+    },
+    {
+      "total": 1.009,
+      "q": "Spread: Sporting Kansas City (-2.5)",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 5383.85908
+    }
+  ],
+  "tracked_floor_market": {
+    "q": "Will US unemployment reach at least 6.0% in 2026?",
+    "active": true,
+    "closed": false,
+    "min_ask": 0.004,
+    "max_bid": 0.002,
+    "n_asks": 25,
+    "n_bids": 2,
+    "liq": 6897.67352
+  }
+}
