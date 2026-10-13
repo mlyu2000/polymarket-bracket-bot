@@ -1,8 +1,7 @@
 """Supplementary min-ask scan — computes the TRUE bracket floor using min(all asks),
 because Polymarket /book returns asks DESC-sorted (asks[0] = worst ask ~0.999).
-Also verifies both tracked floor markets (ŠK Slovan -3.5 current floor; unemployment 6.0% ATL 1.0010)
-via direct CLOB /book (in case they dropped out of the volume-sorted top-500 window).
-Persists to runs/_tmp_cron_20261013T_now_supp_data.json.
+Also verifies the tracked floor market (unemployment 6.0%) via direct CLOB /book.
+Persists to runs/_tmp_cron_<TS>_supp_data.json.
 """
 import asyncio, json, logging, time
 import urllib.request
@@ -63,42 +62,29 @@ async def supp():
     median = two_sided_totals[len(two_sided_totals) // 2] if two_sided_totals else None
 
     # --- tracked floor market verification (direct CLOB /book) ---
-    tracked = []
+    tracked = {}
     try:
-        # Current floor: Slovan -3.5 spread
-        g = fetch_json('https://gamma-api.polymarket.com/public-search?q=%C5%A0K%20Slovan')
-        mkts = [x for ev in g.get('events', []) for x in ev.get('markets', [])
-                if 'slovan' in str(x.get('question', '')).lower() and '-3.5' in str(x.get('question', ''))]
-        for mk in mkts[:3]:
-            q = mk.get('question', '')
-            toks = json.loads(mk['clobTokenIds']) if isinstance(mk.get('clobTokenIds'), str) else mk['clobTokenIds']
-            b = fetch_json(CLOB + '/book?token_id=' + toks[0])
-            asks = [float(x['price']) for x in b.get('asks', [])]
-            tracked.append({
-                'q': q, 'active': mk.get('active'), 'closed': mk.get('closed'),
-                'min_ask': min(asks) if asks else None, 'n_asks': len(asks),
-                'liq': mk.get('liquidityNum'),
-            })
-    except Exception as e:
-        tracked.append({'slovan_error': str(e)})
-    try:
-        # ATL: unemployment 6.0%
         g = fetch_json('https://gamma-api.polymarket.com/public-search?q=unemployment%206.0%25')
         mkts = [x for ev in g.get('events', []) for x in ev.get('markets', [])
-                if 'unemployment' in str(x.get('question', '')).lower() and '6.0' in str(x.get('question', ''))]
+                if 'unemployment' in str(x.get('question', '')).lower()]
         for mk in mkts[:3]:
-            q = mk.get('question', '')
+            q = mk.get('question')
+            if 'unemployment' not in q.lower() or '6.0' not in q:
+                continue
             toks = json.loads(mk['clobTokenIds']) if isinstance(mk.get('clobTokenIds'), str) else mk['clobTokenIds']
             b = fetch_json(CLOB + '/book?token_id=' + toks[0])
             asks = [float(x['price']) for x in b.get('asks', [])]
             bids = [float(x['price']) for x in b.get('bids', [])]
-            tracked.append({
+            tracked = {
                 'q': q, 'active': mk.get('active'), 'closed': mk.get('closed'),
-                'min_ask': min(asks) if asks else None, 'max_bid': max(bids) if bids else None,
-                'n_asks': len(asks), 'n_bids': len(bids), 'liq': mk.get('liquidityNum'),
-            })
+                'min_ask': min(asks) if asks else None,
+                'max_bid': max(bids) if bids else None,
+                'n_asks': len(asks), 'n_bids': len(bids),
+                'liq': mk.get('liquidityNum'),
+            }
+            break
     except Exception as e:
-        tracked.append({'unemployment_error': str(e)})
+        tracked = {'error': str(e)}
 
     out = {
         'ts': TS,
@@ -110,7 +96,7 @@ async def supp():
         'median_two_sided_total': median,
         'floors_top10': floors[:10],
         'entries_top10': entries[:10],
-        'tracked_floor_markets': tracked,
+        'tracked_floor_market': tracked,
     }
     with open(f'runs/_tmp_cron_{TS}_supp_data.json', 'w') as f:
         json.dump(out, f, indent=2)

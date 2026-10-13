@@ -1,0 +1,4 @@
+  File "<stdin>", line 23
+    bids = sorted((float(x['price']), float(x['size'])) for x in book.get("bids", []), reverse=True)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+SyntaxError: Generator expression must be parenthesized

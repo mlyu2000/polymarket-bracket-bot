@@ -1,0 +1,16 @@
+Cron scan 2026-10-13 05:23Z: 0 brackets, 500 markets
+
+Verbatim scan (asks[0]): 500 markets in 50.2s — 0 brackets (sum < 1.00),
+0 near-misses (≤1.005, asks[0] artifact).
+
+Supplementary min-ask floor scan (true floor via min(all asks)):
+- Structural: 64/500 two-sided (12.8%), 428 yes_only, 0 no_only, 8 empty
+  -> 87.2% NOT bracket-able via YES+NO acquisition
+- True floors: 0 markets ≤1.000; 2 ≤1.005; 16 ≤1.010; 26 ≤1.020;
+  34 ≤1.030; 46 ≤1.050
+- Median two-sided min-ask total: 1.030
+- Window floor 1.002: Spread ŠK Slovan Bratislava (-3.5) Y@0.004 N@0.998
+  (liq $15.7k); next Sporting KC (-3.5) 1.004 (Y@0.005 N@0.999, liq $1.4k)
+- Tracked floor mkt (US unemployment ≥6.0% 2026) verified via direct CLOB
+  /book: active, Y min-ask 0.0040 (27 asks) / 2 bids, liq $7.4k — still
+  live, not resolved; dropped out of top-500 window only.
