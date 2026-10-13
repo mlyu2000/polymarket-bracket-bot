@@ -1,0 +1,82 @@
+{
+  "timestamp": "2026-10-13T04:53Z",
+  "markets": 500,
+  "scan_time_s": 52.6,
+  "brackets": 0,
+  "near_miss_artifact": "asks[0] DESC-sort re-confirmed — inline near-miss check reports 0; correct pattern min(all asks)",
+  "two_sided": 62,
+  "yes_only": 430,
+  "median_two_sided_floor": 1.03,
+  "bands": {
+    "<=1.005": 2,
+    "<=1.010": 16,
+    "<=1.020": 25,
+    "<=1.030": 33
+  },
+  "window_floor": {
+    "floor": 1.002,
+    "market": "Spread: ŠK Slovan Bratislava (-3.5)",
+    "yes_min_ask": 0.004,
+    "no_min_ask": 0.998,
+    "liquidity": 15685,
+    "note": "tied with tracked unemployment-6.0% mkt; 0.042 above 0.98 actionable threshold — NO ACTION"
+  },
+  "top8_floors": [
+    [
+      1.002,
+      "Spread: ŠK Slovan Bratislava (-3.5)",
+      0.004,
+      0.998,
+      15685
+    ],
+    [
+      1.004,
+      "Spread: Sporting Kansas City (-3.5)",
+      0.005,
+      0.999,
+      1387
+    ],
+    [
+      1.006,
+      "Spread: ŠK Slovan Bratislava (-2.5)",
+      0.008,
+      0.998,
+      16866
+    ],
+    [
+      1.007,
+      "Exact Score: Venezia FC 4 - 2 SSC Napoli?",
+      0.009,
+      0.998,
+      2396
+    ],
+    [
+      1.007,
+      "Will Fernando Mendoza have 3,500+ passing yards in the ...",
+      0.06,
+      0.947,
+      106
+    ],
+    [
+      1.008,
+      "Spread: Fenerbahçe SK (-3.5)",
+      0.01,
+      0.998,
+      15567
+    ],
+    [
+      1.009,
+      "Spread: Sporting Kansas City (-2.5)",
+      0.01,
+      0.999,
+      3238
+    ],
+    [
+      1.01,
+      "Pohankova vs. Wang: Match O/U 21.5",
+      0.46,
+      0.55,
+      16625
+    ]
+  ]
+}
