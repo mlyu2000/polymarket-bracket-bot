@@ -1,0 +1,97 @@
+{
+  "markets": 500,
+  "two_sided": 74,
+  "median_floor": 1.024,
+  "top10": [
+    [
+      1.004,
+      0.005,
+      0.999,
+      10,
+      1,
+      "Spread: Lillestr\u00f8m SK (-3.5)",
+      3850.03882
+    ],
+    [
+      1.004,
+      0.005,
+      0.999,
+      11,
+      1,
+      "Spread: SC Uni\u00e3o Torreense (-3.5)",
+      5035.32037
+    ],
+    [
+      1.004,
+      0.005,
+      0.999,
+      25,
+      1,
+      "Spread: \u0160K Slovan Bratislava (-3.5)",
+      17426.12923
+    ],
+    [
+      1.004,
+      0.008,
+      0.996,
+      30,
+      4,
+      "Spread: Sporting Kansas City (-2.5)",
+      6248.43182
+    ],
+    [
+      1.004,
+      0.01,
+      0.994,
+      32,
+      6,
+      "Spread: \u0160K Slovan Bratislava (-2.5)",
+      22021.24765
+    ],
+    [
+      1.007,
+      0.008,
+      0.999,
+      18,
+      1,
+      "Exact Score: Bologna FC 1909 4 - 2 FC Internazionale Milano?",
+      2850.25286
+    ],
+    [
+      1.007,
+      0.008,
+      0.999,
+      21,
+      1,
+      "Exact Score: Venezia FC 4 - 2 SSC Napoli?",
+      2864.86028
+    ],
+    [
+      1.008,
+      0.01,
+      0.998,
+      14,
+      2,
+      "Spread: HNK Hajduk Split (-2.5)",
+      2508.22516
+    ],
+    [
+      1.009,
+      0.01,
+      0.999,
+      7,
+      1,
+      "Spread: Aarhus GF (-3.5)",
+      1733.36019
+    ],
+    [
+      1.009,
+      0.01,
+      0.999,
+      10,
+      1,
+      "Spread: New York City FC (-3.5)",
+      2618.02027
+    ]
+  ]
+}
