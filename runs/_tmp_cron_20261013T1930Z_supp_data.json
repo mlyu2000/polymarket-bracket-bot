@@ -1,0 +1,44 @@
+{
+  "run_utc": "20261013T~1930Z",
+  "markets_scanned": 500,
+  "brackets": 0,
+  "near_misses_asks0_le_1.005": 0,
+  "note": "asks[0] near-miss check is a known CLOB artifact (asks DESC-sorted; asks[0] is worst price ~0.999). True floor computed from min(all asks) below.",
+  "min_ask_floor": {
+    "true_floor": 1.0030,
+    "top5": [
+      {"total": 1.0030, "q": "Burnley FC vs. Charlton Athletic FC: Burnley FC O/U 5.5", "yes": 0.0100, "no": 0.9930, "yes_asks": 38, "no_asks": 1, "liq": 3568.63},
+      {"total": 1.0030, "q": "Exact Score: FC Internazionale Milano 0 - 2 Club Brugge", "yes": 0.0080, "no": 0.9950, "yes_asks": 67, "no_asks": 5, "liq": 155307.64},
+      {"total": 1.0030, "q": "Spread: ŠK Slovan Bratislava (-3.5)", "yes": 0.0050, "no": 0.9980, "yes_asks": 21, "no_asks": 2, "liq": 16006.55},
+      {"total": 1.0040, "q": "Spread: Sporting Kansas City (-3.5)", "yes": 0.0050, "no": 0.9990, "yes_asks": 13, "no_asks": 1, "liq": 4826.52},
+      {"total": 1.0050, "q": "Spread: ŠK Slovan Bratislava (-2.5)", "yes": 0.0100, "no": 0.9950, "yes_asks": 29, "no_asks": 5, "liq": 18023.86}
+    ],
+    "bands": {"le1.000": 0, "le1.005": 5, "le1.010": 16, "le1.020": 18, "le1.030": 5, "le1.050": 14},
+    "median_two_sided": 1.0200
+  },
+  "structural": {
+    "two_sided": 73,
+    "yes_only": 416,
+    "no_only": 0,
+    "empty": 11,
+    "total": 500,
+    "pct_not_bracketable": 85.4
+  },
+  "tracked_market": {
+    "question": "Will US unemployment reach at least 6.0% in 2026?",
+    "event_slug": "how-high-will-us-unemployment-go-in-2026",
+    "status": "active, held (verified live via gamma + CLOB /book)",
+    "yes_min_ask": 0.0040,
+    "yes_asks": 27,
+    "no_min_ask": 0.9980,
+    "no_asks": 2,
+    "floor": 1.0020,
+    "liquidity": 6889.62,
+    "sibling_markets": [
+      {"q": "at least 5.0%", "floor": 1.0010},
+      {"q": "at least 5.5%", "floor": 1.0090},
+      {"q": "at least 7.0%", "floor": 1.0010},
+      {"q": "at least 10.0%", "floor": 1.0170}
+    ]
+  }
+}
