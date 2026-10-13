@@ -1,0 +1,154 @@
+{
+ "run": "2026-10-13T101413Z",
+ "markets": 500,
+ "floors": [
+  [
+   1.002,
+   "Spread: \u0160K Slovan Bratislava (-3.5)",
+   0.004,
+   0.998,
+   16046.1066
+  ],
+  [
+   1.003,
+   "FC Internazionale Milano vs. Club Brugge KV: Club Brugg",
+   0.012,
+   0.991,
+   12332.87669
+  ],
+  [
+   1.004,
+   "Exact Score: Venezia FC 4 - 3 SSC Napoli?",
+   0.006,
+   0.998,
+   2035.33678
+  ],
+  [
+   1.004,
+   "Spread: Sporting Kansas City (-3.5)",
+   0.005,
+   0.999,
+   3045.44654
+  ],
+  [
+   1.004,
+   "Will Fernando Mendoza have 3,500+ passing yards in the ",
+   0.06,
+   0.944,
+   216.81541
+  ],
+  [
+   1.006,
+   "Exact Score: Venezia FC 3 - 4 SSC Napoli?",
+   0.01,
+   0.996,
+   2215.42432
+  ],
+  [
+   1.006,
+   "Spread: \u0160K Slovan Bratislava (-2.5)",
+   0.008,
+   0.998,
+   18262.45155
+  ],
+  [
+   1.007,
+   "Exact Score: Venezia FC 4 - 1 SSC Napoli?",
+   0.01,
+   0.997,
+   347.41495
+  ],
+  [
+   1.007,
+   "Exact Score: Venezia FC 4 - 2 SSC Napoli?",
+   0.009,
+   0.998,
+   2439.91156
+  ],
+  [
+   1.008,
+   "Spread: Fenerbah\u00e7e SK (-3.5)",
+   0.01,
+   0.998,
+   15926.6363
+  ],
+  [
+   1.009,
+   "Spread: Austin FC (-3.5)",
+   0.01,
+   0.999,
+   2603.80484
+  ],
+  [
+   1.009,
+   "Spread: FK Kauno \u017dalgiris (-1.5)",
+   0.01,
+   0.999,
+   628.74518
+  ],
+  [
+   1.009,
+   "Spread: FK Kauno \u017dalgiris (-2.5)",
+   0.01,
+   0.999,
+   265.49615
+  ],
+  [
+   1.009,
+   "Spread: Lincoln Red Imps FC (-2.5)",
+   0.01,
+   0.999,
+   753.58283
+  ],
+  [
+   1.009,
+   "Spread: Sporting Kansas City (-2.5)",
+   0.01,
+   0.999,
+   4005.98464
+  ],
+  [
+   1.01,
+   "Exact Score: AFC Bournemouth 0 - 3 SK Puntigamer Sturm ",
+   0.011,
+   0.999,
+   2932.20139
+  ],
+  [
+   1.01,
+   "Spread: Patriots (-6.5)",
+   0.54,
+   0.47,
+   38920.837
+  ],
+  [
+   1.01,
+   "Will Dplus KIA Qualify for Worlds 2026?",
+   0.998,
+   0.012,
+   124.32057
+  ],
+  [
+   1.01,
+   "Will Georgia have more than 11.5 wins during the 2026 C",
+   0.42,
+   0.59,
+   1471.3448
+  ],
+  [
+   1.01,
+   "Will Washington Capitals be the 2027 NHL Eastern Confer",
+   0.1,
+   0.91,
+   49071.7093
+  ]
+ ],
+ "tiers": {
+  "1.005": 5,
+  "1.01": 23,
+  "1.02": 33,
+  "1.03": 38,
+  "1.05": 52,
+  "1.1": 61
+ }
+}
