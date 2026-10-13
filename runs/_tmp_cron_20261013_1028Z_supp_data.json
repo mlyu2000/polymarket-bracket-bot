@@ -1,0 +1,9 @@
+{"scan_time_utc": "2026-10-13", "markets": 500, "two_sided": 68, "median_min_ask_sum": 1.0300,
+ "bands": {"<=1.005": 5, "<=1.010": 20, "<=1.020": 31, "<=1.030": 35},
+ "near_misses_1005": [
+  [1.002, "Spread: ŠK Slovan Bratislava (-3.5)", 0.004, 0.998, 16046.11],
+  [1.003, "FC Internazionale Milano vs. Club Brugge KV: Club Brugge...", 0.012, 0.991, 12313.36],
+  [1.004, "Exact Score: Venezia FC 4 - 3 SSC Napoli?", 0.006, 0.998, 2035.33],
+  [1.004, "Spread: Sporting Kansas City (-3.5)", 0.005, 0.999, 3045.45],
+  [1.004, "Will Fernando Mendoza have 3,500+ passing yards in...", 0.060, 0.944, 216.82]],
+ "brackets": 0, "note": "asks[0] is worst ask (DESC); used min(all asks)"}
