@@ -1,0 +1,72 @@
+{
+ "ts": "20261013T0327Z",
+ "markets": 500,
+ "scan_time": 61.5,
+ "two": 61,
+ "yes_only": 430,
+ "no_only": 0,
+ "empty": 9,
+ "floor": 1.004,
+ "floor_mkt": "Spread: \u0160K Slovan Bratislava (-3.5)",
+ "floor_y": 0.005,
+ "floor_n": 0.999,
+ "floor_yasks": 26,
+ "floor_nasks": 1,
+ "floor_liq": 15636.10609,
+ "bands": {
+  "1.005": 2,
+  "1.01": 16,
+  "1.02": 25,
+  "1.03": 32,
+  "1.05": 46
+ },
+ "median": 1.03,
+ "top5": [
+  [
+   1.004,
+   "Spread: \u0160K Slovan Bratislava (-3.5)",
+   0.005,
+   0.999,
+   26,
+   1,
+   15636.10609
+  ],
+  [
+   1.005,
+   "Spread: Galatasaray SK (-2.5)",
+   0.015,
+   0.99,
+   35,
+   10,
+   23943.68597
+  ],
+  [
+   1.006,
+   "Spread: \u0160K Slovan Bratislava (-2.5)",
+   0.008,
+   0.998,
+   32,
+   2,
+   16867.47699
+  ],
+  [
+   1.007,
+   "Exact Score: Venezia FC 4 - 2 SSC Napoli?",
+   0.009,
+   0.998,
+   19,
+   2,
+   2176.95522
+  ],
+  [
+   1.008,
+   "Will Fernando Mendoza have 3,500+ passing yards in the 2026-",
+   0.06,
+   0.948,
+   7,
+   10,
+   87.40491
+  ]
+ ],
+ "unemp_floor": 1.002
+}
