@@ -1,0 +1,106 @@
+{
+  "ts": "20261013T090127Z",
+  "markets": 500,
+  "priced": 62,
+  "scan_time": 55.4,
+  "one_sided": {
+    "yes_only": 430,
+    "no_only": 0,
+    "empty": 8,
+    "both": 62
+  },
+  "tiers": {
+    "1.005": 3,
+    "1.01": 16,
+    "1.02": 24,
+    "1.03": 30,
+    "1.05": 42,
+    "1.1": 51
+  },
+  "top12": [
+    [
+      1.002,
+      "Spread: \u0160K Slovan Bratislava (-3.5)",
+      0.004,
+      0.998,
+      12482.42069
+    ],
+    [
+      1.004,
+      "Spread: Sporting Kansas City (-3.5)",
+      0.005,
+      0.999,
+      1547.13965
+    ],
+    [
+      1.004,
+      "Will Fernando Mendoza have 3,500+ passing yards in",
+      0.06,
+      0.944,
+      231.94181
+    ],
+    [
+      1.006,
+      "Exact Score: Venezia FC 3 - 4 SSC Napoli?",
+      0.01,
+      0.996,
+      2085.52718
+    ],
+    [
+      1.006,
+      "Spread: \u0160K Slovan Bratislava (-2.5)",
+      0.008,
+      0.998,
+      13452.73643
+    ],
+    [
+      1.007,
+      "Exact Score: Venezia FC 4 - 2 SSC Napoli?",
+      0.009,
+      0.998,
+      2531.40481
+    ],
+    [
+      1.007,
+      "Spread: Fenerbah\u00e7e SK (-3.5)",
+      0.009,
+      0.998,
+      15524.22139
+    ],
+    [
+      1.009,
+      "Spread: Austin FC (-3.5)",
+      0.01,
+      0.999,
+      1084.6041
+    ],
+    [
+      1.009,
+      "Spread: Sporting Kansas City (-2.5)",
+      0.01,
+      0.999,
+      3235.08334
+    ],
+    [
+      1.01,
+      "Russia pneumonic plague spreads abroad?",
+      0.045,
+      0.965,
+      13959.96118
+    ],
+    [
+      1.01,
+      "Spread: Patriots (-6.5)",
+      0.54,
+      0.47,
+      38804.5416
+    ],
+    [
+      1.01,
+      "Will Georgia have more than 11.5 wins during the 2",
+      0.42,
+      0.59,
+      1431.5053
+    ]
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "ts": "20261013T090025Z",
+  "markets": 500,
+  "priced": 62,
+  "scan_time": 53.3,
+  "one_sided": {
+    "yes_only": 430,
+    "no_only": 0,
+    "empty": 8,
+    "both": 62
+  },
+  "floor": 1.002,
+  "floor_q": "Spread: \u0160K Slovan Bratislava (-3.5)",
+  "floor_yes": 0.004,
+  "floor_no": 0.998,
+  "floor_liq": 12482.42069,
+  "band": [
+    [
+      1.002,
+      "Spread: \u0160K Slovan Bratislava (-3.5)",
+      0.004,
+      0.998,
+      12482.42069
+    ],
+    [
+      1.004,
+      "Spread: Sporting Kansas City (-3.5)",
+      0.005,
+      0.999,
+      1547.13965
+    ],
+    [
+      1.004,
+      "Will Fernando Mendoza have 3,500+ passing yards in the 2026-27 NFL regular season?",
+      0.06,
+      0.944,
+      231.94181
+    ]
+  ],
+  "brackets": [],
+  "detector_opps": 0
+}

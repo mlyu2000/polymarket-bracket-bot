@@ -1,0 +1,95 @@
+{
+  "ts": "20261013T090253Z",
+  "query": "will-us-unemployment-reach-at-least-6pt0-in-2026",
+  "event_found": true,
+  "event": {
+    "title": "How high will US unemployment go in 2026?",
+    "slug": "how-high-will-us-unemployment-go-in-2026",
+    "active": true,
+    "closed": false,
+    "endDate": "2027-04-01T03:59:00Z"
+  },
+  "markets": 5,
+  "floors": [
+    {
+      "question": "Will US unemployment reach at least 7.0% in 2026?",
+      "yes": {
+        "min_ask": 0.017,
+        "n_asks": 20,
+        "max_bid": 0.016,
+        "n_bids": 11
+      },
+      "no": {
+        "min_ask": 0.984,
+        "n_asks": 11,
+        "max_bid": 0.983,
+        "n_bids": 20
+      },
+      "true_floor": 1.001
+    },
+    {
+      "question": "Will US unemployment reach at least 5.0% in 2026?",
+      "yes": {
+        "min_ask": 0.05,
+        "n_asks": 36,
+        "max_bid": 0.048,
+        "n_bids": 29
+      },
+      "no": {
+        "min_ask": 0.952,
+        "n_asks": 29,
+        "max_bid": 0.95,
+        "n_bids": 36
+      },
+      "true_floor": 1.002
+    },
+    {
+      "question": "Will US unemployment reach at least 6.0% in 2026?",
+      "yes": {
+        "min_ask": 0.004,
+        "n_asks": 25,
+        "max_bid": 0.002,
+        "n_bids": 2
+      },
+      "no": {
+        "min_ask": 0.998,
+        "n_asks": 2,
+        "max_bid": 0.996,
+        "n_bids": 25
+      },
+      "true_floor": 1.002
+    },
+    {
+      "question": "Will US unemployment reach at least 5.5% in 2026?",
+      "yes": {
+        "min_ask": 0.029,
+        "n_asks": 16,
+        "max_bid": 0.02,
+        "n_bids": 13
+      },
+      "no": {
+        "min_ask": 0.98,
+        "n_asks": 13,
+        "max_bid": 0.971,
+        "n_bids": 16
+      },
+      "true_floor": 1.009
+    },
+    {
+      "question": "Will US unemployment reach at least 10.0% in 2026?",
+      "yes": {
+        "min_ask": 0.027,
+        "n_asks": 23,
+        "max_bid": 0.01,
+        "n_bids": 6
+      },
+      "no": {
+        "min_ask": 0.99,
+        "n_asks": 6,
+        "max_bid": 0.973,
+        "n_bids": 23
+      },
+      "true_floor": 1.017
+    }
+  ]
+}
