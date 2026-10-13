@@ -1,0 +1,120 @@
+{
+  "ts": "20261013T083120Z",
+  "markets_fetched": 500,
+  "two_sided": 63,
+  "no_unacquirable": 29,
+  "detector_brackets": 0,
+  "detector_near_miss_asks0": 0,
+  "bands": {
+    "<1.000": 0,
+    "<=1.005": 3,
+    "<=1.010": 16,
+    "<=1.020": 27,
+    "<=1.030": 31
+  },
+  "median_floor": 1.037,
+  "min_floor": 1.004,
+  "scan_time_s": 53.8,
+  "lowest_10": [
+    {
+      "floor": 1.004,
+      "yes": 0.06,
+      "no": 0.944,
+      "yes_asks": 6,
+      "no_asks": 7,
+      "liq": 215.37541,
+      "q": "Will Fernando Mendoza have 3,500+ passing yards in the 2026-27 NFL regular season?",
+      "id": null
+    },
+    {
+      "floor": 1.004,
+      "yes": 0.005,
+      "no": 0.999,
+      "yes_asks": 10,
+      "no_asks": 1,
+      "liq": 1527.13356,
+      "q": "Spread: Sporting Kansas City (-3.5)",
+      "id": null
+    },
+    {
+      "floor": 1.004,
+      "yes": 0.005,
+      "no": 0.999,
+      "yes_asks": 26,
+      "no_asks": 1,
+      "liq": 15677.97192,
+      "q": "Spread: \u0160K Slovan Bratislava (-3.5)",
+      "id": null
+    },
+    {
+      "floor": 1.006,
+      "yes": 0.008,
+      "no": 0.998,
+      "yes_asks": 32,
+      "no_asks": 2,
+      "liq": 16858.68474,
+      "q": "Spread: \u0160K Slovan Bratislava (-2.5)",
+      "id": null
+    },
+    {
+      "floor": 1.006,
+      "yes": 0.009,
+      "no": 0.997,
+      "yes_asks": 19,
+      "no_asks": 3,
+      "liq": 2489.66047,
+      "q": "Exact Score: Venezia FC 4 - 2 SSC Napoli?",
+      "id": null
+    },
+    {
+      "floor": 1.006,
+      "yes": 0.01,
+      "no": 0.996,
+      "yes_asks": 12,
+      "no_asks": 2,
+      "liq": 1194.21185,
+      "q": "Exact Score: Venezia FC 3 - 4 SSC Napoli?",
+      "id": null
+    },
+    {
+      "floor": 1.008,
+      "yes": 0.01,
+      "no": 0.998,
+      "yes_asks": 25,
+      "no_asks": 2,
+      "liq": 15546.44705,
+      "q": "Spread: Fenerbah\u00e7e SK (-3.5)",
+      "id": null
+    },
+    {
+      "floor": 1.009,
+      "yes": 0.01,
+      "no": 0.999,
+      "yes_asks": 10,
+      "no_asks": 1,
+      "liq": 1064.94197,
+      "q": "Spread: Austin FC (-3.5)",
+      "id": null
+    },
+    {
+      "floor": 1.009,
+      "yes": 0.01,
+      "no": 0.999,
+      "yes_asks": 14,
+      "no_asks": 1,
+      "liq": 3237.09534,
+      "q": "Spread: Sporting Kansas City (-2.5)",
+      "id": null
+    },
+    {
+      "floor": 1.009,
+      "yes": 0.01,
+      "no": 0.999,
+      "yes_asks": 12,
+      "no_asks": 1,
+      "liq": 779.15604,
+      "q": "Spread: FK Kauno \u017dalgiris (-1.5)",
+      "id": null
+    }
+  ]
+}
