@@ -1,0 +1,57 @@
+{
+ "ts": "20261013_2327Z",
+ "markets": 500,
+ "scan_time": 53.442447900772095,
+ "brackets": 0,
+ "two_sided": 73,
+ "yes_only": 427,
+ "floors": [
+  [
+   1.003,
+   "2-sided",
+   "Spread: \u0160K Slovan Bratislava (-2.5)"
+  ],
+  [
+   1.004,
+   "2-sided",
+   "Spread: Lillestr\u00f8m SK (-3.5)"
+  ],
+  [
+   1.004,
+   "2-sided",
+   "Spread: SC Uni\u00e3o Torreense (-3.5)"
+  ],
+  [
+   1.004,
+   "2-sided",
+   "Spread: \u0160K Slovan Bratislava (-3.5)"
+  ],
+  [
+   1.005,
+   "2-sided",
+   "Spread: Sporting Kansas City (-2.5)"
+  ],
+  [
+   1.007,
+   "2-sided",
+   "Exact Score: Bologna FC 1909 4 - 2 FC Internazionale Milano?"
+  ],
+  [
+   1.007,
+   "2-sided",
+   "Exact Score: Venezia FC 4 - 2 SSC Napoli?"
+  ],
+  [
+   1.008,
+   "2-sided",
+   "Spread: HNK Hajduk Split (-2.5)"
+  ]
+ ],
+ "bands": {
+  "1.005": 5,
+  "1.01": 20,
+  "1.02": 40,
+  "1.03": 47
+ },
+ "median": 1.02
+}
