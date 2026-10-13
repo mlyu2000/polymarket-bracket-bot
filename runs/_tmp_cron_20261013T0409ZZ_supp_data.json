@@ -1,0 +1,84 @@
+{
+  "ts": "20261013T0409Z",
+  "markets": 500,
+  "two_sided": 61,
+  "median_floor": 1.03,
+  "bands": {
+    "1.005": 2,
+    "1.010": 17,
+    "1.020": 26,
+    "1.030": 33
+  },
+  "top10": [
+    {
+      "total": 1.003,
+      "q": "Spread: \u0160K Slovan Bratislava (-3.5)",
+      "yes": 0.005,
+      "no": 0.998,
+      "liq": 15681.3205
+    },
+    {
+      "total": 1.004,
+      "q": "Spread: Sporting Kansas City (-3.5)",
+      "yes": 0.005,
+      "no": 0.999,
+      "liq": 1327.1538
+    },
+    {
+      "total": 1.006,
+      "q": "Spread: \u0160K Slovan Bratislava (-2.5)",
+      "yes": 0.008,
+      "no": 0.998,
+      "liq": 16860.43099
+    },
+    {
+      "total": 1.007,
+      "q": "Exact Score: Venezia FC 4 - 2 SSC Napoli?",
+      "yes": 0.009,
+      "no": 0.998,
+      "liq": 2400.83932
+    },
+    {
+      "total": 1.008,
+      "q": "Will Fernando Mendoza have 3,500+ passing yards in the 2026-",
+      "yes": 0.06,
+      "no": 0.948,
+      "liq": 107.12491
+    },
+    {
+      "total": 1.008,
+      "q": "Spread: Fenerbah\u00e7e SK (-3.5)",
+      "yes": 0.01,
+      "no": 0.998,
+      "liq": 15567.45226
+    },
+    {
+      "total": 1.009,
+      "q": "Spread: Sporting Kansas City (-2.5)",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 2127.32221
+    },
+    {
+      "total": 1.01,
+      "q": "Will Washington Capitals be the 2027 NHL Eastern Conference ",
+      "yes": 0.1,
+      "no": 0.91,
+      "liq": 48219.2312
+    },
+    {
+      "total": 1.01,
+      "q": "Spread: Real Madrid CF (-2.5)",
+      "yes": 0.36,
+      "no": 0.65,
+      "liq": 12817.2061
+    },
+    {
+      "total": 1.01,
+      "q": "Will the Utah Mammoth record 100+ points?",
+      "yes": 0.51,
+      "no": 0.5,
+      "liq": 415.7102
+    }
+  ]
+}
