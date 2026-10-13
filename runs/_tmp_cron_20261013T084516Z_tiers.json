@@ -1,0 +1,106 @@
+{
+  "ts": "20261013T084516Z",
+  "markets": 500,
+  "priced": 62,
+  "scan_time": 53.4,
+  "one_sided": {
+    "yes_only": 430,
+    "no_only": 0,
+    "empty": 8,
+    "both": 62
+  },
+  "tiers": {
+    "1.005": 3,
+    "1.01": 15,
+    "1.02": 25,
+    "1.03": 30,
+    "1.05": 43,
+    "1.1": 51
+  },
+  "top12": [
+    [
+      1.002,
+      "Spread: \u0160K Slovan Bratislava (-3.5)",
+      0.004,
+      0.998,
+      15673.90482
+    ],
+    [
+      1.004,
+      "Spread: Sporting Kansas City (-3.5)",
+      0.005,
+      0.999,
+      1527.13931
+    ],
+    [
+      1.004,
+      "Will Fernando Mendoza have 3,500+ passing yards in",
+      0.06,
+      0.944,
+      216.99541
+    ],
+    [
+      1.006,
+      "Exact Score: Venezia FC 3 - 4 SSC Napoli?",
+      0.01,
+      0.996,
+      2122.32499
+    ],
+    [
+      1.006,
+      "Spread: \u0160K Slovan Bratislava (-2.5)",
+      0.008,
+      0.998,
+      16602.32477
+    ],
+    [
+      1.007,
+      "Exact Score: Venezia FC 4 - 2 SSC Napoli?",
+      0.009,
+      0.998,
+      2381.3146
+    ],
+    [
+      1.008,
+      "Spread: Fenerbah\u00e7e SK (-3.5)",
+      0.01,
+      0.998,
+      15560.8989
+    ],
+    [
+      1.009,
+      "Spread: Austin FC (-3.5)",
+      0.01,
+      0.999,
+      1084.6041
+    ],
+    [
+      1.009,
+      "Spread: Sporting Kansas City (-2.5)",
+      0.01,
+      0.999,
+      3237.09534
+    ],
+    [
+      1.01,
+      "Spread: Patriots (-6.5)",
+      0.54,
+      0.47,
+      38945.0216
+    ],
+    [
+      1.01,
+      "Will Georgia have more than 11.5 wins during the 2",
+      0.42,
+      0.59,
+      1409.5595
+    ],
+    [
+      1.01,
+      "Will Washington Capitals be the 2027 NHL Eastern C",
+      0.1,
+      0.91,
+      51174.1649
+    ]
+  ]
+}
