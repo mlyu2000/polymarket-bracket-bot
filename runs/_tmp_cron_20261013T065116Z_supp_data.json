@@ -1,0 +1,165 @@
+{
+ "ts": "20261013T065116Z",
+ "markets": 500,
+ "scan": "verbatim (asks[0]) + supplementary min-ask",
+ "structural": {
+  "two_sided": 65,
+  "yes_only": 427,
+  "no_only": 0,
+  "empty": 8
+ },
+ "not_bracketable_pct": 87.0,
+ "tiers": {
+  "le1000": 0,
+  "le1004": 2,
+  "le1010": 15,
+  "le1020": 26,
+  "le1030": 32,
+  "le1050": 44
+ },
+ "median_two_sided_total": 1.037,
+ "floors_top10": [
+  [
+   1.002,
+   "Spread: \u0160K Slovan Bratislava (-3.5)",
+   0.004,
+   0.998,
+   15671.43186
+  ],
+  [
+   1.004,
+   "Spread: Sporting Kansas City (-3.5)",
+   0.005,
+   0.999,
+   1467.1717
+  ],
+  [
+   1.006,
+   "Spread: \u0160K Slovan Bratislava (-2.5)",
+   0.008,
+   0.998,
+   16865.9988
+  ],
+  [
+   1.006,
+   "Will Fernando Mendoza have 3,500+ passing yards in the 2026-",
+   0.06,
+   0.946,
+   86.50791
+  ],
+  [
+   1.007,
+   "Exact Score: Venezia FC 4 - 2 SSC Napoli?",
+   0.009,
+   0.998,
+   2394.06632
+  ],
+  [
+   1.008,
+   "Spread: Fenerbah\u00e7e SK (-3.5)",
+   0.01,
+   0.998,
+   15568.93524
+  ],
+  [
+   1.009,
+   "Spread: Austin FC (-3.5)",
+   0.01,
+   0.999,
+   990.05204
+  ],
+  [
+   1.009,
+   "Spread: FK Kauno \u017dalgiris (-1.5)",
+   0.01,
+   0.999,
+   694.34313
+  ],
+  [
+   1.009,
+   "Spread: Sporting Kansas City (-2.5)",
+   0.01,
+   0.999,
+   3235.08334
+  ],
+  [
+   1.01,
+   "Spread: Burnley FC (-1.5)",
+   0.34,
+   0.67,
+   58407.8115
+  ]
+ ],
+ "entries_top10": [
+  {
+   "total": 1.002,
+   "q": "Spread: \u0160K Slovan Bratislava (-3.5)",
+   "yes": 0.004,
+   "no": 0.998,
+   "liq": 15671.43186
+  },
+  {
+   "total": 1.004,
+   "q": "Spread: Sporting Kansas City (-3.5)",
+   "yes": 0.005,
+   "no": 0.999,
+   "liq": 1467.1717
+  },
+  {
+   "total": 1.006,
+   "q": "Spread: \u0160K Slovan Bratislava (-2.5)",
+   "yes": 0.008,
+   "no": 0.998,
+   "liq": 16865.9988
+  },
+  {
+   "total": 1.006,
+   "q": "Will Fernando Mendoza have 3,500+ passing yards in the 2026-",
+   "yes": 0.06,
+   "no": 0.946,
+   "liq": 86.50791
+  },
+  {
+   "total": 1.007,
+   "q": "Exact Score: Venezia FC 4 - 2 SSC Napoli?",
+   "yes": 0.009,
+   "no": 0.998,
+   "liq": 2394.06632
+  },
+  {
+   "total": 1.008,
+   "q": "Spread: Fenerbah\u00e7e SK (-3.5)",
+   "yes": 0.01,
+   "no": 0.998,
+   "liq": 15568.93524
+  },
+  {
+   "total": 1.009,
+   "q": "Spread: Austin FC (-3.5)",
+   "yes": 0.01,
+   "no": 0.999,
+   "liq": 990.05204
+  },
+  {
+   "total": 1.009,
+   "q": "Spread: FK Kauno \u017dalgiris (-1.5)",
+   "yes": 0.01,
+   "no": 0.999,
+   "liq": 694.34313
+  },
+  {
+   "total": 1.009,
+   "q": "Spread: Sporting Kansas City (-2.5)",
+   "yes": 0.01,
+   "no": 0.999,
+   "liq": 3235.08334
+  },
+  {
+   "total": 1.01,
+   "q": "Spread: Burnley FC (-1.5)",
+   "yes": 0.34,
+   "no": 0.67,
+   "liq": 58407.8115
+  }
+ ]
+}
