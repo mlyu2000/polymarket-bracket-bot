@@ -1,0 +1,104 @@
+{
+  "ts": "2026-10-13T20:46:23Z",
+  "markets": 500,
+  "two_sided": 70,
+  "brackets": 0,
+  "bands": {
+    "1.005": 5,
+    "1.01": 19,
+    "1.02": 33,
+    "1.03": 40
+  },
+  "top_floors": [
+    {
+      "sum": 1.004,
+      "q": "Spread: \u0160K Slovan Bratislava (-2.5)",
+      "yes": 0.01,
+      "no": 0.994
+    },
+    {
+      "sum": 1.004,
+      "q": "Spread: \u0160K Slovan Bratislava (-3.5)",
+      "yes": 0.005,
+      "no": 0.999
+    },
+    {
+      "sum": 1.004,
+      "q": "Spread: SC Uni\u00e3o Torreense (-3.5)",
+      "yes": 0.005,
+      "no": 0.999
+    },
+    {
+      "sum": 1.004,
+      "q": "Spread: Lillestr\u00f8m SK (-3.5)",
+      "yes": 0.005,
+      "no": 0.999
+    },
+    {
+      "sum": 1.005,
+      "q": "Spread: Sporting Kansas City (-2.5)",
+      "yes": 0.009,
+      "no": 0.996
+    },
+    {
+      "sum": 1.007,
+      "q": "Spread: Olympique de Marseille (-3.5)",
+      "yes": 0.03,
+      "no": 0.977
+    },
+    {
+      "sum": 1.007,
+      "q": "Exact Score: Venezia FC 4 - 2 SSC Napoli?",
+      "yes": 0.008,
+      "no": 0.999
+    },
+    {
+      "sum": 1.007,
+      "q": "Exact Score: Bologna FC 1909 4 - 2 FC Internazionale Milano?",
+      "yes": 0.008,
+      "no": 0.999
+    },
+    {
+      "sum": 1.008,
+      "q": "Spread: Be\u015fikta\u015f JK (-3.5)",
+      "yes": 0.02,
+      "no": 0.988
+    },
+    {
+      "sum": 1.009,
+      "q": "Spread: HNK Hajduk Split (-2.5)",
+      "yes": 0.01,
+      "no": 0.999
+    },
+    {
+      "sum": 1.009,
+      "q": "Spread: Olympiak\u00f3s SFP (-3.5)",
+      "yes": 0.02,
+      "no": 0.989
+    },
+    {
+      "sum": 1.009,
+      "q": "Spread: Austin FC (-3.5)",
+      "yes": 0.01,
+      "no": 0.999
+    },
+    {
+      "sum": 1.009,
+      "q": "Spread: Sporting Kansas City (-3.5)",
+      "yes": 0.01,
+      "no": 0.999
+    },
+    {
+      "sum": 1.009,
+      "q": "Spread: New York City FC (-3.5)",
+      "yes": 0.01,
+      "no": 0.999
+    },
+    {
+      "sum": 1.009,
+      "q": "Spread: Fenerbah\u00e7e SK (-3.5)",
+      "yes": 0.01,
+      "no": 0.999
+    }
+  ]
+}
