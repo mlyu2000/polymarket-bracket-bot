@@ -1,0 +1,250 @@
+{
+  "ts": "20261013T164209Z",
+  "markets": 500,
+  "two_sided": 67,
+  "yes_only": 422,
+  "no_only": 0,
+  "empty": 11,
+  "brackets": 0,
+  "near_miss_le_1_030": [
+    {
+      "sum": 1.003,
+      "yes": 0.009,
+      "no": 0.994,
+      "q": "Exact Score: FC Internazionale Milano 0 - 2 Club Brugge KV?",
+      "liq": 171919.9232
+    },
+    {
+      "sum": 1.004,
+      "yes": 0.013,
+      "no": 0.991,
+      "q": "FC Internazionale Milano vs. Club Brugge KV: Club Brugge KV ",
+      "liq": 9418.582
+    },
+    {
+      "sum": 1.004,
+      "yes": 0.005,
+      "no": 0.999,
+      "q": "Spread: Sporting Kansas City (-3.5)",
+      "liq": 4786.04911
+    },
+    {
+      "sum": 1.004,
+      "yes": 0.01,
+      "no": 0.994,
+      "q": "Spread: \u0160K Slovan Bratislava (-2.5)",
+      "liq": 15661.9298
+    },
+    {
+      "sum": 1.004,
+      "yes": 0.005,
+      "no": 0.999,
+      "q": "Spread: \u0160K Slovan Bratislava (-3.5)",
+      "liq": 13605.19098
+    },
+    {
+      "sum": 1.008,
+      "yes": 0.009,
+      "no": 0.999,
+      "q": "Exact Score: Venezia FC 4 - 2 SSC Napoli?",
+      "liq": 2718.23491
+    },
+    {
+      "sum": 1.009,
+      "yes": 0.01,
+      "no": 0.999,
+      "q": "Spread: Austin FC (-3.5)",
+      "liq": 3178.14071
+    },
+    {
+      "sum": 1.009,
+      "yes": 0.01,
+      "no": 0.999,
+      "q": "Spread: Sporting Kansas City (-2.5)",
+      "liq": 5030.28356
+    },
+    {
+      "sum": 1.009,
+      "yes": 0.01,
+      "no": 0.999,
+      "q": "Spread: Fenerbah\u00e7e SK (-3.5)",
+      "liq": 13579.97078
+    },
+    {
+      "sum": 1.01,
+      "yes": 0.54,
+      "no": 0.47,
+      "q": "Spread: Patriots (-6.5)",
+      "liq": 43516.1014
+    },
+    {
+      "sum": 1.01,
+      "yes": 0.02,
+      "no": 0.99,
+      "q": "Spread: Club Atl\u00e9tico de Madrid (-4.5)",
+      "liq": 10936.6859
+    },
+    {
+      "sum": 1.01,
+      "yes": 0.51,
+      "no": 0.5,
+      "q": "Will the Utah Mammoth record 100+ points?",
+      "liq": 306.0929
+    },
+    {
+      "sum": 1.01,
+      "yes": 0.67,
+      "no": 0.34,
+      "q": "Will Xi meet with Takaichi by December 31, 2026?",
+      "liq": 42195.7657
+    },
+    {
+      "sum": 1.01,
+      "yes": 0.38,
+      "no": 0.63,
+      "q": "Will there be exactly 7 UK parliamentary by-elections in 202",
+      "liq": 21532.379
+    },
+    {
+      "sum": 1.01,
+      "yes": 0.42,
+      "no": 0.59,
+      "q": "Will Georgia have more than 11.5 wins during the 2026 CFB se",
+      "liq": 2504.026
+    },
+    {
+      "sum": 1.013,
+      "yes": 0.015,
+      "no": 0.998,
+      "q": "Spread: SSC Napoli (-3.5)",
+      "liq": 38547.191
+    },
+    {
+      "sum": 1.014,
+      "yes": 0.015,
+      "no": 0.999,
+      "q": "Spread: FC Porto (-3.5)",
+      "liq": 13407.37927
+    },
+    {
+      "sum": 1.017,
+      "yes": 0.02,
+      "no": 0.997,
+      "q": "Spread: SK Puntigamer Sturm Graz (-1.5)",
+      "liq": 3671.16789
+    },
+    {
+      "sum": 1.018,
+      "yes": 0.019,
+      "no": 0.999,
+      "q": "Spread: MH Hapoel Be'er Sheva (-2.5)",
+      "liq": 2703.48448
+    },
+    {
+      "sum": 1.019,
+      "yes": 0.02,
+      "no": 0.999,
+      "q": "Spread: Lillestr\u00f8m SK (-2.5)",
+      "liq": 2448.68209
+    },
+    {
+      "sum": 1.02,
+      "yes": 0.04,
+      "no": 0.98,
+      "q": "Spread: P\u00e1fos FC (-1.5)",
+      "liq": 3910.90216
+    },
+    {
+      "sum": 1.02,
+      "yes": 0.58,
+      "no": 0.44,
+      "q": "FC Lugano vs. FK Crvena zvezda: O/U 2.5",
+      "liq": 5595.9753
+    },
+    {
+      "sum": 1.02,
+      "yes": 0.46,
+      "no": 0.56,
+      "q": "Spread: Jagiellonia Bia\u0142ystok (-1.5)",
+      "liq": 7907.1829
+    },
+    {
+      "sum": 1.02,
+      "yes": 0.13,
+      "no": 0.89,
+      "q": "Portugal vs. Northern Ireland: O/U 5.5",
+      "liq": 3275.3068
+    },
+    {
+      "sum": 1.02,
+      "yes": 0.63,
+      "no": 0.39,
+      "q": "Atalanta BC vs. P\u00e1fos FC: O/U 2.5",
+      "liq": 6984.4734
+    },
+    {
+      "sum": 1.02,
+      "yes": 0.55,
+      "no": 0.47,
+      "q": "Queens Park Rangers FC vs. Derby County FC: Both Teams to Sc",
+      "liq": 8732.6108
+    },
+    {
+      "sum": 1.02,
+      "yes": 0.38,
+      "no": 0.64,
+      "q": "Sabah FK vs. SK Slavia Praha: 1st Half O/U 1.5",
+      "liq": 103419.031
+    },
+    {
+      "sum": 1.021,
+      "yes": 0.04,
+      "no": 0.981,
+      "q": "Spread: Olympique de Marseille (-3.5)",
+      "liq": 2870.23207
+    },
+    {
+      "sum": 1.021,
+      "yes": 0.051,
+      "no": 0.97,
+      "q": "Will Kai Havertz (Arsenal) be the top goalscorer of the 2026",
+      "liq": 7911.23697
+    },
+    {
+      "sum": 1.03,
+      "yes": 0.58,
+      "no": 0.45,
+      "q": "Nyiregyhaza Spartacus FC vs. Budapest Honved FC: O/U 2.5",
+      "liq": 2529.5882
+    },
+    {
+      "sum": 1.03,
+      "yes": 0.24,
+      "no": 0.79,
+      "q": "Spread: Brighton & Hove Albion FC (-5.5)",
+      "liq": 2200.9155
+    },
+    {
+      "sum": 1.03,
+      "yes": 0.07,
+      "no": 0.96,
+      "q": "Will USD/JPY hit 190 (High) in 2026?",
+      "liq": 115.7009
+    },
+    {
+      "sum": 1.03,
+      "yes": 0.54,
+      "no": 0.49,
+      "q": "Washington State vs. Oregon State: O/U 51.5",
+      "liq": 13757.9464
+    }
+  ],
+  "tiers": {
+    "1.005": 5,
+    "1.01": 15,
+    "1.02": 27,
+    "1.03": 33,
+    "1.05": 46
+  },
+  "median_two_sided_total": 1.032
+}
