@@ -1,0 +1,101 @@
+{
+  "ts": "20261013T094536Z",
+  "markets": 500,
+  "scan_time": 0.0,
+  "brackets": 0,
+  "structural": {
+    "two_sided": 71,
+    "yes_only_or_no_only": 421,
+    "empty": 8,
+    "not_bracketable_pct": 85.8
+  },
+  "floor": {
+    "total": 1.002,
+    "q": "Spread: \u0160K Slovan Bratislava (-3.5)",
+    "yes": 0.004,
+    "no": 0.998,
+    "liq": 16037.24958
+  },
+  "median_two_sided": 1.031,
+  "tiers": {
+    "le1.005": 5,
+    "le1.01": 20,
+    "le1.02": 31,
+    "le1.03": 35,
+    "le1.05": 48,
+    "le1.1": 59
+  },
+  "top10": [
+    {
+      "total": 1.002,
+      "q": "Spread: \u0160K Slovan Bratislava (-3.5)",
+      "yes": 0.004,
+      "no": 0.998,
+      "liq": 16037.24958
+    },
+    {
+      "total": 1.004,
+      "q": "Will Fernando Mendoza have 3,500+ passing yards in the 2026-27 NFL regular seaso",
+      "yes": 0.06,
+      "no": 0.944,
+      "liq": 216.81541
+    },
+    {
+      "total": 1.004,
+      "q": "FC Internazionale Milano vs. Club Brugge KV: Club Brugge KV O/U 3.5",
+      "yes": 0.013,
+      "no": 0.991,
+      "liq": 13225.62651
+    },
+    {
+      "total": 1.004,
+      "q": "Spread: Sporting Kansas City (-3.5)",
+      "yes": 0.005,
+      "no": 0.999,
+      "liq": 3049.65254
+    },
+    {
+      "total": 1.005,
+      "q": "Exact Score: Venezia FC 4 - 3 SSC Napoli?",
+      "yes": 0.006,
+      "no": 0.999,
+      "liq": 411.45883
+    },
+    {
+      "total": 1.006,
+      "q": "Spread: \u0160K Slovan Bratislava (-2.5)",
+      "yes": 0.008,
+      "no": 0.998,
+      "liq": 17007.6252
+    },
+    {
+      "total": 1.006,
+      "q": "Exact Score: Venezia FC 3 - 4 SSC Napoli?",
+      "yes": 0.01,
+      "no": 0.996,
+      "liq": 2215.27233
+    },
+    {
+      "total": 1.007,
+      "q": "Exact Score: Venezia FC 4 - 2 SSC Napoli?",
+      "yes": 0.009,
+      "no": 0.998,
+      "liq": 2524.63191
+    },
+    {
+      "total": 1.008,
+      "q": "Spread: Fenerbah\u00e7e SK (-3.5)",
+      "yes": 0.01,
+      "no": 0.998,
+      "liq": 15934.2075
+    },
+    {
+      "total": 1.009,
+      "q": "Spread: Austin FC (-3.5)",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 2603.80467
+    }
+  ],
+  "note": "verbatim asks[0] near-miss block reports 0 (known DESC-sort artifact); min-ask floor authoritative."
+}
