@@ -1,0 +1,13 @@
+{
+  "timestamp_utc": "2026-10-13T21:13:16Z",
+  "markets": 500,
+  "scan_time_s": 53.9,
+  "brackets": 0,
+  "two_sided": 71,
+  "yes_only": 419,
+  "no_only": 2,
+  "median_floor": 1.0300,
+  "bands": {"1.002": 0, "1.005": 5, "1.010": 18, "1.020": 34, "1.030": 39},
+  "not_bracketable_pct": 85.8,
+  "note": "cron-script near-miss uses asks[0] (worst ask) = always 0; true floors computed with min(all asks). Top floor 1.0040 (Slovan -3.5, 4x). No market below 1.002."
+}
