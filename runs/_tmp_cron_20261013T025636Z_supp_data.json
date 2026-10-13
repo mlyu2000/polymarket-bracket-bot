@@ -1,0 +1,68 @@
+{
+ "scan_time": 52.84111976623535,
+ "markets": 500,
+ "two_sided": 68,
+ "yes_only": 424,
+ "no_only": 0,
+ "empty": 8,
+ "median": 1.036,
+ "top": [
+  [
+   1.004,
+   "Spread: \u0160K Slovan Bratislava (-3.5)",
+   0.005,
+   0.999,
+   15674.46947
+  ],
+  [
+   1.005,
+   "Spread: Galatasaray SK (-2.5)",
+   0.015,
+   0.99,
+   23950.28299
+  ],
+  [
+   1.006,
+   "Spread: \u0160K Slovan Bratislava (-2.5)",
+   0.008,
+   0.998,
+   16865.44291
+  ],
+  [
+   1.007,
+   "Exact Score: Venezia FC 4 - 2 SSC Napoli?",
+   0.009,
+   0.998,
+   2178.45822
+  ],
+  [
+   1.008,
+   "Spread: Fenerbah\u00e7e SK (-3.5)",
+   0.01,
+   0.998,
+   15564.91822
+  ]
+ ],
+ "bands": {
+  "<=1.005": 2,
+  "<=1.010": 16,
+  "<=1.020": 27,
+  "<=1.030": 33,
+  "<=1.050": 48
+ },
+ "tracked_unemployment_6p0": {
+  "yes_min_ask": 0.004,
+  "yes_asks": 28,
+  "no_min_ask": 0.998,
+  "no_asks": 2,
+  "true_floor": 1.002,
+  "active": true,
+  "closed": false
+ },
+ "verbatim": {
+  "markets": 500,
+  "scan_time": 52.8,
+  "brackets": 0,
+  "near_misses_asks0": 0
+ }
+}
