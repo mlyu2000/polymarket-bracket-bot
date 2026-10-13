@@ -1,0 +1,175 @@
+{
+  "ts": "20261013T104124Z",
+  "markets": 500,
+  "scan": "verbatim (asks[0]) + supplementary min-ask",
+  "structural": {
+    "two_sided": 66,
+    "yes_only": 426,
+    "no_only": 0,
+    "empty": 8
+  },
+  "not_bracketable_pct": 86.8,
+  "tiers": {
+    "le1000": 0,
+    "le1005": 6,
+    "le1010": 20,
+    "le1020": 28,
+    "le1030": 35,
+    "le1050": 47
+  },
+  "median_two_sided_total": 1.03,
+  "floors_top10": [
+    [
+      1.002,
+      "Spread: \u0160K Slovan Bratislava (-3.5)",
+      0.004,
+      0.998,
+      16045.52188
+    ],
+    [
+      1.003,
+      "FC Internazionale Milano vs. Club Brugge KV: Club ",
+      0.012,
+      0.991,
+      12352.3592
+    ],
+    [
+      1.004,
+      "Exact Score: Venezia FC 4 - 3 SSC Napoli?",
+      0.006,
+      0.998,
+      2031.22778
+    ],
+    [
+      1.004,
+      "Spread: Sporting Kansas City (-3.5)",
+      0.005,
+      0.999,
+      3045.44654
+    ],
+    [
+      1.004,
+      "Will Fernando Mendoza have 3,500+ passing yards in",
+      0.06,
+      0.944,
+      216.81541
+    ],
+    [
+      1.005,
+      "Exact Score: Venezia FC 4 - 1 SSC Napoli?",
+      0.009,
+      0.996,
+      1121.42481
+    ],
+    [
+      1.006,
+      "Exact Score: Venezia FC 3 - 4 SSC Napoli?",
+      0.01,
+      0.996,
+      2151.30104
+    ],
+    [
+      1.006,
+      "Spread: \u0160K Slovan Bratislava (-2.5)",
+      0.008,
+      0.998,
+      18432.20655
+    ],
+    [
+      1.007,
+      "Will Dplus KIA Qualify for Worlds 2026?",
+      0.998,
+      0.009,
+      124.37057
+    ],
+    [
+      1.008,
+      "Exact Score: Venezia FC 4 - 2 SSC Napoli?",
+      0.009,
+      0.999,
+      2392.92447
+    ]
+  ],
+  "entries_top10": [
+    {
+      "total": 1.002,
+      "q": "Spread: \u0160K Slovan Bratislava (-3.5)",
+      "yes": 0.004,
+      "no": 0.998,
+      "liq": 16045.52188
+    },
+    {
+      "total": 1.003,
+      "q": "FC Internazionale Milano vs. Club Brugge KV: Club Brugge KV ",
+      "yes": 0.012,
+      "no": 0.991,
+      "liq": 12352.3592
+    },
+    {
+      "total": 1.004,
+      "q": "Will Fernando Mendoza have 3,500+ passing yards in the 2026-",
+      "yes": 0.06,
+      "no": 0.944,
+      "liq": 216.81541
+    },
+    {
+      "total": 1.004,
+      "q": "Spread: Sporting Kansas City (-3.5)",
+      "yes": 0.005,
+      "no": 0.999,
+      "liq": 3045.44654
+    },
+    {
+      "total": 1.004,
+      "q": "Exact Score: Venezia FC 4 - 3 SSC Napoli?",
+      "yes": 0.006,
+      "no": 0.998,
+      "liq": 2031.22778
+    },
+    {
+      "total": 1.005,
+      "q": "Exact Score: Venezia FC 4 - 1 SSC Napoli?",
+      "yes": 0.009,
+      "no": 0.996,
+      "liq": 1121.42481
+    },
+    {
+      "total": 1.006,
+      "q": "Spread: \u0160K Slovan Bratislava (-2.5)",
+      "yes": 0.008,
+      "no": 0.998,
+      "liq": 18432.20655
+    },
+    {
+      "total": 1.006,
+      "q": "Exact Score: Venezia FC 3 - 4 SSC Napoli?",
+      "yes": 0.01,
+      "no": 0.996,
+      "liq": 2151.30104
+    },
+    {
+      "total": 1.007,
+      "q": "Will Dplus KIA Qualify for Worlds 2026?",
+      "yes": 0.998,
+      "no": 0.009,
+      "liq": 124.37057
+    },
+    {
+      "total": 1.008,
+      "q": "Spread: Fenerbah\u00e7e SK (-3.5)",
+      "yes": 0.01,
+      "no": 0.998,
+      "liq": 15926.9085
+    }
+  ],
+  "tracked_floor_market": {
+    "q": "Will US unemployment reach at least 6.0% in 2026?",
+    "active": true,
+    "closed": false,
+    "min_ask": 0.004,
+    "max_bid": 0.002,
+    "n_asks": 25,
+    "n_bids": 2,
+    "liq": 6936.9359
+  }
+}
