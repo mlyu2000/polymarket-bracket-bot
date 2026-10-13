@@ -1,0 +1,9 @@
+{"ts":"20261013T2030Z","tracked":"will-us-unemployment-reach-at-least-6pt0-in-2026",
+ "status":"active, closed=False, acceptingOrders=True (NOT resolved)",
+ "yes":{"min_ask":0.004,"n_asks":27,"max_bid":0.002,"n_bids":2},
+ "no":{"min_ask":0.998,"n_asks":2,"max_bid":0.996,"n_bids":27},
+ "true_floor":1.0020,
+ "siblings_checked":{
+   "5.0pct":{"true_floor":1.0010,"yes_min_ask":0.049,"no_min_ask":0.952,"n_asks":[32,28]},
+   "5.5pct":{"true_floor":1.0090,"yes_min_ask":0.029,"no_min_ask":0.98,"n_asks":[17,12]}},
+ "note":"unemployment family lowest floor is the 5.0% market at 1.0010 -- below the 500-market window min of 1.0040, so the top-500 window misses it entirely. All three siblings are tighter than any bracket in the window."}
