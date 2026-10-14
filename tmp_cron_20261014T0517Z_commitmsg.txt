@@ -1,0 +1,17 @@
+cron scan 2026-10-14T05:17Z: 0 brackets / 500 markets
+
+Verbatim task scan: 500 markets in 52.3s, 0 brackets (sum < 1.00), 0 near-misses (<=1.005).
+Task near-miss block uses asks[0] = worst ask (books are DESC-sorted) -> structural
+artifact, always reports 0; not a signal.
+
+Min-ask supplement (true floor, min over all asks per side):
+- 500 markets, 48.4s
+- two-sided: 64 | ask-only (one side empty): 436 | missing book: 0
+- True min-ask floor: 1.0030 — Spread: SK Slovan Bratislava (-2.5), Yes@0.009 No@0.994, liq 25714
+- Tiers (min-ask sum <=): 1.010 -> 18, 1.020 -> 33, 1.050 -> 52, 1.100 -> 58
+- Top spreads unchanged: Slovan Bratislava -2.5/-3.5, Lillestrom -3.5, Sporting KC -2.5/-3.5,
+  Austin FC -3.5, Torreense -3.5, Fenerbahce -3.5 (~1.003-1.007)
+
+Verdict: PASS / no actionable bracket. Floor 1.0030 > 1.00 (no bracket), marginally above
+the prior 1.0010 floor; tier distribution stable. ~85% of markets are ask-only (436/500)
+and cannot be bracket-checked with two-sided min-ask.
