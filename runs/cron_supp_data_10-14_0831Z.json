@@ -1,0 +1,192 @@
+{
+  "ts": "2026-10-14T08:31:58Z",
+  "markets": 500,
+  "with_both_asks": 78,
+  "two_sided": 78,
+  "not_bracketable": 422,
+  "tiers": {
+    "<=1.050": 60,
+    "<=1.020": 36,
+    "<=1.010": 20,
+    "<=1.005": 8,
+    "<1.000": 0
+  },
+  "top25": [
+    {
+      "total": 1.001,
+      "q": "Will Traian Basescu be the next Prime Minister of Roman",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 34765.94116
+    },
+    {
+      "total": 1.003,
+      "q": "Spread: Lillestr\u00f8m SK (-3.5)",
+      "yes": 0.005,
+      "no": 0.998,
+      "liq": 5471.16069
+    },
+    {
+      "total": 1.003,
+      "q": "Spread: \u0160K Slovan Bratislava (-2.5)",
+      "yes": 0.009,
+      "no": 0.994,
+      "liq": 26349.07434
+    },
+    {
+      "total": 1.004,
+      "q": "Spread: Austin FC (-3.5)",
+      "yes": 0.005,
+      "no": 0.999,
+      "liq": 5382.91543
+    },
+    {
+      "total": 1.004,
+      "q": "Spread: SC Uni\u00e3o Torreense (-3.5)",
+      "yes": 0.005,
+      "no": 0.999,
+      "liq": 5713.51139
+    },
+    {
+      "total": 1.004,
+      "q": "Spread: Sporting Kansas City (-3.5)",
+      "yes": 0.005,
+      "no": 0.999,
+      "liq": 5374.02988
+    },
+    {
+      "total": 1.004,
+      "q": "Spread: \u0160K Slovan Bratislava (-3.5)",
+      "yes": 0.005,
+      "no": 0.999,
+      "liq": 19072.59994
+    },
+    {
+      "total": 1.005,
+      "q": "Spread: Sporting Kansas City (-2.5)",
+      "yes": 0.009,
+      "no": 0.996,
+      "liq": 7141.00557
+    },
+    {
+      "total": 1.008,
+      "q": "Spread: Fenerbah\u00e7e SK (-3.5)",
+      "yes": 0.009,
+      "no": 0.999,
+      "liq": 39653.8782
+    },
+    {
+      "total": 1.008,
+      "q": "Spread: Lillestr\u00f8m SK (-2.5)",
+      "yes": 0.01,
+      "no": 0.998,
+      "liq": 7819.44219
+    },
+    {
+      "total": 1.008,
+      "q": "Spread: MH Hapoel Be'er Sheva (-2.5)",
+      "yes": 0.01,
+      "no": 0.998,
+      "liq": 6939.25889
+    },
+    {
+      "total": 1.009,
+      "q": "Exact Score: AFC Bournemouth 0 - 3 SK Puntigamer Sturm ",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 4149.65438
+    },
+    {
+      "total": 1.009,
+      "q": "Hang Seng (HSI) Up or Down on October 14?",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 9.1344
+    },
+    {
+      "total": 1.009,
+      "q": "Spread: Aarhus GF (-3.5)",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 2779.58499
+    },
+    {
+      "total": 1.009,
+      "q": "Spread: HNK Hajduk Split (-2.5)",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 3188.86414
+    },
+    {
+      "total": 1.009,
+      "q": "Spread: KKS Lech Pozna\u0144 (-3.5)",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 5500.82964
+    },
+    {
+      "total": 1.009,
+      "q": "Spread: New York City FC (-3.5)",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 2986.52087
+    },
+    {
+      "total": 1.01,
+      "q": "Spread: Jagiellonia Bia\u0142ystok (-1.5)",
+      "yes": 0.45,
+      "no": 0.56,
+      "liq": 19420.9863
+    },
+    {
+      "total": 1.01,
+      "q": "W50 Quebec City: Ariana Arseneault vs Justina Mikulskyt",
+      "yes": 0.5,
+      "no": 0.51,
+      "liq": 7932.5175
+    },
+    {
+      "total": 1.01,
+      "q": "Will Mar\u00eda Corina Machado enter Venezuela by December 3",
+      "yes": 0.31,
+      "no": 0.7,
+      "liq": 33774.1904
+    },
+    {
+      "total": 1.012,
+      "q": "Spread: FC Porto (-3.5)",
+      "yes": 0.014,
+      "no": 0.998,
+      "liq": 41375.70024
+    },
+    {
+      "total": 1.014,
+      "q": "Spread: FC Viktoria Plze\u0148 (-3.5)",
+      "yes": 0.015,
+      "no": 0.999,
+      "liq": 5498.39257
+    },
+    {
+      "total": 1.016,
+      "q": "Will Z.ai be the #3 AI Lab at the end of October 2026 (",
+      "yes": 0.018,
+      "no": 0.998,
+      "liq": 664.68257
+    },
+    {
+      "total": 1.017,
+      "q": "Spread: FK Kauno \u017dalgiris (-1.5)",
+      "yes": 0.019,
+      "no": 0.998,
+      "liq": 3290.43591
+    },
+    {
+      "total": 1.018,
+      "q": "Spread: FC Thun (-2.5)",
+      "yes": 0.019,
+      "no": 0.999,
+      "liq": 3112.88899
+    }
+  ],
+  "scan_time": 54.7
+}
