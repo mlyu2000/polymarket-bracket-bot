@@ -1,0 +1,406 @@
+{
+  "markets": 500,
+  "opps": [],
+  "near": [
+    {
+      "sum": 1.003,
+      "q": "Spread: Lillestr\u00f8m SK (-3.5)",
+      "yes": 0.005,
+      "no": 0.998,
+      "liq": 5201.3744
+    },
+    {
+      "sum": 1.003,
+      "q": "Spread: FC Thun (-2.5)",
+      "yes": 0.006,
+      "no": 0.997,
+      "liq": 3992.45867
+    },
+    {
+      "sum": 1.004,
+      "q": "Spread: Sporting Kansas City (-2.5)",
+      "yes": 0.008,
+      "no": 0.996,
+      "liq": 8132.17843
+    },
+    {
+      "sum": 1.004,
+      "q": "Spread: Sporting Kansas City (-3.5)",
+      "yes": 0.005,
+      "no": 0.999,
+      "liq": 5975.80768
+    },
+    {
+      "sum": 1.004,
+      "q": "Spread: \u0160K Slovan Bratislava (-3.5)",
+      "yes": 0.005,
+      "no": 0.999,
+      "liq": 18920.69828
+    },
+    {
+      "sum": 1.004,
+      "q": "Spread: SC Uni\u00e3o Torreense (-3.5)",
+      "yes": 0.005,
+      "no": 0.999,
+      "liq": 5971.37469
+    },
+    {
+      "sum": 1.004,
+      "q": "Spread: MH Hapoel Be'er Sheva (-2.5)",
+      "yes": 0.008,
+      "no": 0.996,
+      "liq": 7417.17695
+    },
+    {
+      "sum": 1.005,
+      "q": "Spread: Lillestr\u00f8m SK (-2.5)",
+      "yes": 0.01,
+      "no": 0.995,
+      "liq": 7494.49473
+    },
+    {
+      "sum": 1.005,
+      "q": "Spread: FK Jablonec (-2.5)",
+      "yes": 0.007,
+      "no": 0.998,
+      "liq": 2784.94799
+    },
+    {
+      "sum": 1.005,
+      "q": "Spread: P\u00e1fos FC (-2.5)",
+      "yes": 0.01,
+      "no": 0.995,
+      "liq": 4854.5252
+    },
+    {
+      "sum": 1.005,
+      "q": "Spread: KF Egnatia Rrogozhin\u00eb (-2.5)",
+      "yes": 0.014,
+      "no": 0.991,
+      "liq": 4067.13788
+    },
+    {
+      "sum": 1.006,
+      "q": "Spread: Inter Club d'Escaldes (-2.5)",
+      "yes": 0.007,
+      "no": 0.999,
+      "liq": 3722.75848
+    },
+    {
+      "sum": 1.006,
+      "q": "Exact Score: AS Roma 4 - 3 Genoa CFC?",
+      "yes": 0.008,
+      "no": 0.998,
+      "liq": 1901.20354
+    },
+    {
+      "sum": 1.007,
+      "q": "Spread: Kuopion PS (-2.5)",
+      "yes": 0.014,
+      "no": 0.993,
+      "liq": 1256.58393
+    },
+    {
+      "sum": 1.008,
+      "q": "Exact Score: Bologna FC 1909 3 - 4 FC Internazionale Milano?",
+      "yes": 0.012,
+      "no": 0.996,
+      "liq": 1647.908
+    },
+    {
+      "sum": 1.009,
+      "q": "Spread: Austin FC (-3.5)",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 6274.79845
+    },
+    {
+      "sum": 1.009,
+      "q": "Spread: New York City FC (-3.5)",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 4918.83171
+    },
+    {
+      "sum": 1.009,
+      "q": "Spread: Fenerbah\u00e7e SK (-3.5)",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 38018.67775
+    },
+    {
+      "sum": 1.009,
+      "q": "Spread: KKS Lech Pozna\u0144 (-3.5)",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 4953.10894
+    },
+    {
+      "sum": 1.009,
+      "q": "Spread: AS Om\u00f3noia Leukos\u00edas (-4.5)",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 1989.18089
+    },
+    {
+      "sum": 1.009,
+      "q": "Spread: FK Kauno \u017dalgiris (-1.5)",
+      "yes": 0.011,
+      "no": 0.998,
+      "liq": 4465.78901
+    },
+    {
+      "sum": 1.009,
+      "q": "Spread: Aarhus GF (-3.5)",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 2998.80059
+    },
+    {
+      "sum": 1.013,
+      "q": "Spread: FC Porto (-3.5)",
+      "yes": 0.014,
+      "no": 0.999,
+      "liq": 21805.79553
+    },
+    {
+      "sum": 1.014,
+      "q": "Spread: FC Viktoria Plze\u0148 (-3.5)",
+      "yes": 0.015,
+      "no": 0.999,
+      "liq": 5036.67318
+    },
+    {
+      "sum": 1.016,
+      "q": "Spread: P\u00e1fos FC (-3.5)",
+      "yes": 0.017,
+      "no": 0.999,
+      "liq": 1842.93167
+    },
+    {
+      "sum": 1.016,
+      "q": "Spread: KF Egnatia Rrogozhin\u00eb (-3.5)",
+      "yes": 0.017,
+      "no": 0.999,
+      "liq": 3080.05675
+    },
+    {
+      "sum": 1.017,
+      "q": "Will Z.ai be the #3 AI Lab at the end of October 2026 (Style",
+      "yes": 0.019,
+      "no": 0.998,
+      "liq": 810.01743
+    },
+    {
+      "sum": 1.017,
+      "q": "Spread: Paris Saint-Germain FC (-5.5)",
+      "yes": 0.018,
+      "no": 0.999,
+      "liq": 11154.66108
+    },
+    {
+      "sum": 1.018,
+      "q": "Spread: Universitatea Craiova CS (-3.5)",
+      "yes": 0.019,
+      "no": 0.999,
+      "liq": 3046.97379
+    },
+    {
+      "sum": 1.018,
+      "q": "Spread: HNK Hajduk Split (-3.5)",
+      "yes": 0.019,
+      "no": 0.999,
+      "liq": 3293.15198
+    },
+    {
+      "sum": 1.019,
+      "q": "Spread: San Jose Earthquakes (-5.5)",
+      "yes": 0.02,
+      "no": 0.999,
+      "liq": 223.2163
+    },
+    {
+      "sum": 1.019,
+      "q": "Spread: FK Bod\u00f8/Glimt (-4.5)",
+      "yes": 0.02,
+      "no": 0.999,
+      "liq": 1160.86767
+    },
+    {
+      "sum": 1.02,
+      "q": "Spread: FC Midtjylland (-1.5)",
+      "yes": 0.37,
+      "no": 0.65,
+      "liq": 10522.475
+    },
+    {
+      "sum": 1.02,
+      "q": "D.C. United SC leading at halftime?",
+      "yes": 0.37,
+      "no": 0.65,
+      "liq": 15303.3574
+    },
+    {
+      "sum": 1.02,
+      "q": "Spread: K. Sint-Truidense VV (-1.5)",
+      "yes": 0.55,
+      "no": 0.47,
+      "liq": 11125.9582
+    },
+    {
+      "sum": 1.02,
+      "q": "Will the price of Bitcoin be above $80,000 on October 19?",
+      "yes": 0.75,
+      "no": 0.27,
+      "liq": 23375.7513
+    },
+    {
+      "sum": 1.029,
+      "q": "Spread: D.C. United SC (-5.5)",
+      "yes": 0.03,
+      "no": 0.999,
+      "liq": 239.02339
+    },
+    {
+      "sum": 1.029,
+      "q": "Spread: New England Revolution (-5.5)",
+      "yes": 0.03,
+      "no": 0.999,
+      "liq": 223.11599
+    },
+    {
+      "sum": 1.029,
+      "q": "Spread: PFK CSKA Sofia (-3.5)",
+      "yes": 0.03,
+      "no": 0.999,
+      "liq": 2942.2951
+    },
+    {
+      "sum": 1.03,
+      "q": "Will Feyenoord finish as runner-up in the 2026-27 UEFA Champ",
+      "yes": 0.032,
+      "no": 0.998,
+      "liq": 425.87889
+    },
+    {
+      "sum": 1.03,
+      "q": "Qingdao Hainiu FC vs. Liaoning Tieren FC: Qingdao Hainiu FC ",
+      "yes": 0.68,
+      "no": 0.35,
+      "liq": 2007.7002
+    },
+    {
+      "sum": 1.03,
+      "q": "Washington State vs. Oregon State: O/U 51.5",
+      "yes": 0.54,
+      "no": 0.49,
+      "liq": 8798.8838
+    },
+    {
+      "sum": 1.034,
+      "q": "Will Fernando Mendoza have 3,500+ passing yards in the 2026-",
+      "yes": 0.06,
+      "no": 0.974,
+      "liq": 309.13627
+    },
+    {
+      "sum": 1.039,
+      "q": "Spread: Charlotte FC (-4.5)",
+      "yes": 0.04,
+      "no": 0.999,
+      "liq": 780.8033
+    },
+    {
+      "sum": 1.04,
+      "q": "Nyiregyhaza Spartacus FC vs. Budapest Honved FC: O/U 2.5",
+      "yes": 0.59,
+      "no": 0.45,
+      "liq": 2330.03
+    },
+    {
+      "sum": 1.04,
+      "q": "Next Z.ai GLM (5.4+) released by October 31, 2026?",
+      "yes": 0.64,
+      "no": 0.4,
+      "liq": 593.2829
+    },
+    {
+      "sum": 1.041,
+      "q": "Will Pittsburgh Steelers finish the 2026-27 NFL regular seas",
+      "yes": 0.042,
+      "no": 0.999,
+      "liq": 207.17456
+    },
+    {
+      "sum": 1.041,
+      "q": "Will Jacksonville Jaguars finish the 2026-27 NFL regular sea",
+      "yes": 0.042,
+      "no": 0.999,
+      "liq": 201.94444
+    },
+    {
+      "sum": 1.041,
+      "q": "Will Denver Broncos finish the 2026-27 NFL regular season wi",
+      "yes": 0.042,
+      "no": 0.999,
+      "liq": 200.29984
+    },
+    {
+      "sum": 1.041,
+      "q": "Will Kansas City Chiefs finish the 2026-27 NFL regular seaso",
+      "yes": 0.042,
+      "no": 0.999,
+      "liq": 196.86558
+    },
+    {
+      "sum": 1.041,
+      "q": "Will Las Vegas Raiders finish the 2026-27 NFL regular season",
+      "yes": 0.042,
+      "no": 0.999,
+      "liq": 200.23576
+    },
+    {
+      "sum": 1.041,
+      "q": "Will Atlanta Falcons finish the 2026-27 NFL regular season w",
+      "yes": 0.042,
+      "no": 0.999,
+      "liq": 210.9327
+    },
+    {
+      "sum": 1.041,
+      "q": "Will Carolina Panthers finish the 2026-27 NFL regular season",
+      "yes": 0.042,
+      "no": 0.999,
+      "liq": 211.65286
+    },
+    {
+      "sum": 1.041,
+      "q": "Will New Orleans Saints finish the 2026-27 NFL regular seaso",
+      "yes": 0.042,
+      "no": 0.999,
+      "liq": 200.59782
+    },
+    {
+      "sum": 1.041,
+      "q": "Will San Francisco 49ers finish the 2026-27 NFL regular seas",
+      "yes": 0.042,
+      "no": 0.999,
+      "liq": 207.06694
+    },
+    {
+      "sum": 1.041,
+      "q": "Will Seattle Seahawks finish the 2026-27 NFL regular season ",
+      "yes": 0.042,
+      "no": 0.999,
+      "liq": 208.05289
+    }
+  ],
+  "two_sided": 68,
+  "scan_time": 54.5,
+  "buckets": {
+    "le_1.010": 22,
+    "le_1.020": 36,
+    "le_1.050": 56
+  },
+  "not_bracketable": 432
+}
