@@ -1,0 +1,492 @@
+[
+ {
+  "q": "Will Traian Basescu be the next Prime Minister of Romania?",
+  "y": 0.002,
+  "n": 0.999,
+  "t": 1.001,
+  "liq": 44102.50662
+ },
+ {
+  "q": "Spread: \u0160K Slovan Bratislava (-3.5)",
+  "y": 0.004,
+  "n": 0.999,
+  "t": 1.003,
+  "liq": 38703.71491
+ },
+ {
+  "q": "Spread: Austin FC (-3.5)",
+  "y": 0.005,
+  "n": 0.999,
+  "t": 1.004,
+  "liq": 5715.32186
+ },
+ {
+  "q": "Spread: Sporting Kansas City (-2.5)",
+  "y": 0.008,
+  "n": 0.996,
+  "t": 1.004,
+  "liq": 7687.76502
+ },
+ {
+  "q": "Spread: Sporting Kansas City (-3.5)",
+  "y": 0.005,
+  "n": 0.999,
+  "t": 1.004,
+  "liq": 5689.96835
+ },
+ {
+  "q": "Spread: SC Uni\u00e3o Torreense (-3.5)",
+  "y": 0.005,
+  "n": 0.999,
+  "t": 1.004,
+  "liq": 4693.73504
+ },
+ {
+  "q": "Spread: MH Hapoel Be'er Sheva (-2.5)",
+  "y": 0.008,
+  "n": 0.996,
+  "t": 1.004,
+  "liq": 6765.7694
+ },
+ {
+  "q": "Spread: Lillestr\u00f8m SK (-2.5)",
+  "y": 0.01,
+  "n": 0.995,
+  "t": 1.005,
+  "liq": 7672.31088
+ },
+ {
+  "q": "Spread: Inter Club d'Escaldes (-2.5)",
+  "y": 0.007,
+  "n": 0.999,
+  "t": 1.006,
+  "liq": 3347.1333
+ },
+ {
+  "q": "Spread: KF Egnatia Rrogozhin\u00eb (-2.5)",
+  "y": 0.015,
+  "n": 0.992,
+  "t": 1.007,
+  "liq": 3692.01548
+ },
+ {
+  "q": "Spread: New York City FC (-3.5)",
+  "y": 0.01,
+  "n": 0.999,
+  "t": 1.009,
+  "liq": 4526.37422
+ },
+ {
+  "q": "Spread: Fenerbah\u00e7e SK (-3.5)",
+  "y": 0.01,
+  "n": 0.999,
+  "t": 1.009,
+  "liq": 33763.14369
+ },
+ {
+  "q": "Spread: KKS Lech Pozna\u0144 (-3.5)",
+  "y": 0.01,
+  "n": 0.999,
+  "t": 1.009,
+  "liq": 3519.11829
+ },
+ {
+  "q": "Spread: Lillestr\u00f8m SK (-3.5)",
+  "y": 0.01,
+  "n": 0.999,
+  "t": 1.009,
+  "liq": 4581.27866
+ },
+ {
+  "q": "Spread: Aarhus GF (-3.5)",
+  "y": 0.01,
+  "n": 0.999,
+  "t": 1.009,
+  "liq": 2786.59399
+ },
+ {
+  "q": "Will Mar\u00eda Corina Machado enter Venezuela by December 31?",
+  "y": 0.31,
+  "n": 0.7,
+  "t": 1.01,
+  "liq": 32671.7194
+ },
+ {
+  "q": "Spread: K. Sint-Truidense VV (-1.5)",
+  "y": 0.53,
+  "n": 0.48,
+  "t": 1.01,
+  "liq": 8194.5347
+ },
+ {
+  "q": "Manchester City FC vs. Paris Saint-Germain FC: O/U 2.5",
+  "y": 0.68,
+  "n": 0.33,
+  "t": 1.01,
+  "liq": 158017.9115
+ },
+ {
+  "q": "Spread: FC Porto (-3.5)",
+  "y": 0.012,
+  "n": 0.998,
+  "t": 1.01,
+  "liq": 16806.32542
+ },
+ {
+  "q": "Spread: Kuopion PS (-2.5)",
+  "y": 0.013,
+  "n": 0.999,
+  "t": 1.012,
+  "liq": 606.02699
+ },
+ {
+  "q": "Spread: FC Viktoria Plze\u0148 (-3.5)",
+  "y": 0.015,
+  "n": 0.999,
+  "t": 1.014,
+  "liq": 4676.63762
+ },
+ {
+  "q": "Will Z.ai be the #3 AI Lab at the end of October 2026 (Style",
+  "y": 0.017,
+  "n": 0.998,
+  "t": 1.015,
+  "liq": 775.51462
+ },
+ {
+  "q": "Will Kai Havertz (Arsenal) be the top goalscorer of the 2026",
+  "y": 0.049,
+  "n": 0.969,
+  "t": 1.018,
+  "liq": 7928.42704
+ },
+ {
+  "q": "Spread: FK Kauno \u017dalgiris (-1.5)",
+  "y": 0.02,
+  "n": 0.998,
+  "t": 1.018,
+  "liq": 2937.74041
+ },
+ {
+  "q": "Spread: Paris Saint-Germain FC (-5.5)",
+  "y": 0.02,
+  "n": 0.999,
+  "t": 1.019,
+  "liq": 9944.29756
+ },
+ {
+  "q": "Spread: AS Om\u00f3noia Leukos\u00edas (-4.5)",
+  "y": 0.02,
+  "n": 0.999,
+  "t": 1.019,
+  "liq": 1119.34569
+ },
+ {
+  "q": "Spread: Lincoln Red Imps FC (-2.5)",
+  "y": 0.02,
+  "n": 0.999,
+  "t": 1.019,
+  "liq": 3283.9846
+ },
+ {
+  "q": "Spread: FC Thun (-2.5)",
+  "y": 0.02,
+  "n": 0.999,
+  "t": 1.019,
+  "liq": 2983.0243
+ },
+ {
+  "q": "Spread: P\u00e1fos FC (-2.5)",
+  "y": 0.02,
+  "n": 0.999,
+  "t": 1.019,
+  "liq": 2718.9074
+ },
+ {
+  "q": "Spread: P\u00e1fos FC (-3.5)",
+  "y": 0.02,
+  "n": 0.999,
+  "t": 1.019,
+  "liq": 2639.82479
+ },
+ {
+  "q": "Spread: KF Egnatia Rrogozhin\u00eb (-3.5)",
+  "y": 0.02,
+  "n": 0.999,
+  "t": 1.019,
+  "liq": 2698.79719
+ },
+ {
+  "q": "Spread: Universitatea Craiova CS (-3.5)",
+  "y": 0.02,
+  "n": 0.999,
+  "t": 1.019,
+  "liq": 2689.24079
+ },
+ {
+  "q": "Spread: HNK Hajduk Split (-3.5)",
+  "y": 0.02,
+  "n": 0.999,
+  "t": 1.019,
+  "liq": 2701.7229
+ },
+ {
+  "q": "FC Lugano vs. FK Crvena zvezda: O/U 2.5",
+  "y": 0.57,
+  "n": 0.45,
+  "t": 1.02,
+  "liq": 10490.9125
+ },
+ {
+  "q": "Washington State vs. Oregon State: O/U 51.5",
+  "y": 0.54,
+  "n": 0.48,
+  "t": 1.02,
+  "liq": 14834.822
+ },
+ {
+  "q": "Spread: FK Bod\u00f8/Glimt (-4.5)",
+  "y": 0.03,
+  "n": 0.999,
+  "t": 1.029,
+  "liq": 659.69365
+ },
+ {
+  "q": "Will Feyenoord finish as runner-up in the 2026-27 UEFA Champ",
+  "y": 0.032,
+  "n": 0.998,
+  "t": 1.03,
+  "liq": 165.28412
+ },
+ {
+  "q": "Nyiregyhaza Spartacus FC vs. Budapest Honved FC: O/U 2.5",
+  "y": 0.58,
+  "n": 0.45,
+  "t": 1.03,
+  "liq": 2648.5291
+ },
+ {
+  "q": "Will Fernando Mendoza have 3,500+ passing yards in the 2026-",
+  "y": 0.06,
+  "n": 0.975,
+  "t": 1.035,
+  "liq": 275.69269
+ },
+ {
+  "q": "Spread: San Jose Earthquakes (-5.5)",
+  "y": 0.039,
+  "n": 0.999,
+  "t": 1.038,
+  "liq": 240.74889
+ },
+ {
+  "q": "Spread: New England Revolution (-5.5)",
+  "y": 0.04,
+  "n": 0.999,
+  "t": 1.039,
+  "liq": 211.68489
+ },
+ {
+  "q": "Will Bijan Robinson have 1,000+ rushing yards in the 2026-27",
+  "y": 0.89,
+  "n": 0.15,
+  "t": 1.04,
+  "liq": 255.007
+ },
+ {
+  "q": "Will Pittsburgh Steelers finish the 2026-27 NFL regular seas",
+  "y": 0.042,
+  "n": 0.999,
+  "t": 1.041,
+  "liq": 193.42799
+ },
+ {
+  "q": "Will Jacksonville Jaguars finish the 2026-27 NFL regular sea",
+  "y": 0.042,
+  "n": 0.999,
+  "t": 1.041,
+  "liq": 193.20297
+ },
+ {
+  "q": "Will Denver Broncos finish the 2026-27 NFL regular season wi",
+  "y": 0.042,
+  "n": 0.999,
+  "t": 1.041,
+  "liq": 195.34099
+ },
+ {
+  "q": "Will Kansas City Chiefs finish the 2026-27 NFL regular seaso",
+  "y": 0.042,
+  "n": 0.999,
+  "t": 1.041,
+  "liq": 195.33586
+ },
+ {
+  "q": "Will Las Vegas Raiders finish the 2026-27 NFL regular season",
+  "y": 0.042,
+  "n": 0.999,
+  "t": 1.041,
+  "liq": 193.40101
+ },
+ {
+  "q": "Will Atlanta Falcons finish the 2026-27 NFL regular season w",
+  "y": 0.042,
+  "n": 0.999,
+  "t": 1.041,
+  "liq": 193.02704
+ },
+ {
+  "q": "Will Carolina Panthers finish the 2026-27 NFL regular season",
+  "y": 0.042,
+  "n": 0.999,
+  "t": 1.041,
+  "liq": 192.87301
+ },
+ {
+  "q": "Will New Orleans Saints finish the 2026-27 NFL regular seaso",
+  "y": 0.042,
+  "n": 0.999,
+  "t": 1.041,
+  "liq": 192.8429
+ },
+ {
+  "q": "Will San Francisco 49ers finish the 2026-27 NFL regular seas",
+  "y": 0.042,
+  "n": 0.999,
+  "t": 1.041,
+  "liq": 193.55881
+ },
+ {
+  "q": "Will Seattle Seahawks finish the 2026-27 NFL regular season ",
+  "y": 0.042,
+  "n": 0.999,
+  "t": 1.041,
+  "liq": 195.58392
+ },
+ {
+  "q": "Spread: Charlotte FC (-4.5)",
+  "y": 0.05,
+  "n": 0.999,
+  "t": 1.049,
+  "liq": 214.18119
+ },
+ {
+  "q": "Spread: D.C. United SC (-5.5)",
+  "y": 0.05,
+  "n": 0.999,
+  "t": 1.049,
+  "liq": 433.77407
+ },
+ {
+  "q": "Next Z.ai GLM (5.4+) released by October 31, 2026?",
+  "y": 0.65,
+  "n": 0.4,
+  "t": 1.05,
+  "liq": 722.2686
+ },
+ {
+  "q": "Will Dallas Cowboys finish the 2026-27 NFL regular season wi",
+  "y": 0.07,
+  "n": 0.999,
+  "t": 1.069,
+  "liq": 185.35141
+ },
+ {
+  "q": "Will Indianapolis Colts finish the 2026-27 NFL regular seaso",
+  "y": 0.08,
+  "n": 0.999,
+  "t": 1.079,
+  "liq": 179.36801
+ },
+ {
+  "q": "Will Tennessee Titans finish the 2026-27 NFL regular season ",
+  "y": 0.08,
+  "n": 0.999,
+  "t": 1.079,
+  "liq": 206.78601
+ },
+ {
+  "q": "Qingdao Hainiu FC vs. Liaoning Tieren FC: Qingdao Hainiu FC ",
+  "y": 0.71,
+  "n": 0.37,
+  "t": 1.08,
+  "liq": 2165.7583
+ },
+ {
+  "q": "Will Florida be Ranked #1 during the 2026-27 CFB season?",
+  "y": 0.09,
+  "n": 0.998,
+  "t": 1.088,
+  "liq": 56.19
+ },
+ {
+  "q": "Spread: Seattle Sounders FC (-4.5)",
+  "y": 0.227,
+  "n": 0.999,
+  "t": 1.226,
+  "liq": 185.63049
+ },
+ {
+  "q": "Spread: Portland Timbers (-4.5)",
+  "y": 0.24,
+  "n": 0.998,
+  "t": 1.238,
+  "liq": 30.46475
+ },
+ {
+  "q": "Spread: Toronto FC (-5.5)",
+  "y": 0.24,
+  "n": 0.999,
+  "t": 1.2389999999999999,
+  "liq": 20.28479
+ },
+ {
+  "q": "Spread: Toronto FC (-5.5)",
+  "y": 0.24,
+  "n": 0.999,
+  "t": 1.2389999999999999,
+  "liq": 20.28479
+ },
+ {
+  "q": "Spread: Austin FC (-4.5)",
+  "y": 0.25,
+  "n": 0.999,
+  "t": 1.249,
+  "liq": 28.06554
+ },
+ {
+  "q": "Will Jack Eichel record 30+ goals in the 2026-27 regular sea",
+  "y": 0.6,
+  "n": 0.69,
+  "t": 1.29,
+  "liq": 21.2562
+ },
+ {
+  "q": "Will the highest temperature in Lucknow be 33\u00b0C on October 1",
+  "y": 0.35,
+  "n": 0.95,
+  "t": 1.2999999999999998,
+  "liq": 796.823
+ },
+ {
+  "q": "Spread: NEC (-4.5)",
+  "y": 0.539,
+  "n": 0.999,
+  "t": 1.538,
+  "liq": 821.46859
+ },
+ {
+  "q": "Abha Saudi Club vs. Al Faisaly Saudi Club: O/U 1.5",
+  "y": 0.98,
+  "n": 0.98,
+  "t": 1.96,
+  "liq": 16.0099
+ },
+ {
+  "q": "Spread: PFC Ludogorets 1945 Razgrad (-4.5)",
+  "y": 0.99,
+  "n": 0.99,
+  "t": 1.98,
+  "liq": 0.6597
+ }
+]
