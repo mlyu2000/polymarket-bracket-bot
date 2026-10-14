@@ -1,0 +1,514 @@
+{
+ "markets": 500,
+ "two_sided": 64,
+ "brackets": [],
+ "near": [
+  [
+   1.003,
+   "Spread: \u0160K Slovan Bratislava (-2.5)",
+   0.009,
+   0.994,
+   25714.19134
+  ],
+  [
+   1.003,
+   "Spread: \u0160K Slovan Bratislava (-3.5)",
+   0.004,
+   0.999,
+   19072.72942
+  ],
+  [
+   1.004,
+   "Spread: Austin FC (-3.5)",
+   0.005,
+   0.999,
+   5373.99114
+  ],
+  [
+   1.004,
+   "Spread: Lillestr\u00f8m SK (-3.5)",
+   0.005,
+   0.999,
+   5485.00602
+  ],
+  [
+   1.004,
+   "Spread: SC Uni\u00e3o Torreense (-3.5)",
+   0.005,
+   0.999,
+   5713.00039
+  ],
+  [
+   1.004,
+   "Spread: Sporting Kansas City (-2.5)",
+   0.008,
+   0.996,
+   7147.94164
+  ],
+  [
+   1.004,
+   "Spread: Sporting Kansas City (-3.5)",
+   0.005,
+   0.999,
+   5386.15086
+  ],
+  [
+   1.007,
+   "Exact Score: Bologna FC 1909 3 - 4 FC Internaziona",
+   0.011,
+   0.996,
+   1984.43599
+  ],
+  [
+   1.008,
+   "Spread: Fenerbah\u00e7e SK (-3.5)",
+   0.01,
+   0.998,
+   17433.00061
+  ],
+  [
+   1.008,
+   "Spread: Lillestr\u00f8m SK (-2.5)",
+   0.01,
+   0.998,
+   7744.63049
+  ],
+  [
+   1.009,
+   "Exact Score: AFC Bournemouth 0 - 3 SK Puntigamer S",
+   0.01,
+   0.999,
+   2862.04442
+  ],
+  [
+   1.009,
+   "Spread: Aarhus GF (-3.5)",
+   0.01,
+   0.999,
+   2779.58499
+  ],
+  [
+   1.009,
+   "Spread: HNK Hajduk Split (-2.5)",
+   0.01,
+   0.999,
+   3911.25105
+  ],
+  [
+   1.009,
+   "Spread: KKS Lech Pozna\u0144 (-3.5)",
+   0.01,
+   0.999,
+   5508.34464
+  ],
+  [
+   1.009,
+   "Spread: MH Hapoel Be'er Sheva (-2.5)",
+   0.01,
+   0.999,
+   6940.87859
+  ],
+  [
+   1.009,
+   "Spread: New York City FC (-3.5)",
+   0.01,
+   0.999,
+   2985.32025
+  ],
+  [
+   1.01,
+   "Spread: Jagiellonia Bia\u0142ystok (-1.5)",
+   0.45,
+   0.56,
+   19431.166
+  ],
+  [
+   1.01,
+   "Will Mar\u00eda Corina Machado enter Venezuela by Decem",
+   0.31,
+   0.7,
+   34451.299
+  ],
+  [
+   1.014,
+   "Spread: FC Porto (-3.5)",
+   0.015,
+   0.999,
+   40272.89488
+  ],
+  [
+   1.014,
+   "Spread: FC Viktoria Plze\u0148 (-3.5)",
+   0.015,
+   0.999,
+   5504.77057
+  ],
+  [
+   1.016,
+   "Will Z.ai be the #3 AI Lab at the end of October 2",
+   0.018,
+   0.998,
+   579.8802
+  ],
+  [
+   1.018,
+   "Spread: FC Thun (-2.5)",
+   0.019,
+   0.999,
+   3133.87731
+  ],
+  [
+   1.018,
+   "Spread: FK Kauno \u017dalgiris (-1.5)",
+   0.019,
+   0.999,
+   3980.33921
+  ],
+  [
+   1.018,
+   "Spread: Inter Club d'Escaldes (-2.5)",
+   0.019,
+   0.999,
+   3519.33774
+  ],
+  [
+   1.018,
+   "Spread: Lincoln Red Imps FC (-2.5)",
+   0.019,
+   0.999,
+   3685.41731
+  ],
+  [
+   1.018,
+   "Spread: P\u00e1fos FC (-2.5)",
+   0.019,
+   0.999,
+   3295.40524
+  ],
+  [
+   1.018,
+   "Spread: P\u00e1fos FC (-3.5)",
+   0.019,
+   0.999,
+   2786.97448
+  ],
+  [
+   1.018,
+   "Spread: Universitatea Craiova CS (-3.5)",
+   0.019,
+   0.999,
+   2833.38979
+  ],
+  [
+   1.018,
+   "Will Kai Havertz (Arsenal) be the top goalscorer o",
+   0.049,
+   0.969,
+   7477.02532
+  ],
+  [
+   1.019,
+   "Spread: PFK CSKA Sofia (-3.5)",
+   0.02,
+   0.999,
+   1114.89824
+  ],
+  [
+   1.019,
+   "Spread: Paris Saint-Germain FC (-5.5)",
+   0.02,
+   0.999,
+   12215.82039
+  ],
+  [
+   1.02,
+   "Spread: K. Sint-Truidense VV (-1.5)",
+   0.54,
+   0.48,
+   8705.4851
+  ],
+  [
+   1.028,
+   "Spread: FK Bod\u00f8/Glimt (-4.5)",
+   0.029,
+   0.999,
+   570.10695
+  ],
+  [
+   1.029,
+   "Spread: HNK Hajduk Split (-3.5)",
+   0.03,
+   0.999,
+   2838.4245
+  ],
+  [
+   1.03,
+   "FC Lugano vs. FK Crvena zvezda: O/U 2.5",
+   0.58,
+   0.45,
+   9603.5246
+  ],
+  [
+   1.03,
+   "Nyiregyhaza Spartacus FC vs. Budapest Honved FC: O",
+   0.58,
+   0.45,
+   2691.8291
+  ],
+  [
+   1.03,
+   "Qingdao Hainiu FC vs. Liaoning Tieren FC: Qingdao ",
+   0.67,
+   0.36,
+   2305.4314
+  ],
+  [
+   1.03,
+   "Washington State vs. Oregon State: O/U 51.5",
+   0.54,
+   0.49,
+   13441.4915
+  ],
+  [
+   1.03,
+   "Will Feyenoord finish as runner-up in the 2026-27 ",
+   0.032,
+   0.998,
+   63.56451
+  ],
+  [
+   1.034,
+   "Will Fernando Mendoza have 3,500+ passing yards in",
+   0.058,
+   0.976,
+   306.49813
+  ],
+  [
+   1.04,
+   "Will Bijan Robinson have 1,000+ rushing yards in t",
+   0.89,
+   0.15,
+   370.1651
+  ],
+  [
+   1.041,
+   "Will Atlanta Falcons finish the 2026-27 NFL regula",
+   0.042,
+   0.999,
+   195.51791
+  ],
+  [
+   1.041,
+   "Will Carolina Panthers finish the 2026-27 NFL regu",
+   0.042,
+   0.999,
+   195.28696
+  ],
+  [
+   1.041,
+   "Will Denver Broncos finish the 2026-27 NFL regular",
+   0.042,
+   0.999,
+   193.13024
+  ],
+  [
+   1.041,
+   "Will Jacksonville Jaguars finish the 2026-27 NFL r",
+   0.042,
+   0.999,
+   193.08583
+  ],
+  [
+   1.041,
+   "Will Kansas City Chiefs finish the 2026-27 NFL reg",
+   0.042,
+   0.999,
+   198.28736
+  ],
+  [
+   1.041,
+   "Will Las Vegas Raiders finish the 2026-27 NFL regu",
+   0.042,
+   0.999,
+   193.4761
+  ],
+  [
+   1.041,
+   "Will New Orleans Saints finish the 2026-27 NFL reg",
+   0.042,
+   0.999,
+   193.46725
+  ],
+  [
+   1.041,
+   "Will Pittsburgh Steelers finish the 2026-27 NFL re",
+   0.042,
+   0.999,
+   193.13464
+  ],
+  [
+   1.041,
+   "Will San Francisco 49ers finish the 2026-27 NFL re",
+   0.042,
+   0.999,
+   193.32396
+  ],
+  [
+   1.041,
+   "Will Seattle Seahawks finish the 2026-27 NFL regul",
+   0.042,
+   0.999,
+   193.36739
+  ],
+  [
+   1.05,
+   "Next Z.ai GLM (5.4+) released by October 31, 2026?",
+   0.65,
+   0.4,
+   896.4394
+  ]
+ ],
+ "floor_rows": [
+  [
+   1.003,
+   "Spread: \u0160K Slovan Bratislava (-2.5)",
+   0.009,
+   0.994,
+   25714.19134
+  ],
+  [
+   1.003,
+   "Spread: \u0160K Slovan Bratislava (-3.5)",
+   0.004,
+   0.999,
+   19072.72942
+  ],
+  [
+   1.004,
+   "Spread: Austin FC (-3.5)",
+   0.005,
+   0.999,
+   5373.99114
+  ],
+  [
+   1.004,
+   "Spread: Lillestr\u00f8m SK (-3.5)",
+   0.005,
+   0.999,
+   5485.00602
+  ],
+  [
+   1.004,
+   "Spread: SC Uni\u00e3o Torreense (-3.5)",
+   0.005,
+   0.999,
+   5713.00039
+  ],
+  [
+   1.004,
+   "Spread: Sporting Kansas City (-2.5)",
+   0.008,
+   0.996,
+   7147.94164
+  ],
+  [
+   1.004,
+   "Spread: Sporting Kansas City (-3.5)",
+   0.005,
+   0.999,
+   5386.15086
+  ],
+  [
+   1.007,
+   "Exact Score: Bologna FC 1909 3 - 4 FC Internazionale Milano?",
+   0.011,
+   0.996,
+   1984.43599
+  ],
+  [
+   1.008,
+   "Spread: Fenerbah\u00e7e SK (-3.5)",
+   0.01,
+   0.998,
+   17433.00061
+  ],
+  [
+   1.008,
+   "Spread: Lillestr\u00f8m SK (-2.5)",
+   0.01,
+   0.998,
+   7744.63049
+  ],
+  [
+   1.009,
+   "Exact Score: AFC Bournemouth 0 - 3 SK Puntigamer Sturm Graz?",
+   0.01,
+   0.999,
+   2862.04442
+  ],
+  [
+   1.009,
+   "Spread: Aarhus GF (-3.5)",
+   0.01,
+   0.999,
+   2779.58499
+  ],
+  [
+   1.009,
+   "Spread: HNK Hajduk Split (-2.5)",
+   0.01,
+   0.999,
+   3911.25105
+  ],
+  [
+   1.009,
+   "Spread: KKS Lech Pozna\u0144 (-3.5)",
+   0.01,
+   0.999,
+   5508.34464
+  ],
+  [
+   1.009,
+   "Spread: MH Hapoel Be'er Sheva (-2.5)",
+   0.01,
+   0.999,
+   6940.87859
+  ],
+  [
+   1.009,
+   "Spread: New York City FC (-3.5)",
+   0.01,
+   0.999,
+   2985.32025
+  ],
+  [
+   1.01,
+   "Spread: Jagiellonia Bia\u0142ystok (-1.5)",
+   0.45,
+   0.56,
+   19431.166
+  ],
+  [
+   1.01,
+   "Will Mar\u00eda Corina Machado enter Venezuela by December 31?",
+   0.31,
+   0.7,
+   34451.299
+  ],
+  [
+   1.014,
+   "Spread: FC Porto (-3.5)",
+   0.015,
+   0.999,
+   40272.89488
+  ],
+  [
+   1.014,
+   "Spread: FC Viktoria Plze\u0148 (-3.5)",
+   0.015,
+   0.999,
+   5504.77057
+  ]
+ ],
+ "scan_time": 55.134785890579224
+}
