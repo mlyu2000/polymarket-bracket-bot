@@ -1,0 +1,90 @@
+{
+  "ts": "2026-10-14T20:17:35.840800+00:00",
+  "scan_time": 52.8,
+  "markets": 500,
+  "two_sided": 72,
+  "yes_only": 428,
+  "le": {
+    "le_1.05": 52,
+    "le_1.02": 29,
+    "le_1.01": 18,
+    "le_1.005": 6,
+    "le_1.004": 2,
+    "le_1.001": 0,
+    "le_1.0": 0
+  },
+  "lt": 0,
+  "top10": [
+    {
+      "sum": 1.004,
+      "q": "Spread: Lillestr\u00f8m SK (-2.5)",
+      "yes": 0.01,
+      "no": 0.994,
+      "liq": 6547.14269
+    },
+    {
+      "sum": 1.004,
+      "q": "Spread: Sporting Kansas City (-2.5)",
+      "yes": 0.008,
+      "no": 0.996,
+      "liq": 9485.55546
+    },
+    {
+      "sum": 1.005,
+      "q": "Exact Score: AFC Bournemouth 4 - 3 SK Puntigamer S",
+      "yes": 0.009,
+      "no": 0.996,
+      "liq": 12215.53907
+    },
+    {
+      "sum": 1.005,
+      "q": "Spread: FC Thun (-2.5)",
+      "yes": 0.009,
+      "no": 0.996,
+      "liq": 4270.78922
+    },
+    {
+      "sum": 1.005,
+      "q": "Spread: MH Hapoel Be'er Sheva (-2.5)",
+      "yes": 0.009,
+      "no": 0.996,
+      "liq": 4951.52087
+    },
+    {
+      "sum": 1.005,
+      "q": "Spread: P\u00e1fos FC (-2.5)",
+      "yes": 0.01,
+      "no": 0.995,
+      "liq": 4871.67631
+    },
+    {
+      "sum": 1.006,
+      "q": "Exact Score: Venezia FC 4 - 1 SSC Napoli?",
+      "yes": 0.009,
+      "no": 0.997,
+      "liq": 15997.82983
+    },
+    {
+      "sum": 1.006,
+      "q": "Spread: FK Jablonec (-2.5)",
+      "yes": 0.007,
+      "no": 0.999,
+      "liq": 4269.55015
+    },
+    {
+      "sum": 1.006,
+      "q": "Spread: KF Egnatia Rrogozhin\u00eb (-2.5)",
+      "yes": 0.014,
+      "no": 0.992,
+      "liq": 3921.07745
+    },
+    {
+      "sum": 1.007,
+      "q": "Spread: Kuopion PS (-2.5)",
+      "yes": 0.014,
+      "no": 0.993,
+      "liq": 1764.36802
+    }
+  ],
+  "floor": 1.004
+}
