@@ -1,0 +1,48 @@
+{
+  "ts": "2026-10-14T0916Z",
+  "markets": 500,
+  "brackets": 0,
+  "true_min_ask_floor": 1.001,
+  "floor_market": "Will Traian Basescu be the next Prime Minister of Romania",
+  "floor_detail": "Y@0.002 N@0.999 liq=32438",
+  "two_sided": 74,
+  "not_bracketable": 426,
+  "near_miss_counts": {
+    "<=1.050": 62,
+    "<=1.020": 33,
+    "<=1.010": 14
+  },
+  "top5": [
+    [
+      1.001,
+      "Traian Basescu PM Romania",
+      0.002,
+      0.999
+    ],
+    [
+      1.003,
+      "Spread: Slovan Bratislava (-2.5)",
+      0.009,
+      0.994
+    ],
+    [
+      1.005,
+      "Spread: Sporting Kansas City (-2.5)",
+      0.009,
+      0.996
+    ],
+    [
+      1.008,
+      "Spread: HNK Hajduk Split (-2.5)",
+      0.01,
+      0.998
+    ],
+    [
+      1.008,
+      "Ethereum above $2,200 Oct",
+      0.991,
+      0.017
+    ]
+  ],
+  "note": "task-script near-miss block uses asks[0] (worst ask, DESC sort) -> always 0; true floor computed via min(all asks)"
+}
