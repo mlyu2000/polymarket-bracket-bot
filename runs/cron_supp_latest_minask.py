@@ -62,7 +62,8 @@ async def main():
         ],
         'scan_time': round(elapsed, 1),
     }
-    with open('runs/_tmp_cron_20261014Tnow_supp_data.json', 'w') as f:
+    ts = time.strftime('%Y%m%dT%H%M%SZ', time.gmtime())
+    with open(f'runs/_tmp_cron_{ts}Z_supp_data.json', 'w') as f:
         json.dump(out, f, indent=2)
     print(json.dumps(out, indent=2))
 

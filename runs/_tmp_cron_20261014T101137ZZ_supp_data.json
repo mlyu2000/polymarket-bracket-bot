@@ -1,0 +1,192 @@
+{
+  "ts": "2026-10-14T10:11:37Z",
+  "markets": 500,
+  "with_both_asks": 75,
+  "two_sided": 75,
+  "not_bracketable": 425,
+  "tiers": {
+    "<=1.050": 60,
+    "<=1.020": 35,
+    "<=1.010": 14,
+    "<=1.005": 4,
+    "<1.000": 0
+  },
+  "top25": [
+    {
+      "total": 1.001,
+      "q": "Will Traian Basescu be the next Prime Minister of Roman",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 33121.25867
+    },
+    {
+      "total": 1.002,
+      "q": "Spread: \u0160K Slovan Bratislava (-2.5)",
+      "yes": 0.009,
+      "no": 0.993,
+      "liq": 48023.60787
+    },
+    {
+      "total": 1.005,
+      "q": "Exact Score: Bologna FC 1909 4 - 2 FC Internazionale Mi",
+      "yes": 0.008,
+      "no": 0.997,
+      "liq": 3053.38706
+    },
+    {
+      "total": 1.005,
+      "q": "Spread: Sporting Kansas City (-2.5)",
+      "yes": 0.009,
+      "no": 0.996,
+      "liq": 7280.26271
+    },
+    {
+      "total": 1.007,
+      "q": "Exact Score: Bologna FC 1909 3 - 4 FC Internazionale Mi",
+      "yes": 0.011,
+      "no": 0.996,
+      "liq": 1977.094
+    },
+    {
+      "total": 1.008,
+      "q": "Spread: HNK Hajduk Split (-2.5)",
+      "yes": 0.01,
+      "no": 0.998,
+      "liq": 2962.55346
+    },
+    {
+      "total": 1.009,
+      "q": "Hang Seng (HSI) Up or Down on October 14?",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 9.1294
+    },
+    {
+      "total": 1.009,
+      "q": "Spread: Aarhus GF (-3.5)",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 2777.07499
+    },
+    {
+      "total": 1.009,
+      "q": "Spread: KF Egnatia Rrogozhin\u00eb (-2.5)",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 3475.86702
+    },
+    {
+      "total": 1.009,
+      "q": "Spread: KF Egnatia Rrogozhin\u00eb (-3.5)",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 1326.2414
+    },
+    {
+      "total": 1.01,
+      "q": "Spread: Lillestr\u00f8m SK (-2.5)",
+      "yes": 0.012,
+      "no": 0.998,
+      "liq": 7506.0195
+    },
+    {
+      "total": 1.01,
+      "q": "Spread: Lillestr\u00f8m SK (-3.5)",
+      "yes": 0.012,
+      "no": 0.998,
+      "liq": 5635.00422
+    },
+    {
+      "total": 1.01,
+      "q": "Spread: MH Hapoel Be'er Sheva (-2.5)",
+      "yes": 0.012,
+      "no": 0.998,
+      "liq": 7248.70264
+    },
+    {
+      "total": 1.01,
+      "q": "Will Mar\u00eda Corina Machado enter Venezuela by December 3",
+      "yes": 0.31,
+      "no": 0.7,
+      "liq": 33009.2342
+    },
+    {
+      "total": 1.011,
+      "q": "Spread: Fenerbah\u00e7e SK (-3.5)",
+      "yes": 0.012,
+      "no": 0.999,
+      "liq": 40964.76249
+    },
+    {
+      "total": 1.011,
+      "q": "Spread: \u0160K Slovan Bratislava (-3.5)",
+      "yes": 0.012,
+      "no": 0.999,
+      "liq": 41129.77871
+    },
+    {
+      "total": 1.014,
+      "q": "Spread: FC Porto (-3.5)",
+      "yes": 0.015,
+      "no": 0.999,
+      "liq": 43094.87373
+    },
+    {
+      "total": 1.014,
+      "q": "Will Z.ai be the #3 AI Lab at the end of October 2026 (",
+      "yes": 0.016,
+      "no": 0.998,
+      "liq": 607.29156
+    },
+    {
+      "total": 1.018,
+      "q": "Spread: FK Kauno \u017dalgiris (-1.5)",
+      "yes": 0.02,
+      "no": 0.998,
+      "liq": 3315.86751
+    },
+    {
+      "total": 1.018,
+      "q": "Spread: HNK Hajduk Split (-3.5)",
+      "yes": 0.019,
+      "no": 0.999,
+      "liq": 2837.9335
+    },
+    {
+      "total": 1.018,
+      "q": "Spread: Inter Club d'Escaldes (-2.5)",
+      "yes": 0.019,
+      "no": 0.999,
+      "liq": 3126.91903
+    },
+    {
+      "total": 1.018,
+      "q": "Spread: Lincoln Red Imps FC (-2.5)",
+      "yes": 0.019,
+      "no": 0.999,
+      "liq": 3187.984
+    },
+    {
+      "total": 1.018,
+      "q": "Spread: New York City FC (-3.5)",
+      "yes": 0.019,
+      "no": 0.999,
+      "liq": 3729.54388
+    },
+    {
+      "total": 1.018,
+      "q": "Spread: P\u00e1fos FC (-2.5)",
+      "yes": 0.019,
+      "no": 0.999,
+      "liq": 3293.02252
+    },
+    {
+      "total": 1.018,
+      "q": "Spread: P\u00e1fos FC (-3.5)",
+      "yes": 0.019,
+      "no": 0.999,
+      "liq": 2789.47979
+    }
+  ],
+  "scan_time": 55.3
+}
