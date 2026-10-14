@@ -1,0 +1,191 @@
+{
+ "ts": "20261014T010633Z",
+ "markets": 500,
+ "two_sided_books": 75,
+ "scan_time": 53.12212920188904,
+ "brackets": 0,
+ "floor": {
+  "q": "Spread: \u0160K Slovan Bratislava (-2.5)",
+  "total": 1.003,
+  "y": 0.009,
+  "n": 0.994,
+  "liq": 18952.00173
+ },
+ "top": [
+  {
+   "q": "Spread: \u0160K Slovan Bratislava (-2.5)",
+   "total": 1.003,
+   "y": 0.009,
+   "n": 0.994,
+   "liq": 18952.00173
+  },
+  {
+   "q": "Spread: Sporting Kansas City (-2.5)",
+   "total": 1.004,
+   "y": 0.009,
+   "n": 0.995,
+   "liq": 7356.60474
+  },
+  {
+   "q": "Spread: Sporting Kansas City (-3.5)",
+   "total": 1.004,
+   "y": 0.005,
+   "n": 0.999,
+   "liq": 4956.1664
+  },
+  {
+   "q": "Spread: \u0160K Slovan Bratislava (-3.5)",
+   "total": 1.004,
+   "y": 0.005,
+   "n": 0.999,
+   "liq": 14251.63251
+  },
+  {
+   "q": "Spread: SC Uni\u00e3o Torreense (-3.5)",
+   "total": 1.004,
+   "y": 0.005,
+   "n": 0.999,
+   "liq": 3647.18397
+  },
+  {
+   "q": "Spread: Lillestr\u00f8m SK (-3.5)",
+   "total": 1.004,
+   "y": 0.005,
+   "n": 0.999,
+   "liq": 3866.93304
+  },
+  {
+   "q": "Exact Score: Venezia FC 4 - 3 SSC Napoli?",
+   "total": 1.005,
+   "y": 0.006,
+   "n": 0.999,
+   "liq": 2025.56989
+  },
+  {
+   "q": "Exact Score: Venezia FC 4 - 2 SSC Napoli?",
+   "total": 1.007,
+   "y": 0.008,
+   "n": 0.999,
+   "liq": 3081.67748
+  },
+  {
+   "q": "Exact Score: Bologna FC 1909 4 - 2 FC Internazionale Milano?",
+   "total": 1.007,
+   "y": 0.008,
+   "n": 0.999,
+   "liq": 3070.65906
+  },
+  {
+   "q": "Spread: HNK Hajduk Split (-2.5)",
+   "total": 1.008,
+   "y": 0.01,
+   "n": 0.998,
+   "liq": 2226.97499
+  },
+  {
+   "q": "Spread: Austin FC (-3.5)",
+   "total": 1.009,
+   "y": 0.01,
+   "n": 0.999,
+   "liq": 4275.65082
+  },
+  {
+   "q": "Spread: New York City FC (-3.5)",
+   "total": 1.009,
+   "y": 0.01,
+   "n": 0.999,
+   "liq": 2250.42704
+  },
+  {
+   "q": "Spread: Fenerbah\u00e7e SK (-3.5)",
+   "total": 1.009,
+   "y": 0.01,
+   "n": 0.999,
+   "liq": 14393.10895
+  },
+  {
+   "q": "Spread: KKS Lech Pozna\u0144 (-3.5)",
+   "total": 1.009,
+   "y": 0.01,
+   "n": 0.999,
+   "liq": 3483.6223
+  },
+  {
+   "q": "Spread: Lillestr\u00f8m SK (-2.5)",
+   "total": 1.009,
+   "y": 0.01,
+   "n": 0.999,
+   "liq": 6718.74087
+  },
+  {
+   "q": "Spread: MH Hapoel Be'er Sheva (-2.5)",
+   "total": 1.009,
+   "y": 0.01,
+   "n": 0.999,
+   "liq": 6347.11901
+  },
+  {
+   "q": "Spread: Aarhus GF (-3.5)",
+   "total": 1.009,
+   "y": 0.01,
+   "n": 0.999,
+   "liq": 1786.96519
+  },
+  {
+   "q": "Spread: KF Egnatia Rrogozhin\u00eb (-2.5)",
+   "total": 1.009,
+   "y": 0.01,
+   "n": 0.999,
+   "liq": 2590.39339
+  },
+  {
+   "q": "Spread: KF Egnatia Rrogozhin\u00eb (-3.5)",
+   "total": 1.009,
+   "y": 0.01,
+   "n": 0.999,
+   "liq": 763.43419
+  },
+  {
+   "q": "Will Mar\u00eda Corina Machado enter Venezuela by December 31?",
+   "total": 1.01,
+   "y": 0.31,
+   "n": 0.7,
+   "liq": 32479.9948
+  },
+  {
+   "q": "Exact Score: AFC Bournemouth 0 - 3 SK Puntigamer Sturm Graz?",
+   "total": 1.01,
+   "y": 0.011,
+   "n": 0.999,
+   "liq": 4063.64321
+  },
+  {
+   "q": "Spread: FC Porto (-3.5)",
+   "total": 1.013,
+   "y": 0.015,
+   "n": 0.998,
+   "liq": 14224.69416
+  },
+  {
+   "q": "Spread: FC Viktoria Plze\u0148 (-3.5)",
+   "total": 1.014,
+   "y": 0.015,
+   "n": 0.999,
+   "liq": 4240.07127
+  },
+  {
+   "q": "Spread: Lincoln Red Imps FC (-2.5)",
+   "total": 1.018,
+   "y": 0.019,
+   "n": 0.999,
+   "liq": 2503.69499
+  },
+  {
+   "q": "Spread: FC Thun (-2.5)",
+   "total": 1.018,
+   "y": 0.019,
+   "n": 0.999,
+   "liq": 2352.70599
+  }
+ ]
+}
