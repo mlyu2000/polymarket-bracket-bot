@@ -1,0 +1,548 @@
+{
+  "ts": "2026-10-14T1426Z",
+  "markets": 500,
+  "two_sided": 67,
+  "not_bracketable": 433,
+  "rows": [
+    [
+      1.003,
+      "Spread: FC Thun (-2.5)",
+      0.006,
+      0.997,
+      3900.65755,
+      0.999,
+      0.999
+    ],
+    [
+      1.003,
+      "Spread: Lillestr\u00f8m SK (-3.5)",
+      0.005,
+      0.998,
+      6660.63355,
+      0.999,
+      0.999
+    ],
+    [
+      1.003,
+      "Spread: \u0160K Slovan Bratislava (-3.5)",
+      0.004,
+      0.999,
+      41143.36682,
+      0.999,
+      0.999
+    ],
+    [
+      1.004,
+      "Spread: Austin FC (-3.5)",
+      0.005,
+      0.999,
+      8089.58461,
+      0.999,
+      0.999
+    ],
+    [
+      1.004,
+      "Spread: MH Hapoel Be'er Sheva (-2.5)",
+      0.008,
+      0.996,
+      7307.46335,
+      0.999,
+      0.999
+    ],
+    [
+      1.004,
+      "Spread: P\u00e1fos FC (-2.5)",
+      0.01,
+      0.994,
+      4824.5192,
+      0.999,
+      0.999
+    ],
+    [
+      1.004,
+      "Spread: SC Uni\u00e3o Torreense (-3.5)",
+      0.005,
+      0.999,
+      6442.97689,
+      0.999,
+      0.999
+    ],
+    [
+      1.004,
+      "Spread: Sporting Kansas City (-2.5)",
+      0.008,
+      0.996,
+      8709.64276,
+      0.999,
+      0.999
+    ],
+    [
+      1.004,
+      "Spread: Sporting Kansas City (-3.5)",
+      0.005,
+      0.999,
+      6034.52822,
+      0.999,
+      0.999
+    ],
+    [
+      1.005,
+      "Spread: KF Egnatia Rrogozhin\u00eb (-2.5)",
+      0.014,
+      0.991,
+      3938.64188,
+      0.999,
+      0.999
+    ],
+    [
+      1.005,
+      "Spread: Lillestr\u00f8m SK (-2.5)",
+      0.01,
+      0.995,
+      9998.0777,
+      0.999,
+      0.999
+    ],
+    [
+      1.006,
+      "Exact Score: AS Roma 4 - 3 Genoa CFC?",
+      0.008,
+      0.998,
+      1016.28254,
+      0.999,
+      0.998
+    ],
+    [
+      1.006,
+      "Spread: Inter Club d'Escaldes (-2.5)",
+      0.007,
+      0.999,
+      3721.90751,
+      0.999,
+      0.999
+    ],
+    [
+      1.007,
+      "Spread: Kuopion PS (-2.5)",
+      0.014,
+      0.993,
+      1256.48393,
+      0.999,
+      0.999
+    ],
+    [
+      1.008,
+      "Exact Score: Bologna FC 1909 3 - 4 FC Internazionale Milano?",
+      0.012,
+      0.996,
+      1643.968,
+      0.999,
+      0.996
+    ],
+    [
+      1.009,
+      "Spread: AS Om\u00f3noia Leukos\u00edas (-4.5)",
+      0.01,
+      0.999,
+      2575.98089,
+      0.999,
+      0.999
+    ],
+    [
+      1.009,
+      "Spread: Aarhus GF (-3.5)",
+      0.01,
+      0.999,
+      2989.24759,
+      0.999,
+      0.999
+    ],
+    [
+      1.009,
+      "Spread: Fenerbah\u00e7e SK (-3.5)",
+      0.01,
+      0.999,
+      41416.88152,
+      0.999,
+      0.999
+    ],
+    [
+      1.009,
+      "Spread: KKS Lech Pozna\u0144 (-3.5)",
+      0.01,
+      0.999,
+      5544.30529,
+      0.999,
+      0.999
+    ],
+    [
+      1.009,
+      "Spread: New York City FC (-3.5)",
+      0.01,
+      0.999,
+      5456.85431,
+      0.999,
+      0.999
+    ],
+    [
+      1.01,
+      "D.C. United SC leading at halftime?",
+      0.36,
+      0.65,
+      14439.2384,
+      0.99,
+      0.99
+    ],
+    [
+      1.01,
+      "Spread: FC Porto (-3.5)",
+      0.012,
+      0.998,
+      42379.31106,
+      0.999,
+      0.999
+    ],
+    [
+      1.01,
+      "Spread: FK Kauno \u017dalgiris (-1.5)",
+      0.012,
+      0.998,
+      4072.87201,
+      0.999,
+      0.999
+    ],
+    [
+      1.01,
+      "Spread: K. Sint-Truidense VV (-1.5)",
+      0.54,
+      0.47,
+      10595.6715,
+      0.99,
+      0.99
+    ],
+    [
+      1.01,
+      "Spread: Liverpool FC (-1.5)",
+      0.46,
+      0.55,
+      331995.5265,
+      0.99,
+      0.99
+    ],
+    [
+      1.014,
+      "Spread: FC Viktoria Plze\u0148 (-3.5)",
+      0.015,
+      0.999,
+      5463.40718,
+      0.999,
+      0.999
+    ],
+    [
+      1.014,
+      "Will Z.ai be the #3 AI Lab at the end of October 2026 (Style",
+      0.016,
+      0.998,
+      817.47204,
+      0.999,
+      0.999
+    ],
+    [
+      1.016,
+      "Spread: KF Egnatia Rrogozhin\u00eb (-3.5)",
+      0.017,
+      0.999,
+      3081.05875,
+      0.999,
+      0.999
+    ],
+    [
+      1.016,
+      "Spread: P\u00e1fos FC (-3.5)",
+      0.017,
+      0.999,
+      3213.44467,
+      0.999,
+      0.999
+    ],
+    [
+      1.017,
+      "Spread: Paris Saint-Germain FC (-5.5)",
+      0.018,
+      0.999,
+      11178.52602,
+      0.999,
+      0.999
+    ],
+    [
+      1.018,
+      "Spread: Universitatea Craiova CS (-3.5)",
+      0.019,
+      0.999,
+      3055.58779,
+      0.999,
+      0.999
+    ],
+    [
+      1.019,
+      "Spread: FK Bod\u00f8/Glimt (-4.5)",
+      0.02,
+      0.999,
+      1178.50456,
+      0.999,
+      0.999
+    ],
+    [
+      1.019,
+      "Spread: San Jose Earthquakes (-5.5)",
+      0.02,
+      0.999,
+      1166.01556,
+      0.999,
+      0.999
+    ],
+    [
+      1.02,
+      "Spread: FC Midtjylland (-1.5)",
+      0.37,
+      0.65,
+      10550.5225,
+      0.99,
+      0.99
+    ],
+    [
+      1.029,
+      "Spread: D.C. United SC (-5.5)",
+      0.03,
+      0.999,
+      239.1434,
+      0.999,
+      0.999
+    ],
+    [
+      1.029,
+      "Spread: D.C. United SC (-5.5)",
+      0.03,
+      0.999,
+      242.7294,
+      0.999,
+      0.999
+    ],
+    [
+      1.029,
+      "Spread: New England Revolution (-5.5)",
+      0.03,
+      0.999,
+      949.56631,
+      0.999,
+      0.999
+    ],
+    [
+      1.03,
+      "Qingdao Hainiu FC vs. Liaoning Tieren FC: Qingdao Hainiu FC ",
+      0.68,
+      0.35,
+      1893.2768,
+      0.99,
+      0.99
+    ],
+    [
+      1.03,
+      "Washington State vs. Oregon State: O/U 51.5",
+      0.54,
+      0.49,
+      9353.8565,
+      0.99,
+      0.99
+    ],
+    [
+      1.03,
+      "Will Feyenoord finish as runner-up in the 2026-27 UEFA Champ",
+      0.032,
+      0.998,
+      397.79257,
+      0.999,
+      0.999
+    ],
+    [
+      1.034,
+      "Will Fernando Mendoza have 3,500+ passing yards in the 2026-",
+      0.06,
+      0.974,
+      231.51027,
+      0.999,
+      0.999
+    ],
+    [
+      1.039,
+      "Spread: Charlotte FC (-4.5)",
+      0.04,
+      0.999,
+      1123.58346,
+      0.999,
+      0.999
+    ],
+    [
+      1.041,
+      "Will Atlanta Falcons finish the 2026-27 NFL regular season w",
+      0.042,
+      0.999,
+      204.53167,
+      0.999,
+      0.999
+    ],
+    [
+      1.041,
+      "Will Carolina Panthers finish the 2026-27 NFL regular season",
+      0.042,
+      0.999,
+      205.7157,
+      0.999,
+      0.999
+    ],
+    [
+      1.041,
+      "Will Denver Broncos finish the 2026-27 NFL regular season wi",
+      0.042,
+      0.999,
+      203.03075,
+      0.999,
+      0.999
+    ],
+    [
+      1.041,
+      "Will Jacksonville Jaguars finish the 2026-27 NFL regular sea",
+      0.042,
+      0.999,
+      205.15788,
+      0.999,
+      0.999
+    ],
+    [
+      1.041,
+      "Will Kansas City Chiefs finish the 2026-27 NFL regular seaso",
+      0.042,
+      0.999,
+      196.67127,
+      0.999,
+      0.999
+    ],
+    [
+      1.041,
+      "Will Las Vegas Raiders finish the 2026-27 NFL regular season",
+      0.042,
+      0.999,
+      207.88851,
+      0.999,
+      0.999
+    ],
+    [
+      1.041,
+      "Will New Orleans Saints finish the 2026-27 NFL regular seaso",
+      0.042,
+      0.999,
+      195.948,
+      0.999,
+      0.999
+    ],
+    [
+      1.041,
+      "Will Pittsburgh Steelers finish the 2026-27 NFL regular seas",
+      0.042,
+      0.999,
+      211.83264,
+      0.999,
+      0.999
+    ],
+    [
+      1.041,
+      "Will San Francisco 49ers finish the 2026-27 NFL regular seas",
+      0.042,
+      0.999,
+      206.72789,
+      0.999,
+      0.999
+    ],
+    [
+      1.041,
+      "Will Seattle Seahawks finish the 2026-27 NFL regular season ",
+      0.042,
+      0.999,
+      206.47782,
+      0.999,
+      0.999
+    ],
+    [
+      1.05,
+      "Next Z.ai GLM (5.4+) released by October 31, 2026?",
+      0.65,
+      0.4,
+      740.5879,
+      0.99,
+      0.99
+    ],
+    [
+      1.05,
+      "Nyiregyhaza Spartacus FC vs. Budapest Honved FC: O/U 2.5",
+      0.59,
+      0.46,
+      2425.3246,
+      0.99,
+      0.99
+    ],
+    [
+      1.069,
+      "Will Dallas Cowboys finish the 2026-27 NFL regular season wi",
+      0.07,
+      0.999,
+      201.38259,
+      0.999,
+      0.999
+    ],
+    [
+      1.079,
+      "Will Indianapolis Colts finish the 2026-27 NFL regular seaso",
+      0.08,
+      0.999,
+      207.60001,
+      0.999,
+      0.999
+    ],
+    [
+      1.079,
+      "Will Tennessee Titans finish the 2026-27 NFL regular season ",
+      0.08,
+      0.999,
+      219.79197,
+      0.999,
+      0.999
+    ],
+    [
+      1.088,
+      "Will Florida be Ranked #1 during the 2026-27 CFB season?",
+      0.09,
+      0.998,
+      38.158,
+      0.999,
+      0.999
+    ],
+    [
+      1.158,
+      "Spread: PFK CSKA Sofia (-3.5)",
+      0.159,
+      0.999,
+      1178.8141,
+      0.999,
+      0.999
+    ],
+    [
+      1.176,
+      "Spread: Seattle Sounders FC (-4.5)",
+      0.177,
+      0.999,
+      980.30717,
+      0.999,
+      0.999
+    ]
+  ]
+}
