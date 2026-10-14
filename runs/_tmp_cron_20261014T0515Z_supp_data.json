@@ -1,0 +1,196 @@
+{
+  "ts": "2026-10-14T05:15:04Z",
+  "scan_time": 52.570714712142944,
+  "markets": 500,
+  "two_sided": 66,
+  "not_bracketable": 434,
+  "brackets": [],
+  "tiers": {
+    "1.005": 7,
+    "1.01": 20,
+    "1.02": 35,
+    "1.05": 53
+  },
+  "top20": [
+    {
+      "floor": 1.003,
+      "q": "Spread: \u0160K Slovan Bratislava (-2.5)",
+      "yes": 0.009,
+      "no": 0.994,
+      "liq": 24120.34834,
+      "n_asks_y": 36,
+      "n_asks_n": 6
+    },
+    {
+      "floor": 1.003,
+      "q": "Spread: \u0160K Slovan Bratislava (-3.5)",
+      "yes": 0.004,
+      "no": 0.999,
+      "liq": 19079.18986,
+      "n_asks_y": 24,
+      "n_asks_n": 1
+    },
+    {
+      "floor": 1.004,
+      "q": "Spread: Austin FC (-3.5)",
+      "yes": 0.005,
+      "no": 0.999,
+      "liq": 4407.03705,
+      "n_asks_y": 40,
+      "n_asks_n": 1
+    },
+    {
+      "floor": 1.004,
+      "q": "Spread: Lillestr\u00f8m SK (-3.5)",
+      "yes": 0.005,
+      "no": 0.999,
+      "liq": 5481.91539,
+      "n_asks_y": 16,
+      "n_asks_n": 1
+    },
+    {
+      "floor": 1.004,
+      "q": "Spread: SC Uni\u00e3o Torreense (-3.5)",
+      "yes": 0.005,
+      "no": 0.999,
+      "liq": 5711.97339,
+      "n_asks_y": 15,
+      "n_asks_n": 1
+    },
+    {
+      "floor": 1.004,
+      "q": "Spread: Sporting Kansas City (-2.5)",
+      "yes": 0.009,
+      "no": 0.995,
+      "liq": 7168.53364,
+      "n_asks_y": 47,
+      "n_asks_n": 5
+    },
+    {
+      "floor": 1.004,
+      "q": "Spread: Sporting Kansas City (-3.5)",
+      "yes": 0.005,
+      "no": 0.999,
+      "liq": 5383.39586,
+      "n_asks_y": 41,
+      "n_asks_n": 1
+    },
+    {
+      "floor": 1.007,
+      "q": "Spread: AS Roma (-3.5)",
+      "yes": 0.015,
+      "no": 0.992,
+      "liq": 18776.72594,
+      "n_asks_y": 22,
+      "n_asks_n": 6
+    },
+    {
+      "floor": 1.008,
+      "q": "Spread: Fenerbah\u00e7e SK (-3.5)",
+      "yes": 0.01,
+      "no": 0.998,
+      "liq": 17442.30864,
+      "n_asks_y": 22,
+      "n_asks_n": 2
+    },
+    {
+      "floor": 1.008,
+      "q": "Spread: HNK Hajduk Split (-2.5)",
+      "yes": 0.01,
+      "no": 0.998,
+      "liq": 2849.70539,
+      "n_asks_y": 15,
+      "n_asks_n": 2
+    },
+    {
+      "floor": 1.009,
+      "q": "Spread: Aarhus GF (-3.5)",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 2780.08099,
+      "n_asks_y": 11,
+      "n_asks_n": 1
+    },
+    {
+      "floor": 1.009,
+      "q": "Spread: KKS Lech Pozna\u0144 (-3.5)",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 5511.35064,
+      "n_asks_y": 13,
+      "n_asks_n": 1
+    },
+    {
+      "floor": 1.009,
+      "q": "Spread: Lillestr\u00f8m SK (-2.5)",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 7239.16483,
+      "n_asks_y": 22,
+      "n_asks_n": 1
+    },
+    {
+      "floor": 1.009,
+      "q": "Spread: MH Hapoel Be'er Sheva (-2.5)",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 6679.09259,
+      "n_asks_y": 24,
+      "n_asks_n": 1
+    },
+    {
+      "floor": 1.009,
+      "q": "Spread: New York City FC (-3.5)",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 2989.60025,
+      "n_asks_y": 35,
+      "n_asks_n": 1
+    },
+    {
+      "floor": 1.009,
+      "q": "Will the lowest temperature in Chicago be between 66-67\u00b0F on",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 392.5299,
+      "n_asks_y": 30,
+      "n_asks_n": 1
+    },
+    {
+      "floor": 1.01,
+      "q": "Feyenoord Rotterdam vs. Como 1907: 1st Half O/U 1.5",
+      "yes": 0.46,
+      "no": 0.55,
+      "liq": 45683.2266,
+      "n_asks_y": 30,
+      "n_asks_n": 30
+    },
+    {
+      "floor": 1.01,
+      "q": "Spread: Jagiellonia Bia\u0142ystok (-1.5)",
+      "yes": 0.45,
+      "no": 0.56,
+      "liq": 14872.1886,
+      "n_asks_y": 21,
+      "n_asks_n": 19
+    },
+    {
+      "floor": 1.01,
+      "q": "Will Feyenoord Rotterdam win on 2026-10-17?",
+      "yes": 0.74,
+      "no": 0.27,
+      "liq": 7491.3477,
+      "n_asks_y": 21,
+      "n_asks_n": 20
+    },
+    {
+      "floor": 1.01,
+      "q": "Will Mar\u00eda Corina Machado enter Venezuela by December 31?",
+      "yes": 0.31,
+      "no": 0.7,
+      "liq": 34333.1446,
+      "n_asks_y": 27,
+      "n_asks_n": 25
+    }
+  ]
+}
