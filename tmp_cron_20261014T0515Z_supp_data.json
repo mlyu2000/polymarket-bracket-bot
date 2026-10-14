@@ -1,0 +1,138 @@
+{
+  "ts": "2026-10-14T05:15Z",
+  "markets": 500,
+  "scan_time": 52.8,
+  "two_sided": 65,
+  "ask_only": 435,
+  "missing_book": 0,
+  "tiers": {
+    "1.01": 20,
+    "1.02": 34,
+    "1.05": 52,
+    "1.1": 59
+  },
+  "floor": 1.003,
+  "floor_market": "Spread: AS Roma (-3.5)",
+  "top12": [
+    {
+      "q": "Spread: AS Roma (-3.5)",
+      "sum": 1.003,
+      "yes": 0.015,
+      "no": 0.988,
+      "liq": 18816.58018,
+      "y_asks": 22,
+      "n_asks": 6,
+      "spread": 0.973
+    },
+    {
+      "q": "Spread: \u0160K Slovan Bratislava (-2.5)",
+      "sum": 1.003,
+      "yes": 0.009,
+      "no": 0.994,
+      "liq": 24120.34834,
+      "y_asks": 36,
+      "n_asks": 6,
+      "spread": 0.985
+    },
+    {
+      "q": "Spread: \u0160K Slovan Bratislava (-3.5)",
+      "sum": 1.003,
+      "yes": 0.004,
+      "no": 0.999,
+      "liq": 19075.24218,
+      "y_asks": 24,
+      "n_asks": 1,
+      "spread": 0.995
+    },
+    {
+      "q": "Spread: Austin FC (-3.5)",
+      "sum": 1.004,
+      "yes": 0.005,
+      "no": 0.999,
+      "liq": 5371.07805,
+      "y_asks": 41,
+      "n_asks": 1,
+      "spread": 0.994
+    },
+    {
+      "q": "Spread: Sporting Kansas City (-3.5)",
+      "sum": 1.004,
+      "yes": 0.005,
+      "no": 0.999,
+      "liq": 5381.19186,
+      "y_asks": 41,
+      "n_asks": 1,
+      "spread": 0.994
+    },
+    {
+      "q": "Spread: SC Uni\u00e3o Torreense (-3.5)",
+      "sum": 1.004,
+      "yes": 0.005,
+      "no": 0.999,
+      "liq": 5711.97339,
+      "y_asks": 15,
+      "n_asks": 1,
+      "spread": 0.994
+    },
+    {
+      "q": "Spread: Lillestr\u00f8m SK (-3.5)",
+      "sum": 1.004,
+      "yes": 0.005,
+      "no": 0.999,
+      "liq": 5488.34008,
+      "y_asks": 16,
+      "n_asks": 1,
+      "spread": 0.994
+    },
+    {
+      "q": "Spread: Sporting Kansas City (-2.5)",
+      "sum": 1.005,
+      "yes": 0.009,
+      "no": 0.996,
+      "liq": 7151.25364,
+      "y_asks": 47,
+      "n_asks": 4,
+      "spread": 0.987
+    },
+    {
+      "q": "Spread: HNK Hajduk Split (-2.5)",
+      "sum": 1.008,
+      "yes": 0.01,
+      "no": 0.998,
+      "liq": 3695.55148,
+      "y_asks": 14,
+      "n_asks": 2,
+      "spread": 0.988
+    },
+    {
+      "q": "Spread: Fenerbah\u00e7e SK (-3.5)",
+      "sum": 1.008,
+      "yes": 0.01,
+      "no": 0.998,
+      "liq": 17454.43064,
+      "y_asks": 22,
+      "n_asks": 2,
+      "spread": 0.988
+    },
+    {
+      "q": "Will the lowest temperature in Chicago be between 66-67\u00b0F on October 14?",
+      "sum": 1.009,
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 384.5314,
+      "y_asks": 30,
+      "n_asks": 1,
+      "spread": 0.989
+    },
+    {
+      "q": "Spread: New York City FC (-3.5)",
+      "sum": 1.009,
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 2989.60093,
+      "y_asks": 35,
+      "n_asks": 1,
+      "spread": 0.989
+    }
+  ]
+}

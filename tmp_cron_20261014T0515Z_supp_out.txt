@@ -1,0 +1,19 @@
+🔍 Scan: 500 markets in 52.8s
+two-sided: 65 | ask-only(one side empty): 435 | missing book: 0
+Tier counts (min-ask sum <=): 1.01->20, 1.02->34, 1.05->52, 1.1->59
+True min-ask floor: 1.0030 | Spread: AS Roma (-3.5)
+  Yes@0.015 No@0.988 liq=18816.58018 yasks=22 nasks=6
+Top 12 by min-ask sum:
+  1.0030 | Yes@0.015 No@0.988 | spread=0.973 | liq=18816.58018 | Spread: AS Roma (-3.5)
+  1.0030 | Yes@0.009 No@0.994 | spread=0.985 | liq=24120.34834 | Spread: ŠK Slovan Bratislava (-2.5)
+  1.0030 | Yes@0.004 No@0.999 | spread=0.995 | liq=19075.24218 | Spread: ŠK Slovan Bratislava (-3.5)
+  1.0040 | Yes@0.005 No@0.999 | spread=0.994 | liq=5371.07805 | Spread: Austin FC (-3.5)
+  1.0040 | Yes@0.005 No@0.999 | spread=0.994 | liq=5381.19186 | Spread: Sporting Kansas City (-3.5)
+  1.0040 | Yes@0.005 No@0.999 | spread=0.994 | liq=5711.97339 | Spread: SC União Torreense (-3.5)
+  1.0040 | Yes@0.005 No@0.999 | spread=0.994 | liq=5488.34008 | Spread: Lillestrøm SK (-3.5)
+  1.0050 | Yes@0.009 No@0.996 | spread=0.987 | liq=7151.25364 | Spread: Sporting Kansas City (-2.5)
+  1.0080 | Yes@0.010 No@0.998 | spread=0.988 | liq=3695.55148 | Spread: HNK Hajduk Split (-2.5)
+  1.0080 | Yes@0.010 No@0.998 | spread=0.988 | liq=17454.43064 | Spread: Fenerbahçe SK (-3.5)
+  1.0090 | Yes@0.010 No@0.999 | spread=0.989 | liq=384.5314 | Will the lowest temperature in Chicago be between 66-67°F on
+  1.0090 | Yes@0.010 No@0.999 | spread=0.989 | liq=2989.60093 | Spread: New York City FC (-3.5)
+saved tmp_cron_20261014T0515Z_supp_data.json
