@@ -1,0 +1,97 @@
+{
+ "scan_time": 52.9,
+ "markets": 500,
+ "two_sided": 69,
+ "yes_only": 431,
+ "no_ask_max_lt099": 0,
+ "bracketable": 69,
+ "tiers": {
+  "le1.05": 51,
+  "le1.02": 29,
+  "le1.01": 19,
+  "le1.005": 7,
+  "le1.0": 0,
+  "lt1.000": 0
+ },
+ "floor": {
+  "total": 1.003,
+  "q": "Spread: Lillestr\u00f8m SK (-2.5)",
+  "yes": 0.01,
+  "no": 0.993,
+  "liq": 6914.24516,
+  "end": "2026-10-15T16:45:00Z",
+  "cond": "0xfe28d648315dce07575e709fb98bf17d66b37da0d971d2688ed3d8c07016542d"
+ },
+ "le1010": [
+  {
+   "total": 1.003,
+   "q": "Spread: Lillestr\u00f8m SK (-2.5)",
+   "y": 0.01,
+   "n": 0.993,
+   "liq": 6914.24516
+  },
+  {
+   "total": 1.004,
+   "q": "Spread: FC Thun (-2.5)",
+   "y": 0.007,
+   "n": 0.997,
+   "liq": 4417.05926
+  },
+  {
+   "total": 1.004,
+   "q": "Spread: P\u00e1fos FC (-2.5)",
+   "y": 0.009,
+   "n": 0.995,
+   "liq": 4142.07383
+  },
+  {
+   "total": 1.005,
+   "q": "Exact Score: AS Roma 4 - 3 Genoa CFC?",
+   "y": 0.008,
+   "n": 0.997,
+   "liq": 19411.17951
+  },
+  {
+   "total": 1.005,
+   "q": "Spread: KF Egnatia Rrogozhin\u00eb (-2.5)",
+   "y": 0.016,
+   "n": 0.989,
+   "liq": 4152.94463
+  },
+  {
+   "total": 1.005,
+   "q": "Spread: MH Hapoel Be'er Sheva (-2.5)",
+   "y": 0.009,
+   "n": 0.996,
+   "liq": 6052.03814
+  },
+  {
+   "total": 1.005,
+   "q": "Will the price of Bitcoin be above $72,000 on October 1",
+   "y": 0.995,
+   "n": 0.01,
+   "liq": 11034.63543
+  },
+  {
+   "total": 1.006,
+   "q": "Spread: Inter Club d'Escaldes (-2.5)",
+   "y": 0.009,
+   "n": 0.997,
+   "liq": 3825.26021
+  },
+  {
+   "total": 1.006,
+   "q": "Spread: Kuopion PS (-2.5)",
+   "y": 0.014,
+   "n": 0.992,
+   "liq": 1848.64626
+  },
+  {
+   "total": 1.007,
+   "q": "Spread: Sporting Kansas City (-3.5)",
+   "y": 0.008,
+   "n": 0.999,
+   "liq": 3055.1807
+  }
+ ]
+}
