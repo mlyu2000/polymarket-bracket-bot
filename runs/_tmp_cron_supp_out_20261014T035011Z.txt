@@ -1,0 +1,15 @@
+scan_time=53.1s markets=500
+two_sided=71 yes_or_no_only=420 empty=9
+true_min_ask_floor=1.0010
+<=1.050: 57 | <=1.020: 36 | <=1.010: 16
+--- top 8 closest ---
+  1.0010 | Y@0.010 N@0.991 | liq=2941.12063 | Spread: KF Egnatia Rrogozhinë (-2.5)
+  1.0030 | Y@0.009 N@0.994 | liq=22303.43614 | Spread: ŠK Slovan Bratislava (-2.5)
+  1.0030 | Y@0.004 N@0.999 | liq=19079.87426 | Spread: ŠK Slovan Bratislava (-3.5)
+  1.0040 | Y@0.009 N@0.995 | liq=8416.30684 | Spread: Sporting Kansas City (-2.5)
+  1.0050 | Y@0.006 N@0.999 | liq=2025.56484 | Exact Score: Venezia FC 4 - 3 SSC Napoli?
+  1.0070 | Y@0.015 N@0.992 | liq=18766.72416 | Spread: AS Roma (-3.5)
+  1.0080 | Y@0.010 N@0.998 | liq=17435.70164 | Spread: Fenerbahçe SK (-3.5)
+  1.0080 | Y@0.010 N@0.998 | liq=2971.74598 | Spread: Lillestrøm SK (-3.5)
+--- bracketable (floor < 1.00) ---
+count=0
