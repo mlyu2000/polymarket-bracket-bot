@@ -1,0 +1,192 @@
+{
+  "ts": "2026-10-14T06:24:51Z",
+  "markets": 500,
+  "with_both_asks": 66,
+  "two_sided": 66,
+  "not_bracketable": 434,
+  "tiers": {
+    "<=1.050": 53,
+    "<=1.020": 34,
+    "<=1.010": 19,
+    "<=1.005": 8,
+    "<1.000": 0
+  },
+  "top25": [
+    {
+      "total": 1.003,
+      "q": "Spread: Lillestr\u00f8m SK (-3.5)",
+      "yes": 0.005,
+      "no": 0.998,
+      "liq": 5496.95384
+    },
+    {
+      "total": 1.003,
+      "q": "Spread: \u0160K Slovan Bratislava (-2.5)",
+      "yes": 0.009,
+      "no": 0.994,
+      "liq": 25742.92434
+    },
+    {
+      "total": 1.003,
+      "q": "Spread: \u0160K Slovan Bratislava (-3.5)",
+      "yes": 0.004,
+      "no": 0.999,
+      "liq": 19081.09294
+    },
+    {
+      "total": 1.004,
+      "q": "Spread: Austin FC (-3.5)",
+      "yes": 0.005,
+      "no": 0.999,
+      "liq": 5359.67039
+    },
+    {
+      "total": 1.004,
+      "q": "Spread: SC Uni\u00e3o Torreense (-3.5)",
+      "yes": 0.005,
+      "no": 0.999,
+      "liq": 5722.19839
+    },
+    {
+      "total": 1.004,
+      "q": "Spread: Sporting Kansas City (-2.5)",
+      "yes": 0.008,
+      "no": 0.996,
+      "liq": 7151.80564
+    },
+    {
+      "total": 1.004,
+      "q": "Spread: Sporting Kansas City (-3.5)",
+      "yes": 0.005,
+      "no": 0.999,
+      "liq": 5389.45686
+    },
+    {
+      "total": 1.005,
+      "q": "Spread: Fenerbah\u00e7e SK (-3.5)",
+      "yes": 0.006,
+      "no": 0.999,
+      "liq": 18051.63074
+    },
+    {
+      "total": 1.007,
+      "q": "Exact Score: Bologna FC 1909 3 - 4 FC Internazionale Mi",
+      "yes": 0.011,
+      "no": 0.996,
+      "liq": 1984.27099
+    },
+    {
+      "total": 1.008,
+      "q": "Spread: HNK Hajduk Split (-2.5)",
+      "yes": 0.01,
+      "no": 0.998,
+      "liq": 2747.93849
+    },
+    {
+      "total": 1.008,
+      "q": "Spread: Lillestr\u00f8m SK (-2.5)",
+      "yes": 0.01,
+      "no": 0.998,
+      "liq": 7393.63349
+    },
+    {
+      "total": 1.009,
+      "q": "Spread: Aarhus GF (-3.5)",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 2785.09599
+    },
+    {
+      "total": 1.009,
+      "q": "Spread: KKS Lech Pozna\u0144 (-3.5)",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 5506.84164
+    },
+    {
+      "total": 1.009,
+      "q": "Spread: MH Hapoel Be'er Sheva (-2.5)",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 6939.25259
+    },
+    {
+      "total": 1.009,
+      "q": "Spread: New York City FC (-3.5)",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 2993.34593
+    },
+    {
+      "total": 1.009,
+      "q": "Will the lowest temperature in Chicago be between 66-67",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 364.08939
+    },
+    {
+      "total": 1.01,
+      "q": "Estudiantes de La Plata vs. CR Flamengo: O/U 2.5",
+      "yes": 0.36,
+      "no": 0.65,
+      "liq": 8228.2171
+    },
+    {
+      "total": 1.01,
+      "q": "Spread: Jagiellonia Bia\u0142ystok (-1.5)",
+      "yes": 0.45,
+      "no": 0.56,
+      "liq": 15924.8352
+    },
+    {
+      "total": 1.01,
+      "q": "Will Mar\u00eda Corina Machado enter Venezuela by December 3",
+      "yes": 0.31,
+      "no": 0.7,
+      "liq": 34183.7144
+    },
+    {
+      "total": 1.011,
+      "q": "Exact Score: AFC Bournemouth 0 - 3 SK Puntigamer Sturm ",
+      "yes": 0.012,
+      "no": 0.999,
+      "liq": 3367.33648
+    },
+    {
+      "total": 1.013,
+      "q": "Spread: FC Porto (-3.5)",
+      "yes": 0.014,
+      "no": 0.999,
+      "liq": 17279.97557
+    },
+    {
+      "total": 1.014,
+      "q": "Spread: FC Viktoria Plze\u0148 (-3.5)",
+      "yes": 0.015,
+      "no": 0.999,
+      "liq": 5500.84757
+    },
+    {
+      "total": 1.016,
+      "q": "Will Z.ai be the #3 AI Lab at the end of October 2026 (",
+      "yes": 0.018,
+      "no": 0.998,
+      "liq": 786.48776
+    },
+    {
+      "total": 1.018,
+      "q": "Spread: FC Thun (-2.5)",
+      "yes": 0.019,
+      "no": 0.999,
+      "liq": 3091.39939
+    },
+    {
+      "total": 1.018,
+      "q": "Spread: FK Kauno \u017dalgiris (-1.5)",
+      "yes": 0.019,
+      "no": 0.999,
+      "liq": 3978.04215
+    }
+  ],
+  "scan_time": 58.9
+}
