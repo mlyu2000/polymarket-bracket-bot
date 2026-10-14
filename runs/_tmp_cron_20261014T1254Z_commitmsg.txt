@@ -1,0 +1,5 @@
+cron scan 20261014T1254Z (scheduled): 500 mkts, 0 brackets, true min-ask floor 1.0010 (Traian Basescu RO PM, Y@0.002 N@0.999 liq $46.3k) — UNCHANGED for 4th consecutive scan (11:13Z/11:57Z/12:12Z/12:30Z/12:40Z/12:54Z all 1.0010); 69 two-sided / 431 not bracketable; <=1.050 n55 <=1.020 n35 <=1.010 n18 <=1.005 n8 <1.000 n0.
+
+Task-script near-miss block remains asks[0] artifact (always 0) — not fixed, no brackets anyway. Tier numbers here are CUMULATIVE recomputed from raw JSON (the supp script's elif counters are mutually-exclusive buckets, NOT cumulative — do not read its printed n10/n17/n20 as <= thresholds; raw rows confirm 69 rows, le1.005 n8 / le1.010 n18 / le1.020 n35 / le1.050 n55).
+
+Drift vs 12:40Z: two-sided 70→69 (HNK Hajduk Split -3.5 dropped, PFK CSKA Sofia -3.5 added — sports spread rotation); le1.010 19→18, other tiers identical. Spread cluster now 7 markets at exactly 1.0040 (Austin FC -3.5, Sporting KC -2.5/-3.5, Slovan Bratislava -3.5, Torreense -3.5, Lillestrom -2.5, Hapoel Be'er Sheva -2.5) — up from 6. Slovan Bratislava -2.5 still outside floor zone (>1.01). Floor holder unchanged.
