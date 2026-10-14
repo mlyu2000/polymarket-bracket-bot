@@ -1,0 +1,13 @@
+FLOOR-SCAN: 500 markets in 55.6s | two-sided 71 | not-bracketable 429
+TIERS: le1.050 n52 | le1.020 n34 | le1.010 n22 | le1.005 n10 | lt1.000 n0
+TOP-10 FLOOR (min-all-asks both legs):
+  1.0010 | Y0.009 N0.992 | liq 5306.61532 | Will Elon Musk post 460-479 tweets from October 13 to October 20, 2026
+  1.0030 | Y0.008 N0.995 | liq 6104.73082 | Spread: Sporting Kansas City (-2.5)
+  1.0030 | Y0.005 N0.998 | liq 39049.75664 | Spread: SK Slovan Bratislava (-3.5)
+  1.0040 | Y0.007 N0.997 | liq 3380.27559 | Spread: FC Thun (-2.5)
+  1.0050 | Y0.007 N0.998 | liq 21119.38396 | Exact Score: Venezia FC 4 - 3 SSC Napoli?
+  1.0050 | Y0.013 N0.992 | liq 4429.37785 | Spread: KF Egnatia Rrogozhine (-2.5)
+  1.0050 | Y0.013 N0.992 | liq 2056.61767 | Spread: Kuopion PS (-2.5)
+  1.0050 | Y0.010 N0.995 | liq 7401.15621 | Spread: Lillestrom SK (-2.5)
+  1.0050 | Y0.009 N0.996 | liq 5910.84313 | Spread: MH Hapoel Be'er Sheva (-2.5)
+  1.0050 | Y0.010 N0.995 | liq 4690.4966 | Spread: Pafos FC (-2.5)

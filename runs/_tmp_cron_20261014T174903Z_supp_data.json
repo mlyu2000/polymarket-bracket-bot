@@ -1,0 +1,42 @@
+{
+  "ts": "20261014T174903Z",
+  "task_script": {
+    "markets": 500,
+    "brackets": 0,
+    "near_misses": 0,
+    "scan_time_s": 52.9,
+    "note": "verbatim task script; near-miss block uses asks[0] (DESC-sorted = worst ask) so reports 0 as always"
+  },
+  "floor_scan_min_all_asks": {
+    "markets": 500,
+    "scan_time_s": 55.6,
+    "two_sided": 71,
+    "not_bracketable": 429,
+    "floor": 1.0010,
+    "floor_market": "Will Elon Musk post 460-479 tweets from October 13 to October 20, 2026",
+    "floor_yes": 0.009,
+    "floor_no": 0.992,
+    "floor_liquidity": 5306.61532,
+    "tiers": {"le1.050": 52, "le1.020": 34, "le1.010": 22, "le1.005": 10, "lt1.000": 0},
+    "top10": [
+      {"total": 1.0010, "yes": 0.009, "no": 0.992, "liq": 5306.61532, "q": "Will Elon Musk post 460-479 tweets from October 13 to October 20, 2026"},
+      {"total": 1.0030, "yes": 0.008, "no": 0.995, "liq": 6104.73082, "q": "Spread: Sporting Kansas City (-2.5)"},
+      {"total": 1.0030, "yes": 0.005, "no": 0.998, "liq": 39049.75664, "q": "Spread: SK Slovan Bratislava (-3.5)"},
+      {"total": 1.0040, "yes": 0.007, "no": 0.997, "liq": 3380.27559, "q": "Spread: FC Thun (-2.5)"},
+      {"total": 1.0050, "yes": 0.007, "no": 0.998, "liq": 21119.38396, "q": "Exact Score: Venezia FC 4 - 3 SSC Napoli?"},
+      {"total": 1.0050, "yes": 0.013, "no": 0.992, "liq": 4429.37785, "q": "Spread: KF Egnatia Rrogozhine (-2.5)"},
+      {"total": 1.0050, "yes": 0.013, "no": 0.992, "liq": 2056.61767, "q": "Spread: Kuopion PS (-2.5)"},
+      {"total": 1.0050, "yes": 0.010, "no": 0.995, "liq": 7401.15621, "q": "Spread: Lillestrom SK (-2.5)"},
+      {"total": 1.0050, "yes": 0.009, "no": 0.996, "liq": 5910.84313, "q": "Spread: MH Hapoel Be'er Sheva (-2.5)"},
+      {"total": 1.0050, "yes": 0.010, "no": 0.995, "liq": 4690.4966, "q": "Spread: Pafos FC (-2.5)"}
+    ]
+  },
+  "drift_vs_prev": {
+    "prev_ts": "20261014T173224Z",
+    "floor": "1.0010 -> 1.0010 (unchanged, 4th consecutive scan at floor)",
+    "two_sided": "71 -> 71 (=)",
+    "not_bracketable": "429 -> 429 (=)",
+    "tiers": "le1.050 52->52 (=), le1.020 35->34 (-1), le1.010 24->22 (-2), le1.005 10->10 (=), lt1.000 0->0 (=)",
+    "floor_market_liq": "4995 -> 5306 (+311)"
+  }
+}
