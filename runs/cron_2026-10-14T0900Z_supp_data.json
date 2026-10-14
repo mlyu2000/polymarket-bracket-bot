@@ -1,0 +1,113 @@
+{
+ "ts_utc": "2026-10-14T09:00Z",
+ "markets_scanned": 500,
+ "two_sided": 77,
+ "not_bracketable": 423,
+ "scan_time_s": 54.9,
+ "brackets": [],
+ "floor_top10": [
+  {
+   "market": "Will Traian Basescu be the next Prime Minister of Romania?",
+   "yes_min_ask": 0.002,
+   "no_min_ask": 0.999,
+   "floor": 1.001,
+   "yes_size_at_min": 2883.61,
+   "no_size_at_min": 690.59,
+   "liquidity": 32959.72948,
+   "bracketable": false
+  },
+  {
+   "market": "Spread: \u0160K Slovan Bratislava (-3.5)",
+   "yes_min_ask": 0.004,
+   "no_min_ask": 0.998,
+   "floor": 1.002,
+   "yes_size_at_min": 18.68,
+   "no_size_at_min": 14.47,
+   "liquidity": 54496.40241,
+   "bracketable": false
+  },
+  {
+   "market": "Spread: \u0160K Slovan Bratislava (-2.5)",
+   "yes_min_ask": 0.009,
+   "no_min_ask": 0.994,
+   "floor": 1.003,
+   "yes_size_at_min": 222.29,
+   "no_size_at_min": 8362.23,
+   "liquidity": 48254.51126,
+   "bracketable": false
+  },
+  {
+   "market": "Spread: Lillestr\u00f8m SK (-3.5)",
+   "yes_min_ask": 0.005,
+   "no_min_ask": 0.998,
+   "floor": 1.003,
+   "yes_size_at_min": 778.04,
+   "no_size_at_min": 17.23,
+   "liquidity": 5505.32011,
+   "bracketable": false
+  },
+  {
+   "market": "Spread: Austin FC (-3.5)",
+   "yes_min_ask": 0.005,
+   "no_min_ask": 0.999,
+   "floor": 1.004,
+   "yes_size_at_min": 797.99,
+   "no_size_at_min": 1075.0,
+   "liquidity": 5377.95643,
+   "bracketable": false
+  },
+  {
+   "market": "Spread: Sporting Kansas City (-2.5)",
+   "yes_min_ask": 0.008,
+   "no_min_ask": 0.996,
+   "floor": 1.004,
+   "yes_size_at_min": 12.0,
+   "no_size_at_min": 6250.0,
+   "liquidity": 7142.10957,
+   "bracketable": false
+  },
+  {
+   "market": "Spread: Sporting Kansas City (-3.5)",
+   "yes_min_ask": 0.005,
+   "no_min_ask": 0.999,
+   "floor": 1.004,
+   "yes_size_at_min": 829.15,
+   "no_size_at_min": 1055.0,
+   "liquidity": 5383.39685,
+   "bracketable": false
+  },
+  {
+   "market": "Spread: SC Uni\u00e3o Torreense (-3.5)",
+   "yes_min_ask": 0.005,
+   "no_min_ask": 0.999,
+   "floor": 1.004,
+   "yes_size_at_min": 767.84,
+   "no_size_at_min": 1010.0,
+   "liquidity": 5727.30839,
+   "bracketable": false
+  },
+  {
+   "market": "Spread: HNK Hajduk Split (-2.5)",
+   "yes_min_ask": 0.01,
+   "no_min_ask": 0.998,
+   "floor": 1.008,
+   "yes_size_at_min": 9.99,
+   "no_size_at_min": 10.0,
+   "liquidity": 3121.01036,
+   "bracketable": false
+  },
+  {
+   "market": "Will the price of Ethereum be above $2,200 on October 16?",
+   "yes_min_ask": 0.99,
+   "no_min_ask": 0.018,
+   "floor": 1.008,
+   "yes_size_at_min": 5.0,
+   "no_size_at_min": 310.0,
+   "liquidity": 28790.31138,
+   "bracketable": false
+  }
+ ],
+ "floor_1_050": 59,
+ "floor_1_020": 36,
+ "floor_1_010": 20
+}
