@@ -1,0 +1,87 @@
+{
+  "scan_time": "20261014T0652Z",
+  "markets": 500,
+  "scan_duration_s": 53.1,
+  "two_sided": 67,
+  "yes_or_no_only": 425,
+  "empty": 8,
+  "true_min_ask_floor": 1.003,
+  "tiers": {
+    "<=1.050": 52,
+    "<=1.020": 32,
+    "<=1.010": 19
+  },
+  "bracketable_count": 0,
+  "top10_closest": [
+    {
+      "sum": 1.003,
+      "question": "Spread: Lillestr\u00f8m SK (-3.5)",
+      "yes_ask": 0.005,
+      "no_ask": 0.998,
+      "liq": 5496.12374
+    },
+    {
+      "sum": 1.003,
+      "question": "Spread: \u0160K Slovan Bratislava (-2.5)",
+      "yes_ask": 0.009,
+      "no_ask": 0.994,
+      "liq": 25736.81062
+    },
+    {
+      "sum": 1.004,
+      "question": "Spread: Austin FC (-3.5)",
+      "yes_ask": 0.005,
+      "no_ask": 0.999,
+      "liq": 5378.79546
+    },
+    {
+      "sum": 1.004,
+      "question": "Spread: SC Uni\u00e3o Torreense (-3.5)",
+      "yes_ask": 0.005,
+      "no_ask": 0.999,
+      "liq": 5722.19839
+    },
+    {
+      "sum": 1.004,
+      "question": "Spread: Sporting Kansas City (-2.5)",
+      "yes_ask": 0.008,
+      "no_ask": 0.996,
+      "liq": 7151.80564
+    },
+    {
+      "sum": 1.004,
+      "question": "Spread: Sporting Kansas City (-3.5)",
+      "yes_ask": 0.005,
+      "no_ask": 0.999,
+      "liq": 5383.39586
+    },
+    {
+      "sum": 1.004,
+      "question": "Spread: \u0160K Slovan Bratislava (-3.5)",
+      "yes_ask": 0.005,
+      "no_ask": 0.999,
+      "liq": 19084.89046
+    },
+    {
+      "sum": 1.005,
+      "question": "Exact Score: Venezia FC 4 - 3 SSC Napoli?",
+      "yes_ask": 0.006,
+      "no_ask": 0.999,
+      "liq": 2017.89684
+    },
+    {
+      "sum": 1.007,
+      "question": "Exact Score: Bologna FC 1909 3 - 4 FC Internazionale Milano?",
+      "yes_ask": 0.011,
+      "no_ask": 0.996,
+      "liq": 2016.25299
+    },
+    {
+      "sum": 1.008,
+      "question": "Spread: Lillestr\u00f8m SK (-2.5)",
+      "yes_ask": 0.01,
+      "no_ask": 0.998,
+      "liq": 7383.33549
+    }
+  ]
+}

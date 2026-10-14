@@ -1,0 +1,15 @@
+scan_time=54.1s markets=500
+two_sided=67 yes_or_no_only=425 empty=8
+true_min_ask_floor=1.0030
+<=1.050: 53 | <=1.020: 32 | <=1.010: 19
+--- top 8 closest ---
+  1.0030 | Y@0.005 N@0.998 | liq=5496.12374 | Spread: Lillestrøm SK (-3.5)
+  1.0030 | Y@0.009 N@0.994 | liq=25736.81062 | Spread: ŠK Slovan Bratislava (-2.5)
+  1.0040 | Y@0.005 N@0.999 | liq=5378.79546 | Spread: Austin FC (-3.5)
+  1.0040 | Y@0.005 N@0.999 | liq=5722.19839 | Spread: SC União Torreense (-3.5)
+  1.0040 | Y@0.008 N@0.996 | liq=7151.80564 | Spread: Sporting Kansas City (-2.5)
+  1.0040 | Y@0.005 N@0.999 | liq=5383.39586 | Spread: Sporting Kansas City (-3.5)
+  1.0040 | Y@0.005 N@0.999 | liq=19084.89046 | Spread: ŠK Slovan Bratislava (-3.5)
+  1.0050 | Y@0.006 N@0.999 | liq=2017.89684 | Exact Score: Venezia FC 4 - 3 SSC Napoli?
+--- bracketable (floor < 1.00) ---
+count=0
