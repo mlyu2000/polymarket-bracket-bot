@@ -1,0 +1,87 @@
+{
+  "scan_utc": "20261014T105718Z",
+  "markets_scanned": 500,
+  "scan_seconds": 55.0,
+  "brackets_found": 0,
+  "two_sided_with_asks": 77,
+  "not_bracketable": 423,
+  "true_min_ask_floor": 1.001,
+  "near_miss_counts": {
+    "<=1.010": 21,
+    "<=1.020": 38,
+    "<=1.050": 62
+  },
+  "top_min_ask": [
+    {
+      "sum": 1.001,
+      "y": 0.002,
+      "n": 0.999,
+      "liq": 32252.93,
+      "q": "Will Traian Basescu be the next Prime Minister of Romania?"
+    },
+    {
+      "sum": 1.002,
+      "y": 0.009,
+      "n": 0.993,
+      "liq": 46083.92,
+      "q": "Spread: ŠK Slovan Bratislava (-2.5)"
+    },
+    {
+      "sum": 1.003,
+      "y": 0.004,
+      "n": 0.999,
+      "liq": 38959.01,
+      "q": "Spread: ŠK Slovan Bratislava (-3.5)"
+    },
+    {
+      "sum": 1.004,
+      "y": 0.005,
+      "n": 0.999,
+      "liq": 5723.63,
+      "q": "Spread: Austin FC (-3.5)"
+    },
+    {
+      "sum": 1.004,
+      "y": 0.005,
+      "n": 0.999,
+      "liq": 4429.81,
+      "q": "Spread: SC União Torreense (-3.5)"
+    },
+    {
+      "sum": 1.004,
+      "y": 0.008,
+      "n": 0.996,
+      "liq": 7878.49,
+      "q": "Spread: Sporting Kansas City (-2.5)"
+    },
+    {
+      "sum": 1.004,
+      "y": 0.005,
+      "n": 0.999,
+      "liq": 5778.01,
+      "q": "Spread: Sporting Kansas City (-3.5)"
+    },
+    {
+      "sum": 1.008,
+      "y": 0.01,
+      "n": 0.998,
+      "liq": 3801.46,
+      "q": "Spread: Lillestrøm SK (-3.5)"
+    },
+    {
+      "sum": 1.008,
+      "y": 0.01,
+      "n": 0.998,
+      "liq": 6884.33,
+      "q": "Spread: MH Hapoel Be'er Sheva (-2.5)"
+    },
+    {
+      "sum": 1.009,
+      "y": 0.01,
+      "n": 0.999,
+      "liq": 9.13,
+      "q": "Hang Seng (HSI) Up or Down on October 14?"
+    }
+  ],
+  "note": "Cron-script near-miss block uses asks[0] (worst ask, DESC sort) -> always 0; floor values here from min(all asks)."
+}
