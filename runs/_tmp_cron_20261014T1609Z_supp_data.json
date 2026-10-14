@@ -1,0 +1,139 @@
+{
+  "ts_utc": "2026-10-14T16:10:18Z",
+  "markets": 500,
+  "scan_time_s": 54.1,
+  "brackets": [],
+  "floor": 1.003,
+  "tiers": {
+    "le_1.050": 49,
+    "le_1.020": 31,
+    "le_1.010": 16,
+    "le_1.005": 6,
+    "lt_1.000": 0
+  },
+  "two_sided": 66,
+  "not_bracketable": 434,
+  "booked": 66,
+  "top15": [
+    {
+      "q": "Spread: MH Hapoel Be'er Sheva (-2.5)",
+      "yes": 0.008,
+      "no": 0.995,
+      "total": 1.003,
+      "liq": 5385.75049,
+      "two_sided": true
+    },
+    {
+      "q": "Spread: Lillestr\u00f8m SK (-2.5)",
+      "yes": 0.01,
+      "no": 0.994,
+      "total": 1.004,
+      "liq": 5591.5465,
+      "two_sided": true
+    },
+    {
+      "q": "Spread: Sporting Kansas City (-2.5)",
+      "yes": 0.009,
+      "no": 0.996,
+      "total": 1.005,
+      "liq": 5274.96542,
+      "two_sided": true
+    },
+    {
+      "q": "Spread: FC Thun (-2.5)",
+      "yes": 0.008,
+      "no": 0.997,
+      "total": 1.005,
+      "liq": 4221.84579,
+      "two_sided": true
+    },
+    {
+      "q": "Spread: P\u00e1fos FC (-2.5)",
+      "yes": 0.01,
+      "no": 0.995,
+      "total": 1.005,
+      "liq": 5014.9159,
+      "two_sided": true
+    },
+    {
+      "q": "Spread: KF Egnatia Rrogozhin\u00eb (-2.5)",
+      "yes": 0.013,
+      "no": 0.992,
+      "total": 1.005,
+      "liq": 4125.1243,
+      "two_sided": true
+    },
+    {
+      "q": "Spread: FK Jablonec (-2.5)",
+      "yes": 0.007,
+      "no": 0.999,
+      "total": 1.006,
+      "liq": 4485.94099,
+      "two_sided": true
+    },
+    {
+      "q": "Spread: Inter Club d'Escaldes (-2.5)",
+      "yes": 0.007,
+      "no": 0.999,
+      "total": 1.006,
+      "liq": 3475.07219,
+      "two_sided": true
+    },
+    {
+      "q": "Spread: Kuopion PS (-2.5)",
+      "yes": 0.013,
+      "no": 0.993,
+      "total": 1.006,
+      "liq": 1385.23157,
+      "two_sided": true
+    },
+    {
+      "q": "Spread: FC Viktoria Plze\u0148 (-3.5)",
+      "yes": 0.01,
+      "no": 0.999,
+      "total": 1.009,
+      "liq": 3140.93613,
+      "two_sided": true
+    },
+    {
+      "q": "Spread: New York City FC (-3.5)",
+      "yes": 0.01,
+      "no": 0.999,
+      "total": 1.009,
+      "liq": 1607.17023,
+      "two_sided": true
+    },
+    {
+      "q": "Spread: FK Kauno \u017dalgiris (-1.5)",
+      "yes": 0.011,
+      "no": 0.998,
+      "total": 1.009,
+      "liq": 4437.59449,
+      "two_sided": true
+    },
+    {
+      "q": "Spread: Aarhus GF (-3.5)",
+      "yes": 0.01,
+      "no": 0.999,
+      "total": 1.009,
+      "liq": 2993.69059,
+      "two_sided": true
+    },
+    {
+      "q": "Spread: FC Midtjylland (-1.5)",
+      "yes": 0.37,
+      "no": 0.64,
+      "total": 1.01,
+      "liq": 11429.8544,
+      "two_sided": true
+    },
+    {
+      "q": "Will Ethereum hit $4k by March 31, 2027?",
+      "yes": 0.23,
+      "no": 0.78,
+      "total": 1.01,
+      "liq": 12986.4346,
+      "two_sided": true
+    }
+  ]
+}
