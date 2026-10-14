@@ -1,0 +1,150 @@
+{
+ "ts": "2026-10-14T15:28Z",
+ "scan_time": 54.75635552406311,
+ "markets": 500,
+ "two_sided": 67,
+ "brackets": [],
+ "floor": 1.004,
+ "floors_top": [
+  [
+   1.004,
+   "Spread: FC Thun (-2.5)",
+   0.007,
+   0.997,
+   4203.54667
+  ],
+  [
+   1.004,
+   "Spread: MH Hapoel Be'er Sheva (-2.5)",
+   0.008,
+   0.996,
+   5766.46185
+  ],
+  [
+   1.004,
+   "Spread: Sporting Kansas City (-2.5)",
+   0.008,
+   0.996,
+   5793.57268
+  ],
+  [
+   1.005,
+   "Spread: KF Egnatia Rrogozhin\u00eb (-2.5)",
+   0.014,
+   0.991,
+   4067.13788
+  ],
+  [
+   1.005,
+   "Spread: Lillestr\u00f8m SK (-2.5)",
+   0.01,
+   0.995,
+   5613.97119
+  ],
+  [
+   1.005,
+   "Spread: P\u00e1fos FC (-2.5)",
+   0.01,
+   0.995,
+   4685.9386
+  ],
+  [
+   1.006,
+   "Spread: FK Jablonec (-2.5)",
+   0.007,
+   0.999,
+   4232.36399
+  ],
+  [
+   1.006,
+   "Spread: Inter Club d'Escaldes (-2.5)",
+   0.007,
+   0.999,
+   3715.01448
+  ],
+  [
+   1.007,
+   "Spread: Kuopion PS (-2.5)",
+   0.014,
+   0.993,
+   1250.65993
+  ],
+  [
+   1.008,
+   "Exact Score: Bologna FC 1909 3 - 4 FC Internazionale Milano?",
+   0.012,
+   0.996,
+   1647.788
+  ],
+  [
+   1.009,
+   "Spread: Aarhus GF (-3.5)",
+   0.01,
+   0.999,
+   2992.66859
+  ],
+  [
+   1.009,
+   "Spread: FK Kauno \u017dalgiris (-1.5)",
+   0.011,
+   0.998,
+   4441.87661
+  ],
+  [
+   1.01,
+   "Will Ethereum hit $4k by March 31, 2027?",
+   0.23,
+   0.78,
+   15065.7676
+  ],
+  [
+   1.014,
+   "Will Z.ai be the #3 AI Lab at the end of October 2026 (Style",
+   0.016,
+   0.998,
+   898.35584
+  ],
+  [
+   1.015,
+   "Spread: FC Porto (-3.5)",
+   0.016,
+   0.999,
+   16082.87278
+  ],
+  [
+   1.016,
+   "Spread: KF Egnatia Rrogozhin\u00eb (-3.5)",
+   0.017,
+   0.999,
+   3082.56175
+  ],
+  [
+   1.016,
+   "Spread: P\u00e1fos FC (-3.5)",
+   0.017,
+   0.999,
+   1842.93167
+  ],
+  [
+   1.017,
+   "Spread: Paris Saint-Germain FC (-5.5)",
+   0.018,
+   0.999,
+   11139.58408
+  ],
+  [
+   1.018,
+   "Spread: Austin FC (-3.5)",
+   0.019,
+   0.999,
+   3732.97991
+  ],
+  [
+   1.018,
+   "Spread: Fenerbah\u00e7e SK (-3.5)",
+   0.019,
+   0.999,
+   35405.75338
+  ]
+ ]
+}
