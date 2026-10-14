@@ -1,0 +1,1 @@
+cron scan 20261014T1230Z: 500 mkts, 0 brackets, true min-ask floor 1.0010 (Traian Basescu RO PM @1.0010, Slovan Bratislava -3.5 @1.0030); 70 two-sided / 430 not bracketable; <=1.005 n8 <=1.010 n11 <=1.020 n16 <=1.050 n20 <1.000 n0. Task-script near-miss block still asks[0] artifact (always 0). Floor unchanged vs 12:12Z.

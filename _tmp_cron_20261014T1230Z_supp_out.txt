@@ -1,0 +1,19 @@
+mkts=500 two_sided=70 not_bracketable=430 scan=49.7s
+le1000: n=0
+le1005: n=8
+le1010: n=11
+le1020: n=16
+le1050: n=20
+--- floor (min all-asks) top 12 ---
+  1.0010 | Y@0.002 N@0.999 | liq $44103 | Will Traian Basescu be the next Prime Minister of Romania?
+  1.0030 | Y@0.004 N@0.999 | liq $38704 | Spread: ŠK Slovan Bratislava (-3.5)
+  1.0040 | Y@0.005 N@0.999 | liq $5715 | Spread: Austin FC (-3.5)
+  1.0040 | Y@0.008 N@0.996 | liq $7688 | Spread: Sporting Kansas City (-2.5)
+  1.0040 | Y@0.005 N@0.999 | liq $5690 | Spread: Sporting Kansas City (-3.5)
+  1.0040 | Y@0.005 N@0.999 | liq $4694 | Spread: SC União Torreense (-3.5)
+  1.0040 | Y@0.008 N@0.996 | liq $6766 | Spread: MH Hapoel Be'er Sheva (-2.5)
+  1.0050 | Y@0.010 N@0.995 | liq $7672 | Spread: Lillestrøm SK (-2.5)
+  1.0060 | Y@0.007 N@0.999 | liq $3347 | Spread: Inter Club d'Escaldes (-2.5)
+  1.0070 | Y@0.015 N@0.992 | liq $3692 | Spread: KF Egnatia Rrogozhinë (-2.5)
+  1.0090 | Y@0.010 N@0.999 | liq $4526 | Spread: New York City FC (-3.5)
+  1.0090 | Y@0.010 N@0.999 | liq $33763 | Spread: Fenerbahçe SK (-3.5)
