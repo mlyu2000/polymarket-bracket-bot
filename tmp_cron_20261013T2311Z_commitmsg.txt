@@ -1,0 +1,1 @@
+cron scan 20261013T2311Z: 500 mkts, 0 brackets, floor 1.0030 (5 mkt <=1.005), 73 two-sided (85.4ot bracketable)

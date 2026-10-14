@@ -1,0 +1,9 @@
+cron scan 2026-10-14T05:15Z: 0 brackets / 500 markets
+
+- Verbatim user script: 0 brackets, 0 near-misses (near-miss block uses
+  asks[0] = worst ask under DESC sort -> structurally always 0; known artifact)
+- Supplementary min(all asks): true floor 1.0030 (unchanged from 10-14 04:05Z)
+  AS Roma -3.5 (Y@0.015 N@0.988, liq 18.8k); ŠK Slovan Bratislava -2.5/-3.5
+  also @1.0030
+- Tiers: <=1.050 n52, <=1.020 n34, <=1.010 n20
+- 65 two-sided / 435 ask-only / 0 missing book (matches 10-14 04:05Z run)

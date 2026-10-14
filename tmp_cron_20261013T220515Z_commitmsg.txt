@@ -1,0 +1,8 @@
+cron scan 20261013T220515Z: 500 mkts, 0 brackets, floor 1.0040 (5 mkt <=1.005), 73 two-sided (85.4% not bracketable)
+
+- Verbatim scan (asks[0]): 500 markets, 55.5s, 0 brackets, 0 near-misses (asks[0] artifact)
+- True floor (min all asks): 1.0040 (Slovan -3.5 Y@0.005 N@0.999)
+- Tiers: <=1.005 n=5, <=1.010 n=19, <=1.020 n=40, <=1.030 n=46
+- Structural: 73 two-sided / 418 yes_only / 0 no_only / 9 empty => 85.4% not bracketable
+- Median two-sided min-ask total: 1.020 (prior run 1.030)
+- Tracked: US unemployment >=6.0% 2026 active, Y min-ask 0.0040 (25 asks), N 0.9980, true floor 1.0020

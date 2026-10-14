@@ -1,0 +1,24 @@
+{
+  "ts": "20261014T113055Z",
+  "markets": 500,
+  "brackets": 0,
+  "true_min_ask_floor": 1.0010,
+  "floor_market": "Spread: ŠK Slovan Bratislava (-2.5)",
+  "two_sided": 73,
+  "not_bracketable": 427,
+  "buckets": {"<=1.050": 57, "<=1.020": 34, "<=1.010": 16, "<1.000": 0},
+  "top12": [
+    [1.0010, "Spread: ŠK Slovan Bratislava (-2.5)", 0.009, 0.992, 46150],
+    [1.0010, "Will Traian Basescu be the next Prime Minister of Romania", 0.002, 0.999, 34512],
+    [1.0040, "Spread: Sporting Kansas City (-2.5)", 0.008, 0.996, 7869],
+    [1.0090, "Hang Seng (HSI) Up or Down on October 14?", 0.010, 0.999, 9],
+    [1.0090, "Ostrovskyi Pavlo vs. Efimov Oleh", 0.010, 0.999, 300],
+    [1.0090, "Spread: Aarhus GF (-3.5)", 0.010, 0.999, 2778],
+    [1.0090, "Spread: HNK Hajduk Split (-2.5)", 0.010, 0.999, 3206],
+    [1.0090, "Spread: KF Egnatia Rrogozhinë (-2.5)", 0.010, 0.999, 2974],
+    [1.0100, "Spread: FC Porto (-3.5)", 0.012, 0.998, 40558],
+    [1.0100, "Spread: Fenerbahçe SK (-3.5)", 0.012, 0.998, 38625],
+    [1.0100, "Spread: K. Sint-Truidense VV (-1.5)", 0.530, 0.480, 8222],
+    [1.0100, "Spread: Lillestrøm SK (-2.5)", 0.012, 0.998, 6212]
+  ]
+}

@@ -1,0 +1,16 @@
+Scan: 500 markets in 63.0s | two-sided: 66 (86.8% not bracketable)
+TRUE FLOOR (min-ask both sides): 1.0010
+BRACKETS (sum<1.00): 0
+Bands: {1.001: 1, 1.002: 1, 1.003: 2, 1.004: 7, 1.005: 7, 1.01: 19, 1.015: 23, 1.02: 35, 1.03: 44, 1.05: 55}
+Top 10 floors:
+  1.0010 | Y@0.0100 (20 asks) N@0.9910 (1 asks) | liq 3227 | Spread: KF Egnatia Rrogozhinë (-2.5)
+  1.0030 | Y@0.0040 (24 asks) N@0.9990 (1 asks) | liq 19088 | Spread: ŠK Slovan Bratislava (-3.5)
+  1.0040 | Y@0.0050 (16 asks) N@0.9990 (1 asks) | liq 4565 | Spread: Lillestrøm SK (-3.5)
+  1.0040 | Y@0.0050 (15 asks) N@0.9990 (1 asks) | liq 4801 | Spread: SC União Torreense (-3.5)
+  1.0040 | Y@0.0090 (47 asks) N@0.9950 (5 asks) | liq 8416 | Spread: Sporting Kansas City (-2.5)
+  1.0040 | Y@0.0050 (40 asks) N@0.9990 (1 asks) | liq 4380 | Spread: Sporting Kansas City (-3.5)
+  1.0040 | Y@0.0090 (36 asks) N@0.9950 (5 asks) | liq 22242 | Spread: ŠK Slovan Bratislava (-2.5)
+  1.0070 | Y@0.0150 (22 asks) N@0.9920 (5 asks) | liq 18774 | Spread: AS Roma (-3.5)
+  1.0080 | Y@0.0100 (15 asks) N@0.9980 (2 asks) | liq 3187 | Spread: HNK Hajduk Split (-2.5)
+  1.0090 | Y@0.0100 (11 asks) N@0.9990 (1 asks) | liq 2325 | Spread: Aarhus GF (-3.5)
+saved runs/_tmp_cron_20261014T040525Z_supp_data.json
