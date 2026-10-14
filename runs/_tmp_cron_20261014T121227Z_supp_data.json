@@ -1,0 +1,355 @@
+{
+ "floor": [
+  [
+   1.001,
+   "Will Traian Basescu be the next Prime Minister of Romania?",
+   0.002,
+   0.999,
+   41979.94242
+  ],
+  [
+   1.004,
+   "Spread: Austin FC (-3.5)",
+   0.005,
+   0.999,
+   5715.32186
+  ],
+  [
+   1.004,
+   "Spread: MH Hapoel Be'er Sheva (-2.5)",
+   0.008,
+   0.996,
+   6891.14248
+  ],
+  [
+   1.004,
+   "Spread: SC Uni\u00e3o Torreense (-3.5)",
+   0.005,
+   0.999,
+   4404.51904
+  ],
+  [
+   1.004,
+   "Spread: Sporting Kansas City (-2.5)",
+   0.008,
+   0.996,
+   7877.28402
+  ],
+  [
+   1.004,
+   "Spread: Sporting Kansas City (-3.5)",
+   0.005,
+   0.999,
+   5838.16736
+  ],
+  [
+   1.004,
+   "Spread: \u0160K Slovan Bratislava (-3.5)",
+   0.005,
+   0.999,
+   16253.49511
+  ],
+  [
+   1.005,
+   "Spread: Lillestr\u00f8m SK (-2.5)",
+   0.01,
+   0.995,
+   6720.91004
+  ],
+  [
+   1.006,
+   "Spread: Inter Club d'Escaldes (-2.5)",
+   0.007,
+   0.999,
+   3495.3333
+  ],
+  [
+   1.006,
+   "Spread: KF Egnatia Rrogozhin\u00eb (-2.5)",
+   0.014,
+   0.992,
+   3842.52968
+  ],
+  [
+   1.007,
+   "Spread: Fenerbah\u00e7e SK (-3.5)",
+   0.008,
+   0.999,
+   34361.21168
+  ],
+  [
+   1.007,
+   "Spread: HNK Hajduk Split (-2.5)",
+   0.021,
+   0.986,
+   3403.56538
+  ],
+  [
+   1.009,
+   "Hang Seng (HSI) Up or Down on October 14?",
+   0.01,
+   0.999,
+   9.1294
+  ],
+  [
+   1.009,
+   "Ostrovskyi Pavlo vs. Efimov Oleh",
+   0.01,
+   0.999,
+   299.81
+  ],
+  [
+   1.009,
+   "Spread: Aarhus GF (-3.5)",
+   0.01,
+   0.999,
+   2780.58199
+  ],
+  [
+   1.009,
+   "Spread: KKS Lech Pozna\u0144 (-3.5)",
+   0.01,
+   0.999,
+   3665.66829
+  ],
+  [
+   1.009,
+   "Spread: Lillestr\u00f8m SK (-3.5)",
+   0.01,
+   0.999,
+   4560.22982
+  ],
+  [
+   1.009,
+   "Spread: New York City FC (-3.5)",
+   0.01,
+   0.999,
+   4674.57422
+  ],
+  [
+   1.01,
+   "Manchester City FC vs. Paris Saint-Germain FC: O/U 2.5",
+   0.68,
+   0.33,
+   158069.9794
+  ],
+  [
+   1.01,
+   "Spread: K. Sint-Truidense VV (-1.5)",
+   0.53,
+   0.48,
+   8220.7647
+  ],
+  [
+   1.01,
+   "Will Mar\u00eda Corina Machado enter Venezuela by December 31?",
+   0.31,
+   0.7,
+   32465.3725
+  ],
+  [
+   1.011,
+   "Spread: FC Porto (-3.5)",
+   0.012,
+   0.999,
+   16910.83131
+  ],
+  [
+   1.012,
+   "Spread: Kuopion PS (-2.5)",
+   0.013,
+   0.999,
+   760.33959
+  ],
+  [
+   1.014,
+   "Spread: FC Viktoria Plze\u0148 (-3.5)",
+   0.015,
+   0.999,
+   4538.89862
+  ],
+  [
+   1.016,
+   "Will Z.ai be the #3 AI Lab at the end of October 2026 (Style",
+   0.018,
+   0.998,
+   605.24616
+  ],
+  [
+   1.017,
+   "Spread: FK Kauno \u017dalgiris (-1.5)",
+   0.019,
+   0.998,
+   3091.93911
+  ],
+  [
+   1.018,
+   "Spread: FC Thun (-2.5)",
+   0.019,
+   0.999,
+   3700.3155
+  ],
+  [
+   1.018,
+   "Spread: HNK Hajduk Split (-3.5)",
+   0.019,
+   0.999,
+   2837.4425
+  ],
+  [
+   1.018,
+   "Spread: KF Egnatia Rrogozhin\u00eb (-3.5)",
+   0.019,
+   0.999,
+   2845.94719
+  ],
+  [
+   1.018,
+   "Spread: Lincoln Red Imps FC (-2.5)",
+   0.019,
+   0.999,
+   3908.59108
+  ],
+  [
+   1.018,
+   "Spread: P\u00e1fos FC (-2.5)",
+   0.019,
+   0.999,
+   3278.64652
+  ],
+  [
+   1.018,
+   "Spread: P\u00e1fos FC (-3.5)",
+   0.019,
+   0.999,
+   2786.97479
+  ],
+  [
+   1.018,
+   "Spread: Universitatea Craiova CS (-3.5)",
+   0.019,
+   0.999,
+   2835.38879
+  ],
+  [
+   1.018,
+   "Will Kai Havertz (Arsenal) be the top goalscorer of the 2026",
+   0.049,
+   0.969,
+   7372.46655
+  ],
+  [
+   1.019,
+   "Spread: AS Om\u00f3noia Leukos\u00edas (-4.5)",
+   0.02,
+   0.999,
+   1118.74569
+  ],
+  [
+   1.019,
+   "Spread: Paris Saint-Germain FC (-5.5)",
+   0.02,
+   0.999,
+   9939.15169
+  ],
+  [
+   1.02,
+   "Will the highest temperature in New York City be between 64-",
+   0.29,
+   0.73,
+   2014.4634
+  ],
+  [
+   1.029,
+   "Spread: FK Bod\u00f8/Glimt (-4.5)",
+   0.03,
+   0.999,
+   657.76385
+  ],
+  [
+   1.03,
+   "FC Lugano vs. FK Crvena zvezda: O/U 2.5",
+   0.58,
+   0.45,
+   10110.7731
+  ],
+  [
+   1.03,
+   "Nyiregyhaza Spartacus FC vs. Budapest Honved FC: O/U 2.5",
+   0.58,
+   0.45,
+   2648.5291
+  ],
+  [
+   1.03,
+   "Washington State vs. Oregon State: O/U 51.5",
+   0.54,
+   0.49,
+   14749.3396
+  ],
+  [
+   1.03,
+   "Will Feyenoord finish as runner-up in the 2026-27 UEFA Champ",
+   0.032,
+   0.998,
+   185.09082
+  ],
+  [
+   1.033,
+   "Will Fernando Mendoza have 3,500+ passing yards in the 2026-",
+   0.058,
+   0.975,
+   412.56075
+  ],
+  [
+   1.038,
+   "Spread: San Jose Earthquakes (-5.5)",
+   0.039,
+   0.999,
+   229.76809
+  ],
+  [
+   1.039,
+   "Spread: New England Revolution (-5.5)",
+   0.04,
+   0.999,
+   211.68489
+  ],
+  [
+   1.04,
+   "Will Bijan Robinson have 1,000+ rushing yards in the 2026-27",
+   0.89,
+   0.15,
+   255.807
+  ],
+  [
+   1.041,
+   "Will Atlanta Falcons finish the 2026-27 NFL regular season w",
+   0.042,
+   0.999,
+   193.56598
+  ],
+  [
+   1.041,
+   "Will Carolina Panthers finish the 2026-27 NFL regular season",
+   0.042,
+   0.999,
+   192.87276
+  ],
+  [
+   1.041,
+   "Will Denver Broncos finish the 2026-27 NFL regular season wi",
+   0.042,
+   0.999,
+   195.34085
+  ],
+  [
+   1.041,
+   "Will Jacksonville Jaguars finish the 2026-27 NFL regular sea",
+   0.042,
+   0.999,
+   193.20257
+  ]
+ ],
+ "two_sided": 74
+}
