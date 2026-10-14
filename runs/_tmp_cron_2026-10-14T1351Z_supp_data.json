@@ -1,0 +1,113 @@
+{
+ "ts": "2026-10-14T13:51:47.745715+00:00",
+ "floor": 1.001,
+ "two_sided": 70,
+ "total": 500,
+ "top": [
+  {
+   "q": "Will Traian Basescu be the next Prime Minister of Romania?",
+   "yes": 0.002,
+   "no": 0.999,
+   "sum": 1.001,
+   "liq": 48436.89124
+  },
+  {
+   "q": "Spread: \u0160K Slovan Bratislava (-3.5)",
+   "yes": 0.004,
+   "no": 0.999,
+   "sum": 1.003,
+   "liq": 41005.76267
+  },
+  {
+   "q": "Spread: Austin FC (-3.5)",
+   "yes": 0.005,
+   "no": 0.999,
+   "sum": 1.004,
+   "liq": 7450.19461
+  },
+  {
+   "q": "Spread: Sporting Kansas City (-3.5)",
+   "yes": 0.005,
+   "no": 0.999,
+   "sum": 1.004,
+   "liq": 6029.01822
+  },
+  {
+   "q": "Spread: SC Uni\u00e3o Torreense (-3.5)",
+   "yes": 0.005,
+   "no": 0.999,
+   "sum": 1.004,
+   "liq": 5046.17624
+  },
+  {
+   "q": "Spread: Lillestr\u00f8m SK (-3.5)",
+   "yes": 0.005,
+   "no": 0.999,
+   "sum": 1.004,
+   "liq": 5930.68132
+  },
+  {
+   "q": "Spread: MH Hapoel Be'er Sheva (-2.5)",
+   "yes": 0.008,
+   "no": 0.996,
+   "sum": 1.004,
+   "liq": 7108.77629
+  },
+  {
+   "q": "Spread: Sporting Kansas City (-2.5)",
+   "yes": 0.009,
+   "no": 0.996,
+   "sum": 1.005,
+   "liq": 8116.71636
+  },
+  {
+   "q": "Spread: Lillestr\u00f8m SK (-2.5)",
+   "yes": 0.01,
+   "no": 0.995,
+   "sum": 1.005,
+   "liq": 9263.7563
+  },
+  {
+   "q": "Spread: Inter Club d'Escaldes (-2.5)",
+   "yes": 0.007,
+   "no": 0.999,
+   "sum": 1.006,
+   "liq": 3717.27951
+  },
+  {
+   "q": "Spread: KF Egnatia Rrogozhin\u00eb (-2.5)",
+   "yes": 0.014,
+   "no": 0.992,
+   "sum": 1.006,
+   "liq": 3731.17548
+  },
+  {
+   "q": "Exact Score: Bologna FC 1909 3 - 4 FC Internazionale Milano?",
+   "yes": 0.012,
+   "no": 0.996,
+   "sum": 1.008,
+   "liq": 1642.24
+  },
+  {
+   "q": "Spread: New York City FC (-3.5)",
+   "yes": 0.01,
+   "no": 0.999,
+   "sum": 1.009,
+   "liq": 4872.55231
+  },
+  {
+   "q": "Spread: Fenerbah\u00e7e SK (-3.5)",
+   "yes": 0.01,
+   "no": 0.999,
+   "sum": 1.009,
+   "liq": 40786.62365
+  },
+  {
+   "q": "Spread: KKS Lech Pozna\u0144 (-3.5)",
+   "yes": 0.01,
+   "no": 0.999,
+   "sum": 1.009,
+   "liq": 5060.65929
+  }
+ ]
+}
