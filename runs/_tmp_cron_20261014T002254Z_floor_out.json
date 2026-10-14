@@ -1,0 +1,89 @@
+{
+ "ts": "2026-10-14T00:23:49Z",
+ "markets": 500,
+ "scan_time": 54.5,
+ "brackets_min_ask": 0,
+ "two_sided": 75,
+ "yes_only": 417,
+ "no_only": 0,
+ "empty_both": 8,
+ "not_bracketable_pct": 85.0,
+ "floor_top10": [
+  {
+   "total": 1.004,
+   "yes": 0.005,
+   "no": 0.999,
+   "liq": 3841.14909,
+   "q": "Spread: Lillestrøm SK (-3.5)"
+  },
+  {
+   "total": 1.004,
+   "yes": 0.005,
+   "no": 0.999,
+   "liq": 3636.78031,
+   "q": "Spread: SC União Torreense (-3.5)"
+  },
+  {
+   "total": 1.004,
+   "yes": 0.009,
+   "no": 0.995,
+   "liq": 6277.97523,
+   "q": "Spread: Sporting Kansas City (-2.5)"
+  },
+  {
+   "total": 1.004,
+   "yes": 0.009,
+   "no": 0.995,
+   "liq": 21890.31234,
+   "q": "Spread: ŠK Slovan Bratislava (-2.5)"
+  },
+  {
+   "total": 1.004,
+   "yes": 0.005,
+   "no": 0.999,
+   "liq": 17405.16111,
+   "q": "Spread: ŠK Slovan Bratislava (-3.5)"
+  },
+  {
+   "total": 1.005,
+   "yes": 0.006,
+   "no": 0.999,
+   "liq": 2026.57589,
+   "q": "Exact Score: Venezia FC 4 - 3 SSC Napoli?"
+  },
+  {
+   "total": 1.007,
+   "yes": 0.008,
+   "no": 0.999,
+   "liq": 3061.84306,
+   "q": "Exact Score: Bologna FC 1909 4 - 2 FC Internazionale Milano?"
+  },
+  {
+   "total": 1.007,
+   "yes": 0.008,
+   "no": 0.999,
+   "liq": 3077.26948,
+   "q": "Exact Score: Venezia FC 4 - 2 SSC Napoli?"
+  },
+  {
+   "total": 1.008,
+   "yes": 0.01,
+   "no": 0.998,
+   "liq": 2465.36929,
+   "q": "Spread: HNK Hajduk Split (-2.5)"
+  },
+  {
+   "total": 1.009,
+   "yes": 0.01,
+   "no": 0.999,
+   "liq": 1776.36519,
+   "q": "Spread: Aarhus GF (-3.5)"
+  }
+ ],
+ "floor_history_bands": {
+  "le_1_005": 6,
+  "le_1_010": 21,
+  "le_1_020": 39,
+  "le_1_050": 57
+ }
+}
