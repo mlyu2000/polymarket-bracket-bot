@@ -1,0 +1,84 @@
+{
+  "ts": "20261014T095625Z",
+  "markets": 500,
+  "two_sided": 73,
+  "not_bracketable": 427,
+  "brackets": [],
+  "floor_top10": [
+    {
+      "sum": 1.001,
+      "q": "Will Traian Basescu be the next Prime Minister of Romania?",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 33461.06277
+    },
+    {
+      "sum": 1.003,
+      "q": "Spread: \u0160K Slovan Bratislava (-2.5)",
+      "yes": 0.009,
+      "no": 0.994,
+      "liq": 48038.47339
+    },
+    {
+      "sum": 1.003,
+      "q": "Spread: \u0160K Slovan Bratislava (-3.5)",
+      "yes": 0.004,
+      "no": 0.999,
+      "liq": 41128.84089
+    },
+    {
+      "sum": 1.003,
+      "q": "Spread: Lillestr\u00f8m SK (-3.5)",
+      "yes": 0.005,
+      "no": 0.998,
+      "liq": 5723.95767
+    },
+    {
+      "sum": 1.004,
+      "q": "Spread: Austin FC (-3.5)",
+      "yes": 0.005,
+      "no": 0.999,
+      "liq": 5118.07208
+    },
+    {
+      "sum": 1.004,
+      "q": "Spread: Sporting Kansas City (-3.5)",
+      "yes": 0.005,
+      "no": 0.999,
+      "liq": 4810.38731
+    },
+    {
+      "sum": 1.004,
+      "q": "Spread: SC Uni\u00e3o Torreense (-3.5)",
+      "yes": 0.005,
+      "no": 0.999,
+      "liq": 5626.38619
+    },
+    {
+      "sum": 1.005,
+      "q": "Will the price of Ethereum be above $2,200 on October 16?",
+      "yes": 0.99,
+      "no": 0.015,
+      "liq": 28820.33786
+    },
+    {
+      "sum": 1.005,
+      "q": "Spread: Sporting Kansas City (-2.5)",
+      "yes": 0.009,
+      "no": 0.996,
+      "liq": 7280.26271
+    },
+    {
+      "sum": 1.008,
+      "q": "Spread: HNK Hajduk Split (-2.5)",
+      "yes": 0.01,
+      "no": 0.998,
+      "liq": 3142.6608
+    }
+  ],
+  "counts": {
+    "le_1.050": 60,
+    "le_1.020": 34,
+    "le_1.010": 20
+  }
+}
