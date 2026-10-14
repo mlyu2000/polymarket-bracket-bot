@@ -1,0 +1,81 @@
+{
+  "ts": "2026-10-14T21:50:18Z",
+  "markets": 500,
+  "with_both_asks": 70,
+  "no_ge_099": 54,
+  "no_lt_099_bracketable": 16,
+  "bracketable_min_total": 1.003,
+  "top_bracketable": [
+    {
+      "total": 1.003,
+      "q": "Will the price of Bitcoin be above $72,000 on October 1",
+      "yes": 0.993,
+      "no": 0.01,
+      "liq": 10820.3787
+    },
+    {
+      "total": 1.004,
+      "q": "Spread: KF Egnatia Rrogozhin\u00eb (-2.5)",
+      "yes": 0.015,
+      "no": 0.989,
+      "liq": 3458.18063
+    },
+    {
+      "total": 1.01,
+      "q": "SC Freiburg vs. FK Jablonec: O/U 3.5",
+      "yes": 0.42,
+      "no": 0.59,
+      "liq": 13914.1186
+    },
+    {
+      "total": 1.01,
+      "q": "Spread: K. Sint-Truidense VV (-1.5)",
+      "yes": 0.54,
+      "no": 0.47,
+      "liq": 13349.4088
+    },
+    {
+      "total": 1.01,
+      "q": "Will RC Deportivo A Coru\u00f1a win on 2026-10-24?",
+      "yes": 0.07,
+      "no": 0.94,
+      "liq": 7006.5506
+    },
+    {
+      "total": 1.016,
+      "q": "Will the next governing coalition of Romania include PS",
+      "yes": 0.066,
+      "no": 0.95,
+      "liq": 11567.82564
+    },
+    {
+      "total": 1.02,
+      "q": "D.C. United SC leading at halftime?",
+      "yes": 0.35,
+      "no": 0.67,
+      "liq": 27347.8294
+    },
+    {
+      "total": 1.02,
+      "q": "Washington State vs. Oregon State: O/U 51.5",
+      "yes": 0.53,
+      "no": 0.49,
+      "liq": 18460.1136
+    },
+    {
+      "total": 1.029,
+      "q": "Will Fernando Mendoza have 3,500+ passing yards in the ",
+      "yes": 0.06,
+      "no": 0.969,
+      "liq": 352.59489
+    },
+    {
+      "total": 1.03,
+      "q": "Nyiregyhaza Spartacus FC vs. Budapest Honved FC: O/U 2.",
+      "yes": 0.58,
+      "no": 0.45,
+      "liq": 1148.0743
+    }
+  ],
+  "scan_time": 56.3
+}
