@@ -1,0 +1,87 @@
+{
+  "ts": "20261014T200225Z",
+  "markets": 500,
+  "two_sided": 73,
+  "yes_only": 419,
+  "no_only": 0,
+  "scan_time": 52.7,
+  "floor": [
+    1.004,
+    "Spread: Lillestr\u00f8m SK (-2.5)",
+    0.01,
+    0.994,
+    6332.28869
+  ],
+  "top10": [
+    [
+      1.004,
+      "Spread: Lillestr\u00f8m SK (-2.5)",
+      0.01,
+      0.994,
+      6332.28869
+    ],
+    [
+      1.004,
+      "Spread: Sporting Kansas City (-2.5)",
+      0.008,
+      0.996,
+      9485.55468
+    ],
+    [
+      1.005,
+      "Exact Score: AFC Bournemouth 4 - 3 SK Puntigamer Sturm Graz?",
+      0.009,
+      0.996,
+      12220.74716
+    ],
+    [
+      1.005,
+      "Spread: FC Thun (-2.5)",
+      0.009,
+      0.996,
+      4570.33802
+    ],
+    [
+      1.005,
+      "Spread: FK Jablonec (-2.5)",
+      0.007,
+      0.998,
+      4149.14735
+    ],
+    [
+      1.005,
+      "Spread: MH Hapoel Be'er Sheva (-2.5)",
+      0.009,
+      0.996,
+      5289.18963
+    ],
+    [
+      1.005,
+      "Spread: P\u00e1fos FC (-2.5)",
+      0.01,
+      0.995,
+      4898.97793
+    ],
+    [
+      1.006,
+      "Exact Score: Venezia FC 4 - 1 SSC Napoli?",
+      0.009,
+      0.997,
+      15990.20391
+    ],
+    [
+      1.006,
+      "Spread: Aston Villa FC (-5.5)",
+      0.062,
+      0.944,
+      5377.54519
+    ],
+    [
+      1.006,
+      "Spread: KF Egnatia Rrogozhin\u00eb (-2.5)",
+      0.014,
+      0.992,
+      4412.65828
+    ]
+  ]
+}
