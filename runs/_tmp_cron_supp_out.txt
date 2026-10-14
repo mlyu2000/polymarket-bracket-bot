@@ -1,0 +1,21 @@
+=== verbatim task-script scan (2026-10-14 ~03:36Z) ===
+🔍 Scan: 500 markets in 54.8s
+✅ BRACKETS (sum < 1.00): 0
+📊 Near-misses (≤1.005): 0   [ARTIFACT: near-miss block uses asks[0] = worst ask, DESC sort → structurally always 0]
+
+=== supplementary min(all asks) floor scan ===
+scan_time=53.6s markets=500
+two_sided=71 yes_or_no_only=420 empty=9
+true_min_ask_floor=1.0010
+<=1.050: 58 | <=1.020: 35 | <=1.010: 15
+--- top 8 closest ---
+  1.0010 | Y@0.010 N@0.991 | liq=2291.25019 | Spread: KF Egnatia Rrogozhinë (-2.5)
+  1.0030 | Y@0.009 N@0.994 | liq=21918.18344 | Spread: ŠK Slovan Bratislava (-2.5)
+  1.0030 | Y@0.004 N@0.999 | liq=19063.32434 | Spread: ŠK Slovan Bratislava (-3.5)
+  1.0040 | Y@0.009 N@0.995 | liq=8414.97484 | Spread: Sporting Kansas City (-2.5)
+  1.0050 | Y@0.006 N@0.999 | liq=2058.82389 | Exact Score: Venezia FC 4 - 3 SSC Napoli?
+  1.0080 | Y@0.010 N@0.998 | liq=3654.03198 | Spread: Lillestrøm SK (-3.5)
+  1.0090 | Y@0.010 N@0.999 | liq=1839.96519 | Spread: Aarhus GF (-3.5)
+  1.0090 | Y@0.010 N@0.999 | liq=3953.25641 | Spread: Austin FC (-3.5)
+--- bracketable (floor < 1.00) ---
+count=0
