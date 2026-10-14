@@ -1,0 +1,188 @@
+{
+  "ts_utc": "20261014T1310Z",
+  "scan_time_s": 54.9,
+  "markets": 500,
+  "two_sided": 67,
+  "brackets_lt_1": 0,
+  "n_le_1005": 9,
+  "n_le_1010": 17,
+  "n_le_1020": 31,
+  "n_le_1050": 53,
+  "floor": [
+    {
+      "total": 1.001,
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 44159.56668,
+      "q": "Will Traian Basescu be the next Prime Minister of Romania?"
+    },
+    {
+      "total": 1.003,
+      "yes": 0.004,
+      "no": 0.999,
+      "liq": 39961.70321,
+      "q": "Spread: \u0160K Slovan Bratislava (-3.5)"
+    },
+    {
+      "total": 1.004,
+      "yes": 0.005,
+      "no": 0.999,
+      "liq": 7195.42911,
+      "q": "Spread: Austin FC (-3.5)"
+    },
+    {
+      "total": 1.004,
+      "yes": 0.008,
+      "no": 0.996,
+      "liq": 8035.7165,
+      "q": "Spread: Sporting Kansas City (-2.5)"
+    },
+    {
+      "total": 1.004,
+      "yes": 0.005,
+      "no": 0.999,
+      "liq": 5993.36599,
+      "q": "Spread: Sporting Kansas City (-3.5)"
+    },
+    {
+      "total": 1.004,
+      "yes": 0.005,
+      "no": 0.999,
+      "liq": 4836.82504,
+      "q": "Spread: SC Uni\u00e3o Torreense (-3.5)"
+    },
+    {
+      "total": 1.004,
+      "yes": 0.01,
+      "no": 0.994,
+      "liq": 6978.3213,
+      "q": "Spread: Lillestr\u00f8m SK (-2.5)"
+    },
+    {
+      "total": 1.004,
+      "yes": 0.005,
+      "no": 0.999,
+      "liq": 4732.15112,
+      "q": "Spread: Lillestr\u00f8m SK (-3.5)"
+    },
+    {
+      "total": 1.004,
+      "yes": 0.008,
+      "no": 0.996,
+      "liq": 6875.05199,
+      "q": "Spread: MH Hapoel Be'er Sheva (-2.5)"
+    },
+    {
+      "total": 1.006,
+      "yes": 0.007,
+      "no": 0.999,
+      "liq": 3459.7443,
+      "q": "Spread: Inter Club d'Escaldes (-2.5)"
+    },
+    {
+      "total": 1.006,
+      "yes": 0.014,
+      "no": 0.992,
+      "liq": 3694.21348,
+      "q": "Spread: KF Egnatia Rrogozhin\u00eb (-2.5)"
+    },
+    {
+      "total": 1.009,
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 4848.57131,
+      "q": "Spread: New York City FC (-3.5)"
+    },
+    {
+      "total": 1.009,
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 18580.28894,
+      "q": "Spread: Fenerbah\u00e7e SK (-3.5)"
+    },
+    {
+      "total": 1.009,
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 3641.86529,
+      "q": "Spread: KKS Lech Pozna\u0144 (-3.5)"
+    },
+    {
+      "total": 1.009,
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 2780.08099,
+      "q": "Spread: Aarhus GF (-3.5)"
+    },
+    {
+      "total": 1.01,
+      "yes": 0.31,
+      "no": 0.7,
+      "liq": 34812.6306,
+      "q": "Will Mar\u00eda Corina Machado enter Venezuela by December 31?"
+    },
+    {
+      "total": 1.01,
+      "yes": 0.53,
+      "no": 0.48,
+      "liq": 7674.6147,
+      "q": "Spread: K. Sint-Truidense VV (-1.5)"
+    },
+    {
+      "total": 1.012,
+      "yes": 0.013,
+      "no": 0.999,
+      "liq": 1335.09694,
+      "q": "Spread: Kuopion PS (-2.5)"
+    },
+    {
+      "total": 1.013,
+      "yes": 0.014,
+      "no": 0.999,
+      "liq": 42236.21473,
+      "q": "Spread: FC Porto (-3.5)"
+    },
+    {
+      "total": 1.014,
+      "yes": 0.015,
+      "no": 0.999,
+      "liq": 4829.07962,
+      "q": "Spread: FC Viktoria Plze\u0148 (-3.5)"
+    },
+    {
+      "total": 1.016,
+      "yes": 0.018,
+      "no": 0.998,
+      "liq": 794.89774,
+      "q": "Will Z.ai be the #3 AI Lab at the end of October 2026 (Style"
+    },
+    {
+      "total": 1.017,
+      "yes": 0.019,
+      "no": 0.998,
+      "liq": 3062.11211,
+      "q": "Spread: FK Kauno \u017dalgiris (-1.5)"
+    },
+    {
+      "total": 1.018,
+      "yes": 0.049,
+      "no": 0.969,
+      "liq": 7480.48261,
+      "q": "Will Kai Havertz (Arsenal) be the top goalscorer of the 2026"
+    },
+    {
+      "total": 1.018,
+      "yes": 0.019,
+      "no": 0.999,
+      "liq": 3140.51759,
+      "q": "Spread: FC Thun (-2.5)"
+    },
+    {
+      "total": 1.018,
+      "yes": 0.019,
+      "no": 0.999,
+      "liq": 2851.32,
+      "q": "Spread: P\u00e1fos FC (-2.5)"
+    }
+  ]
+}
