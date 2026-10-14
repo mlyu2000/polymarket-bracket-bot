@@ -1,0 +1,97 @@
+{
+ "ts": "2026-10-14 18:04Z",
+ "scan_time": 53.5,
+ "markets": 500,
+ "two_sided": 76,
+ "not_bracketable": 424,
+ "no_book": 0,
+ "tiers": {
+  "le1.050": 53,
+  "le1.020": 35,
+  "le1.010": 22,
+  "le1.005": 9,
+  "lt1.000": 0
+ },
+ "top10": [
+  {
+   "q": "Will Elon Musk post 460-479 tweets from October 13 to October 20, 2026?",
+   "slug": "elon-musk-of-tweets-october-13-october-20-2026-460-479",
+   "min_yes": 0.007,
+   "min_no": 0.994,
+   "sum": 1.001,
+   "liq": 5140.6168
+  },
+  {
+   "q": "Spread: Sporting Kansas City (-2.5)",
+   "slug": "mls-nas-skc-2026-10-14-spread-away-2pt5",
+   "min_yes": 0.008,
+   "min_no": 0.995,
+   "sum": 1.003,
+   "liq": 6062.23354
+  },
+  {
+   "q": "Spread: \u0160K Slovan Bratislava (-3.5)",
+   "slug": "ucl-sba-stu-2026-10-14-spread-home-3pt5",
+   "min_yes": 0.005,
+   "min_no": 0.998,
+   "sum": 1.003,
+   "liq": 38049.93535
+  },
+  {
+   "q": "Spread: FC Thun (-2.5)",
+   "slug": "col-twe-thu-2026-10-15-spread-away-2pt5",
+   "min_yes": 0.007,
+   "min_no": 0.997,
+   "sum": 1.004,
+   "liq": 4349.27559
+  },
+  {
+   "q": "Spread: Lillestr\u00f8m SK (-2.5)",
+   "slug": "uel-spp-lil1-2026-10-15-spread-away-2pt5",
+   "min_yes": 0.01,
+   "min_no": 0.995,
+   "sum": 1.005,
+   "liq": 7295.17221
+  },
+  {
+   "q": "Spread: MH Hapoel Be'er Sheva (-2.5)",
+   "slug": "uel-az-hbs-2026-10-15-spread-away-2pt5",
+   "min_yes": 0.009,
+   "min_no": 0.996,
+   "sum": 1.005,
+   "liq": 6038.96813
+  },
+  {
+   "q": "Spread: P\u00e1fos FC (-2.5)",
+   "slug": "col-ata-paf-2026-10-15-spread-away-2pt5",
+   "min_yes": 0.01,
+   "min_no": 0.995,
+   "sum": 1.005,
+   "liq": 4690.4966
+  },
+  {
+   "q": "Spread: Kuopion PS (-2.5)",
+   "slug": "col-kps-tra-2026-10-15-spread-home-2pt5",
+   "min_yes": 0.013,
+   "min_no": 0.992,
+   "sum": 1.005,
+   "liq": 2141.04513
+  },
+  {
+   "q": "Exact Score: Venezia FC 4 - 3 SSC Napoli?",
+   "slug": "sea-ven-nap-2026-10-17-exact-score-4-3",
+   "min_yes": 0.007,
+   "min_no": 0.998,
+   "sum": 1.005,
+   "liq": 21119.38396
+  },
+  {
+   "q": "Spread: FC Porto (-3.5)",
+   "slug": "ucl-bet-por-2026-10-14-spread-away-3pt5",
+   "min_yes": 0.01,
+   "min_no": 0.996,
+   "sum": 1.006,
+   "liq": 17503.46082
+  }
+ ]
+}
