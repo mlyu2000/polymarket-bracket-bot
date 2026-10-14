@@ -1,0 +1,28 @@
+{
+  "run_ts": "2026-10-14T11:57:32Z",
+  "cron": "polymarket-bracket-scan",
+  "markets": 500,
+  "brackets_sum_lt_1": 0,
+  "near_misses_cron_script_le_1_005": 0,
+  "near_miss_block_note": "cron inline block uses asks[0] (worst ask, DESC sort) => always reports 0; artifact, ignore",
+  "supp_minask_scan": {
+    "two_sided": 74,
+    "true_minask_floor": 1.0010,
+    "counts": {"le_1_050": 60, "le_1_020": 36, "le_1_010": 21, "lt_1_000": 0},
+    "top5": [
+      [1.0010, "Spread: HNK Hajduk Split (-2.5)", 0.010, 0.991, 3633.31331],
+      [1.0010, "Will Traian Basescu be the next Prime Minister of Roman", 0.002, 0.999, 42363.38247],
+      [1.0020, "Spread: KF Egnatia Rrogozhin\u0117 (-2.5)", 0.010, 0.992, 3800.20468],
+      [1.0030, "Spread: \u0160K Slovan Bratislava (-3.5)", 0.004, 0.999, 38868.40867],
+      [1.0040, "Spread: Austin FC (-3.5)", 0.005, 0.999, 5854.15486]
+    ]
+  },
+  "delta_vs_2026_10_14_04_05Z": {
+    "true_minask_floor": "1.0010 -> 1.0010 (unchanged)",
+    "le_1_050": "55 -> 60",
+    "le_1_020": "35 -> 36",
+    "le_1_010": "19 -> 21",
+    "two_sided": "66 -> 74",
+    "brackets": "0 -> 0"
+  }
+}
