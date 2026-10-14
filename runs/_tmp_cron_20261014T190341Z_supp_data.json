@@ -1,0 +1,87 @@
+{
+  "ts": "20261014T190341Z",
+  "markets": 500,
+  "two_sided": 67,
+  "yes_only": 424,
+  "no_only": 1,
+  "scan_time": 54.3,
+  "floor": [
+    1.004,
+    "Spread: FC Thun (-2.5)",
+    0.008,
+    0.996,
+    4282.04459
+  ],
+  "top10": [
+    [
+      1.004,
+      "Spread: FC Thun (-2.5)",
+      0.008,
+      0.996,
+      4282.04459
+    ],
+    [
+      1.004,
+      "Spread: Sporting Kansas City (-2.5)",
+      0.008,
+      0.996,
+      9950.67518
+    ],
+    [
+      1.005,
+      "Spread: Kuopion PS (-2.5)",
+      0.013,
+      0.992,
+      2139.96412
+    ],
+    [
+      1.005,
+      "Spread: Lillestr\u00f8m SK (-2.5)",
+      0.01,
+      0.995,
+      6234.97911
+    ],
+    [
+      1.005,
+      "Spread: MH Hapoel Be'er Sheva (-2.5)",
+      0.009,
+      0.996,
+      6054.41773
+    ],
+    [
+      1.005,
+      "Spread: P\u00e1fos FC (-2.5)",
+      0.01,
+      0.995,
+      4660.3626
+    ],
+    [
+      1.006,
+      "Exact Score: AFC Bournemouth 4 - 3 SK Puntigamer Sturm Graz?",
+      0.01,
+      0.996,
+      11907.00203
+    ],
+    [
+      1.006,
+      "Exact Score: Venezia FC 4 - 1 SSC Napoli?",
+      0.009,
+      0.997,
+      15387.50091
+    ],
+    [
+      1.006,
+      "Spread: KF Egnatia Rrogozhin\u00eb (-2.5)",
+      0.014,
+      0.992,
+      4033.16998
+    ],
+    [
+      1.008,
+      "Spread: Inter Club d'Escaldes (-2.5)",
+      0.009,
+      0.999,
+      3889.73686
+    ]
+  ]
+}
