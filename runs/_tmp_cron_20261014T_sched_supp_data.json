@@ -1,0 +1,192 @@
+{
+  "ts": "2026-10-14T12:40:59Z",
+  "markets": 500,
+  "with_both_asks": 70,
+  "two_sided": 70,
+  "not_bracketable": 430,
+  "tiers": {
+    "<=1.050": 55,
+    "<=1.020": 35,
+    "<=1.010": 19,
+    "<=1.005": 8,
+    "<1.000": 0
+  },
+  "top25": [
+    {
+      "total": 1.001,
+      "q": "Will Traian Basescu be the next Prime Minister of Roman",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 27555.5538
+    },
+    {
+      "total": 1.004,
+      "q": "Spread: Austin FC (-3.5)",
+      "yes": 0.005,
+      "no": 0.999,
+      "liq": 5715.32186
+    },
+    {
+      "total": 1.004,
+      "q": "Spread: MH Hapoel Be'er Sheva (-2.5)",
+      "yes": 0.008,
+      "no": 0.996,
+      "liq": 6735.9594
+    },
+    {
+      "total": 1.004,
+      "q": "Spread: SC Uni\u00e3o Torreense (-3.5)",
+      "yes": 0.005,
+      "no": 0.999,
+      "liq": 4693.73504
+    },
+    {
+      "total": 1.004,
+      "q": "Spread: Sporting Kansas City (-2.5)",
+      "yes": 0.008,
+      "no": 0.996,
+      "liq": 7732.18908
+    },
+    {
+      "total": 1.004,
+      "q": "Spread: Sporting Kansas City (-3.5)",
+      "yes": 0.005,
+      "no": 0.999,
+      "liq": 5645.88839
+    },
+    {
+      "total": 1.004,
+      "q": "Spread: \u0160K Slovan Bratislava (-3.5)",
+      "yes": 0.005,
+      "no": 0.999,
+      "liq": 16149.93547
+    },
+    {
+      "total": 1.005,
+      "q": "Spread: Lillestr\u00f8m SK (-2.5)",
+      "yes": 0.01,
+      "no": 0.995,
+      "liq": 7672.31088
+    },
+    {
+      "total": 1.006,
+      "q": "Spread: Inter Club d'Escaldes (-2.5)",
+      "yes": 0.007,
+      "no": 0.999,
+      "liq": 3327.4173
+    },
+    {
+      "total": 1.007,
+      "q": "Spread: KF Egnatia Rrogozhin\u00eb (-2.5)",
+      "yes": 0.015,
+      "no": 0.992,
+      "liq": 3692.65548
+    },
+    {
+      "total": 1.008,
+      "q": "Spread: Lillestr\u00f8m SK (-3.5)",
+      "yes": 0.01,
+      "no": 0.998,
+      "liq": 4570.66512
+    },
+    {
+      "total": 1.009,
+      "q": "Spread: Aarhus GF (-3.5)",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 2786.59399
+    },
+    {
+      "total": 1.009,
+      "q": "Spread: Fenerbah\u00e7e SK (-3.5)",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 18279.82951
+    },
+    {
+      "total": 1.009,
+      "q": "Spread: KKS Lech Pozna\u0144 (-3.5)",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 3519.11829
+    },
+    {
+      "total": 1.009,
+      "q": "Spread: New York City FC (-3.5)",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 4495.7424
+    },
+    {
+      "total": 1.01,
+      "q": "FC Lugano vs. FK Crvena zvezda: O/U 2.5",
+      "yes": 0.57,
+      "no": 0.44,
+      "liq": 10675.4446
+    },
+    {
+      "total": 1.01,
+      "q": "Manchester City FC vs. Paris Saint-Germain FC: O/U 2.5",
+      "yes": 0.68,
+      "no": 0.33,
+      "liq": 234872.9451
+    },
+    {
+      "total": 1.01,
+      "q": "Spread: K. Sint-Truidense VV (-1.5)",
+      "yes": 0.53,
+      "no": 0.48,
+      "liq": 8198.3747
+    },
+    {
+      "total": 1.01,
+      "q": "Will Mar\u00eda Corina Machado enter Venezuela by December 3",
+      "yes": 0.31,
+      "no": 0.7,
+      "liq": 32239.3873
+    },
+    {
+      "total": 1.012,
+      "q": "Spread: Kuopion PS (-2.5)",
+      "yes": 0.013,
+      "no": 0.999,
+      "liq": 606.11699
+    },
+    {
+      "total": 1.013,
+      "q": "Spread: FC Porto (-3.5)",
+      "yes": 0.014,
+      "no": 0.999,
+      "liq": 42763.49633
+    },
+    {
+      "total": 1.014,
+      "q": "Spread: FC Viktoria Plze\u0148 (-3.5)",
+      "yes": 0.015,
+      "no": 0.999,
+      "liq": 4676.63762
+    },
+    {
+      "total": 1.014,
+      "q": "Will Z.ai be the #3 AI Lab at the end of October 2026 (",
+      "yes": 0.016,
+      "no": 0.998,
+      "liq": 732.03657
+    },
+    {
+      "total": 1.018,
+      "q": "Spread: FK Kauno \u017dalgiris (-1.5)",
+      "yes": 0.02,
+      "no": 0.998,
+      "liq": 2907.91341
+    },
+    {
+      "total": 1.018,
+      "q": "Spread: HNK Hajduk Split (-3.5)",
+      "yes": 0.019,
+      "no": 0.999,
+      "liq": 2829.2329
+    }
+  ],
+  "scan_time": 53.5
+}
