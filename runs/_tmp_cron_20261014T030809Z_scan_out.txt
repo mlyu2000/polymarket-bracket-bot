@@ -1,0 +1,18 @@
+🔍 Scan: 500 markets in 53.7s
+✅ BRACKETS (sum < 1.00): 0
+📊 Near-misses (≤1.005, asks[0] artifact): 0
+--- true min-ask analysis (min(all asks), detector.py method) ---
+true min-ask floor: 1.0030 (Spread: ŠK Slovan Bratislava (-2.5))
+bands <1.000: 0 | <1.005: 3 | <=1.010: 14 | <1.015: 20 | <1.020: 30
+median 2-sided min-ask sum: 1.020 | 69 two-sided / 423 yes-only / 8 empty
+true brackets (sum<1.00): 0 | near [1.00,1.005]: 3
+  1.0030 | Yes@0.009 No@0.994 | liq=16838 sz=29 | Spread: ŠK Slovan Bratislava (-2.5)
+  1.0030 | Yes@0.004 No@0.999 | liq=13995 sz=18 | Spread: ŠK Slovan Bratislava (-3.5)
+  1.0040 | Yes@0.009 No@0.995 | liq=7666 sz=12 | Spread: Sporting Kansas City (-2.5)
+  1.0070 | Yes@0.009 No@0.998 | liq=3653 sz=8 | Spread: Lillestrøm SK (-3.5)
+  1.0080 | Yes@0.010 No@0.998 | liq=12527 sz=29 | Spread: Fenerbahçe SK (-3.5)
+<=1.010 list: n=14 (see _tmp_cron_20261014T030809Z_supp_out.txt for full list;
+top: Slovan Bratislava -2.5 @1.0030, Slovan Bratislava -3.5 @1.0030, Sporting KC -2.5 @1.0040,
+Lillestrøm SK -3.5 @1.0070, Fenerbahçe -3.5 @1.0080, Hajduk Split -2.5 @1.0080,
+Aarhus GF -3.5 / Austin FC -3.5 / Jablonec -2.5 / Egnatia -2.5,-3.5 / NYCFC -3.5 /
+Torreense -3.5 / Sporting KC -3.5 @1.0090, Machado Dec-31 @1.0100)

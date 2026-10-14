@@ -1,0 +1,28 @@
+Scan: 500 markets in 52.8s
+BRACKETS (detector): 0
+true min-ask floor: 1.0030 (Spread: ŠK Slovan Bratislava (-2.5))
+bands <1.000: 0 | <1.005: 3 | <=1.010: 14 | <1.015: 20 | <1.020: 30
+median 2-sided min-ask sum: 1.02 | 69 two-sided / 423 yes-only / 8 empty
+true brackets (sum<1.00): 0 | near [1.00,1.005]: 3
+  1.0030 | Yes@0.009 No@0.994 | liq=16838 sz=29 | Spread: ŠK Slovan Bratislava (-2.5)
+  1.0030 | Yes@0.004 No@0.999 | liq=13995 sz=18 | Spread: ŠK Slovan Bratislava (-3.5)
+  1.0040 | Yes@0.009 No@0.995 | liq=7666 sz=12 | Spread: Sporting Kansas City (-2.5)
+  1.0070 | Yes@0.009 No@0.998 | liq=3653 sz=8 | Spread: Lillestrøm SK (-3.5)
+  1.0080 | Yes@0.010 No@0.998 | liq=12527 sz=29 | Spread: Fenerbahçe SK (-3.5)
+--- <=1.010 list ---
+  1.0030 | Yes@0.009 No@0.994 | liq=16838 sz=29 | Spread: ŠK Slovan Bratislava (-2.5)
+  1.0030 | Yes@0.004 No@0.999 | liq=13995 sz=18 | Spread: ŠK Slovan Bratislava (-3.5)
+  1.0040 | Yes@0.009 No@0.995 | liq=7666 sz=12 | Spread: Sporting Kansas City (-2.5)
+  1.0070 | Yes@0.009 No@0.998 | liq=3653 sz=8 | Spread: Lillestrøm SK (-3.5)
+  1.0080 | Yes@0.010 No@0.998 | liq=12527 sz=29 | Spread: Fenerbahçe SK (-3.5)
+  1.0080 | Yes@0.010 No@0.998 | liq=2158 sz=9 | Spread: HNK Hajduk Split (-2.5)
+  1.0090 | Yes@0.010 No@0.999 | liq=1828 sz=9 | Spread: Aarhus GF (-3.5)
+  1.0090 | Yes@0.010 No@0.999 | liq=3667 sz=466 | Spread: Austin FC (-3.5)
+  1.0090 | Yes@0.010 No@0.999 | liq=2373 sz=9 | Spread: FK Jablonec (-2.5)
+  1.0090 | Yes@0.010 No@0.999 | liq=2521 sz=9 | Spread: KF Egnatia Rrogozhinë (-2.5)
+  1.0090 | Yes@0.010 No@0.999 | liq=615 sz=9 | Spread: KF Egnatia Rrogozhinë (-3.5)
+  1.0090 | Yes@0.010 No@0.999 | liq=2240 sz=5 | Spread: New York City FC (-3.5)
+  1.0090 | Yes@0.010 No@0.999 | liq=2945 sz=820 | Spread: SC União Torreense (-3.5)
+  1.0090 | Yes@0.010 No@0.999 | liq=3646 sz=460 | Spread: Sporting Kansas City (-3.5)
+  1.0100 | Yes@0.310 No@0.700 | liq=33322 sz=54 | Will María Corina Machado enter Venezuela by December 31?
+data persisted -> runs/_tmp_cron_20261014T030809Z_supp_data.json
