@@ -1,0 +1,156 @@
+{
+  "scan_utc": "2026-10-14T11:16:08Z",
+  "markets": 500,
+  "two_sided": 75,
+  "not_bracketable": 425,
+  "brackets": 0,
+  "true_min_ask_floor": 1.001,
+  "buckets": {
+    "<=1.050": 59,
+    "<=1.020": 37,
+    "<=1.010": 22
+  },
+  "note": "task-script near-miss block uses asks[0] (worst ask, DESC sort) -> always 0; this file uses min(all asks)",
+  "top": [
+    {
+      "total": 1.001,
+      "q": "Will Traian Basescu be the next Prime Minister of Romania?",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 32773.93744
+    },
+    {
+      "total": 1.002,
+      "q": "Spread: \u0160K Slovan Bratislava (-2.5)",
+      "yes": 0.009,
+      "no": 0.993,
+      "liq": 46150.33125
+    },
+    {
+      "total": 1.003,
+      "q": "Spread: \u0160K Slovan Bratislava (-3.5)",
+      "yes": 0.004,
+      "no": 0.999,
+      "liq": 38952.95225
+    },
+    {
+      "total": 1.004,
+      "q": "Spread: Austin FC (-3.5)",
+      "yes": 0.005,
+      "no": 0.999,
+      "liq": 5723.62876
+    },
+    {
+      "total": 1.004,
+      "q": "Spread: Sporting Kansas City (-2.5)",
+      "yes": 0.008,
+      "no": 0.996,
+      "liq": 7793.21446
+    },
+    {
+      "total": 1.004,
+      "q": "Spread: Sporting Kansas City (-3.5)",
+      "yes": 0.005,
+      "no": 0.999,
+      "liq": 5778.01306
+    },
+    {
+      "total": 1.004,
+      "q": "Spread: SC Uni\u00e3o Torreense (-3.5)",
+      "yes": 0.005,
+      "no": 0.999,
+      "liq": 4879.49414
+    },
+    {
+      "total": 1.007,
+      "q": "Spread: Lillestr\u00f8m SK (-3.5)",
+      "yes": 0.009,
+      "no": 0.998,
+      "liq": 4777.40363
+    },
+    {
+      "total": 1.008,
+      "q": "Spread: HNK Hajduk Split (-2.5)",
+      "yes": 0.01,
+      "no": 0.998,
+      "liq": 2836.96125
+    },
+    {
+      "total": 1.008,
+      "q": "Spread: Fenerbah\u00e7e SK (-3.5)",
+      "yes": 0.01,
+      "no": 0.998,
+      "liq": 38567.17158
+    },
+    {
+      "total": 1.008,
+      "q": "Spread: MH Hapoel Be'er Sheva (-2.5)",
+      "yes": 0.01,
+      "no": 0.998,
+      "liq": 6581.22651
+    },
+    {
+      "total": 1.009,
+      "q": "Ostrovskyi Pavlo vs. Efimov Oleh",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 299.81
+    },
+    {
+      "total": 1.009,
+      "q": "Hang Seng (HSI) Up or Down on October 14?",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 9.1294
+    },
+    {
+      "total": 1.009,
+      "q": "Spread: New York City FC (-3.5)",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 4566.37788
+    },
+    {
+      "total": 1.009,
+      "q": "Spread: KKS Lech Pozna\u0144 (-3.5)",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 3879.58744
+    },
+    {
+      "total": 1.009,
+      "q": "Spread: Aarhus GF (-3.5)",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 2778.07699
+    },
+    {
+      "total": 1.009,
+      "q": "Spread: KF Egnatia Rrogozhin\u00eb (-2.5)",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 3455.71314
+    },
+    {
+      "total": 1.01,
+      "q": "KKS Lech Pozna\u0144 vs. Bayer 04 Leverkusen: O/U 4.5",
+      "yes": 0.25,
+      "no": 0.76,
+      "liq": 21676.7264
+    },
+    {
+      "total": 1.01,
+      "q": "Spread: Timberwolves (-2.5)",
+      "yes": 0.47,
+      "no": 0.54,
+      "liq": 10231.2309
+    },
+    {
+      "total": 1.01,
+      "q": "Will Mar\u00eda Corina Machado enter Venezuela by December 31?",
+      "yes": 0.31,
+      "no": 0.7,
+      "liq": 33631.342
+    }
+  ]
+}
