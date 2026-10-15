@@ -1,0 +1,95 @@
+{
+  "ts": "20261015T2108Z",
+  "markets": 500,
+  "scan_time": 62.3,
+  "priced": 62,
+  "with_both_asks": 62,
+  "one_sided": 438,
+  "two_sided": 62,
+  "not_bracketable": 438,
+  "brackets": [],
+  "lt1": 0,
+  "tiers": {
+    "lt1.000": 0,
+    "le1.005": 7,
+    "le1.010": 16,
+    "le1.020": 21,
+    "le1.050": 46
+  },
+  "floor": 1.001,
+  "floor_q": "Will Christine Lagarde win the 2027 French presidential election?",
+  "leader_liq": 146051.64026,
+  "top25": [
+    [
+      1.001,
+      "Will Christine Lagarde win the 2027 French presidential election?",
+      0.009,
+      0.992,
+      146051.64026
+    ],
+    [
+      1.002,
+      "Will the highest temperature in Sao Paulo be 31\u00b0C or higher on October 16?",
+      0.003,
+      0.999,
+      4716.76561
+    ],
+    [
+      1.003,
+      "Spread: FC Thun (-4.5)",
+      0.004,
+      0.999,
+      12964.7818
+    ],
+    [
+      1.003,
+      "Spread: FC Thun (-5.5)",
+      0.004,
+      0.999,
+      19431.82784
+    ],
+    [
+      1.003,
+      "Spread: FK Jablonec (-4.5)",
+      0.004,
+      0.999,
+      19208.74326
+    ],
+    [
+      1.004,
+      "Bitcoin more valuable than any company before 2027?",
+      0.018,
+      0.986,
+      3934.17625
+    ],
+    [
+      1.005,
+      "Spread: FK Jablonec (-5.5)",
+      0.006,
+      0.999,
+      14108.75962
+    ],
+    [
+      1.007,
+      "Spread: FC K\u00f8benhavn (-4.5)",
+      0.008,
+      0.999,
+      18263.78826
+    ],
+    [
+      1.007,
+      "Exact Score: Manchester City FC 0 - 2 Ipswich Town FC?",
+      0.012,
+      0.995,
+      11659.5975
+    ],
+    [
+      1.008,
+      "Will Democrats win 12 or more House seats in Pennsylvania in the 2026 midterm el",
+      0.029,
+      0.979,
+      14784.03539
+    ]
+  ],
+  "note": "BoJ 50+ bps cuts market no longer in active-500 universe (0 japan/bps hits); Lagarde 2027 now sole floor holder"
+}
