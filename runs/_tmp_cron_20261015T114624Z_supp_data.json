@@ -1,0 +1,173 @@
+{
+ "ts_utc": "2026-10-15T11:48:46.185869+00:00",
+ "markets": 500,
+ "two_sided": 67,
+ "one_sided": 433,
+ "tiers": {
+  "lt1.000": 0,
+  "le1.005": 7,
+  "le1.010": 12,
+  "le1.020": 20,
+  "le1.050": 51
+ },
+ "brackets_below_098": [],
+ "floor_top10": [
+  {
+   "sum": 1.001,
+   "q": "Bank of Japan decreases interest rates by 50+ bps after the ",
+   "yes": 0.002,
+   "no": 0.999,
+   "liq": 936.58898
+  },
+  {
+   "sum": 1.002,
+   "q": "Spread: FK Jablonec (-2.5)",
+   "yes": 0.004,
+   "no": 0.998,
+   "liq": 16304.4651
+  },
+  {
+   "sum": 1.002,
+   "q": "Spread: Lincoln Red Imps FC (-2.5)",
+   "yes": 0.003,
+   "no": 0.999,
+   "liq": 5640.74214
+  },
+  {
+   "sum": 1.004,
+   "q": "Spread: Lillestrøm SK (-2.5)",
+   "yes": 0.01,
+   "no": 0.994,
+   "liq": 23930.51369
+  },
+  {
+   "sum": 1.005,
+   "q": "Spread: FC Thun (-2.5)",
+   "yes": 0.009,
+   "no": 0.996,
+   "liq": 6216.79649
+  },
+  {
+   "sum": 1.005,
+   "q": "Spread: Inter Club d'Escaldes (-2.5)",
+   "yes": 0.008,
+   "no": 0.997,
+   "liq": 5945.45565
+  },
+  {
+   "sum": 1.005,
+   "q": "Spread: Páfos FC (-2.5)",
+   "yes": 0.008,
+   "no": 0.997,
+   "liq": 15417.39244
+  },
+  {
+   "sum": 1.006,
+   "q": "Spread: SC União Torreense (-3.5)",
+   "yes": 0.007,
+   "no": 0.999,
+   "liq": 4278.11374
+  },
+  {
+   "sum": 1.007,
+   "q": "Spread: KF Egnatia Rrogozhinë (-2.5)",
+   "yes": 0.015,
+   "no": 0.992,
+   "liq": 16897.32348
+  },
+  {
+   "sum": 1.008,
+   "q": "Will Democrats win 12 or more House seats in Pennsylvania in",
+   "yes": 0.029,
+   "no": 0.979,
+   "liq": 13890.16274
+  }
+ ],
+ "liquid_near_floor": [
+  {
+   "sum": 1.009,
+   "q": "Spread: MH Hapoel Be'er Sheva (-2.5)",
+   "yes": 0.017,
+   "no": 0.992,
+   "liq": 38163.666
+  },
+  {
+   "sum": 1.004,
+   "q": "Spread: Lillestrøm SK (-2.5)",
+   "yes": 0.01,
+   "no": 0.994,
+   "liq": 23930.51369
+  },
+  {
+   "sum": 1.007,
+   "q": "Spread: KF Egnatia Rrogozhinë (-2.5)",
+   "yes": 0.015,
+   "no": 0.992,
+   "liq": 16897.32348
+  },
+  {
+   "sum": 1.002,
+   "q": "Spread: FK Jablonec (-2.5)",
+   "yes": 0.004,
+   "no": 0.998,
+   "liq": 16304.4651
+  },
+  {
+   "sum": 1.005,
+   "q": "Spread: Páfos FC (-2.5)",
+   "yes": 0.008,
+   "no": 0.997,
+   "liq": 15417.39244
+  },
+  {
+   "sum": 1.008,
+   "q": "Will Democrats win 12 or more House seats in Pennsylvania in",
+   "yes": 0.029,
+   "no": 0.979,
+   "liq": 13890.16274
+  },
+  {
+   "sum": 1.005,
+   "q": "Spread: FC Thun (-2.5)",
+   "yes": 0.009,
+   "no": 0.996,
+   "liq": 6216.79649
+  },
+  {
+   "sum": 1.005,
+   "q": "Spread: Inter Club d'Escaldes (-2.5)",
+   "yes": 0.008,
+   "no": 0.997,
+   "liq": 5945.45565
+  },
+  {
+   "sum": 1.002,
+   "q": "Spread: Lincoln Red Imps FC (-2.5)",
+   "yes": 0.003,
+   "no": 0.999,
+   "liq": 5640.74214
+  },
+  {
+   "sum": 1.006,
+   "q": "Spread: SC União Torreense (-3.5)",
+   "yes": 0.007,
+   "no": 0.999,
+   "liq": 4278.11374
+  },
+  {
+   "sum": 1.01,
+   "q": "Spread: Lillestrøm SK (-3.5)",
+   "yes": 0.012,
+   "no": 0.998,
+   "liq": 3419.76545
+  },
+  {
+   "sum": 1.001,
+   "q": "Bank of Japan decreases interest rates by 50+ bps after the ",
+   "yes": 0.002,
+   "no": 0.999,
+   "liq": 936.58898
+  }
+ ],
+ "scan_time": 60.58356523513794
+}
