@@ -1,0 +1,190 @@
+{
+  "ts": "20261015T1744Z",
+  "markets": 500,
+  "priced": 71,
+  "scan_time": 54.4,
+  "one_sided": 429,
+  "tiers": {
+    "1.005": 9,
+    "1.01": 18,
+    "1.02": 23,
+    "1.05": 47
+  },
+  "top25": [
+    {
+      "total": 1.001,
+      "q": "Bank of Japan decreases interest rates by 50+ bps after the ",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 1142.3
+    },
+    {
+      "total": 1.002,
+      "q": "Spread: FK Jablonec (-2.5)",
+      "yes": 0.003,
+      "no": 0.999,
+      "liq": 15038.1
+    },
+    {
+      "total": 1.002,
+      "q": "Spread: Lincoln Red Imps FC (-2.5)",
+      "yes": 0.003,
+      "no": 0.999,
+      "liq": 15473.4
+    },
+    {
+      "total": 1.004,
+      "q": "Bitcoin more valuable than any company before 2027?",
+      "yes": 0.018,
+      "no": 0.986,
+      "liq": 3928.9
+    },
+    {
+      "total": 1.004,
+      "q": "Spread: FC Thun (-2.5)",
+      "yes": 0.007,
+      "no": 0.997,
+      "liq": 17736.5
+    },
+    {
+      "total": 1.004,
+      "q": "Spread: FC Thun (-3.5)",
+      "yes": 0.005,
+      "no": 0.999,
+      "liq": 13295.2
+    },
+    {
+      "total": 1.004,
+      "q": "Spread: FK Jablonec (-3.5)",
+      "yes": 0.005,
+      "no": 0.999,
+      "liq": 6251.8
+    },
+    {
+      "total": 1.004,
+      "q": "Spread: P\u00e1fos FC (-3.5)",
+      "yes": 0.005,
+      "no": 0.999,
+      "liq": 5571.1
+    },
+    {
+      "total": 1.005,
+      "q": "Spread: P\u00e1fos FC (-2.5)",
+      "yes": 0.01,
+      "no": 0.995,
+      "liq": 10416.4
+    },
+    {
+      "total": 1.007,
+      "q": "Will the Republicans win the Tennessee governor race in 2026",
+      "yes": 0.939,
+      "no": 0.068,
+      "liq": 41633.8
+    },
+    {
+      "total": 1.008,
+      "q": "Spread: Inter Club d'Escaldes (-2.5)",
+      "yes": 0.009,
+      "no": 0.999,
+      "liq": 22990.4
+    },
+    {
+      "total": 1.008,
+      "q": "Will Democrats win 12 or more House seats in Pennsylvania in",
+      "yes": 0.029,
+      "no": 0.979,
+      "liq": 14252.6
+    },
+    {
+      "total": 1.009,
+      "q": "Spread: FC Viktoria Plze\u0148 (-3.5)",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 26482.3
+    },
+    {
+      "total": 1.009,
+      "q": "Will the highest temperature in Cape Town be 18\u00b0C on October",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 3229.0
+    },
+    {
+      "total": 1.01,
+      "q": "Mansfield Town FC vs. Oxford United FC: O/U 4.5",
+      "yes": 0.18,
+      "no": 0.83,
+      "liq": 46136.8
+    },
+    {
+      "total": 1.01,
+      "q": "Nyiregyhaza Spartacus FC vs. Budapest Honved FC: O/U 2.5",
+      "yes": 0.57,
+      "no": 0.44,
+      "liq": 2212.6
+    },
+    {
+      "total": 1.01,
+      "q": "Spread: FK Kauno \u017dalgiris (-1.5)",
+      "yes": 0.011,
+      "no": 0.999,
+      "liq": 16709.5
+    },
+    {
+      "total": 1.01,
+      "q": "Will the highest temperature in Miami be between 84-85\u00b0F on ",
+      "yes": 0.12,
+      "no": 0.89,
+      "liq": 4180.8
+    },
+    {
+      "total": 1.017,
+      "q": "Will Z.ai be the #3 AI Lab at the end of October 2026 (Style",
+      "yes": 0.019,
+      "no": 0.998,
+      "liq": 444.0
+    },
+    {
+      "total": 1.02,
+      "q": "Mansfield Town FC vs. Oxford United FC: Both Teams to Score",
+      "yes": 0.62,
+      "no": 0.4,
+      "liq": 28040.1
+    },
+    {
+      "total": 1.02,
+      "q": "Spread: Atalanta BC (-3.5)",
+      "yes": 0.18,
+      "no": 0.84,
+      "liq": 20605.3
+    },
+    {
+      "total": 1.02,
+      "q": "Sukhothai FC vs. Rasisalai United: O/U 2.5",
+      "yes": 0.55,
+      "no": 0.47,
+      "liq": 1216.3
+    },
+    {
+      "total": 1.02,
+      "q": "Washington State vs. Oregon State: O/U 51.5",
+      "yes": 0.54,
+      "no": 0.48,
+      "liq": 19230.5
+    },
+    {
+      "total": 1.03,
+      "q": "Portland Timbers vs. Colorado Rapids SC: Colorado Rapids SC ",
+      "yes": 0.78,
+      "no": 0.25,
+      "liq": 3747.8
+    },
+    {
+      "total": 1.03,
+      "q": "Qingdao Hainiu FC vs. Liaoning Tieren FC: Qingdao Hainiu FC ",
+      "yes": 0.68,
+      "no": 0.35,
+      "liq": 3221.3
+    }
+  ]
+}
