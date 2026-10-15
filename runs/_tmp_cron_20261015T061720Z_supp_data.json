@@ -1,0 +1,192 @@
+{
+  "ts": "2026-10-15T06:18:37Z",
+  "markets": 500,
+  "with_both_asks": 57,
+  "two_sided": 57,
+  "not_bracketable": 443,
+  "tiers": {
+    "<=1.050": 42,
+    "<=1.020": 22,
+    "<=1.010": 11,
+    "<=1.005": 7,
+    "<1.000": 0
+  },
+  "top25": [
+    {
+      "total": 1.003,
+      "q": "Spread: FK Jablonec (-2.5)",
+      "yes": 0.005,
+      "no": 0.998,
+      "liq": 5269.6572
+    },
+    {
+      "total": 1.003,
+      "q": "Spread: Lincoln Red Imps FC (-2.5)",
+      "yes": 0.004,
+      "no": 0.999,
+      "liq": 4190.65297
+    },
+    {
+      "total": 1.003,
+      "q": "Spread: MH Hapoel Be'er Sheva (-2.5)",
+      "yes": 0.009,
+      "no": 0.994,
+      "liq": 5577.73702
+    },
+    {
+      "total": 1.004,
+      "q": "Spread: P\u00e1fos FC (-2.5)",
+      "yes": 0.009,
+      "no": 0.995,
+      "liq": 5385.08888
+    },
+    {
+      "total": 1.005,
+      "q": "Spread: FC Thun (-2.5)",
+      "yes": 0.009,
+      "no": 0.996,
+      "liq": 4602.78322
+    },
+    {
+      "total": 1.005,
+      "q": "Spread: Inter Club d'Escaldes (-2.5)",
+      "yes": 0.009,
+      "no": 0.996,
+      "liq": 4713.35785
+    },
+    {
+      "total": 1.005,
+      "q": "Spread: Lillestr\u00f8m SK (-2.5)",
+      "yes": 0.011,
+      "no": 0.994,
+      "liq": 6984.99346
+    },
+    {
+      "total": 1.007,
+      "q": "Spread: KF Egnatia Rrogozhin\u00eb (-2.5)",
+      "yes": 0.017,
+      "no": 0.99,
+      "liq": 5784.33454
+    },
+    {
+      "total": 1.009,
+      "q": "Spread: FK Kauno \u017dalgiris (-1.5)",
+      "yes": 0.011,
+      "no": 0.998,
+      "liq": 4079.33374
+    },
+    {
+      "total": 1.01,
+      "q": "Spread: Lillestr\u00f8m SK (-3.5)",
+      "yes": 0.012,
+      "no": 0.998,
+      "liq": 3313.05152
+    },
+    {
+      "total": 1.01,
+      "q": "Will Olympique de Marseille win on 2026-10-18?",
+      "yes": 0.47,
+      "no": 0.54,
+      "liq": 20174.7796
+    },
+    {
+      "total": 1.014,
+      "q": "Spread: SC Uni\u00e3o Torreense (-3.5)",
+      "yes": 0.015,
+      "no": 0.999,
+      "liq": 1832.76442
+    },
+    {
+      "total": 1.015,
+      "q": "Will Z.ai be the #3 AI Lab at the end of October 2026 (",
+      "yes": 0.017,
+      "no": 0.998,
+      "liq": 628.83472
+    },
+    {
+      "total": 1.018,
+      "q": "Spread: HNK Hajduk Split (-3.5)",
+      "yes": 0.019,
+      "no": 0.999,
+      "liq": 3889.10808
+    },
+    {
+      "total": 1.018,
+      "q": "Spread: KF Egnatia Rrogozhin\u00eb (-3.5)",
+      "yes": 0.019,
+      "no": 0.999,
+      "liq": 4082.69463
+    },
+    {
+      "total": 1.018,
+      "q": "Spread: KKS Lech Pozna\u0144 (-3.5)",
+      "yes": 0.019,
+      "no": 0.999,
+      "liq": 3159.05312
+    },
+    {
+      "total": 1.018,
+      "q": "Spread: PFK CSKA Sofia (-3.5)",
+      "yes": 0.019,
+      "no": 0.999,
+      "liq": 3339.89342
+    },
+    {
+      "total": 1.018,
+      "q": "Spread: P\u00e1fos FC (-3.5)",
+      "yes": 0.019,
+      "no": 0.999,
+      "liq": 1761.4942
+    },
+    {
+      "total": 1.018,
+      "q": "Spread: Universitatea Craiova CS (-3.5)",
+      "yes": 0.019,
+      "no": 0.999,
+      "liq": 3107.20813
+    },
+    {
+      "total": 1.019,
+      "q": "Spread: Aarhus GF (-3.5)",
+      "yes": 0.02,
+      "no": 0.999,
+      "liq": 3859.88168
+    },
+    {
+      "total": 1.02,
+      "q": "Nyiregyhaza Spartacus FC vs. Budapest Honved FC: O/U 2.",
+      "yes": 0.57,
+      "no": 0.45,
+      "liq": 2942.6567
+    },
+    {
+      "total": 1.02,
+      "q": "Washington State vs. Oregon State: O/U 51.5",
+      "yes": 0.54,
+      "no": 0.48,
+      "liq": 16591.9372
+    },
+    {
+      "total": 1.028,
+      "q": "Spread: FC Viktoria Plze\u0148 (-3.5)",
+      "yes": 0.029,
+      "no": 0.999,
+      "liq": 3112.92758
+    },
+    {
+      "total": 1.03,
+      "q": "Qingdao Hainiu FC vs. Liaoning Tieren FC: Qingdao Haini",
+      "yes": 0.68,
+      "no": 0.35,
+      "liq": 2815.5433
+    },
+    {
+      "total": 1.03,
+      "q": "Will Feyenoord finish as runner-up in the 2026-27 UEFA ",
+      "yes": 0.033,
+      "no": 0.997,
+      "liq": 250.21437
+    }
+  ],
+  "scan_time": 76.7
+}
