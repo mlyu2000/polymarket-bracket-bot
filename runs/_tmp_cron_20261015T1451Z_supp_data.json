@@ -1,0 +1,145 @@
+{
+ "near_misses": [],
+ "diag": {
+  "min_asks": [
+   [
+    1.001,
+    "Bank of Japan decreases interest rates by 50+ bps after the ",
+    0.002,
+    0.999,
+    1341.08573
+   ],
+   [
+    1.002,
+    "Spread: Lincoln Red Imps FC (-2.5)",
+    0.003,
+    0.999,
+    15637.45655
+   ],
+   [
+    1.003,
+    "Spread: FK Jablonec (-2.5)",
+    0.004,
+    0.999,
+    16925.45578
+   ],
+   [
+    1.004,
+    "Spread: P\u00e1fos FC (-2.5)",
+    0.008,
+    0.996,
+    15606.35003
+   ],
+   [
+    1.004,
+    "Spread: FC Thun (-2.5)",
+    0.008,
+    0.996,
+    15390.45992
+   ],
+   [
+    1.004,
+    "Bitcoin more valuable than any company before 2027?",
+    0.018,
+    0.986,
+    3928.92847
+   ],
+   [
+    1.005,
+    "Spread: Lillestr\u00f8m SK (-2.5)",
+    0.011,
+    0.994,
+    36199.02119
+   ],
+   [
+    1.005,
+    "Spread: Inter Club d'Escaldes (-2.5)",
+    0.009,
+    0.996,
+    22741.24758
+   ],
+   [
+    1.005,
+    "Exact Score: Venezia FC 4 - 3 SSC Napoli?",
+    0.007,
+    0.998,
+    21907.06158
+   ],
+   [
+    1.007,
+    "Spread: KF Egnatia Rrogozhin\u00eb (-2.5)",
+    0.015,
+    0.992,
+    26133.05451
+   ],
+   [
+    1.007,
+    "Exact Score: Venezia FC 3 - 4 SSC Napoli?",
+    0.011,
+    0.996,
+    15445.12861
+   ],
+   [
+    1.007,
+    "Exact Score: Venezia FC 2 - 5 SSC Napoli?",
+    0.011,
+    0.996,
+    14692.5014
+   ]
+  ]
+ },
+ "run_ts_utc": "20261015T1451Z",
+ "markets": 500,
+ "scan_time_s": 63.4,
+ "brackets": 0,
+ "near_miss_count": 12,
+ "near_misses_top": [
+  {
+   "sum": 1.001,
+   "q": "Bank of Japan decreases interest rates by 50+ bps after the ",
+   "yes": 0.002,
+   "no": 0.999,
+   "liq": 1341.08573
+  },
+  {
+   "sum": 1.002,
+   "q": "Spread: Lincoln Red Imps FC (-2.5)",
+   "yes": 0.003,
+   "no": 0.999,
+   "liq": 15637.45655
+  },
+  {
+   "sum": 1.003,
+   "q": "Spread: FK Jablonec (-2.5)",
+   "yes": 0.004,
+   "no": 0.999,
+   "liq": 16925.45578
+  },
+  {
+   "sum": 1.004,
+   "q": "Spread: P\u00e1fos FC (-2.5)",
+   "yes": 0.008,
+   "no": 0.996,
+   "liq": 15606.35003
+  },
+  {
+   "sum": 1.004,
+   "q": "Spread: FC Thun (-2.5)",
+   "yes": 0.008,
+   "no": 0.996,
+   "liq": 15390.45992
+  }
+ ],
+ "floor": 1.001,
+ "tiers": {
+  "le1.005": 9,
+  "le1.010": 15,
+  "le1.020": 28,
+  "le1.050": 61,
+  "lt1.000": 0
+ },
+ "bracketable": 81,
+ "not_bracketable": 419,
+ "asks0_near_miss_artifact": 0,
+ "method": "min(all asks) - detector-equivalent; asks[0] is worst ask (DESC sort)"
+}
