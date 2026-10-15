@@ -1,0 +1,224 @@
+{
+  "ts": "20261015T172346Z",
+  "markets": 500,
+  "scan_time": 54.4,
+  "priced": 74,
+  "with_both_asks": 74,
+  "one_sided": 426,
+  "two_sided": 74,
+  "not_bracketable": 426,
+  "brackets": [],
+  "lt1": 0,
+  "tiers": {
+    "lt1.000": 0,
+    "le1.005": 10,
+    "le1.010": 19,
+    "le1.020": 23,
+    "le1.050": 53
+  },
+  "floor": 1.001,
+  "floor_q": "Bank of Japan decreases interest rates by 50+ bps after the ",
+  "leader_liq": 1420.2,
+  "top25": [
+    [
+      1.001,
+      "Bank of Japan decreases interest rates by 50+ bps after the ",
+      0.002,
+      0.999,
+      1420.2,
+      false
+    ],
+    [
+      1.002,
+      "Spread: FK Jablonec (-2.5)",
+      0.003,
+      0.999,
+      27799.6,
+      false
+    ],
+    [
+      1.002,
+      "Spread: Lincoln Red Imps FC (-2.5)",
+      0.003,
+      0.999,
+      6738.7,
+      false
+    ],
+    [
+      1.004,
+      "Bitcoin more valuable than any company before 2027?",
+      0.018,
+      0.986,
+      3928.9,
+      false
+    ],
+    [
+      1.004,
+      "Spread: FC Thun (-2.5)",
+      0.008,
+      0.996,
+      9773.0,
+      false
+    ],
+    [
+      1.004,
+      "Spread: FC Thun (-3.5)",
+      0.005,
+      0.999,
+      4415.9,
+      false
+    ],
+    [
+      1.004,
+      "Spread: FK Jablonec (-3.5)",
+      0.005,
+      0.999,
+      4224.9,
+      false
+    ],
+    [
+      1.004,
+      "Spread: P\u00e1fos FC (-3.5)",
+      0.005,
+      0.999,
+      5422.9,
+      false
+    ],
+    [
+      1.005,
+      "Spread: Inter Club d'Escaldes (-2.5)",
+      0.006,
+      0.999,
+      5136.4,
+      false
+    ],
+    [
+      1.005,
+      "Spread: P\u00e1fos FC (-2.5)",
+      0.01,
+      0.995,
+      10147.1,
+      false
+    ],
+    [
+      1.007,
+      "Will the Republicans win the Tennessee governor race in 2026",
+      0.939,
+      0.068,
+      43100.3,
+      false
+    ],
+    [
+      1.008,
+      "Will Democrats win 12 or more House seats in Pennsylvania in",
+      0.029,
+      0.979,
+      14360.0,
+      false
+    ],
+    [
+      1.009,
+      "Spread: FC Viktoria Plze\u0148 (-3.5)",
+      0.01,
+      0.999,
+      9335.5,
+      false
+    ],
+    [
+      1.009,
+      "Will the highest temperature in Cape Town be 18\u00b0C on October",
+      0.01,
+      0.999,
+      3481.9,
+      false
+    ],
+    [
+      1.01,
+      "Counter-Strike: PARIVISION vs BetBoom Team (BO3) - Thunderpi",
+      0.4,
+      0.61,
+      61639.0,
+      false
+    ],
+    [
+      1.01,
+      "Mansfield Town FC vs. Oxford United FC: Both Teams to Score",
+      0.61,
+      0.4,
+      26267.9,
+      false
+    ],
+    [
+      1.01,
+      "Mansfield Town FC vs. Oxford United FC: O/U 4.5",
+      0.18,
+      0.83,
+      24467.5,
+      false
+    ],
+    [
+      1.01,
+      "Spread: FK Kauno \u017dalgiris (-1.5)",
+      0.011,
+      0.999,
+      16794.8,
+      false
+    ],
+    [
+      1.01,
+      "Will the highest temperature in Miami be between 84-85\u00b0F on ",
+      0.12,
+      0.89,
+      4029.2,
+      false
+    ],
+    [
+      1.012,
+      "Spread: HNK Hajduk Split (-3.5)",
+      0.024,
+      0.988,
+      139.6,
+      false
+    ],
+    [
+      1.017,
+      "Will Z.ai be the #3 AI Lab at the end of October 2026 (Style",
+      0.019,
+      0.998,
+      465.0,
+      false
+    ],
+    [
+      1.02,
+      "Spread: Atalanta BC (-3.5)",
+      0.17,
+      0.85,
+      17841.7,
+      false
+    ],
+    [
+      1.02,
+      "Washington State vs. Oregon State: O/U 51.5",
+      0.54,
+      0.48,
+      19215.2,
+      false
+    ],
+    [
+      1.03,
+      "Auckland FC vs. Melbourne City FC: Auckland FC O/U 1.5",
+      0.38,
+      0.65,
+      2259.2,
+      false
+    ],
+    [
+      1.03,
+      "Nyiregyhaza Spartacus FC vs. Budapest Honved FC: O/U 2.5",
+      0.58,
+      0.45,
+      2158.2,
+      false
+    ]
+  ]
+}
