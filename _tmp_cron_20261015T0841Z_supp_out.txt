@@ -1,0 +1,8 @@
+Scan: 500 markets in 62.7s
+BRACKETS (sum < 1.00): 0
+Near-misses (<=1.005): 11
+  1.001 | Yes@0.002 No@0.999 | liq=824.30607 | Bank of Japan decreases interest rates by 50+ bps 
+  1.002 | Yes@0.003 No@0.999 | liq=4011.97279 | Spread: Lincoln Red Imps FC (-2.5)
+  1.003 | Yes@0.005 No@0.998 | liq=5795.06545 | Spread: FK Jablonec (-2.5)
+  1.003 | Yes@0.009 No@0.994 | liq=6207.574 | Spread: MH Hapoel Be'er Sheva (-2.5)
+  1.004 | Yes@0.006 No@0.998 | liq=21547.37289 | Exact Score: Venezia FC 4 - 3 SSC Napoli?

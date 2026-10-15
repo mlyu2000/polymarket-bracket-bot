@@ -1,0 +1,80 @@
+{
+  "ts_utc": "20261015_1049Z",
+  "markets": 500,
+  "two_sided": 75,
+  "yes_only": 419,
+  "not_bracketable_pct": 85.0,
+  "floor": 1.001,
+  "top10": [
+    {
+      "total": 1.001,
+      "q": "Bank of Japan decreases interest rates by 50+ bps after",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 1089.9435
+    },
+    {
+      "total": 1.002,
+      "q": "Spread: FK Jablonec (-2.5)",
+      "yes": 0.004,
+      "no": 0.998,
+      "liq": 15838.99917
+    },
+    {
+      "total": 1.002,
+      "q": "Spread: Lincoln Red Imps FC (-2.5)",
+      "yes": 0.003,
+      "no": 0.999,
+      "liq": 13588.94543
+    },
+    {
+      "total": 1.004,
+      "q": "Exact Score: AFC Bournemouth 4 - 3 SK Puntigamer Sturm ",
+      "yes": 0.008,
+      "no": 0.996,
+      "liq": 7136.84468
+    },
+    {
+      "total": 1.004,
+      "q": "Spread: FC Thun (-2.5)",
+      "yes": 0.008,
+      "no": 0.996,
+      "liq": 14262.36729
+    },
+    {
+      "total": 1.004,
+      "q": "Spread: Inter Club d'Escaldes (-2.5)",
+      "yes": 0.008,
+      "no": 0.996,
+      "liq": 15315.27089
+    },
+    {
+      "total": 1.004,
+      "q": "Spread: Lillestr\u00f8m SK (-2.5)",
+      "yes": 0.01,
+      "no": 0.994,
+      "liq": 23215.88649
+    },
+    {
+      "total": 1.005,
+      "q": "Exact Score: Bologna FC 1909 4 - 2 FC Internazionale Mi",
+      "yes": 0.008,
+      "no": 0.997,
+      "liq": 18188.20703
+    },
+    {
+      "total": 1.005,
+      "q": "Exact Score: Brentford FC 4 - 4 Liverpool FC?",
+      "yes": 0.007,
+      "no": 0.998,
+      "liq": 22502.66978
+    },
+    {
+      "total": 1.005,
+      "q": "Spread: KF Egnatia Rrogozhin\u00eb (-2.5)",
+      "yes": 0.016,
+      "no": 0.989,
+      "liq": 15452.76349
+    }
+  ]
+}
