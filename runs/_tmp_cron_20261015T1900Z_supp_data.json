@@ -1,0 +1,224 @@
+{
+  "ts": "20261015T1900Z",
+  "markets": 500,
+  "scan_time": 57.1,
+  "priced": 53,
+  "with_both_asks": 53,
+  "one_sided": 447,
+  "two_sided": 53,
+  "not_bracketable": 447,
+  "brackets": [],
+  "lt1": 0,
+  "tiers": {
+    "lt1.000": 0,
+    "le1.005": 2,
+    "le1.010": 4,
+    "le1.020": 9,
+    "le1.050": 34
+  },
+  "floor": 1.001,
+  "floor_q": "Bank of Japan decreases interest rates by 50+ bps after the ",
+  "leader_liq": 1240.2,
+  "top25": [
+    [
+      1.001,
+      "Bank of Japan decreases interest rates by 50+ bps after the ",
+      0.002,
+      0.999,
+      1240.2,
+      false
+    ],
+    [
+      1.004,
+      "Bitcoin more valuable than any company before 2027?",
+      0.018,
+      0.986,
+      3928.9,
+      false
+    ],
+    [
+      1.008,
+      "Will Democrats win 12 or more House seats in Pennsylvania in",
+      0.029,
+      0.979,
+      14339.8,
+      false
+    ],
+    [
+      1.009,
+      "Will the highest temperature in Cape Town be 18\u00b0C on October",
+      0.01,
+      0.999,
+      2629.6,
+      false
+    ],
+    [
+      1.017,
+      "Will Z.ai be the #3 AI Lab at the end of October 2026 (Style",
+      0.019,
+      0.998,
+      392.0,
+      false
+    ],
+    [
+      1.02,
+      "Nyiregyhaza Spartacus FC vs. Budapest Honved FC: O/U 2.5",
+      0.58,
+      0.44,
+      2235.0,
+      false
+    ],
+    [
+      1.02,
+      "Washington State vs. Oregon State: O/U 51.5",
+      0.54,
+      0.48,
+      15990.5,
+      false
+    ],
+    [
+      1.02,
+      "Will Odisha FC win on 2026-10-17?",
+      0.44,
+      0.58,
+      7270.8,
+      false
+    ],
+    [
+      1.02,
+      "Will the highest temperature in Miami be between 84-85\u00b0F on ",
+      0.13,
+      0.89,
+      4011.2,
+      false
+    ],
+    [
+      1.03,
+      "Aston Villa FC vs. Viking FK: Both Teams to Score",
+      0.58,
+      0.45,
+      27411.0,
+      false
+    ],
+    [
+      1.03,
+      "Portland Timbers vs. Colorado Rapids SC: Colorado Rapids SC ",
+      0.78,
+      0.25,
+      3709.6,
+      false
+    ],
+    [
+      1.03,
+      "Qingdao Hainiu FC vs. Liaoning Tieren FC: Qingdao Hainiu FC ",
+      0.68,
+      0.35,
+      1730.9,
+      false
+    ],
+    [
+      1.03,
+      "Red Star FC vs. AS Saint-\u00c9tienne: Red Star FC O/U 1.5",
+      0.35,
+      0.68,
+      2999.7,
+      false
+    ],
+    [
+      1.03,
+      "Sukhothai FC vs. Rasisalai United: O/U 2.5",
+      0.55,
+      0.48,
+      1251.8,
+      false
+    ],
+    [
+      1.03,
+      "Sydney FC vs. Western Sydney Wanderers FC: Western Sydney Wa",
+      0.39,
+      0.64,
+      1775.7,
+      false
+    ],
+    [
+      1.03,
+      "Will Feyenoord finish as runner-up in the 2026-27 UEFA Champ",
+      0.033,
+      0.997,
+      269.1,
+      false
+    ],
+    [
+      1.037,
+      "Will SV Elversberg qualify for the 2027-28 UEFA Europa Leagu",
+      0.113,
+      0.924,
+      102.8,
+      false
+    ],
+    [
+      1.04,
+      "Auckland FC vs. Melbourne City FC: Auckland FC O/U 1.5",
+      0.38,
+      0.66,
+      2196.8,
+      false
+    ],
+    [
+      1.04,
+      "Java United FC vs. Bali United: Bali United O/U 2.5",
+      0.24,
+      0.8,
+      919.9,
+      false
+    ],
+    [
+      1.04,
+      "Spread: SE Palmeiras (-1.5)",
+      0.28,
+      0.76,
+      3299.7,
+      false
+    ],
+    [
+      1.04,
+      "VVV Venlo vs. Jong AZ Alkmaar: Jong AZ Alkmaar O/U 1.5",
+      0.54,
+      0.5,
+      1023.2,
+      false
+    ],
+    [
+      1.041,
+      "Will Atlanta Falcons finish the 2026-27 NFL regular season w",
+      0.042,
+      0.999,
+      193.3,
+      false
+    ],
+    [
+      1.041,
+      "Will Carolina Panthers finish the 2026-27 NFL regular season",
+      0.042,
+      0.999,
+      193.3,
+      false
+    ],
+    [
+      1.041,
+      "Will Denver Broncos finish the 2026-27 NFL regular season wi",
+      0.042,
+      0.999,
+      194.4,
+      false
+    ],
+    [
+      1.041,
+      "Will Jacksonville Jaguars finish the 2026-27 NFL regular sea",
+      0.042,
+      0.999,
+      193.4,
+      false
+    ]
+  ]
+}
