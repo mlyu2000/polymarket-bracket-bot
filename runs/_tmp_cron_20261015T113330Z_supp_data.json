@@ -1,0 +1,88 @@
+{
+ "timestamp": "2026-10-15T11:33:30Z",
+ "markets": 500,
+ "scan_time_s": 60.4,
+ "brackets": [],
+ "two_sided": 70,
+ "one_sided": 430,
+ "floor": 1.001,
+ "top10": [
+  [
+   1.001,
+   "Bank of Japan decreases interest rates by 50+ bps after the December 2026 meeting?",
+   0.002,
+   0.999,
+   892.46653
+  ],
+  [
+   1.002,
+   "Spread: FK Jablonec (-2.5)",
+   0.004,
+   0.998,
+   16014.3866
+  ],
+  [
+   1.002,
+   "Spread: Lincoln Red Imps FC (-2.5)",
+   0.003,
+   0.999,
+   5467.81134
+  ],
+  [
+   1.004,
+   "Spread: FC Thun (-2.5)",
+   0.008,
+   0.996,
+   6067.83049
+  ],
+  [
+   1.004,
+   "Spread: Inter Club d'Escaldes (-2.5)",
+   0.008,
+   0.996,
+   5943.54708
+  ],
+  [
+   1.004,
+   "Spread: Lillestr\u00f8m SK (-2.5)",
+   0.01,
+   0.994,
+   23187.62759
+  ],
+  [
+   1.005,
+   "Spread: P\u00e1fos FC (-2.5)",
+   0.008,
+   0.997,
+   6126.77523
+  ],
+  [
+   1.006,
+   "Spread: KF Egnatia Rrogozhin\u00eb (-2.5)",
+   0.016,
+   0.99,
+   15943.1725
+  ],
+  [
+   1.007,
+   "Spread: KKS Lech Pozna\u0144 (-3.5)",
+   0.008,
+   0.999,
+   24533.19835
+  ],
+  [
+   1.008,
+   "Exact Score: Brentford FC 3 - 4 Liverpool FC?",
+   0.013,
+   0.995,
+   13306.17033
+  ]
+ ],
+ "tiers": {
+  "le1.005": 7,
+  "le1.010": 15,
+  "le1.020": 24,
+  "le1.050": 54,
+  "lt1.000": 0
+ }
+}
