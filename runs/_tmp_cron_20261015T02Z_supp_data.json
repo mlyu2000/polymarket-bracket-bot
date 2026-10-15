@@ -1,0 +1,72 @@
+{
+  "ts": "2026-10-15T02:08:33Z",
+  "markets": 500,
+  "with_both_asks": 64,
+  "two_sided": 64,
+  "not_bracketable": 436,
+  "tiers": {
+    "<=1.050": 49,
+    "<=1.020": 28,
+    "<=1.010": 15,
+    "<=1.005": 8,
+    "<1.000": 0
+  },
+  "top25": [
+    {
+      "total": 1.003,
+      "q": "Spread: Lillestrøm SK (-2.5)",
+      "yes": 0.01,
+      "no": 0.993,
+      "liq": 6922.82133
+    },
+    {
+      "total": 1.003,
+      "q": "Spread: Lincoln Red Imps FC (-2.5)",
+      "yes": 0.004,
+      "no": 0.999,
+      "liq": 3384.6893
+    },
+    {
+      "total": 1.004,
+      "q": "Exact Score: Brentford FC 0 - 5 Liverpool FC?",
+      "yes": 0.006,
+      "no": 0.998,
+      "liq": 24053.21204
+    },
+    {
+      "total": 1.004,
+      "q": "Spread: FC Thun (-2.5)",
+      "yes": 0.007,
+      "no": 0.997,
+      "liq": 4964.66242
+    },
+    {
+      "total": 1.005,
+      "q": "Spread: FK Jablonec (-2.5)",
+      "yes": 0.006,
+      "no": 0.999,
+      "liq": 3927.05268
+    },
+    {
+      "total": 1.005,
+      "q": "Spread: Inter Club d'Escaldes (-2.5)",
+      "yes": 0.008,
+      "no": 0.997,
+      "liq": 4157.83801
+    },
+    {
+      "total": 1.005,
+      "q": "Spread: MH Hapoel Be'er Sheva (-2.5)",
+      "yes": 0.009,
+      "no": 0.996,
+      "liq": 6733.14721
+    },
+    {
+      "total": 1.005,
+      "q": "Spread: Páfos FC (-2.5)",
+      "yes": 0.009,
+      "no": 0.996,
+      "liq": 5037.80813
+    }
+  ]
+}
