@@ -1,0 +1,173 @@
+{
+ "ts_utc": "2026-10-15T09:17:11.951729+00:00",
+ "markets": 500,
+ "two_sided": 74,
+ "one_sided": 426,
+ "tiers": {
+  "lt1.000": 0,
+  "le1.005": 12,
+  "le1.010": 25,
+  "le1.020": 35,
+  "le1.050": 62
+ },
+ "brackets_below_098": [],
+ "floor_top10": [
+  {
+   "sum": 1.001,
+   "q": "Bank of Japan decreases interest rates by 50+ bps after the ",
+   "yes": 0.002,
+   "no": 0.999,
+   "liq": 822.88911
+  },
+  {
+   "sum": 1.002,
+   "q": "Spread: FK Jablonec (-2.5)",
+   "yes": 0.004,
+   "no": 0.998,
+   "liq": 6834.85724
+  },
+  {
+   "sum": 1.002,
+   "q": "Spread: Lincoln Red Imps FC (-2.5)",
+   "yes": 0.003,
+   "no": 0.999,
+   "liq": 5216.61725
+  },
+  {
+   "sum": 1.004,
+   "q": "Exact Score: Venezia FC 4 - 3 SSC Napoli?",
+   "yes": 0.006,
+   "no": 0.998,
+   "liq": 21535.34889
+  },
+  {
+   "sum": 1.004,
+   "q": "Spread: FC Thun (-2.5)",
+   "yes": 0.008,
+   "no": 0.996,
+   "liq": 5545.50928
+  },
+  {
+   "sum": 1.004,
+   "q": "Spread: Inter Club d'Escaldes (-2.5)",
+   "yes": 0.008,
+   "no": 0.996,
+   "liq": 5807.00578
+  },
+  {
+   "sum": 1.004,
+   "q": "Spread: Lillestrøm SK (-2.5)",
+   "yes": 0.011,
+   "no": 0.993,
+   "liq": 6465.96535
+  },
+  {
+   "sum": 1.004,
+   "q": "Spread: MH Hapoel Be'er Sheva (-2.5)",
+   "yes": 0.012,
+   "no": 0.992,
+   "liq": 8627.38203
+  },
+  {
+   "sum": 1.005,
+   "q": "Exact Score: Bologna FC 1909 4 - 2 FC Internazionale Milano?",
+   "yes": 0.008,
+   "no": 0.997,
+   "liq": 18186.95703
+  },
+  {
+   "sum": 1.005,
+   "q": "Exact Score: Brentford FC 4 - 4 Liverpool FC?",
+   "yes": 0.007,
+   "no": 0.998,
+   "liq": 22687.24978
+  }
+ ],
+ "liquid_near_floor": [
+  {
+   "sum": 1.005,
+   "q": "Exact Score: Brentford FC 4 - 4 Liverpool FC?",
+   "yes": 0.007,
+   "no": 0.998,
+   "liq": 22687.24978
+  },
+  {
+   "sum": 1.004,
+   "q": "Exact Score: Venezia FC 4 - 3 SSC Napoli?",
+   "yes": 0.006,
+   "no": 0.998,
+   "liq": 21535.34889
+  },
+  {
+   "sum": 1.005,
+   "q": "Exact Score: Bologna FC 1909 4 - 2 FC Internazionale Milano?",
+   "yes": 0.008,
+   "no": 0.997,
+   "liq": 18186.95703
+  },
+  {
+   "sum": 1.008,
+   "q": "Exact Score: Brentford FC 5 - 2 Liverpool FC?",
+   "yes": 0.011,
+   "no": 0.997,
+   "liq": 16604.55184
+  },
+  {
+   "sum": 1.007,
+   "q": "Exact Score: Venezia FC 4 - 1 SSC Napoli?",
+   "yes": 0.01,
+   "no": 0.997,
+   "liq": 15888.6602
+  },
+  {
+   "sum": 1.008,
+   "q": "Exact Score: Brentford FC 3 - 4 Liverpool FC?",
+   "yes": 0.013,
+   "no": 0.995,
+   "liq": 14934.09334
+  },
+  {
+   "sum": 1.008,
+   "q": "Exact Score: Brentford FC 5 - 1 Liverpool FC?",
+   "yes": 0.013,
+   "no": 0.995,
+   "liq": 14659.53339
+  },
+  {
+   "sum": 1.008,
+   "q": "Will Democrats win 12 or more House seats in Pennsylvania in",
+   "yes": 0.029,
+   "no": 0.979,
+   "liq": 14208.25825
+  },
+  {
+   "sum": 1.007,
+   "q": "Exact Score: Venezia FC 2 - 5 SSC Napoli?",
+   "yes": 0.011,
+   "no": 0.996,
+   "liq": 14034.68322
+  },
+  {
+   "sum": 1.009,
+   "q": "Exact Score: Brentford FC 4 - 3 Liverpool FC?",
+   "yes": 0.014,
+   "no": 0.995,
+   "liq": 13613.90066
+  },
+  {
+   "sum": 1.007,
+   "q": "Exact Score: Bologna FC 1909 3 - 4 FC Internazionale Milano?",
+   "yes": 0.011,
+   "no": 0.996,
+   "liq": 13445.79445
+  },
+  {
+   "sum": 1.008,
+   "q": "Exact Score: Bologna FC 1909 2 - 5 FC Internazionale Milano?",
+   "yes": 0.013,
+   "no": 0.995,
+   "liq": 12258.11628
+  }
+ ],
+ "scan_time": 62.766276121139526
+}

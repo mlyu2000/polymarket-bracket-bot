@@ -1,0 +1,10 @@
+WROTE: runs/_tmp_cron_20261015T091434Z_supp_data.json
+floor: 1.001 Bank of Japan decreases interest rates by 50+ bps after the  | tiers: {"lt1.000": 0, "le1.005": 12, "le1.010": 25, "le1.020": 35, "le1.050": 62}
+two_sided: 74 one_sided: 426
+top liquid near floor:
+   1.005 liq 22687 | Exact Score: Brentford FC 4 - 4 Liverpool FC?
+   1.004 liq 21535 | Exact Score: Venezia FC 4 - 3 SSC Napoli?
+   1.005 liq 18187 | Exact Score: Bologna FC 1909 4 - 2 FC Internazionale Milano?
+   1.008 liq 16605 | Exact Score: Brentford FC 5 - 2 Liverpool FC?
+   1.007 liq 15889 | Exact Score: Venezia FC 4 - 1 SSC Napoli?
+   1.008 liq 14934 | Exact Score: Brentford FC 3 - 4 Liverpool FC?

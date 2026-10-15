@@ -1,0 +1,21 @@
+scan 20261015T091434Z: 500 markets in 62.8s | 0 brackets (sum<1.00) | floor=1.001 (BoJ cuts 50+ bps, Y.002+N.999, liq 823)
+
+Floor leaderboard (min-ask both legs, asks[0] near-miss block artifact = always 0):
+- 1.001 BoJ decreases rates 50+ bps after the [next BoJ meeting] — Y.002+N.999, liq 823 (held floor 2+ scans)
+- 1.002 Spread: FK Jablonec (-2.5) — Y.004+N.998, liq 6835 (was 5795)
+- 1.002 Spread: Lincoln Red Imps FC (-2.5) — Y.003+N.999, liq 5217 (was 4012)
+- 1.004 Exact Score: Venezia FC 4-3 SSC Napoli — Y.006+N.998, liq 21535 (held)
+- 1.004 Spread: FC Thun (-2.5) — Y.008+N.996, liq 5546
+- 1.004 Spread: Inter Club d'Escaldes (-2.5) — Y.008+N.996, liq 5807
+- 1.004 Spread: Lillestrøm SK (-2.5) — Y.011+N.993, liq 6466
+- 1.004 Spread: MH Hapoel Be'er Sheva (-2.5) — Y.012+N.992, liq 8627
+- 1.005 Exact Score: Bologna FC 1909 4-2 FC Internazionale Milano — Y.008+N.997, liq 18187
+- 1.005 Exact Score: Brentford FC 4-4 Liverpool FC — Y.007+N.998, liq 22687
+
+Tiers (min-ask): lt1.000=0 | le1.005=12 | le1.010=25 | le1.020=35 | le1.050=62
+(drift vs 08:41Z: le1.050 59→62, le1.020 36→35, le1.010 24→25, le1.005 11→12 — flat)
+Two-sided=74 / one-sided=426 → 85.2% unbracketable (stable ~85%)
+
+Liquid near-floor (sum<=1.010 by liq): Brentford 4-4 Liverpool 1.005 liq 22687 | Venezia 4-3 Napoli 1.004 liq 21535 | Bologna 4-2 Inter 1.005 liq 18187 | Brentford 5-2 1.008 liq 16605 | Venezia 4-1 1.007 liq 15889 | Brentford 3-4 1.008 liq 14934 | Brentford 5-1 1.008 liq 14660 | Dems 12+ House PA 1.008 liq 14208 | Venezia 2-5 Napoli 1.007 liq 14035 | Brentford 4-3 1.009 liq 13614 | Bologna 3-4 Inter 1.007 liq 13446 | Bologna 2-5 Inter 1.008 liq 12258
+
+Files: runs/_tmp_cron_20261015T091434Z_supp_data.json; appended to results/cron_scan_history.jsonl (local, unpushed)
