@@ -1,0 +1,98 @@
+{
+  "scan_time_utc": "2026-10-15_1034Z",
+  "scan_secs": 59.1,
+  "markets": 500,
+  "brackets": [],
+  "floor": {
+    "q": "Bank of Japan decreases interest rates by 50+ bps after the December 2026 meeting?",
+    "total": 1.001,
+    "y": 0.002,
+    "n": 0.999,
+    "liq": 1519.13613
+  },
+  "top10": [
+    {
+      "q": "Bank of Japan decreases interest rates by 50+ bps after the December 2026 meeting?",
+      "total": 1.001,
+      "y": 0.002,
+      "n": 0.999,
+      "liq": 1519.13613
+    },
+    {
+      "q": "Spread: Lincoln Red Imps FC (-2.5)",
+      "total": 1.002,
+      "y": 0.003,
+      "n": 0.999,
+      "liq": 13539.00345
+    },
+    {
+      "q": "Spread: FK Jablonec (-2.5)",
+      "total": 1.002,
+      "y": 0.004,
+      "n": 0.998,
+      "liq": 15819.16159
+    },
+    {
+      "q": "Spread: Lillestr\u00f8m SK (-2.5)",
+      "total": 1.004,
+      "y": 0.01,
+      "n": 0.994,
+      "liq": 23134.8505
+    },
+    {
+      "q": "Spread: FC Thun (-2.5)",
+      "total": 1.004,
+      "y": 0.008,
+      "n": 0.996,
+      "liq": 14262.36729
+    },
+    {
+      "q": "Spread: Inter Club d'Escaldes (-2.5)",
+      "total": 1.004,
+      "y": 0.008,
+      "n": 0.996,
+      "liq": 15315.27089
+    },
+    {
+      "q": "Exact Score: AFC Bournemouth 4 - 3 SK Puntigamer Sturm Graz?",
+      "total": 1.004,
+      "y": 0.008,
+      "n": 0.996,
+      "liq": 7113.91218
+    },
+    {
+      "q": "Spread: P\u00e1fos FC (-2.5)",
+      "total": 1.005,
+      "y": 0.008,
+      "n": 0.997,
+      "liq": 6099.58427
+    },
+    {
+      "q": "Exact Score: Bologna FC 1909 4 - 2 FC Internazionale Milano?",
+      "total": 1.005,
+      "y": 0.008,
+      "n": 0.997,
+      "liq": 18188.20703
+    },
+    {
+      "q": "Exact Score: Brentford FC 4 - 4 Liverpool FC?",
+      "total": 1.005,
+      "y": 0.007,
+      "n": 0.998,
+      "liq": 22500.16978
+    }
+  ],
+  "tiers": {
+    "le1.050": 62,
+    "le1.020": 33,
+    "le1.010": 21,
+    "le1.005": 10,
+    "lt1.000": 0
+  },
+  "structural": {
+    "both_side_asks": 76,
+    "one_side_asks": 418,
+    "no_asks": 6,
+    "pct_not_bracketable": 84.8
+  }
+}
