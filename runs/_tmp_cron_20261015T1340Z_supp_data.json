@@ -1,0 +1,180 @@
+{
+  "ts": "2026-10-15T13:41:30Z",
+  "markets": 500,
+  "with_both_asks": 79,
+  "two_sided": 79,
+  "not_bracketable": 421,
+  "tiers": {
+    "le1.050": 63,
+    "le1.020": 30,
+    "le1.010": 20,
+    "le1.005": 10,
+    "lt1.000": 0
+  },
+  "brackets_below_098": 0,
+  "floor_top10": [
+    {
+      "sum": 1.001,
+      "q": "Bank of Japan decreases interest rates by 50+ bps after",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 1150.18118
+    },
+    {
+      "sum": 1.002,
+      "q": "Spread: FK Jablonec (-2.5)",
+      "yes": 0.003,
+      "no": 0.999,
+      "liq": 17321.07802
+    },
+    {
+      "sum": 1.002,
+      "q": "Spread: Lincoln Red Imps FC (-2.5)",
+      "yes": 0.003,
+      "no": 0.999,
+      "liq": 7229.37336
+    },
+    {
+      "sum": 1.004,
+      "q": "Bitcoin more valuable than any company before 2027?",
+      "yes": 0.018,
+      "no": 0.986,
+      "liq": 3404.88322
+    },
+    {
+      "sum": 1.004,
+      "q": "Exact Score: AFC Bournemouth 4 - 3 SK Puntigamer Sturm ",
+      "yes": 0.007,
+      "no": 0.997,
+      "liq": 11326.94426
+    },
+    {
+      "sum": 1.004,
+      "q": "Exact Score: Venezia FC 4 - 3 SSC Napoli?",
+      "yes": 0.006,
+      "no": 0.998,
+      "liq": 21768.7145
+    },
+    {
+      "sum": 1.004,
+      "q": "Spread: Lillestr\u00f8m SK (-2.5)",
+      "yes": 0.011,
+      "no": 0.993,
+      "liq": 27455.02428
+    },
+    {
+      "sum": 1.004,
+      "q": "Spread: P\u00e1fos FC (-2.5)",
+      "yes": 0.008,
+      "no": 0.996,
+      "liq": 7846.05052
+    },
+    {
+      "sum": 1.005,
+      "q": "Spread: FC Thun (-2.5)",
+      "yes": 0.009,
+      "no": 0.996,
+      "liq": 16092.34055
+    },
+    {
+      "sum": 1.005,
+      "q": "Spread: Inter Club d'Escaldes (-2.5)",
+      "yes": 0.009,
+      "no": 0.996,
+      "liq": 25264.563
+    }
+  ],
+  "top12": [
+    [
+      1.001,
+      "Bank of Japan decreases interest rates by 50+ bps after",
+      0.002,
+      0.999,
+      1150.18118
+    ],
+    [
+      1.002,
+      "Spread: FK Jablonec (-2.5)",
+      0.003,
+      0.999,
+      17321.07802
+    ],
+    [
+      1.002,
+      "Spread: Lincoln Red Imps FC (-2.5)",
+      0.003,
+      0.999,
+      7229.37336
+    ],
+    [
+      1.004,
+      "Bitcoin more valuable than any company before 2027?",
+      0.018,
+      0.986,
+      3404.88322
+    ],
+    [
+      1.004,
+      "Exact Score: AFC Bournemouth 4 - 3 SK Puntigamer Sturm ",
+      0.007,
+      0.997,
+      11326.94426
+    ],
+    [
+      1.004,
+      "Exact Score: Venezia FC 4 - 3 SSC Napoli?",
+      0.006,
+      0.998,
+      21768.7145
+    ],
+    [
+      1.004,
+      "Spread: Lillestr\u00f8m SK (-2.5)",
+      0.011,
+      0.993,
+      27455.02428
+    ],
+    [
+      1.004,
+      "Spread: P\u00e1fos FC (-2.5)",
+      0.008,
+      0.996,
+      7846.05052
+    ],
+    [
+      1.005,
+      "Spread: FC Thun (-2.5)",
+      0.009,
+      0.996,
+      16092.34055
+    ],
+    [
+      1.005,
+      "Spread: Inter Club d'Escaldes (-2.5)",
+      0.009,
+      0.996,
+      25264.563
+    ],
+    [
+      1.006,
+      "Exact Score: Venezia FC 3 - 4 SSC Napoli?",
+      0.01,
+      0.996,
+      15318.36863
+    ],
+    [
+      1.007,
+      "Exact Score: Bologna FC 1909 3 - 4 FC Internazionale Mi",
+      0.011,
+      0.996,
+      13436.04087
+    ]
+  ],
+  "one_sided": {
+    "yes_only": 415,
+    "no_only": 0,
+    "empty": 6,
+    "both": 79
+  },
+  "scan_time": 62.6
+}
