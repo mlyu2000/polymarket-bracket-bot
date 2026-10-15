@@ -1,0 +1,137 @@
+{
+  "scan_ts": "2026-10-15T06:52Z",
+  "scan_time": 64.69933700561523,
+  "markets": 500,
+  "both_sides_quoted": 58,
+  "two_sided": 58,
+  "unbracketable": 442,
+  "buckets": {
+    "le_1.050": 39,
+    "le_1.020": 17,
+    "le_1.010": 12,
+    "le_1.005": 7,
+    "lt_1.000": 0
+  },
+  "leaders": [
+    {
+      "sum": 1.002,
+      "q": "Spread: Lincoln Red Imps FC (-2.5)",
+      "yes": 0.003,
+      "no": 0.999,
+      "liq": 3355.76573,
+      "two_sided": true
+    },
+    {
+      "sum": 1.003,
+      "q": "Spread: FK Jablonec (-2.5)",
+      "yes": 0.005,
+      "no": 0.998,
+      "liq": 4683.41284,
+      "two_sided": true
+    },
+    {
+      "sum": 1.003,
+      "q": "Spread: MH Hapoel Be'er Sheva (-2.5)",
+      "yes": 0.009,
+      "no": 0.994,
+      "liq": 6048.95167,
+      "two_sided": true
+    },
+    {
+      "sum": 1.004,
+      "q": "Spread: Lillestr\u00f8m SK (-2.5)",
+      "yes": 0.01,
+      "no": 0.994,
+      "liq": 7373.34117,
+      "two_sided": true
+    },
+    {
+      "sum": 1.004,
+      "q": "Spread: P\u00e1fos FC (-2.5)",
+      "yes": 0.009,
+      "no": 0.995,
+      "liq": 6097.69498,
+      "two_sided": true
+    },
+    {
+      "sum": 1.005,
+      "q": "Spread: FC Thun (-2.5)",
+      "yes": 0.009,
+      "no": 0.996,
+      "liq": 5462.86219,
+      "two_sided": true
+    },
+    {
+      "sum": 1.005,
+      "q": "Spread: Inter Club d'Escaldes (-2.5)",
+      "yes": 0.009,
+      "no": 0.996,
+      "liq": 5370.87598,
+      "two_sided": true
+    },
+    {
+      "sum": 1.007,
+      "q": "Spread: KF Egnatia Rrogozhin\u00eb (-2.5)",
+      "yes": 0.017,
+      "no": 0.99,
+      "liq": 5694.59554,
+      "two_sided": true
+    },
+    {
+      "sum": 1.008,
+      "q": "Will the highest temperature in Helsinki be 9\u00b0C on",
+      "yes": 0.01,
+      "no": 0.998,
+      "liq": 2716.2166,
+      "two_sided": true
+    },
+    {
+      "sum": 1.009,
+      "q": "Spread: FK Kauno \u017dalgiris (-1.5)",
+      "yes": 0.011,
+      "no": 0.998,
+      "liq": 4186.28057,
+      "two_sided": true
+    },
+    {
+      "sum": 1.01,
+      "q": "Spread: Lillestr\u00f8m SK (-3.5)",
+      "yes": 0.012,
+      "no": 0.998,
+      "liq": 3018.82888,
+      "two_sided": true
+    },
+    {
+      "sum": 1.01,
+      "q": "Will Olympique de Marseille win on 2026-10-18?",
+      "yes": 0.47,
+      "no": 0.54,
+      "liq": 19994.5227,
+      "two_sided": true
+    },
+    {
+      "sum": 1.014,
+      "q": "Spread: SC Uni\u00e3o Torreense (-3.5)",
+      "yes": 0.015,
+      "no": 0.999,
+      "liq": 1587.25381,
+      "two_sided": true
+    },
+    {
+      "sum": 1.016,
+      "q": "Will Z.ai be the #3 AI Lab at the end of October 2",
+      "yes": 0.018,
+      "no": 0.998,
+      "liq": 689.46221,
+      "two_sided": true
+    },
+    {
+      "sum": 1.018,
+      "q": "Spread: KKS Lech Pozna\u0144 (-3.5)",
+      "yes": 0.019,
+      "no": 0.999,
+      "liq": 2989.36966,
+      "two_sided": true
+    }
+  ]
+}
