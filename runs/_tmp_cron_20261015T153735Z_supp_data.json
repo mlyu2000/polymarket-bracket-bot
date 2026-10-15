@@ -1,0 +1,192 @@
+{
+  "ts": "2026-10-15T15:39:56Z",
+  "markets": 500,
+  "with_both_asks": 82,
+  "two_sided": 82,
+  "not_bracketable": 418,
+  "tiers": {
+    "<=1.050": 62,
+    "<=1.020": 31,
+    "<=1.010": 17,
+    "<=1.005": 10,
+    "<1.000": 0
+  },
+  "top25": [
+    {
+      "total": 1.001,
+      "q": "Bank of Japan decreases interest rates by 50+ bps after",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 1346.07329
+    },
+    {
+      "total": 1.002,
+      "q": "Spread: FK Jablonec (-2.5)",
+      "yes": 0.003,
+      "no": 0.999,
+      "liq": 9037.81734
+    },
+    {
+      "total": 1.002,
+      "q": "Spread: Lincoln Red Imps FC (-2.5)",
+      "yes": 0.003,
+      "no": 0.999,
+      "liq": 15499.19861
+    },
+    {
+      "total": 1.004,
+      "q": "Bitcoin more valuable than any company before 2027?",
+      "yes": 0.018,
+      "no": 0.986,
+      "liq": 3928.94623
+    },
+    {
+      "total": 1.004,
+      "q": "Spread: FC Thun (-2.5)",
+      "yes": 0.008,
+      "no": 0.996,
+      "liq": 15620.24758
+    },
+    {
+      "total": 1.004,
+      "q": "Spread: Lillestr\u00f8m SK (-2.5)",
+      "yes": 0.01,
+      "no": 0.994,
+      "liq": 26652.3588
+    },
+    {
+      "total": 1.004,
+      "q": "Spread: P\u00e1fos FC (-2.5)",
+      "yes": 0.01,
+      "no": 0.994,
+      "liq": 7131.36062
+    },
+    {
+      "total": 1.005,
+      "q": "Exact Score: Venezia FC 4 - 3 SSC Napoli?",
+      "yes": 0.007,
+      "no": 0.998,
+      "liq": 21998.61958
+    },
+    {
+      "total": 1.005,
+      "q": "Spread: Inter Club d'Escaldes (-2.5)",
+      "yes": 0.009,
+      "no": 0.996,
+      "liq": 22776.39677
+    },
+    {
+      "total": 1.005,
+      "q": "Spread: KF Egnatia Rrogozhin\u00eb (-2.5)",
+      "yes": 0.014,
+      "no": 0.991,
+      "liq": 24065.87154
+    },
+    {
+      "total": 1.006,
+      "q": "Exact Score: Venezia FC 3 - 4 SSC Napoli?",
+      "yes": 0.01,
+      "no": 0.996,
+      "liq": 15541.00063
+    },
+    {
+      "total": 1.007,
+      "q": "Exact Score: Venezia FC 2 - 5 SSC Napoli?",
+      "yes": 0.011,
+      "no": 0.996,
+      "liq": 14682.50142
+    },
+    {
+      "total": 1.008,
+      "q": "Exact Score: RC Strasbourg Alsace 3 - 5 Paris Saint-Ger",
+      "yes": 0.012,
+      "no": 0.996,
+      "liq": 10129.08051
+    },
+    {
+      "total": 1.008,
+      "q": "Will Democrats win 12 or more House seats in Pennsylvan",
+      "yes": 0.029,
+      "no": 0.979,
+      "liq": 14313.21874
+    },
+    {
+      "total": 1.009,
+      "q": "Will the highest temperature in Cape Town be 18\u00b0C on Oc",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 3462.1272
+    },
+    {
+      "total": 1.01,
+      "q": "Bitcoin Up or Down - October 15, 11:45AM-11:50AM ET",
+      "yes": 0.5,
+      "no": 0.51,
+      "liq": 7732.9618
+    },
+    {
+      "total": 1.01,
+      "q": "Spread: FK Kauno \u017dalgiris (-1.5)",
+      "yes": 0.011,
+      "no": 0.999,
+      "liq": 21043.99139
+    },
+    {
+      "total": 1.011,
+      "q": "Spread: Universitatea Craiova CS (-3.5)",
+      "yes": 0.012,
+      "no": 0.999,
+      "liq": 3025.94125
+    },
+    {
+      "total": 1.017,
+      "q": "Will Z.ai be the #3 AI Lab at the end of October 2026 (",
+      "yes": 0.019,
+      "no": 0.998,
+      "liq": 507.60917
+    },
+    {
+      "total": 1.018,
+      "q": "Spread: HNK Hajduk Split (-3.5)",
+      "yes": 0.019,
+      "no": 0.999,
+      "liq": 3573.77037
+    },
+    {
+      "total": 1.018,
+      "q": "Spread: KF Egnatia Rrogozhin\u00eb (-3.5)",
+      "yes": 0.019,
+      "no": 0.999,
+      "liq": 3757.79665
+    },
+    {
+      "total": 1.018,
+      "q": "Spread: KKS Lech Pozna\u0144 (-3.5)",
+      "yes": 0.019,
+      "no": 0.999,
+      "liq": 5975.11571
+    },
+    {
+      "total": 1.018,
+      "q": "Spread: P\u00e1fos FC (-3.5)",
+      "yes": 0.019,
+      "no": 0.999,
+      "liq": 1895.55943
+    },
+    {
+      "total": 1.019,
+      "q": "Spread: Aarhus GF (-3.5)",
+      "yes": 0.02,
+      "no": 0.999,
+      "liq": 3352.48144
+    },
+    {
+      "total": 1.019,
+      "q": "Spread: PFK CSKA Sofia (-3.5)",
+      "yes": 0.02,
+      "no": 0.999,
+      "liq": 3405.35335
+    }
+  ],
+  "scan_time": 61.4
+}
