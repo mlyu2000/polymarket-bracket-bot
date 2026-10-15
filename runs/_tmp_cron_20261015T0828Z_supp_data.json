@@ -1,0 +1,145 @@
+{
+  "ts_utc": "2026-10-15T08:29:23.648183+00:00",
+  "markets": 500,
+  "two_sided": 75,
+  "one_sided": 425,
+  "tiers": {
+    "lt1.000": 0,
+    "le1.005": 10,
+    "le1.010": 23,
+    "le1.020": 34,
+    "le1.050": 60
+  },
+  "brackets_below_098": [],
+  "floor_top10": [
+    {
+      "sum": 1.003,
+      "q": "Spread: FK Jablonec (-2.5)",
+      "yes": 0.005,
+      "no": 0.998,
+      "liq": 5780.42845
+    },
+    {
+      "sum": 1.003,
+      "q": "Spread: Lincoln Red Imps FC (-2.5)",
+      "yes": 0.004,
+      "no": 0.999,
+      "liq": 4011.97279
+    },
+    {
+      "sum": 1.003,
+      "q": "Spread: MH Hapoel Be'er Sheva (-2.5)",
+      "yes": 0.009,
+      "no": 0.994,
+      "liq": 5986.4758
+    },
+    {
+      "sum": 1.004,
+      "q": "Exact Score: Venezia FC 4 - 3 SSC Napoli?",
+      "yes": 0.006,
+      "no": 0.998,
+      "liq": 21547.37289
+    },
+    {
+      "sum": 1.005,
+      "q": "Exact Score: Bologna FC 1909 4 - 2 FC Internazionale Mi",
+      "yes": 0.008,
+      "no": 0.997,
+      "liq": 18173.93103
+    },
+    {
+      "sum": 1.005,
+      "q": "Exact Score: Brentford FC 4 - 4 Liverpool FC?",
+      "yes": 0.007,
+      "no": 0.998,
+      "liq": 22691.93471
+    },
+    {
+      "sum": 1.005,
+      "q": "Spread: FC Thun (-2.5)",
+      "yes": 0.009,
+      "no": 0.996,
+      "liq": 5339.27628
+    },
+    {
+      "sum": 1.005,
+      "q": "Spread: Inter Club d'Escaldes (-2.5)",
+      "yes": 0.009,
+      "no": 0.996,
+      "liq": 4461.54388
+    },
+    {
+      "sum": 1.005,
+      "q": "Spread: Lillestr\u00f8m SK (-2.5)",
+      "yes": 0.011,
+      "no": 0.994,
+      "liq": 6052.20829
+    },
+    {
+      "sum": 1.005,
+      "q": "Spread: P\u00e1fos FC (-2.5)",
+      "yes": 0.009,
+      "no": 0.996,
+      "liq": 4996.10036
+    }
+  ],
+  "liquid_near_floor": [
+    {
+      "sum": 1.004,
+      "q": "Exact Score: Venezia FC 4 - 3 SSC Napoli?",
+      "yes": 0.006,
+      "no": 0.998,
+      "liq": 21547.37289
+    },
+    {
+      "sum": 1.005,
+      "q": "Exact Score: Bologna FC 1909 4 - 2 FC Internazionale Mi",
+      "yes": 0.008,
+      "no": 0.997,
+      "liq": 18173.93103
+    },
+    {
+      "sum": 1.005,
+      "q": "Exact Score: Brentford FC 4 - 4 Liverpool FC?",
+      "yes": 0.007,
+      "no": 0.998,
+      "liq": 22691.93471
+    },
+    {
+      "sum": 1.006,
+      "q": "Exact Score: Venezia FC 4 - 1 SSC Napoli?",
+      "yes": 0.009,
+      "no": 0.997,
+      "liq": 15975.0842
+    },
+    {
+      "sum": 1.007,
+      "q": "Exact Score: Bologna FC 1909 3 - 4 FC Internazionale Mi",
+      "yes": 0.011,
+      "no": 0.996,
+      "liq": 13445.79445
+    },
+    {
+      "sum": 1.007,
+      "q": "Exact Score: Brentford FC 1 - 5 Liverpool FC?",
+      "yes": 0.01,
+      "no": 0.997,
+      "liq": 19087.00668
+    },
+    {
+      "sum": 1.007,
+      "q": "Exact Score: Venezia FC 2 - 5 SSC Napoli?",
+      "yes": 0.011,
+      "no": 0.996,
+      "liq": 12844.92708
+    },
+    {
+      "sum": 1.007,
+      "q": "Exact Score: Venezia FC 3 - 4 SSC Napoli?",
+      "yes": 0.01,
+      "no": 0.997,
+      "liq": 15100.68755
+    }
+  ],
+  "scan_time": 65.5
+}
