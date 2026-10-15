@@ -1,0 +1,190 @@
+{
+  "ts": "20261015T1755Z",
+  "markets": 500,
+  "priced": 74,
+  "scan_time": 55.4,
+  "one_sided": 426,
+  "tiers": {
+    "1.005": 10,
+    "1.01": 20,
+    "1.02": 25,
+    "1.05": 51
+  },
+  "top25": [
+    {
+      "total": 1.001,
+      "q": "Bank of Japan decreases interest rates by 50+ bps after the ",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 1216.2
+    },
+    {
+      "total": 1.002,
+      "q": "Spread: Lincoln Red Imps FC (-2.5)",
+      "yes": 0.003,
+      "no": 0.999,
+      "liq": 7115.2
+    },
+    {
+      "total": 1.003,
+      "q": "Spread: FC Thun (-2.5)",
+      "yes": 0.006,
+      "no": 0.997,
+      "liq": 17434.8
+    },
+    {
+      "total": 1.003,
+      "q": "Spread: FK Jablonec (-2.5)",
+      "yes": 0.005,
+      "no": 0.998,
+      "liq": 22117.8
+    },
+    {
+      "total": 1.004,
+      "q": "Bitcoin more valuable than any company before 2027?",
+      "yes": 0.018,
+      "no": 0.986,
+      "liq": 3928.9
+    },
+    {
+      "total": 1.004,
+      "q": "Spread: FC Thun (-3.5)",
+      "yes": 0.005,
+      "no": 0.999,
+      "liq": 5351.3
+    },
+    {
+      "total": 1.004,
+      "q": "Spread: FK Jablonec (-3.5)",
+      "yes": 0.005,
+      "no": 0.999,
+      "liq": 15403.1
+    },
+    {
+      "total": 1.004,
+      "q": "Spread: FK Kauno \u017dalgiris (-1.5)",
+      "yes": 0.005,
+      "no": 0.999,
+      "liq": 20671.6
+    },
+    {
+      "total": 1.004,
+      "q": "Spread: P\u00e1fos FC (-3.5)",
+      "yes": 0.005,
+      "no": 0.999,
+      "liq": 15993.5
+    },
+    {
+      "total": 1.005,
+      "q": "Spread: P\u00e1fos FC (-2.5)",
+      "yes": 0.011,
+      "no": 0.994,
+      "liq": 20349.2
+    },
+    {
+      "total": 1.007,
+      "q": "Will the Republicans win the Tennessee governor race in 2026",
+      "yes": 0.939,
+      "no": 0.068,
+      "liq": 43707.8
+    },
+    {
+      "total": 1.008,
+      "q": "Exact Score: SC Uni\u00e3o Torreense 2 - 1 Sunderland AFC?",
+      "yes": 0.041,
+      "no": 0.967,
+      "liq": 15154.7
+    },
+    {
+      "total": 1.008,
+      "q": "Will Democrats win 12 or more House seats in Pennsylvania in",
+      "yes": 0.029,
+      "no": 0.979,
+      "liq": 14248.8
+    },
+    {
+      "total": 1.009,
+      "q": "Spread: FC Viktoria Plze\u0148 (-3.5)",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 21435.3
+    },
+    {
+      "total": 1.009,
+      "q": "Will the highest temperature in Cape Town be 18\u00b0C on October",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 2529.7
+    },
+    {
+      "total": 1.01,
+      "q": "Mansfield Town FC vs. Oxford United FC: Both Teams to Score",
+      "yes": 0.61,
+      "no": 0.4,
+      "liq": 10911.3
+    },
+    {
+      "total": 1.01,
+      "q": "Mansfield Town FC vs. Oxford United FC: O/U 4.5",
+      "yes": 0.18,
+      "no": 0.83,
+      "liq": 24460.2
+    },
+    {
+      "total": 1.01,
+      "q": "Nyiregyhaza Spartacus FC vs. Budapest Honved FC: O/U 2.5",
+      "yes": 0.57,
+      "no": 0.44,
+      "liq": 2211.8
+    },
+    {
+      "total": 1.01,
+      "q": "Red Star FC vs. AS Saint-\u00c9tienne: Red Star FC O/U 1.5",
+      "yes": 0.34,
+      "no": 0.67,
+      "liq": 2919.3
+    },
+    {
+      "total": 1.01,
+      "q": "Spread: Atalanta BC (-3.5)",
+      "yes": 0.15,
+      "no": 0.86,
+      "liq": 21544.7
+    },
+    {
+      "total": 1.017,
+      "q": "Will Z.ai be the #3 AI Lab at the end of October 2026 (Style",
+      "yes": 0.019,
+      "no": 0.998,
+      "liq": 408.5
+    },
+    {
+      "total": 1.02,
+      "q": "Sukhothai FC vs. Rasisalai United: O/U 2.5",
+      "yes": 0.55,
+      "no": 0.47,
+      "liq": 1227.7
+    },
+    {
+      "total": 1.02,
+      "q": "Washington State vs. Oregon State: O/U 51.5",
+      "yes": 0.54,
+      "no": 0.48,
+      "liq": 19139.4
+    },
+    {
+      "total": 1.02,
+      "q": "Will Odisha FC win on 2026-10-17?",
+      "yes": 0.44,
+      "no": 0.58,
+      "liq": 5859.2
+    },
+    {
+      "total": 1.02,
+      "q": "Will the highest temperature in Miami be between 84-85\u00b0F on ",
+      "yes": 0.13,
+      "no": 0.89,
+      "liq": 5502.7
+    }
+  ]
+}

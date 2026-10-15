@@ -1,0 +1,224 @@
+{
+  "ts": "20261015T1755Z",
+  "markets": 500,
+  "scan_time": 55.4,
+  "priced": 74,
+  "with_both_asks": 74,
+  "one_sided": 426,
+  "two_sided": 74,
+  "not_bracketable": 426,
+  "brackets": [],
+  "lt1": 0,
+  "tiers": {
+    "lt1.000": 0,
+    "le1.005": 10,
+    "le1.010": 20,
+    "le1.020": 25,
+    "le1.050": 51
+  },
+  "floor": 1.001,
+  "floor_q": "Bank of Japan decreases interest rates by 50+ bps after the ",
+  "leader_liq": 1216.2,
+  "top25": [
+    [
+      1.001,
+      "Bank of Japan decreases interest rates by 50+ bps after the ",
+      0.002,
+      0.999,
+      1216.2,
+      false
+    ],
+    [
+      1.002,
+      "Spread: Lincoln Red Imps FC (-2.5)",
+      0.003,
+      0.999,
+      7115.2,
+      false
+    ],
+    [
+      1.003,
+      "Spread: FC Thun (-2.5)",
+      0.006,
+      0.997,
+      17434.8,
+      false
+    ],
+    [
+      1.003,
+      "Spread: FK Jablonec (-2.5)",
+      0.005,
+      0.998,
+      22117.8,
+      false
+    ],
+    [
+      1.004,
+      "Bitcoin more valuable than any company before 2027?",
+      0.018,
+      0.986,
+      3928.9,
+      false
+    ],
+    [
+      1.004,
+      "Spread: FC Thun (-3.5)",
+      0.005,
+      0.999,
+      5351.3,
+      false
+    ],
+    [
+      1.004,
+      "Spread: FK Jablonec (-3.5)",
+      0.005,
+      0.999,
+      15403.1,
+      false
+    ],
+    [
+      1.004,
+      "Spread: FK Kauno \u017dalgiris (-1.5)",
+      0.005,
+      0.999,
+      20671.6,
+      false
+    ],
+    [
+      1.004,
+      "Spread: P\u00e1fos FC (-3.5)",
+      0.005,
+      0.999,
+      15993.5,
+      false
+    ],
+    [
+      1.005,
+      "Spread: P\u00e1fos FC (-2.5)",
+      0.011,
+      0.994,
+      20349.2,
+      false
+    ],
+    [
+      1.007,
+      "Will the Republicans win the Tennessee governor race in 2026",
+      0.939,
+      0.068,
+      43707.8,
+      false
+    ],
+    [
+      1.008,
+      "Exact Score: SC Uni\u00e3o Torreense 2 - 1 Sunderland AFC?",
+      0.041,
+      0.967,
+      15154.7,
+      false
+    ],
+    [
+      1.008,
+      "Will Democrats win 12 or more House seats in Pennsylvania in",
+      0.029,
+      0.979,
+      14248.8,
+      false
+    ],
+    [
+      1.009,
+      "Spread: FC Viktoria Plze\u0148 (-3.5)",
+      0.01,
+      0.999,
+      21435.3,
+      false
+    ],
+    [
+      1.009,
+      "Will the highest temperature in Cape Town be 18\u00b0C on October",
+      0.01,
+      0.999,
+      2529.7,
+      false
+    ],
+    [
+      1.01,
+      "Mansfield Town FC vs. Oxford United FC: Both Teams to Score",
+      0.61,
+      0.4,
+      10911.3,
+      false
+    ],
+    [
+      1.01,
+      "Mansfield Town FC vs. Oxford United FC: O/U 4.5",
+      0.18,
+      0.83,
+      24460.2,
+      false
+    ],
+    [
+      1.01,
+      "Nyiregyhaza Spartacus FC vs. Budapest Honved FC: O/U 2.5",
+      0.57,
+      0.44,
+      2211.8,
+      false
+    ],
+    [
+      1.01,
+      "Red Star FC vs. AS Saint-\u00c9tienne: Red Star FC O/U 1.5",
+      0.34,
+      0.67,
+      2919.3,
+      false
+    ],
+    [
+      1.01,
+      "Spread: Atalanta BC (-3.5)",
+      0.15,
+      0.86,
+      21544.7,
+      false
+    ],
+    [
+      1.017,
+      "Will Z.ai be the #3 AI Lab at the end of October 2026 (Style",
+      0.019,
+      0.998,
+      408.5,
+      false
+    ],
+    [
+      1.02,
+      "Sukhothai FC vs. Rasisalai United: O/U 2.5",
+      0.55,
+      0.47,
+      1227.7,
+      false
+    ],
+    [
+      1.02,
+      "Washington State vs. Oregon State: O/U 51.5",
+      0.54,
+      0.48,
+      19139.4,
+      false
+    ],
+    [
+      1.02,
+      "Will Odisha FC win on 2026-10-17?",
+      0.44,
+      0.58,
+      5859.2,
+      false
+    ],
+    [
+      1.02,
+      "Will the highest temperature in Miami be between 84-85\u00b0F on ",
+      0.13,
+      0.89,
+      5502.7,
+      false
+    ]
+  ]
+}
