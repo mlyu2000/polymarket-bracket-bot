@@ -1,546 +1,66 @@
 {
-  "generated_at_utc": "2026-10-14T07:08:31.436884Z",
-  "markets_scanned": 500,
-  "two_sided": 67,
-  "not_bracketable": 433,
-  "brackets": 0,
-  "floor": 1.003,
-  "rows": [
-    {
-      "question": "Spread: \u0160K Slovan Bratislava (-2.5)",
-      "yes_ask": 0.009,
-      "no_ask": 0.994,
-      "sum": 1.003,
-      "liquidity": 25725.03134,
-      "condition_id": "0x225c046622dfbed82e14ce93858ed71e43fd1583785f5065754a5d037e102eb3"
-    },
-    {
-      "question": "Spread: Lillestr\u00f8m SK (-3.5)",
-      "yes_ask": 0.005,
-      "no_ask": 0.998,
-      "sum": 1.003,
-      "liquidity": 5483.68905,
-      "condition_id": "0xbf9044fb8338fd8f1bc0cefeec0c18ea1f3c92aa3fc711afa8be108a36cbfcd8"
-    },
-    {
-      "question": "Spread: Austin FC (-3.5)",
-      "yes_ask": 0.005,
-      "no_ask": 0.999,
-      "sum": 1.004,
-      "liquidity": 5373.28542,
-      "condition_id": "0xbf1967a162cc89db9e556e5726f382c7e5b8e3acd8894e3d7f181b138c8483da"
-    },
-    {
-      "question": "Spread: Sporting Kansas City (-2.5)",
-      "yes_ask": 0.008,
-      "no_ask": 0.996,
-      "sum": 1.004,
-      "liquidity": 7158.42964,
-      "condition_id": "0x6c29bca7f140f4d81132cfc1125b52849e83a76bb8ef8d16e272fb570daa3d0b"
-    },
-    {
-      "question": "Spread: Sporting Kansas City (-3.5)",
-      "yes_ask": 0.005,
-      "no_ask": 0.999,
-      "sum": 1.004,
-      "liquidity": 5384.49786,
-      "condition_id": "0x745307e5eb0c847f3e61645342ab267fa654751d472305425dd2458b2fe6b0dc"
-    },
-    {
-      "question": "Spread: \u0160K Slovan Bratislava (-3.5)",
-      "yes_ask": 0.005,
-      "no_ask": 0.999,
-      "sum": 1.004,
-      "liquidity": 19064.49322,
-      "condition_id": "0x652124fedcd49e48a7ba0b2f9ff0c67963c29ca2d4dd4b896f6cbc0fc02dd513"
-    },
-    {
-      "question": "Spread: SC Uni\u00e3o Torreense (-3.5)",
-      "yes_ask": 0.005,
-      "no_ask": 0.999,
-      "sum": 1.004,
-      "liquidity": 5721.19839,
-      "condition_id": "0x05633ec5b60f6a386a334092bf6219ac0a3773473a2b6928b2abf85332f7c895"
-    },
-    {
-      "question": "Exact Score: Venezia FC 4 - 3 SSC Napoli?",
-      "yes_ask": 0.006,
-      "no_ask": 0.999,
-      "sum": 1.005,
-      "liquidity": 2017.89684,
-      "condition_id": "0x1790f85c32f03953df2ec3694f11c4b7ade42a0447659e38d9093c12f141be44"
-    },
-    {
-      "question": "Exact Score: Bologna FC 1909 3 - 4 FC Internazionale Milano?",
-      "yes_ask": 0.011,
-      "no_ask": 0.996,
-      "sum": 1.007,
-      "liquidity": 1987.52499,
-      "condition_id": "0x3225bda3cad734461dd5cd77379330928b3aa95ac18817519df4b45574d65c6c"
-    },
-    {
-      "question": "Spread: Lillestr\u00f8m SK (-2.5)",
-      "yes_ask": 0.01,
-      "no_ask": 0.998,
-      "sum": 1.008,
-      "liquidity": 7678.50649,
-      "condition_id": "0xfe28d648315dce07575e709fb98bf17d66b37da0d971d2688ed3d8c07016542d"
-    },
-    {
-      "question": "Spread: New York City FC (-3.5)",
-      "yes_ask": 0.01,
-      "no_ask": 0.999,
-      "sum": 1.009,
-      "liquidity": 2986.39093,
-      "condition_id": "0x3747b4289bcf874131723d59c5fcdf17aa47bbc4ff34093cd26288a6835c202c"
-    },
-    {
-      "question": "Spread: Fenerbah\u00e7e SK (-3.5)",
-      "yes_ask": 0.01,
-      "no_ask": 0.999,
-      "sum": 1.009,
-      "liquidity": 17453.33364,
-      "condition_id": "0x6f5640970d36d37c2a1fd82ae7a3344710e0b663dca0c70e4163e8262a95c0db"
-    },
-    {
-      "question": "Spread: KKS Lech Pozna\u0144 (-3.5)",
-      "yes_ask": 0.01,
-      "no_ask": 0.999,
-      "sum": 1.009,
-      "liquidity": 5508.34964,
-      "condition_id": "0xc3774cb6acab96fab958624ef12446c3c668b427d9c6cb81f99ce5b2ffe1db17"
-    },
-    {
-      "question": "Spread: MH Hapoel Be'er Sheva (-2.5)",
-      "yes_ask": 0.01,
-      "no_ask": 0.999,
-      "sum": 1.009,
-      "liquidity": 6945.75659,
-      "condition_id": "0x7427e1e5eb6dd357637f38be56edad6975416bc28d93583f6bf9ec368dbe7449"
-    },
-    {
-      "question": "Spread: Jagiellonia Bia\u0142ystok (-1.5)",
-      "yes_ask": 0.45,
-      "no_ask": 0.56,
-      "sum": 1.01,
-      "liquidity": 21021.3764,
-      "condition_id": "0xe880e242a4d7337443182de2a38cabda6c0c3724a84a0dea5c72984b780a799a"
-    },
-    {
-      "question": "Will Mar\u00eda Corina Machado enter Venezuela by December 31?",
-      "yes_ask": 0.31,
-      "no_ask": 0.7,
-      "sum": 1.01,
-      "liquidity": 34107.2314,
-      "condition_id": "0x1b52d0becf2890d16450386b62f3abba63e0ddf0ab7653258dc1b99aa4560198"
-    },
-    {
-      "question": "Exact Score: AFC Bournemouth 0 - 3 SK Puntigamer Sturm Graz?",
-      "yes_ask": 0.012,
-      "no_ask": 0.999,
-      "sum": 1.011,
-      "liquidity": 3132.5403,
-      "condition_id": "0x05b2c1e7b6f36e77636e11b24c3d82f5046a433e619dc984aefe55fb2a923f7b"
-    },
-    {
-      "question": "Spread: FC Porto (-3.5)",
-      "yes_ask": 0.014,
-      "no_ask": 0.999,
-      "sum": 1.013,
-      "liquidity": 17263.57397,
-      "condition_id": "0x4a068a012e0fc6001755f05182047ad857a5257f37026b7bcb81122000c1e6ca"
-    },
-    {
-      "question": "Spread: FC Viktoria Plze\u0148 (-3.5)",
-      "yes_ask": 0.015,
-      "no_ask": 0.999,
-      "sum": 1.014,
-      "liquidity": 5507.72157,
-      "condition_id": "0x0002bf3bfff760ed1678e222bb24fd7a402c13298d576744631b4e24ced5a715"
-    },
-    {
-      "question": "Will Z.ai be the #3 AI Lab at the end of October 2026 (Style Control On)?",
-      "yes_ask": 0.018,
-      "no_ask": 0.998,
-      "sum": 1.016,
-      "liquidity": 657.73534,
-      "condition_id": "0xe4b7ec912672c9850976245b1de1386932bd0094a05218f91101a37704a4465c"
-    },
-    {
-      "question": "Will Kai Havertz (Arsenal) be the top goalscorer of the 2026-27 Premier League season?",
-      "yes_ask": 0.049,
-      "no_ask": 0.969,
-      "sum": 1.018,
-      "liquidity": 7437.83861,
-      "condition_id": "0x09e78fc98ad786b36cc0e535648fbd1c68629730188b17145c785bb21fdd86ac"
-    },
-    {
-      "question": "Spread: FC Thun (-2.5)",
-      "yes_ask": 0.019,
-      "no_ask": 0.999,
-      "sum": 1.018,
-      "liquidity": 3094.64739,
-      "condition_id": "0x7ff8845a1c28cfd0f7a8f4502b3f802b2c507c85c64e7a19d939ec5a770c39ca"
-    },
-    {
-      "question": "Spread: P\u00e1fos FC (-2.5)",
-      "yes_ask": 0.019,
-      "no_ask": 0.999,
-      "sum": 1.018,
-      "liquidity": 3295.40524,
-      "condition_id": "0xcdbc12034921ab91e59f23de439dcfdcd82ede289dca718ee2f5de3a02b8bb5d"
-    },
-    {
-      "question": "Spread: P\u00e1fos FC (-3.5)",
-      "yes_ask": 0.019,
-      "no_ask": 0.999,
-      "sum": 1.018,
-      "liquidity": 2786.97448,
-      "condition_id": "0x664d59db5f42e794e14af386108ddde0101b528e457a0e963d713b5e8d3d1ad3"
-    },
-    {
-      "question": "Spread: FK Kauno \u017dalgiris (-1.5)",
-      "yes_ask": 0.019,
-      "no_ask": 0.999,
-      "sum": 1.018,
-      "liquidity": 3981.38121,
-      "condition_id": "0x4128d23f29586abdcca481bb604f6d90b1f28668b5022ce162df2900f815cc5f"
-    },
-    {
-      "question": "Spread: Inter Club d'Escaldes (-2.5)",
-      "yes_ask": 0.019,
-      "no_ask": 0.999,
-      "sum": 1.018,
-      "liquidity": 3513.57374,
-      "condition_id": "0x72f2a2543a73afaee913de39f8a1f8c115ae3870c0f7645b4992b5de8d48a0c8"
-    },
-    {
-      "question": "Spread: Universitatea Craiova CS (-3.5)",
-      "yes_ask": 0.019,
-      "no_ask": 0.999,
-      "sum": 1.018,
-      "liquidity": 2835.89479,
-      "condition_id": "0x049622dde6a9faf13d96c87d4c41c52d7e5bcfd90367302535ca76632119a410"
-    },
-    {
-      "question": "Spread: Aarhus GF (-3.5)",
-      "yes_ask": 0.02,
-      "no_ask": 0.999,
-      "sum": 1.019,
-      "liquidity": 2785.59699,
-      "condition_id": "0x052fcfa3ca52264ff1bb7d1f0d457d79d7a98baffd20fd87ecea65bb3979a531"
-    },
-    {
-      "question": "Spread: K. Sint-Truidense VV (-1.5)",
-      "yes_ask": 0.54,
-      "no_ask": 0.48,
-      "sum": 1.02,
-      "liquidity": 7415.6127,
-      "condition_id": "0xc4ef975a07df456330764d67d806e46bc18376afe36cac1360b28daad92c32b2"
-    },
-    {
-      "question": "Spread: HNK Hajduk Split (-2.5)",
-      "yes_ask": 0.028,
-      "no_ask": 0.998,
-      "sum": 1.026,
-      "liquidity": 3837.40249,
-      "condition_id": "0x8946db9a2b64f37774a4f6cb52581eb609b7d131fbc377c1baca9109e97f65b6"
-    },
-    {
-      "question": "Spread: Lincoln Red Imps FC (-2.5)",
-      "yes_ask": 0.03,
-      "no_ask": 0.999,
-      "sum": 1.029,
-      "liquidity": 3692.93997,
-      "condition_id": "0x2c518caad000bc9dd3fcb0cedb85f3f14e7f8fe0cee9522537909fbe9b5ce432"
-    },
-    {
-      "question": "Spread: PFK CSKA Sofia (-3.5)",
-      "yes_ask": 0.03,
-      "no_ask": 0.999,
-      "sum": 1.029,
-      "liquidity": 2808.81249,
-      "condition_id": "0x5bb0071dd0fdded143e97901eff5721027b322803b6a542cb2e7cf0c0a669089"
-    },
-    {
-      "question": "Spread: HNK Hajduk Split (-3.5)",
-      "yes_ask": 0.03,
-      "no_ask": 0.999,
-      "sum": 1.029,
-      "liquidity": 2859.1839,
-      "condition_id": "0x7374373b792bedc70e60f97845792337b336a8b78dbd382362c1bab42e71d40a"
-    },
-    {
-      "question": "Will Feyenoord finish as runner-up in the 2026-27 UEFA Champions League?",
-      "yes_ask": 0.032,
-      "no_ask": 0.998,
-      "sum": 1.03,
-      "liquidity": 111.16173,
-      "condition_id": "0xce29182dda789dec9c32c3e9560d75b0e12dda6db46d7a59a4451b6fbf4e5e0f"
-    },
-    {
-      "question": "FC Lugano vs. FK Crvena zvezda: O/U 2.5",
-      "yes_ask": 0.58,
-      "no_ask": 0.45,
-      "sum": 1.03,
-      "liquidity": 11123.0741,
-      "condition_id": "0xb56cc5c46868422577880193e4ce11a96fb9d6af84d3be80aab5c87c69683f1e"
-    },
-    {
-      "question": "Qingdao Hainiu FC vs. Liaoning Tieren FC: Qingdao Hainiu FC O/U 0.5",
-      "yes_ask": 0.67,
-      "no_ask": 0.36,
-      "sum": 1.03,
-      "liquidity": 2307.6674,
-      "condition_id": "0x9e2bb4ce3d43c6aff8b65e468db0af4fd1427b0db15e01e43e6b14685c328251"
-    },
-    {
-      "question": "Nyiregyhaza Spartacus FC vs. Budapest Honved FC: O/U 2.5",
-      "yes_ask": 0.58,
-      "no_ask": 0.45,
-      "sum": 1.03,
-      "liquidity": 2683.9391,
-      "condition_id": "0x60cfafb36587cdc1c88ae14cc6ebf4a80562210c61b754861eda948f82b50b26"
-    },
-    {
-      "question": "Washington State vs. Oregon State: O/U 51.5",
-      "yes_ask": 0.54,
-      "no_ask": 0.49,
-      "sum": 1.03,
-      "liquidity": 13444.0715,
-      "condition_id": "0x0f530521f6164c67e1256330ce7444db729a3d2b6515426d32a8ce0267ba1002"
-    },
-    {
-      "question": "Spread: Paris Saint-Germain FC (-5.5)",
-      "yes_ask": 0.031,
-      "no_ask": 0.999,
-      "sum": 1.03,
-      "liquidity": 12210.71039,
-      "condition_id": "0x9b8a78708cf013d9d80817cc9b3dbb21401af7e56441eb62f61fb50e5c9f9394"
-    },
-    {
-      "question": "Will Fernando Mendoza have 3,500+ passing yards in the 2026-27 NFL regular season?",
-      "yes_ask": 0.06,
-      "no_ask": 0.976,
-      "sum": 1.036,
-      "liquidity": 277.67499,
-      "condition_id": "0x1b2fca2c3ca784c221b9630db06fe01c304af8995627ad16cb8a9f192d8e71ab"
-    },
-    {
-      "question": "Spread: FK Bod\u00f8/Glimt (-4.5)",
-      "yes_ask": 0.037,
-      "no_ask": 0.999,
-      "sum": 1.036,
-      "liquidity": 577.90873,
-      "condition_id": "0xe8d831ef766cd46d18b2c02eb104ad5148298669f5272ad5974b02da2b122250"
-    },
-    {
-      "question": "Exact Score: AFC Bournemouth 4 - 4 SK Puntigamer Sturm Graz?",
-      "yes_ask": 0.04,
-      "no_ask": 0.999,
-      "sum": 1.039,
-      "liquidity": 1934.84455,
-      "condition_id": "0x0744d3f0b9ae1fdd539b717301727fc98da4a90572c79ead409e7e969b0d5351"
-    },
-    {
-      "question": "Will Pittsburgh Steelers finish the 2026-27 NFL regular season with the most return yards?",
-      "yes_ask": 0.042,
-      "no_ask": 0.999,
-      "sum": 1.041,
-      "liquidity": 202.62996,
-      "condition_id": "0xc03de0a2d04e81c8e1b9395759429b9235b0a0cf317ad3ed169c86ae364d50fd"
-    },
-    {
-      "question": "Will Jacksonville Jaguars finish the 2026-27 NFL regular season with the most return yards?",
-      "yes_ask": 0.042,
-      "no_ask": 0.999,
-      "sum": 1.041,
-      "liquidity": 197.52776,
-      "condition_id": "0x1c7e9c1323afe159a47fe7be41bc480745da893726d2ca689388b78a8c360738"
-    },
-    {
-      "question": "Will Denver Broncos finish the 2026-27 NFL regular season with the most return yards?",
-      "yes_ask": 0.042,
-      "no_ask": 0.999,
-      "sum": 1.041,
-      "liquidity": 205.28897,
-      "condition_id": "0xa0e245c5f2ed02cd41084b1c4f799146b0e7bb8ce70947cc3fd8f9cfc5f44f93"
-    },
-    {
-      "question": "Will Kansas City Chiefs finish the 2026-27 NFL regular season with the most return yards?",
-      "yes_ask": 0.042,
-      "no_ask": 0.999,
-      "sum": 1.041,
-      "liquidity": 200.48522,
-      "condition_id": "0xcfc1fc9c29e9b33dbb0bccdc86c581e751b96bcdacbc095d58ca0a238184a06c"
-    },
-    {
-      "question": "Will Las Vegas Raiders finish the 2026-27 NFL regular season with the most return yards?",
-      "yes_ask": 0.042,
-      "no_ask": 0.999,
-      "sum": 1.041,
-      "liquidity": 203.01473,
-      "condition_id": "0x958e6ad87b770b320c95b21c9390865abbf8a46ecc74515e9c053b2c60f3ae06"
-    },
-    {
-      "question": "Will Atlanta Falcons finish the 2026-27 NFL regular season with the most return yards?",
-      "yes_ask": 0.042,
-      "no_ask": 0.999,
-      "sum": 1.041,
-      "liquidity": 194.70323,
-      "condition_id": "0x776becf801dde2b0a891388463f2b3a01f12cf49b5241d5bc5936f7d47c7e894"
-    },
-    {
-      "question": "Will Carolina Panthers finish the 2026-27 NFL regular season with the most return yards?",
-      "yes_ask": 0.042,
-      "no_ask": 0.999,
-      "sum": 1.041,
-      "liquidity": 204.60072,
-      "condition_id": "0xf2f3af1b95ccaa03c3ad121a46db700188b045c70f2ee07e434a017deb4c9108"
-    },
-    {
-      "question": "Will New Orleans Saints finish the 2026-27 NFL regular season with the most return yards?",
-      "yes_ask": 0.042,
-      "no_ask": 0.999,
-      "sum": 1.041,
-      "liquidity": 202.76772,
-      "condition_id": "0xa6b6f4b1e6d680895c86f623cf51c7de1e96bbefd95803093a6d35344199eb3c"
-    },
-    {
-      "question": "Will San Francisco 49ers finish the 2026-27 NFL regular season with the most return yards?",
-      "yes_ask": 0.042,
-      "no_ask": 0.999,
-      "sum": 1.041,
-      "liquidity": 193.64401,
-      "condition_id": "0x8a0ac9806a0ed9e07596d8b10fc1435c2e7bb68db8cbfed23faa82634d376f34"
-    },
-    {
-      "question": "Will Seattle Seahawks finish the 2026-27 NFL regular season with the most return yards?",
-      "yes_ask": 0.042,
-      "no_ask": 0.999,
-      "sum": 1.041,
-      "liquidity": 193.37628,
-      "condition_id": "0x9e15e195767890decba2f8f044863f4f42b9df1f35ff3f659da68c6594de82c8"
-    },
-    {
-      "question": "Next Z.ai GLM (5.4+) released by October 31, 2026?",
-      "yes_ask": 0.65,
-      "no_ask": 0.4,
-      "sum": 1.05,
-      "liquidity": 963.6986,
-      "condition_id": "0xeaa56c696156ee9f2c9bb97e8418352a2c472ffb0fa768abc55e29e9b3fd8f7f"
-    },
-    {
-      "question": "Exact Score: Bologna FC 1909 4 - 4 FC Internazionale Milano?",
-      "yes_ask": 0.051,
-      "no_ask": 0.999,
-      "sum": 1.05,
-      "liquidity": 674.81499,
-      "condition_id": "0x05534b5c3adf5d8408a7c6062033c9f0daa9cdb6f1bd9bea596165d544e7fcc8"
-    },
-    {
-      "question": "Spread: KF Egnatia Rrogozhin\u00eb (-2.5)",
-      "yes_ask": 0.072,
-      "no_ask": 0.991,
-      "sum": 1.063,
-      "liquidity": 2797.58939,
-      "condition_id": "0x84f033f6b53c361e5e57c6c0378eae2d9da7a68cbb89f3cae680faff779538b8"
-    },
-    {
-      "question": "Spread: AS Om\u00f3noia Leukos\u00edas (-4.5)",
-      "yes_ask": 0.068,
-      "no_ask": 0.999,
-      "sum": 1.067,
-      "liquidity": 1243.28269,
-      "condition_id": "0xc4bc2d0d70a935fe13429d530756fb40147a11cf0dea207ebfaea4d080aaf66e"
-    },
-    {
-      "question": "Will Dallas Cowboys finish the 2026-27 NFL regular season with the most return yards?",
-      "yes_ask": 0.07,
-      "no_ask": 0.999,
-      "sum": 1.069,
-      "liquidity": 183.68882,
-      "condition_id": "0x11cc8c6a57ccb97436faa4b6be166d2b79563b076ed6bc0ac2e3ceea77d0102b"
-    },
-    {
-      "question": "Spread: Brighton & Hove Albion FC (-5.5)",
-      "yes_ask": 0.23,
-      "no_ask": 0.84,
-      "sum": 1.07,
-      "liquidity": 2230.4935,
-      "condition_id": "0xb0bcf88fd5dd475c07eb93b4c8f008c55c370b1730ab7e4b2b737b68bc5242d9"
-    },
-    {
-      "question": "Will Indianapolis Colts finish the 2026-27 NFL regular season with the most return yards?",
-      "yes_ask": 0.08,
-      "no_ask": 0.999,
-      "sum": 1.079,
-      "liquidity": 206.81195,
-      "condition_id": "0x2be330290253f1346cf659f23509bed232ebcbd985e7c911ffc925fd78d69519"
-    },
-    {
-      "question": "Will Tennessee Titans finish the 2026-27 NFL regular season with the most return yards?",
-      "yes_ask": 0.08,
-      "no_ask": 0.999,
-      "sum": 1.079,
-      "liquidity": 206.68065,
-      "condition_id": "0x184ec933e1dac7f9f1ee456c4e31ac65b0a8b0c4f2dd04cc3d9f64bc930174b5"
-    },
-    {
-      "question": "Exact Score: Qingdao Hainiu FC 5 - 5 Liaoning Tieren FC?",
-      "yes_ask": 0.08,
-      "no_ask": 0.999,
-      "sum": 1.079,
-      "liquidity": 101.10896,
-      "condition_id": "0x7c52ddf12369f59c745b89b0ced66fb2d07d935db3e8d2d80826a1679742f029"
-    },
-    {
-      "question": "Will Florida be Ranked #1 during the 2026-27 CFB season?",
-      "yes_ask": 0.09,
-      "no_ask": 0.998,
-      "sum": 1.088,
-      "liquidity": 58.188,
-      "condition_id": "0x4bcc028e441f00bcdb6993be22a6740d967b52e99ee8ec8a370ffaebcc48a0f8"
-    },
-    {
-      "question": "Spread: KF Egnatia Rrogozhin\u00eb (-3.5)",
-      "yes_ask": 0.155,
-      "no_ask": 0.999,
-      "sum": 1.154,
-      "liquidity": 1188.16252,
-      "condition_id": "0x3f42a7fcdb2e45ffb174f20a879746492d141466de03c25d987203693ea7a332"
-    },
-    {
-      "question": "Will Jack Eichel record 30+ goals in the 2026-27 regular season?",
-      "yes_ask": 0.65,
-      "no_ask": 0.67,
-      "sum": 1.32,
-      "liquidity": 24.5096,
-      "condition_id": "0xef4486b6d8de6c1341b4fdeb5e50ee63f17c8016dde9033b2cb534bde8cf2c63"
-    },
-    {
-      "question": "Spread: NEC (-4.5)",
-      "yes_ask": 0.66,
-      "no_ask": 0.999,
-      "sum": 1.659,
-      "liquidity": 702.96638,
-      "condition_id": "0x756e83fbefaf0dffe7713f48550b4291c43a92ad606310a23671fffc006be8dc"
-    },
-    {
-      "question": "Abha Saudi Club vs. Al Faisaly Saudi Club: O/U 1.5",
-      "yes_ask": 0.99,
-      "no_ask": 0.98,
-      "sum": 1.97,
-      "liquidity": 16.0099,
-      "condition_id": "0x1f6abb745c9d82584d9a3b1ca48d50664f58904111977893d1896b964b7ddd6d"
-    },
-    {
-      "question": "Spread: PFC Ludogorets 1945 Razgrad (-4.5)",
-      "yes_ask": 0.99,
-      "no_ask": 0.99,
-      "sum": 1.98,
-      "liquidity": 0.6597,
-      "condition_id": "0x2cfcaff9fce47300a652ada1165a383e600f48ba7b68be7ac49ef3f6f0363df9"
-    }
+ "markets": 500,
+ "opps": [],
+ "near_misses": [],
+ "both_asks": 62,
+ "yes_only": 438,
+ "floor_top": [
+  [
+   1.003,
+   "Spread: Lincoln Red Imps FC (-2.5)",
+   0.004,
+   0.999,
+   4420.2051
+  ],
+  [
+   1.004,
+   "Exact Score: Brentford FC 0 - 5 Liverpool FC?",
+   0.006,
+   0.998,
+   27128.24871
+  ],
+  [
+   1.004,
+   "Spread: FC Thun (-2.5)",
+   0.007,
+   0.997,
+   4912.90609
+  ],
+  [
+   1.004,
+   "Spread: Lillestr\u00f8m SK (-2.5)",
+   0.009,
+   0.995,
+   7221.46114
+  ],
+  [
+   1.004,
+   "Spread: P\u00e1fos FC (-2.5)",
+   0.009,
+   0.995,
+   5426.08308
+  ],
+  [
+   1.005,
+   "Spread: FK Jablonec (-2.5)",
+   0.006,
+   0.999,
+   4784.26729
+  ],
+  [
+   1.005,
+   "Spread: Inter Club d'Escaldes (-2.5)",
+   0.009,
+   0.996,
+   4705.71006
+  ],
+  [
+   1.005,
+   "Spread: KF Egnatia Rrogozhin\u00eb (-2.5)",
+   0.016,
+   0.989,
+   6030.66912
   ]
+ ],
+ "scan_time": 48.87226986885071
 }
