@@ -1,0 +1,290 @@
+{
+  "ts": "2026-10-15T20:38:55Z",
+  "markets": 500,
+  "two_sided": 59,
+  "scan_time": 64.2,
+  "floor": 1.001,
+  "top5": [
+    [
+      1.001,
+      "Bank of Japan decreases interest rates by 50+ bps after",
+      0.002,
+      0.999,
+      1278.41428
+    ],
+    [
+      1.002,
+      "Will the highest temperature in Sao Paulo be 31\u00b0C or hi",
+      0.003,
+      0.999,
+      4392.78822
+    ],
+    [
+      1.004,
+      "Bitcoin more valuable than any company before 2027?",
+      0.018,
+      0.986,
+      3928.94623
+    ],
+    [
+      1.007,
+      "Exact Score: Manchester City FC 0 - 2 Ipswich Town FC?",
+      0.012,
+      0.995,
+      11368.2955
+    ],
+    [
+      1.008,
+      "Will Democrats win 12 or more House seats in Pennsylvan",
+      0.029,
+      0.979,
+      14617.94559
+    ]
+  ],
+  "tiers": {
+    "le1.000": 0,
+    "le1.005": 3,
+    "le1.010": 7,
+    "le1.020": 13,
+    "le1.050": 39,
+    "lt1.000": 0
+  },
+  "frozen": {
+    "Spread: GNK Dinamo Zagreb (-4.5)": [
+      7347893232496651636,
+      1.9889999999999999
+    ],
+    "Will \"Transformers One\" be the #2 global Netflix movie ": [
+      -6512290492884797470,
+      1.08
+    ],
+    "Philadelphia Union vs. Charlotte FC: Philadelphia Union": [
+      4118474318564662066,
+      1.05
+    ],
+    "Will Feyenoord finish as runner-up in the 2026-27 UEFA ": [
+      -9123284340767751999,
+      1.048
+    ],
+    "Will Florida be Ranked #1 during the 2026-27 CFB season": [
+      2623428482892992355,
+      1.088
+    ],
+    "Qingdao Hainiu FC vs. Liaoning Tieren FC: Qingdao Haini": [
+      5317360184190302510,
+      1.03
+    ],
+    "Nyiregyhaza Spartacus FC vs. Budapest Honved FC: O/U 2.": [
+      -107580630546599777,
+      1.02
+    ],
+    "Club ABB vs. Bamin Real Potos\u00ed: Bamin Real Potos\u00ed O/U 1": [
+      -4725756187448304720,
+      1.05
+    ],
+    "Will Democrats win 12 or more House seats in Pennsylvan": [
+      -8948545042897423915,
+      1.008
+    ],
+    "Portland Timbers vs. Colorado Rapids SC: Colorado Rapid": [
+      -6832228847445374643,
+      1.03
+    ],
+    "Pisa SC vs. US Cremonese: Pisa SC O/U 0.5": [
+      2900027706873231961,
+      1.05
+    ],
+    "Abha Saudi Club vs. Al Faisaly Saudi Club: O/U 1.5": [
+      -7078456224979849607,
+      1.97
+    ],
+    "Sukhothai FC vs. Rasisalai United: O/U 2.5": [
+      -588200010421209310,
+      1.03
+    ],
+    "Spread: SE Palmeiras (-1.5)": [
+      8020489277767842292,
+      1.04
+    ],
+    "Will Jack Eichel record 30+ goals in the 2026-27 regula": [
+      1466721633556549765,
+      1.31
+    ],
+    "Ashton Jeanty: Receptions O/U 3.5": [
+      -6435956171144926245,
+      1.51
+    ],
+    "Accrington Stanley FC vs. Gillingham FC: Accrington Sta": [
+      -2656820918138312467,
+      1.06
+    ],
+    "Will Z.ai be the #3 AI Lab at the end of October 2026 (": [
+      -3707890329547488087,
+      1.017
+    ],
+    "Plymouth Argyle FC vs. Huddersfield Town AFC: Plymouth ": [
+      1330189688621419873,
+      1.05
+    ],
+    "Paksi FC vs. WKW ETO FC Gyor: WKW ETO FC Gyor O/U 2.5": [
+      3424156549659315386,
+      1.1099999999999999
+    ],
+    "Club Atletico La Paz vs. Tlaxcala FC: Club Atletico La ": [
+      6154126865735549250,
+      1.06
+    ],
+    "Java United FC vs. Bali United: Bali United O/U 2.5": [
+      -9066404225919068737,
+      1.04
+    ],
+    "Bitcoin more valuable than any company before 2027?": [
+      -3010407583674763983,
+      1.004
+    ],
+    "Will the highest temperature in Miami be between 84-85\u00b0": [
+      8075248771470831386,
+      1.02
+    ],
+    "Next Z.ai GLM (5.4+) released by October 31, 2026?": [
+      4653376091158448787,
+      1.04
+    ],
+    "Sydney FC vs. Western Sydney Wanderers FC: Western Sydn": [
+      742220528400996049,
+      1.03
+    ],
+    "Auckland FC vs. Melbourne City FC: Auckland FC O/U 1.5": [
+      -4841411903363424183,
+      1.04
+    ],
+    "Al-Sailiya SC vs. Qatar SC: Al-Sailiya SC O/U 1.5": [
+      -7786408914870407250,
+      1.08
+    ],
+    "Will Robinhood Markets, Inc. (HOOD) hit (HIGH) $120 Wee": [
+      4126899245014745421,
+      1.074
+    ],
+    "Al Shahaniya vs. Al Arabi Doha SC: Al Shahaniya O/U 0.5": [
+      -3405904586093294824,
+      1.05
+    ],
+    "Aston Villa FC vs. Viking FK: Both Teams to Score": [
+      2700514952928690495,
+      1.02
+    ],
+    "Will the highest temperature in Sao Paulo be 31\u00b0C or hi": [
+      -5287268282827043451,
+      1.002
+    ],
+    "Washington State vs. Oregon State: O/U 51.5": [
+      -7660241407553038850,
+      1.02
+    ],
+    "Will Odisha FC win on 2026-10-17?": [
+      -2116100337678727859,
+      1.02
+    ],
+    "Red Star FC vs. AS Saint-\u00c9tienne: Red Star FC O/U 1.5": [
+      909933840048148819,
+      1.0499999999999998
+    ],
+    "Bank of Japan decreases interest rates by 50+ bps after": [
+      -3032536747276344278,
+      1.001
+    ],
+    "Will Religious Zionist Party\u2013Zehut win 3.25-4% of the v": [
+      4322974962769311120,
+      1.286
+    ],
+    "Will Palantir Technologies Inc. (PLTR) hit (HIGH) $228 ": [
+      -504593784771418264,
+      1.933
+    ],
+    "VVV Venlo vs. Jong AZ Alkmaar: Jong AZ Alkmaar O/U 1.5": [
+      -4871236236260218437,
+      1.04
+    ],
+    "Will Pittsburgh Steelers finish the 2026-27 NFL regular": [
+      -6025044247420710711,
+      1.041
+    ],
+    "Will Indianapolis Colts finish the 2026-27 NFL regular ": [
+      5548550000484665546,
+      1.079
+    ],
+    "Will Jacksonville Jaguars finish the 2026-27 NFL regula": [
+      4310958083323991750,
+      1.041
+    ],
+    "Will Tennessee Titans finish the 2026-27 NFL regular se": [
+      -7924581832031518633,
+      1.079
+    ],
+    "Will Denver Broncos finish the 2026-27 NFL regular seas": [
+      -4344190978319735112,
+      1.041
+    ],
+    "Will Kansas City Chiefs finish the 2026-27 NFL regular ": [
+      1379650910286467096,
+      1.041
+    ],
+    "Will Las Vegas Raiders finish the 2026-27 NFL regular s": [
+      7197616768268263104,
+      1.041
+    ],
+    "Will Dallas Cowboys finish the 2026-27 NFL regular seas": [
+      -3240395780353672154,
+      1.069
+    ],
+    "Will Atlanta Falcons finish the 2026-27 NFL regular sea": [
+      -3044149618520723232,
+      1.041
+    ],
+    "Will Carolina Panthers finish the 2026-27 NFL regular s": [
+      8399888206019581795,
+      1.041
+    ],
+    "Will New Orleans Saints finish the 2026-27 NFL regular ": [
+      7342764887118336447,
+      1.041
+    ],
+    "Will San Francisco 49ers finish the 2026-27 NFL regular": [
+      8465627148419942808,
+      1.041
+    ],
+    "Will Seattle Seahawks finish the 2026-27 NFL regular se": [
+      4838998926003443238,
+      1.041
+    ],
+    "Spread: PFC Ludogorets 1945 Razgrad (-4.5)": [
+      8177568866240223805,
+      1.98
+    ],
+    "Spread: Heart of Midlothian FC (-4.5)": [
+      -3363933198328310672,
+      1.967
+    ],
+    "Spread: Heart of Midlothian FC (-5.5)": [
+      3727857481421931792,
+      1.681
+    ],
+    "Spread: FC Nordsj\u00e6lland (-5.5)": [
+      4988137053983385626,
+      1.9889999999999999
+    ],
+    "Spread: FK Kauno \u017dalgiris (-4.5)": [
+      -1822921745989544180,
+      1.009
+    ],
+    "Spread: FK Kauno \u017dalgiris (-5.5)": [
+      1373099661660285114,
+      1.009
+    ],
+    "Exact Score: Manchester City FC 0 - 2 Ipswich Town FC?": [
+      -2084462011435410613,
+      1.007
+    ]
+  }
+}
