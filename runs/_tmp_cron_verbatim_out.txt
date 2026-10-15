@@ -1,3 +1,13 @@
-🔍 Scan: 500 markets in 55.2s
+🔍 Scan: 500 markets in 48.9s
 ✅ BRACKETS (sum < 1.00): 0
-📊 Near-misses (<=1.005): 0
+📊 Near-misses (asks[0], ≤1.005): 0
+📐 True min-ask floor (both-asks n=62, yes-only/unbracketable n=438):
+  1.003 | Yes@0.004 No@0.999 | liq 4420.2051 | Spread: Lincoln Red Imps FC (-2.5)
+  1.004 | Yes@0.006 No@0.998 | liq 27128.24871 | Exact Score: Brentford FC 0 - 5 Liverpool FC?
+  1.004 | Yes@0.007 No@0.997 | liq 4912.90609 | Spread: FC Thun (-2.5)
+  1.004 | Yes@0.009 No@0.995 | liq 7221.46114 | Spread: Lillestrøm SK (-2.5)
+  1.004 | Yes@0.009 No@0.995 | liq 5426.08308 | Spread: Páfos FC (-2.5)
+  1.005 | Yes@0.006 No@0.999 | liq 4784.26729 | Spread: FK Jablonec (-2.5)
+  1.005 | Yes@0.009 No@0.996 | liq 4705.71006 | Spread: Inter Club d'Escaldes (-2.5)
+  1.005 | Yes@0.016 No@0.989 | liq 6030.66912 | Spread: KF Egnatia Rrogozhinë (-2.5)
+persisted: runs/_tmp_cron_supp_data.json

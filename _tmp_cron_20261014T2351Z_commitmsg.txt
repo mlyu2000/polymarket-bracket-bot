@@ -1,0 +1,33 @@
+scan: 2026-10-14T23:51Z — 500 mkts, 0 brackets; scanner floor 1.003 (Lillestrøm), but TRUE floor still 1.001 (BTC above-$72k Oct-16 alive & invisible — sample rotation, not closure)
+
+Verbatim task script: 500 mkts in 54.9s, 0 brackets; near-miss block 0 as
+always (asks[0] DESC-sorted = worst ask — known artifact; detector uses
+min(all asks) correctly).
+
+Supplementary min(all asks) analysis:
+- markets: 500 | with both asks: 60 | two-sided: 60 | not bracketable: 440 (88%)
+- tiers: <=1.050 n46 (-1) | <=1.020 n25 (-1) | <=1.010 n14 (-2) | <=1.005 n5 (-2) | <1.000 n0
+- scanner-visible floor: 1.003 — Lillestrøm SK (-2.5) (Y0.010 N0.993, liq 7181.14)
+- TRUE floor still 1.001 — "Will the price of Bitcoin be above $72,000 on
+  October 16?" (Y0.996 N0.005): market is ACTIVE, closed=false, accepting
+  orders, live CLOB book unchanged from 23:37Z (liq 35657, volume ~1055). It
+  did NOT close — it fell out of the scanner's top-500-by-volume sample
+  (Gamma volume ~1055, below cutoff; restatement/rotation not distinguishable
+  from public data). Scanner floor is sample-bound; true floor unchanged.
+- Oct-15 $72k BTC market: active, accepting orders, but book one-sided
+  (YES asks=0/bids=55, NO asks=45/bids=0 — bids-only both legs) -> not bracketable.
+- Jablonec -2.5 exited the two-sided set (NO book now empty, Ymin=0.006);
+  offset by Canadiens vs Capitals entering (1.010, Y0.50 N0.51, liq 44614 —
+  deep genuine two-way book). Net two-sided 60->60.
+- next after Lillestrom: Thun -2.5 1.004, Viktoria Plzen -3.5 1.004,
+  Pafos -2.5 1.004, Hapoel Be'er Sheva -2.5 1.005, Inter Escaldes -2.5 1.006,
+  Egnatia -2.5 1.006, KuPS -2.5 1.007, Aarhus -3.5 1.009, Kauno Zalgiris -1.5 1.009
+- new entrants at tail: Canadiens vs Capitals 1.010, Millwall/Lincoln BTTS 1.010,
+  Sint-Truidense -1.5 1.010, Lillestrom -3.5 1.010, Lech Poznan -3.5 1.016,
+  Pafos -3.5 1.016, Uniao Torreense -3.5 1.016, Z.ai #3 AI Lab 1.016, Austin FC /
+  Hajduk Split / Egnatia / CSKA Sofia / Sporting KC / Craiova -3.5 1.018,
+  Washington State vs Oregon State O/U 51.5 1.020
+- floor history tail (scanner-visible): ...1.003->1.002->1.001->1.003
+  (true floor held at 1.001 throughout — BTC invisible only since this scan)
+- structural: 440 of 500 yes-only (88%) — NO books empty, brackets
+  unbuildable there; floor strictly > 1.00, no arbitrage (lt1.000 n0).

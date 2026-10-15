@@ -1,0 +1,85 @@
+total events=30 october events=21
+EVENT: Bitcoin above ___ on October 14? | slug: bitcoin-above-on-october-14-2026 | closed: True | endDate: 2026-10-14T16:00:00Z | volume: 1086406.431354
+   MKT: Will the price of Bitcoin be above $74,000 on October 14? | closed: True | volume: 59742.274223
+   MKT: Will the price of Bitcoin be above $76,000 on October 14? | closed: True | volume: 91158.11439100001
+   MKT: Will the price of Bitcoin be above $78,000 on October 14? | closed: True | volume: 113287.98960599999
+EVENT: Bitcoin above ___ on October 15? | slug: bitcoin-above-on-october-15-2026 | closed: False | endDate: 2026-10-15T16:00:00Z | volume: 489742.704775
+   MKT: Will the price of Bitcoin be above $72,000 on October 15? | closed: False | volume: 36489.081618
+   MKT: Will the price of Bitcoin be above $74,000 on October 15? | closed: False | volume: 46666.978000999996
+   MKT: Will the price of Bitcoin be above $76,000 on October 15? | closed: False | volume: 31823.566942000005
+EVENT: Bitcoin above ___ on October 16? | slug: bitcoin-above-on-october-16-2026 | closed: False | endDate: 2026-10-16T16:00:00Z | volume: 200891.697746
+   MKT: Will the price of Bitcoin be above $72,000 on October 16? | closed: False | volume: 1054.726833
+   MKT: Will the price of Bitcoin be above $74,000 on October 16? | closed: False | volume: 4128.443800999999
+   MKT: Will the price of Bitcoin be above $76,000 on October 16? | closed: False | volume: 25112.671982000003
+EVENT: Bitcoin above ___ on October 19? | slug: bitcoin-above-on-october-19-2026 | closed: False | endDate: 2026-10-19T16:00:00Z | volume: 56278.334823
+   MKT: Will the price of Bitcoin be above $72,000 on October 19? | closed: False | volume: 5827.892457999999
+   MKT: Will the price of Bitcoin be above $74,000 on October 19? | closed: False | volume: 8548.253988
+   MKT: Will the price of Bitcoin be above $76,000 on October 19? | closed: False | volume: 10347.48965
+EVENT: Bitcoin above ___ on October 17? | slug: bitcoin-above-on-october-17-2026 | closed: False | endDate: 2026-10-17T16:00:00Z | volume: 80649.907355
+   MKT: Will the price of Bitcoin be above $74,000 on October 17? | closed: False | volume: 7298.671381
+   MKT: Will the price of Bitcoin be above $76,000 on October 17? | closed: False | volume: 19847.103325
+   MKT: Will the price of Bitcoin be above $78,000 on October 17? | closed: False | volume: 12645.349026
+EVENT: Bitcoin above ___ on October 20? | slug: bitcoin-above-on-october-20-2026 | closed: False | endDate: 2026-10-20T16:00:00Z | volume: 24348.450687
+   MKT: Will the price of Bitcoin be above $74,000 on October 20? | closed: False | volume: 9940.502991
+   MKT: Will the price of Bitcoin be above $76,000 on October 20? | closed: False | volume: 5889.19678
+   MKT: Will the price of Bitcoin be above $78,000 on October 20? | closed: False | volume: 2268.745
+EVENT: Bitcoin above ___ on October 18? | slug: bitcoin-above-on-october-18-2026 | closed: False | endDate: 2026-10-18T16:00:00Z | volume: 77201.017484
+   MKT: Will the price of Bitcoin be above $74,000 on October 18? | closed: False | volume: 8075.3792
+   MKT: Will the price of Bitcoin be above $76,000 on October 18? | closed: False | volume: 9853.544450999998
+   MKT: Will the price of Bitcoin be above $78,000 on October 18? | closed: False | volume: 10679.335254
+EVENT: Bitcoin above ___ on October 14, 9AM ET? | slug: bitcoin-above-on-october-14-2026-9am-et | closed: True | endDate: 2026-10-14T13:00:00Z | volume: 3322.462383
+   MKT: Bitcoin above 85,400 on October 14, 9AM ET? | closed: True | volume: 14.994
+   MKT: Bitcoin above 85,200 on October 14, 9AM ET? | closed: True | volume: 14.994
+   MKT: Bitcoin above 85,000 on October 14, 9AM ET? | closed: True | volume: 15
+EVENT: Bitcoin above ___ on October 14, 1AM ET? | slug: bitcoin-above-on-october-14-2026-1am-et | closed: True | endDate: 2026-10-14T05:00:00Z | volume: 1349.946
+   MKT: Bitcoin above 85,800 on October 14, 1AM ET? | closed: True | volume: 14.994
+   MKT: Bitcoin above 85,600 on October 14, 1AM ET? | closed: True | volume: 14.994
+   MKT: Bitcoin above 85,400 on October 14, 1AM ET? | closed: True | volume: 14.994
+EVENT: Bitcoin above ___ on October 21? | slug: bitcoin-above-on-october-21-2026 | closed: False | endDate: 2026-10-21T16:00:00Z | volume: 1086.006631
+   MKT: Will the price of Bitcoin be above $72,000 on October 21? | closed: False | volume: 962.8
+   MKT: Will the price of Bitcoin be above $74,000 on October 21? | closed: False | volume: None
+   MKT: Will the price of Bitcoin be above $76,000 on October 21? | closed: False | volume: None
+EVENT: Bitcoin above ___ on October 14, 11AM ET? | slug: bitcoin-above-on-october-14-2026-11am-et | closed: True | endDate: 2026-10-14T15:00:00Z | volume: 976.9579
+   MKT: Bitcoin above 85,000 on October 14, 11AM ET? | closed: True | volume: 15
+   MKT: Bitcoin above 84,800 on October 14, 11AM ET? | closed: True | volume: 15
+   MKT: Bitcoin above 84,600 on October 14, 11AM ET? | closed: True | volume: 15
+EVENT: Bitcoin above ___ on October 14, 12PM ET? | slug: bitcoin-above-on-october-14-2026-12pm-et | closed: True | endDate: 2026-10-14T16:00:00Z | volume: 583.962
+   MKT: Bitcoin above 83,800 on October 14, 12PM ET? | closed: True | volume: 15
+   MKT: Bitcoin above 83,600 on October 14, 12PM ET? | closed: True | volume: None
+   MKT: Bitcoin above 83,400 on October 14, 12PM ET? | closed: True | volume: 15
+EVENT: Bitcoin above ___ on October 14, 2PM ET? | slug: bitcoin-above-on-october-14-2026-2pm-et | closed: True | endDate: 2026-10-14T18:00:00Z | volume: 530.170735
+   MKT: Bitcoin above 83,800 on October 14, 2PM ET? | closed: True | volume: 15
+   MKT: Bitcoin above 83,600 on October 14, 2PM ET? | closed: True | volume: 14.994
+   MKT: Bitcoin above 83,400 on October 14, 2PM ET? | closed: True | volume: 14.994
+EVENT: Bitcoin above ___ on October 14, 7AM ET? | slug: bitcoin-above-on-october-14-2026-7am-et | closed: True | endDate: 2026-10-14T11:00:00Z | volume: 470.010798
+   MKT: Bitcoin above 85,400 on October 14, 7AM ET? | closed: True | volume: 14.994
+   MKT: Bitcoin above 85,200 on October 14, 7AM ET? | closed: True | volume: 14.994
+   MKT: Bitcoin above 85,000 on October 14, 7AM ET? | closed: True | volume: 14.994
+EVENT: Bitcoin above ___ on October 14, 12AM ET? | slug: bitcoin-above-on-october-14-2026-12am-et | closed: True | endDate: 2026-10-14T04:00:00Z | volume: 457.895438
+   MKT: Bitcoin above 85,400 on October 14, 12AM ET? | closed: True | volume: 15
+   MKT: Bitcoin above 85,200 on October 14, 12AM ET? | closed: True | volume: 14.994
+   MKT: Bitcoin above 85,000 on October 14, 12AM ET? | closed: True | volume: 14.983999999999998
+EVENT: Bitcoin above ___ on October 14, 2AM ET? | slug: bitcoin-above-on-october-14-2026-2am-et | closed: True | endDate: 2026-10-14T06:00:00Z | volume: 464.982
+   MKT: Bitcoin above 85,800 on October 14, 2AM ET? | closed: True | volume: 15
+   MKT: Bitcoin above 85,600 on October 14, 2AM ET? | closed: True | volume: 15
+   MKT: Bitcoin above 85,400 on October 14, 2AM ET? | closed: True | volume: 15
+EVENT: Bitcoin above ___ on October 14, 5AM ET? | slug: bitcoin-above-on-october-14-2026-5am-et | closed: True | endDate: 2026-10-14T09:00:00Z | volume: 401.5543
+   MKT: Bitcoin above 85,400 on October 14, 5AM ET? | closed: True | volume: 15
+   MKT: Bitcoin above 85,200 on October 14, 5AM ET? | closed: True | volume: 15
+   MKT: Bitcoin above 85,000 on October 14, 5AM ET? | closed: True | volume: 15
+EVENT: Bitcoin above ___ on October 13, 9PM ET? | slug: bitcoin-above-on-october-13-2026-9pm-et | closed: True | endDate: 2026-10-14T01:00:00Z | volume: 389.087406
+   MKT: Bitcoin above 85,200 on October 13, 9PM ET? | closed: True | volume: 14.994
+   MKT: Bitcoin above 85,000 on October 13, 9PM ET? | closed: True | volume: 14.994
+   MKT: Bitcoin above 84,800 on October 13, 9PM ET? | closed: True | volume: 14.994
+EVENT: Bitcoin above ___ on October 14, 8AM ET? | slug: bitcoin-above-on-october-14-2026-8am-et | closed: True | endDate: 2026-10-14T12:00:00Z | volume: 374.311316
+   MKT: Bitcoin above 85,400 on October 14, 8AM ET? | closed: True | volume: 14.994
+   MKT: Bitcoin above 85,200 on October 14, 8AM ET? | closed: True | volume: 14.994
+   MKT: Bitcoin above 85,000 on October 14, 8AM ET? | closed: True | volume: 14.994
+EVENT: Bitcoin above ___ on October 14, 4AM ET? | slug: bitcoin-above-on-october-14-2026-4am-et | closed: True | endDate: 2026-10-14T08:00:00Z | volume: 362.312
+   MKT: Bitcoin above 85,400 on October 14, 4AM ET? | closed: True | volume: 14.994
+   MKT: Bitcoin above 85,200 on October 14, 4AM ET? | closed: True | volume: 14.994
+   MKT: Bitcoin above 85,000 on October 14, 4AM ET? | closed: True | volume: 14.994
+EVENT: Bitcoin above ___ on October 14, 3AM ET? | slug: bitcoin-above-on-october-14-2026-3am-et | closed: True | endDate: 2026-10-14T07:00:00Z | volume: 342.036
+   MKT: Bitcoin above 85,600 on October 14, 3AM ET? | closed: True | volume: 14.994
+   MKT: Bitcoin above 85,400 on October 14, 3AM ET? | closed: True | volume: 14.994
+   MKT: Bitcoin above 85,200 on October 14, 3AM ET? | closed: True | volume: 14.994

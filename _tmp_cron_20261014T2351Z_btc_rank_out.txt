@@ -1,0 +1,2 @@
+scanned 1000 active binary-ranked markets (volume desc)
+NO bitcoin/72,000 market anywhere in top-1000 by volume -> the above-$72k Oct-16 market is NOT active/closed=false in the volume ranking (i.e. it CLOSED or was pulled)

@@ -1,0 +1,26 @@
+events=5
+EVENT: Bitcoin above ___ on April 10, 8PM ET? | closed: True | active: True | volume: 6021.2567
+   MKT: Bitcoin above 70,800 on April 10, 8PM ET? | closed: True | volume: 1154.041 | liq: None
+   MKT: Bitcoin above 71,200 on April 10, 8PM ET? | closed: True | volume: 131.822 | liq: None
+   MKT: Bitcoin above 71,600 on April 10, 8PM ET? | closed: True | volume: 96.85350000000001 | liq: None
+   MKT: Bitcoin above 72,000 on April 10, 8PM ET? | closed: True | volume: 1035 | liq: None
+EVENT: Bitcoin above ___ on May 28, 3PM ET? | closed: True | active: True | volume: 0
+   MKT: Bitcoin above 71,600 on May 28, 3PM ET? | closed: True | volume: 150 | liq: None
+   MKT: Bitcoin above 71,800 on May 28, 3PM ET? | closed: True | volume: 149.994 | liq: None
+   MKT: Bitcoin above 72,000 on May 28, 3PM ET? | closed: True | volume: None | liq: 0
+   MKT: Bitcoin above 72,200 on May 28, 3PM ET? | closed: True | volume: 149.994 | liq: None
+EVENT: Bitcoin above ___ on May 28, 2PM ET? | closed: True | active: True | volume: 0
+   MKT: Bitcoin above 71,200 on May 28, 2PM ET? | closed: True | volume: None | liq: 0
+   MKT: Bitcoin above 71,400 on May 28, 2PM ET? | closed: True | volume: None | liq: 0
+   MKT: Bitcoin above 71,600 on May 28, 2PM ET? | closed: True | volume: None | liq: 0
+   MKT: Bitcoin above 71,800 on May 28, 2PM ET? | closed: True | volume: 200 | liq: None
+EVENT: Bitcoin above ___ on April 8, 5AM ET? | closed: True | active: True | volume: 72779.887357
+   MKT: Bitcoin above 69,600 on April 8, 5AM ET? | closed: True | volume: 10954.848 | liq: None
+   MKT: Bitcoin above 70,000 on April 8, 5AM ET? | closed: True | volume: 10199.1649 | liq: None
+   MKT: Bitcoin above 70,400 on April 8, 5AM ET? | closed: True | volume: 10177.99 | liq: None
+   MKT: Bitcoin above 70,800 on April 8, 5AM ET? | closed: True | volume: 10024.984 | liq: None
+EVENT: Bitcoin above ___ on April 9, 10AM ET? | closed: True | active: True | volume: 24011.761553
+   MKT: Bitcoin above 69,200 on April 9, 10AM ET? | closed: True | volume: 1005.424 | liq: None
+   MKT: Bitcoin above 69,600 on April 9, 10AM ET? | closed: True | volume: 1005 | liq: None
+   MKT: Bitcoin above 70,000 on April 9, 10AM ET? | closed: True | volume: 13571.458799999999 | liq: None
+   MKT: Bitcoin above 70,400 on April 9, 10AM ET? | closed: True | volume: 5669.158176 | liq: None

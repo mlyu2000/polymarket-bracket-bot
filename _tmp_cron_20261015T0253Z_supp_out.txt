@@ -1,0 +1,192 @@
+{
+  "ts": "2026-10-15T02:54:55Z",
+  "markets": 500,
+  "with_both_asks": 61,
+  "two_sided": 61,
+  "not_bracketable": 439,
+  "tiers": {
+    "<=1.050": 47,
+    "<=1.020": 28,
+    "<=1.010": 17,
+    "<=1.005": 8,
+    "<1.000": 0
+  },
+  "top25": [
+    {
+      "total": 1.003,
+      "q": "Spread: Lillestr\u00f8m SK (-2.5)",
+      "yes": 0.01,
+      "no": 0.993,
+      "liq": 6881.63733
+    },
+    {
+      "total": 1.003,
+      "q": "Spread: Lincoln Red Imps FC (-2.5)",
+      "yes": 0.004,
+      "no": 0.999,
+      "liq": 3391.59518
+    },
+    {
+      "total": 1.004,
+      "q": "Exact Score: Brentford FC 0 - 5 Liverpool FC?",
+      "yes": 0.006,
+      "no": 0.998,
+      "liq": 24596.80988
+    },
+    {
+      "total": 1.004,
+      "q": "Spread: FC Thun (-2.5)",
+      "yes": 0.007,
+      "no": 0.997,
+      "liq": 4920.33709
+    },
+    {
+      "total": 1.005,
+      "q": "Spread: FK Jablonec (-2.5)",
+      "yes": 0.006,
+      "no": 0.999,
+      "liq": 3960.33687
+    },
+    {
+      "total": 1.005,
+      "q": "Spread: Inter Club d'Escaldes (-2.5)",
+      "yes": 0.008,
+      "no": 0.997,
+      "liq": 4147.67296
+    },
+    {
+      "total": 1.005,
+      "q": "Spread: MH Hapoel Be'er Sheva (-2.5)",
+      "yes": 0.009,
+      "no": 0.996,
+      "liq": 5795.80321
+    },
+    {
+      "total": 1.005,
+      "q": "Spread: P\u00e1fos FC (-2.5)",
+      "yes": 0.009,
+      "no": 0.996,
+      "liq": 5021.61713
+    },
+    {
+      "total": 1.006,
+      "q": "Spread: Kuopion PS (-2.5)",
+      "yes": 0.014,
+      "no": 0.992,
+      "liq": 3014.81369
+    },
+    {
+      "total": 1.007,
+      "q": "Exact Score: Brentford FC 2 - 5 Liverpool FC?",
+      "yes": 0.009,
+      "no": 0.998,
+      "liq": 16502.89324
+    },
+    {
+      "total": 1.007,
+      "q": "Spread: KF Egnatia Rrogozhin\u00eb (-2.5)",
+      "yes": 0.016,
+      "no": 0.991,
+      "liq": 4861.12417
+    },
+    {
+      "total": 1.008,
+      "q": "Exact Score: Brentford FC 3 - 4 Liverpool FC?",
+      "yes": 0.013,
+      "no": 0.995,
+      "liq": 13816.67156
+    },
+    {
+      "total": 1.008,
+      "q": "Exact Score: Brentford FC 5 - 1 Liverpool FC?",
+      "yes": 0.013,
+      "no": 0.995,
+      "liq": 13540.70679
+    },
+    {
+      "total": 1.009,
+      "q": "Exact Score: Brentford FC 4 - 3 Liverpool FC?",
+      "yes": 0.014,
+      "no": 0.995,
+      "liq": 12160.32739
+    },
+    {
+      "total": 1.009,
+      "q": "Spread: FK Kauno \u017dalgiris (-1.5)",
+      "yes": 0.011,
+      "no": 0.998,
+      "liq": 4827.70033
+    },
+    {
+      "total": 1.01,
+      "q": "Spread: K. Sint-Truidense VV (-1.5)",
+      "yes": 0.54,
+      "no": 0.47,
+      "liq": 12916.5298
+    },
+    {
+      "total": 1.01,
+      "q": "Spread: Lillestr\u00f8m SK (-3.5)",
+      "yes": 0.012,
+      "no": 0.998,
+      "liq": 3525.26291
+    },
+    {
+      "total": 1.014,
+      "q": "Spread: SC Uni\u00e3o Torreense (-3.5)",
+      "yes": 0.015,
+      "no": 0.999,
+      "liq": 1909.21292
+    },
+    {
+      "total": 1.015,
+      "q": "Will Z.ai be the #3 AI Lab at the end of October 2026 (",
+      "yes": 0.017,
+      "no": 0.998,
+      "liq": 530.71682
+    },
+    {
+      "total": 1.016,
+      "q": "Spread: KF Egnatia Rrogozhin\u00eb (-3.5)",
+      "yes": 0.017,
+      "no": 0.999,
+      "liq": 3561.38241
+    },
+    {
+      "total": 1.016,
+      "q": "Spread: KKS Lech Pozna\u0144 (-3.5)",
+      "yes": 0.019,
+      "no": 0.997,
+      "liq": 4024.68695
+    },
+    {
+      "total": 1.016,
+      "q": "Spread: P\u00e1fos FC (-3.5)",
+      "yes": 0.017,
+      "no": 0.999,
+      "liq": 2181.6987
+    },
+    {
+      "total": 1.018,
+      "q": "Spread: HNK Hajduk Split (-3.5)",
+      "yes": 0.019,
+      "no": 0.999,
+      "liq": 3315.12456
+    },
+    {
+      "total": 1.018,
+      "q": "Spread: PFK CSKA Sofia (-3.5)",
+      "yes": 0.019,
+      "no": 0.999,
+      "liq": 3551.04137
+    },
+    {
+      "total": 1.018,
+      "q": "Spread: Universitatea Craiova CS (-3.5)",
+      "yes": 0.019,
+      "no": 0.999,
+      "liq": 3312.40936
+    }
+  ],
+  "scan_time": 60.4
+}

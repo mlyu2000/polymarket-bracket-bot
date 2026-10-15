@@ -1,0 +1,10 @@
+EVENT bitcoin-above-on-october-15-2026: closed=False active=True endDate=2026-10-15T16:00:00Z
+  MKT 'Will the price of Bitcoin be above $72,000 on October 15?'
+    closed=False active=True accepting_orders=True volume=36489.081618 liq=133446.22485 endDate=2026-10-15T16:00:00Z
+    token 672354860607... asks=0 bids=55 min_ask=None
+    token 383196056076... asks=55 bids=0 min_ask=0.001
+EVENT bitcoin-above-on-october-16-2026: closed=False active=True endDate=2026-10-16T16:00:00Z
+  MKT 'Will the price of Bitcoin be above $72,000 on October 16?'
+    closed=False active=True accepting_orders=True volume=1054.726833 liq=35657.57374 endDate=2026-10-16T16:00:00Z
+    token 800550950915... asks=4 bids=45 min_ask=0.996
+    token 114112565223... asks=45 bids=4 min_ask=0.005

@@ -1,0 +1,18 @@
+cron scan 2026-10-15T00:40Z: 0 brackets/500 mkts; true floor 1.003
+
+- Verbatim scan: 500 markets, 54.1s, 0 BRACKETS (sum<1.00)
+- Near-miss block (asks[0]) = 0 — known DESC-sort artifact, ignore
+- True floor (min all asks, both legs): 1.003 — unchanged from 00:25Z
+  - Lillestrøm SK (-2.5): Y0.010 N0.993, liq 7199 (was 7211 @00:25Z)
+  - FC Thun (-2.5) 1.004 (Y0.007 N0.997, liq 4936)
+  - Páfos FC (-2.5) 1.004 (Y0.009 N0.995, liq 3924)
+  - Hapoel Be'er Sheva (-2.5) 1.005 (Y0.009 N0.996, liq 5787)
+  - Escaldes (-2.5) / Egnatia (-2.5) 1.006
+- Tiers: <=1.050 n45, <=1.020 n24, <=1.010 n11, <=1.005 n4, <1.000 n0
+  (vs 00:25Z: 43/24/12/5/0 — stable)
+- Structural: 66/500 two-sided with both asks; 426 yes-only; 8 no-book; 87% not bracketable
+- BTC above-$72k Oct-15 (resolves 16:00Z today): CONFIRMED alive via direct
+  gamma lookup (slug bitcoin-above-72k-on-october-15-2026, liq 133k, vol 36k,
+  outcomePrices 0.9995/0.0005) but UNBRACKETABLE — YES book ZERO asks (bids
+  to 0.999, 64 levels), NO book ZERO bids (asks from 0.001, 64 levels).
+  Invisible to scanner (high-liquidity market, sample is liquidity-ascending).

@@ -1,0 +1,4 @@
+'Spread: FK Jablonec (-2.5)' | Ymin=0.006 Nmin=None | sum=None | liq=2790.59598
+'Spread: FK Jablonec (-3.5)' | Ymin=0.21 Nmin=None | sum=None | liq=294.3675
+'Spread: FK Jablonec (-4.5)' | Ymin=0.8 Nmin=None | sum=None | liq=161.8561
+'Spread: FK Jablonec (-5.5)' | Ymin=0.89 Nmin=None | sum=None | liq=78.6079

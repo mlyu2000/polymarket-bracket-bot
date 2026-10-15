@@ -1,0 +1,15 @@
+scan_time=53.2s markets=500
+two_sided=73 yes_or_no_only=419 empty=8
+true_min_ask_floor=1.0040
+<=1.050: 53 | <=1.020: 30 | <=1.010: 18
+--- top 8 closest ---
+  1.0040 | Y@0.010 N@0.994 | liq=6332.28869 | Spread: Lillestrøm SK (-2.5)
+  1.0040 | Y@0.008 N@0.996 | liq=9485.55513 | Spread: Sporting Kansas City (-2.5)
+  1.0050 | Y@0.009 N@0.996 | liq=11644.50716 | Exact Score: AFC Bournemouth 4 - 3 SK Puntigamer Sturm Graz?
+  1.0050 | Y@0.009 N@0.996 | liq=4570.33802 | Spread: FC Thun (-2.5)
+  1.0050 | Y@0.007 N@0.998 | liq=4149.14735 | Spread: FK Jablonec (-2.5)
+  1.0050 | Y@0.009 N@0.996 | liq=5289.18963 | Spread: MH Hapoel Be'er Sheva (-2.5)
+  1.0050 | Y@0.010 N@0.995 | liq=4898.97793 | Spread: Páfos FC (-2.5)
+  1.0060 | Y@0.009 N@0.997 | liq=15990.20391 | Exact Score: Venezia FC 4 - 1 SSC Napoli?
+--- bracketable (floor < 1.00) ---
+count=0

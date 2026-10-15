@@ -1,0 +1,8 @@
+Verbatim task script output — run 2026-10-14T23:51Z (cd ~/projects/polymarket-bracket-bot && source venv/bin/activate && PYTHONPATH=$PWD python3 runs/_tmp_cron_scan.py)
+
+🔍 Scan: 500 markets in 54.9s
+✅ BRACKETS (sum < 1.00): 0
+📊 Near-misses (<=1.005): 0
+
+Note: near-miss block uses asks[0] but /book asks are DESC-sorted (asks[0] = worst ask),
+so the 0 is the known artifact; detector.detect() uses min(all asks) correctly.

@@ -1,0 +1,102 @@
+{
+ "ts": "2026-10-15T03:43Z",
+ "markets": 500,
+ "scan_time": 56.1,
+ "both_asks": 66,
+ "yes_only": 422,
+ "no_asks_only": 4,
+ "no_books": 8,
+ "tiers": {
+  "lt1.000": 0,
+  "le1.050": 50,
+  "le1.020": 28,
+  "le1.010": 16,
+  "le1.005": 8
+ },
+ "top12": [
+  [
+   1.003,
+   "Spread: Lillestr\u00f8m SK (-2.5)",
+   0.01,
+   0.993,
+   6112.92974
+  ],
+  [
+   1.003,
+   "Spread: Lincoln Red Imps FC (-2.5)",
+   0.004,
+   0.999,
+   3373.61511
+  ],
+  [
+   1.004,
+   "Exact Score: Brentford FC 0 - 5 Liverpool FC?",
+   0.006,
+   0.998,
+   27126.20471
+  ],
+  [
+   1.004,
+   "Spread: FC Thun (-2.5)",
+   0.007,
+   0.997,
+   4909.85909
+  ],
+  [
+   1.005,
+   "Spread: FK Jablonec (-2.5)",
+   0.006,
+   0.999,
+   3825.88179
+  ],
+  [
+   1.005,
+   "Spread: Inter Club d'Escaldes (-2.5)",
+   0.008,
+   0.997,
+   4132.58096
+  ],
+  [
+   1.005,
+   "Spread: MH Hapoel Be'er Sheva (-2.5)",
+   0.009,
+   0.996,
+   5977.05934
+  ],
+  [
+   1.005,
+   "Spread: P\u00e1fos FC (-2.5)",
+   0.009,
+   0.996,
+   4998.51608
+  ],
+  [
+   1.006,
+   "Spread: Kuopion PS (-2.5)",
+   0.014,
+   0.992,
+   3105.25969
+  ],
+  [
+   1.007,
+   "Exact Score: Brentford FC 2 - 5 Liverpool FC?",
+   0.009,
+   0.998,
+   16522.89331
+  ],
+  [
+   1.007,
+   "Spread: KF Egnatia Rrogozhin\u00eb (-2.5)",
+   0.016,
+   0.991,
+   4393.95612
+  ],
+  [
+   1.008,
+   "Exact Score: Brentford FC 3 - 4 Liverpool FC?",
+   0.013,
+   0.995,
+   14916.03276
+  ]
+ ]
+}

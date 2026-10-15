@@ -1,0 +1,19 @@
+scan: 2026-10-14T23:37Z — 500 mkts, 0 brackets, floor 1.001 (BTC sole leader)
+
+Verbatim scan (asks[0] near-miss block): 0 brackets, 0 near-misses (known
+artifact — /book asks are DESC-sorted, asks[0] is the worst ask).
+
+Supplementary min(all asks) analysis:
+- markets: 500 | with both asks: 60 | two-sided: 60 | not bracketable: 440 (88%)
+- tiers: <=1.050 n47 | <=1.020 n26 | <=1.010 n16 | <=1.005 n7 | <1.000 n0
+- TRUE floor: 1.001 — BTC "above $72,000 on October 1..." (Y0.996 N0.005,
+  liq 17702.83), NEW sole leader, floor 1.002 -> 1.001
+- next: Lillestrom -2.5 1.003 (Y0.010 N0.993, liq 7181.14)
+- Thun -2.5 1.004, Viktoria Plzen -3.5 1.004, Jablonec -2.5 1.004,
+  Pafos -2.5 1.004, Hapoel Be'er Sheva -2.5 1.005, Inter Escaldes -2.5 1.006,
+  Egnatia -2.5 1.007, KuPS -2.5 1.007, Sporting KC -3.5 1.007,
+  Aarhus -3.5 1.009, Kauno Zalgiris -1.5 1.009
+- new entrants at tail: Millwall/Lincoln BTTS 1.010, Sint-Truidense -1.5 1.010,
+  Lillestrom -3.5 1.010, Z.ai #3 AI Lab 1.014
+- BTC move vs 22:39Z: Y0.995->0.996, N0.010->0.005, liq 11072->17703
+- floor history tail: ...1.004->1.003->1.003->1.004->1.003->1.002->1.001
