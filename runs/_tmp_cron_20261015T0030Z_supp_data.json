@@ -1,0 +1,124 @@
+{
+ "ts": "2026-10-15T00:40Z",
+ "markets": 500,
+ "scan_time": 52.4,
+ "both_asks": 66,
+ "yes_only": 426,
+ "no_asks_only": 0,
+ "no_books": 8,
+ "tiers": {
+  "lt1.000": 0,
+  "le1.050": 45,
+  "le1.020": 24,
+  "le1.010": 11,
+  "le1.005": 4
+ },
+ "top15": [
+  [
+   1.003,
+   "Spread: Lillestr\u00f8m SK (-2.5)",
+   0.01,
+   0.993,
+   7199.38739
+  ],
+  [
+   1.004,
+   "Spread: FC Thun (-2.5)",
+   0.007,
+   0.997,
+   4935.70942
+  ],
+  [
+   1.004,
+   "Spread: P\u00e1fos FC (-2.5)",
+   0.009,
+   0.995,
+   3924.14242
+  ],
+  [
+   1.005,
+   "Spread: MH Hapoel Be'er Sheva (-2.5)",
+   0.009,
+   0.996,
+   5787.47232
+  ],
+  [
+   1.006,
+   "Spread: Inter Club d'Escaldes (-2.5)",
+   0.009,
+   0.997,
+   4147.12601
+  ],
+  [
+   1.006,
+   "Spread: KF Egnatia Rrogozhin\u00eb (-2.5)",
+   0.015,
+   0.991,
+   4318.00517
+  ],
+  [
+   1.007,
+   "Spread: Kuopion PS (-2.5)",
+   0.014,
+   0.993,
+   3021.81559
+  ],
+  [
+   1.009,
+   "Spread: FK Kauno \u017dalgiris (-1.5)",
+   0.011,
+   0.998,
+   4885.14582
+  ],
+  [
+   1.01,
+   "Millwall FC vs. Lincoln City FC: Both Teams to Score",
+   0.54,
+   0.47,
+   2314.5421
+  ],
+  [
+   1.01,
+   "Spread: K. Sint-Truidense VV (-1.5)",
+   0.54,
+   0.47,
+   13087.7396
+  ],
+  [
+   1.01,
+   "Spread: Lillestr\u00f8m SK (-3.5)",
+   0.012,
+   0.998,
+   3544.08269
+  ],
+  [
+   1.014,
+   "Spread: SC Uni\u00e3o Torreense (-3.5)",
+   0.015,
+   0.999,
+   1789.26378
+  ],
+  [
+   1.016,
+   "Spread: KKS Lech Pozna\u0144 (-3.5)",
+   0.019,
+   0.997,
+   4027.39097
+  ],
+  [
+   1.016,
+   "Spread: P\u00e1fos FC (-3.5)",
+   0.017,
+   0.999,
+   2181.1477
+  ],
+  [
+   1.016,
+   "Will Z.ai be the #3 AI Lab at the end of October 2026 (Style Control O",
+   0.018,
+   0.998,
+   881.65267
+  ]
+ ],
+ "btc_72k": null
+}
