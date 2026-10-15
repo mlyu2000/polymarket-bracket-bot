@@ -1,0 +1,190 @@
+{
+  "scan_time": 60.542014598846436,
+  "markets": 500,
+  "two_sided": 87,
+  "brackets": [],
+  "top25": [
+    {
+      "q": "Bank of Japan decreases interest rates by 50+ bps after the December 2026 meeting?",
+      "min_yes": 0.002,
+      "min_no": 0.999,
+      "total": 1.001,
+      "liq": 1425.75929
+    },
+    {
+      "q": "Spread: Lincoln Red Imps FC (-2.5)",
+      "min_yes": 0.003,
+      "min_no": 0.999,
+      "total": 1.002,
+      "liq": 17941.9951
+    },
+    {
+      "q": "Spread: FK Jablonec (-2.5)",
+      "min_yes": 0.003,
+      "min_no": 0.999,
+      "total": 1.002,
+      "liq": 11524.4457
+    },
+    {
+      "q": "Spread: Lillestr\u00f8m SK (-2.5)",
+      "min_yes": 0.01,
+      "min_no": 0.993,
+      "total": 1.003,
+      "liq": 32314.01275
+    },
+    {
+      "q": "Bitcoin more valuable than any company before 2027?",
+      "min_yes": 0.018,
+      "min_no": 0.986,
+      "total": 1.004,
+      "liq": 3928.94623
+    },
+    {
+      "q": "Spread: FC Thun (-2.5)",
+      "min_yes": 0.008,
+      "min_no": 0.996,
+      "total": 1.004,
+      "liq": 17242.07489
+    },
+    {
+      "q": "Spread: FC Thun (-3.5)",
+      "min_yes": 0.005,
+      "min_no": 0.999,
+      "total": 1.004,
+      "liq": 3697.74247
+    },
+    {
+      "q": "Spread: FK Jablonec (-3.5)",
+      "min_yes": 0.005,
+      "min_no": 0.999,
+      "total": 1.004,
+      "liq": 1527.9381
+    },
+    {
+      "q": "Spread: P\u00e1fos FC (-3.5)",
+      "min_yes": 0.005,
+      "min_no": 0.999,
+      "total": 1.004,
+      "liq": 4453.24
+    },
+    {
+      "q": "Spread: FK Kauno \u017dalgiris (-1.5)",
+      "min_yes": 0.005,
+      "min_no": 0.999,
+      "total": 1.004,
+      "liq": 22944.59572
+    },
+    {
+      "q": "Spread: Inter Club d'Escaldes (-2.5)",
+      "min_yes": 0.009,
+      "min_no": 0.995,
+      "total": 1.004,
+      "liq": 28500.94203
+    },
+    {
+      "q": "Spread: Kuopion PS (-3.5)",
+      "min_yes": 0.005,
+      "min_no": 0.999,
+      "total": 1.004,
+      "liq": 8321.95155
+    },
+    {
+      "q": "Spread: P\u00e1fos FC (-2.5)",
+      "min_yes": 0.01,
+      "min_no": 0.995,
+      "total": 1.005,
+      "liq": 16836.49921
+    },
+    {
+      "q": "Spread: KF Egnatia Rrogozhin\u00eb (-2.5)",
+      "min_yes": 0.013,
+      "min_no": 0.992,
+      "total": 1.005,
+      "liq": 21562.60953
+    },
+    {
+      "q": "Exact Score: Venezia FC 4 - 3 SSC Napoli?",
+      "min_yes": 0.007,
+      "min_no": 0.998,
+      "total": 1.005,
+      "liq": 21991.77458
+    },
+    {
+      "q": "Exact Score: Venezia FC 3 - 4 SSC Napoli?",
+      "min_yes": 0.01,
+      "min_no": 0.996,
+      "total": 1.006,
+      "liq": 15541.00063
+    },
+    {
+      "q": "Exact Score: Venezia FC 2 - 5 SSC Napoli?",
+      "min_yes": 0.011,
+      "min_no": 0.996,
+      "total": 1.007,
+      "liq": 14682.50142
+    },
+    {
+      "q": "Will Democrats win 12 or more House seats in Pennsylvania in the 2026 midterm elections?",
+      "min_yes": 0.029,
+      "min_no": 0.979,
+      "total": 1.008,
+      "liq": 14266.70354
+    },
+    {
+      "q": "Exact Score: RC Strasbourg Alsace 4 - 2 Paris Saint-Germain FC?",
+      "min_yes": 0.012,
+      "min_no": 0.996,
+      "total": 1.008,
+      "liq": 10915.23645
+    },
+    {
+      "q": "Exact Score: RC Strasbourg Alsace 3 - 5 Paris Saint-Germain FC?",
+      "min_yes": 0.012,
+      "min_no": 0.996,
+      "total": 1.008,
+      "liq": 10129.08051
+    },
+    {
+      "q": "Spread: FC Viktoria Plze\u0148 (-3.5)",
+      "min_yes": 0.01,
+      "min_no": 0.999,
+      "total": 1.009,
+      "liq": 9181.19151
+    },
+    {
+      "q": "Will the highest temperature in Cape Town be 18\u00b0C on October 16?",
+      "min_yes": 0.01,
+      "min_no": 0.999,
+      "total": 1.009,
+      "liq": 3278.54779
+    },
+    {
+      "q": "Spread: KKS Lech Pozna\u0144 (-3.5)",
+      "min_yes": 0.01,
+      "min_no": 0.999,
+      "total": 1.009,
+      "liq": 38470.21423
+    },
+    {
+      "q": "Spread: Aarhus GF (-3.5)",
+      "min_yes": 0.01,
+      "min_no": 0.999,
+      "total": 1.009,
+      "liq": 5790.4765
+    },
+    {
+      "q": "Spread: KF Egnatia Rrogozhin\u00eb (-3.5)",
+      "min_yes": 0.01,
+      "min_no": 0.999,
+      "total": 1.009,
+      "liq": 6180.84565
+    }
+  ],
+  "tiers": {
+    "le1.005": 15,
+    "le1.010": 27,
+    "le1.020": 34,
+    "le1.050": 68,
+    "lt1.000": 0
+  }
+}
