@@ -1,0 +1,95 @@
+{
+  "ts": "20261015T0932Z",
+  "markets": 500,
+  "two_sided": 75,
+  "unbracketable": 425,
+  "floor": 1.001,
+  "top": [
+    {
+      "sum": 1.001,
+      "q": "Bank of Japan decreases interest rates by 50+ bps after the December 2026 meetin",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 837.04779
+    },
+    {
+      "sum": 1.002,
+      "q": "Spread: Lincoln Red Imps FC (-2.5)",
+      "yes": 0.003,
+      "no": 0.999,
+      "liq": 5479.82639
+    },
+    {
+      "sum": 1.002,
+      "q": "Spread: FK Jablonec (-2.5)",
+      "yes": 0.004,
+      "no": 0.998,
+      "liq": 15404.78336
+    },
+    {
+      "sum": 1.004,
+      "q": "Spread: Lillestr\u00f8m SK (-2.5)",
+      "yes": 0.011,
+      "no": 0.993,
+      "liq": 6775.09792
+    },
+    {
+      "sum": 1.004,
+      "q": "Spread: FC Thun (-2.5)",
+      "yes": 0.008,
+      "no": 0.996,
+      "liq": 14277.74921
+    },
+    {
+      "sum": 1.004,
+      "q": "Exact Score: Venezia FC 4 - 3 SSC Napoli?",
+      "yes": 0.006,
+      "no": 0.998,
+      "liq": 21543.61289
+    },
+    {
+      "sum": 1.005,
+      "q": "Spread: MH Hapoel Be'er Sheva (-2.5)",
+      "yes": 0.012,
+      "no": 0.993,
+      "liq": 27375.51327
+    },
+    {
+      "sum": 1.005,
+      "q": "Spread: P\u00e1fos FC (-2.5)",
+      "yes": 0.008,
+      "no": 0.997,
+      "liq": 5809.97762
+    },
+    {
+      "sum": 1.005,
+      "q": "Spread: Inter Club d'Escaldes (-2.5)",
+      "yes": 0.008,
+      "no": 0.997,
+      "liq": 5911.49051
+    },
+    {
+      "sum": 1.005,
+      "q": "Spread: KF Egnatia Rrogozhin\u00eb (-2.5)",
+      "yes": 0.016,
+      "no": 0.989,
+      "liq": 15047.36178
+    },
+    {
+      "sum": 1.005,
+      "q": "Exact Score: Bologna FC 1909 4 - 2 FC Internazionale Milano?",
+      "yes": 0.008,
+      "no": 0.997,
+      "liq": 18186.95703
+    },
+    {
+      "sum": 1.005,
+      "q": "Exact Score: Brentford FC 4 - 4 Liverpool FC?",
+      "yes": 0.007,
+      "no": 0.998,
+      "liq": 22687.24978
+    }
+  ],
+  "le1.010": 25,
+  "lt1.000": 0
+}
