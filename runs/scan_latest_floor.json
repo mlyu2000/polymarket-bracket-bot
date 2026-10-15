@@ -1,10 +1,11 @@
 {
- "run": "20261008T102205Z",
- "floor": 1.004,
- "market": "Will US unemployment reach at least 6.0% in 2026?",
- "yes": 0.008,
- "no": 0.996,
- "liq": 3379.82896,
- "prev_floor": 1.001,
- "prev_run": "20261008T083905Z"
+ "run": "20261015T001017Z",
+ "floor": 1.003,
+ "market": "Spread: Lillestr\u00f8m SK (-2.5)",
+ "yes": 0.01,
+ "no": 0.993,
+ "liq": 7181.69339,
+ "prev_floor": 1.004,
+ "prev_run": "20261008T102205Z",
+ "prev_market": "Will US unemployment reach at least 6.0% in 2026?"
 }

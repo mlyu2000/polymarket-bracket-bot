@@ -1,0 +1,192 @@
+{
+  "ts": "2026-10-15T00:11:11Z",
+  "markets": 500,
+  "with_both_asks": 63,
+  "two_sided": 63,
+  "not_bracketable": 437,
+  "tiers": {
+    "<=1.050": 43,
+    "<=1.020": 23,
+    "<=1.010": 12,
+    "<=1.005": 4,
+    "<1.000": 0
+  },
+  "top25": [
+    {
+      "total": 1.003,
+      "q": "Spread: Lillestr\u00f8m SK (-2.5)",
+      "yes": 0.01,
+      "no": 0.993,
+      "liq": 7181.69339
+    },
+    {
+      "total": 1.004,
+      "q": "Spread: FC Thun (-2.5)",
+      "yes": 0.007,
+      "no": 0.997,
+      "liq": 4888.49842
+    },
+    {
+      "total": 1.004,
+      "q": "Spread: P\u00e1fos FC (-2.5)",
+      "yes": 0.009,
+      "no": 0.995,
+      "liq": 5019.85639
+    },
+    {
+      "total": 1.005,
+      "q": "Spread: MH Hapoel Be'er Sheva (-2.5)",
+      "yes": 0.009,
+      "no": 0.996,
+      "liq": 5734.39617
+    },
+    {
+      "total": 1.006,
+      "q": "Spread: Inter Club d'Escaldes (-2.5)",
+      "yes": 0.009,
+      "no": 0.997,
+      "liq": 4130.81971
+    },
+    {
+      "total": 1.006,
+      "q": "Spread: KF Egnatia Rrogozhin\u00eb (-2.5)",
+      "yes": 0.015,
+      "no": 0.991,
+      "liq": 4571.04799
+    },
+    {
+      "total": 1.006,
+      "q": "Spread: Sporting Kansas City (-3.5)",
+      "yes": 0.007,
+      "no": 0.999,
+      "liq": 3112.15308
+    },
+    {
+      "total": 1.007,
+      "q": "Spread: Kuopion PS (-2.5)",
+      "yes": 0.014,
+      "no": 0.993,
+      "liq": 3030.04559
+    },
+    {
+      "total": 1.009,
+      "q": "Spread: FK Kauno \u017dalgiris (-1.5)",
+      "yes": 0.011,
+      "no": 0.998,
+      "liq": 4884.39081
+    },
+    {
+      "total": 1.01,
+      "q": "Millwall FC vs. Lincoln City FC: Both Teams to Score",
+      "yes": 0.54,
+      "no": 0.47,
+      "liq": 2401.7802
+    },
+    {
+      "total": 1.01,
+      "q": "Spread: K. Sint-Truidense VV (-1.5)",
+      "yes": 0.54,
+      "no": 0.47,
+      "liq": 14951.6671
+    },
+    {
+      "total": 1.01,
+      "q": "Spread: Lillestr\u00f8m SK (-3.5)",
+      "yes": 0.012,
+      "no": 0.998,
+      "liq": 3541.42969
+    },
+    {
+      "total": 1.014,
+      "q": "Spread: SC Uni\u00e3o Torreense (-3.5)",
+      "yes": 0.015,
+      "no": 0.999,
+      "liq": 1789.26378
+    },
+    {
+      "total": 1.016,
+      "q": "Spread: KKS Lech Pozna\u0144 (-3.5)",
+      "yes": 0.019,
+      "no": 0.997,
+      "liq": 4022.52197
+    },
+    {
+      "total": 1.016,
+      "q": "Spread: P\u00e1fos FC (-3.5)",
+      "yes": 0.017,
+      "no": 0.999,
+      "liq": 2204.0557
+    },
+    {
+      "total": 1.016,
+      "q": "Will Z.ai be the #3 AI Lab at the end of October 2026 (",
+      "yes": 0.018,
+      "no": 0.998,
+      "liq": 933.84064
+    },
+    {
+      "total": 1.018,
+      "q": "Spread: Austin FC (-3.5)",
+      "yes": 0.019,
+      "no": 0.999,
+      "liq": 3788.59285
+    },
+    {
+      "total": 1.018,
+      "q": "Spread: HNK Hajduk Split (-3.5)",
+      "yes": 0.019,
+      "no": 0.999,
+      "liq": 3324.36444
+    },
+    {
+      "total": 1.018,
+      "q": "Spread: KF Egnatia Rrogozhin\u00eb (-3.5)",
+      "yes": 0.019,
+      "no": 0.999,
+      "liq": 3314.99813
+    },
+    {
+      "total": 1.018,
+      "q": "Spread: PFK CSKA Sofia (-3.5)",
+      "yes": 0.019,
+      "no": 0.999,
+      "liq": 3543.46636
+    },
+    {
+      "total": 1.018,
+      "q": "Spread: Universitatea Craiova CS (-3.5)",
+      "yes": 0.019,
+      "no": 0.999,
+      "liq": 3321.06373
+    },
+    {
+      "total": 1.019,
+      "q": "Spread: Aarhus GF (-3.5)",
+      "yes": 0.02,
+      "no": 0.999,
+      "liq": 3251.45208
+    },
+    {
+      "total": 1.02,
+      "q": "Washington State vs. Oregon State: O/U 51.5",
+      "yes": 0.54,
+      "no": 0.48,
+      "liq": 15686.4054
+    },
+    {
+      "total": 1.023,
+      "q": "Spread: FC Viktoria Plze\u0148 (-3.5)",
+      "yes": 0.029,
+      "no": 0.994,
+      "liq": 3450.76807
+    },
+    {
+      "total": 1.03,
+      "q": "Nyiregyhaza Spartacus FC vs. Budapest Honved FC: O/U 2.",
+      "yes": 0.58,
+      "no": 0.45,
+      "liq": 1173.5939
+    }
+  ],
+  "scan_time": 53.0
+}
