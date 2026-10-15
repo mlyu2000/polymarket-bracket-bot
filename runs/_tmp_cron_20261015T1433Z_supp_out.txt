@@ -1,0 +1,12 @@
+two-sided: 78/500 (84.4% not bracketable)
+tiers: {'le1.005': 5, 'le1.010': 12, 'le1.020': 22, 'le1.050': 53, 'lt1.000': 0}
+top-8 by min-ask:
+  1.0010 | Yes@0.002 No@0.999 | liq 1,316 | Bank of Japan decreases interest rates by 50+ bps after the 
+  1.0020 | Yes@0.003 No@0.999 | liq 16,844 | Spread: FK Jablonec (-2.5)
+  1.0030 | Yes@0.004 No@0.999 | liq 15,575 | Spread: Lincoln Red Imps FC (-2.5)
+  1.0040 | Yes@0.018 No@0.986 | liq 3,929 | Bitcoin more valuable than any company before 2027?
+  1.0050 | Yes@0.011 No@0.994 | liq 8,537 | Spread: Lillestrøm SK (-2.5)
+  1.0060 | Yes@0.009 No@0.997 | liq 15,138 | Spread: FC Thun (-2.5)
+  1.0060 | Yes@0.010 No@0.996 | liq 25,830 | Spread: Inter Club d'Escaldes (-2.5)
+  1.0070 | Yes@0.008 No@0.999 | liq 15,420 | Spread: Páfos FC (-2.5)
+saved runs/_tmp_cron_20261015T1433Z_supp_data.json
