@@ -1,0 +1,88 @@
+{
+  "timestamp": "2026-10-15T07:09:37.563397+00:00",
+  "markets_scanned": 500,
+  "scan_time_s": 62.8,
+  "brackets": 0,
+  "floor": 1.003,
+  "two_sided": 62,
+  "unbracketable": 438,
+  "distribution": {
+    "le1.050": 42,
+    "le1.020": 19,
+    "le1.010": 14,
+    "le1.005": 7,
+    "lt1.000": 0
+  },
+  "floor_leaders": [
+    {
+      "question": "Spread: MH Hapoel Be'er Sheva (-2.5)",
+      "yes_ask": 0.009,
+      "no_ask": 0.994,
+      "sum": 1.003,
+      "liquidity": 6180.89218
+    },
+    {
+      "question": "Spread: Lincoln Red Imps FC (-2.5)",
+      "yes_ask": 0.004,
+      "no_ask": 0.999,
+      "sum": 1.003,
+      "liquidity": 3606.87836
+    },
+    {
+      "question": "Spread: FK Jablonec (-2.5)",
+      "yes_ask": 0.005,
+      "no_ask": 0.998,
+      "sum": 1.003,
+      "liquidity": 4683.41291
+    },
+    {
+      "question": "Spread: Lillestr\u00f8m SK (-2.5)",
+      "yes_ask": 0.01,
+      "no_ask": 0.994,
+      "sum": 1.004,
+      "liquidity": 6252.09517
+    },
+    {
+      "question": "Spread: P\u00e1fos FC (-2.5)",
+      "yes_ask": 0.009,
+      "no_ask": 0.995,
+      "sum": 1.004,
+      "liquidity": 5202.15088
+    },
+    {
+      "question": "Spread: FC Thun (-2.5)",
+      "yes_ask": 0.009,
+      "no_ask": 0.996,
+      "sum": 1.005,
+      "liquidity": 5188.50257
+    },
+    {
+      "question": "Spread: Inter Club d'Escaldes (-2.5)",
+      "yes_ask": 0.009,
+      "no_ask": 0.996,
+      "sum": 1.005,
+      "liquidity": 4334.58888
+    },
+    {
+      "question": "Will the highest temperature in Helsinki be 9\u00b0C on October 17?",
+      "yes_ask": 0.01,
+      "no_ask": 0.998,
+      "sum": 1.008,
+      "liquidity": 2713.7773
+    },
+    {
+      "question": "Spread: KF Egnatia Rrogozhin\u00eb (-2.5)",
+      "yes_ask": 0.019,
+      "no_ask": 0.99,
+      "sum": 1.009,
+      "liquidity": 4678.50054
+    },
+    {
+      "question": "Ferencv\u00e1rosi TC vs. FC Viktoria Plze\u0148: O/U 3.5",
+      "yes_ask": 0.37,
+      "no_ask": 0.64,
+      "sum": 1.01,
+      "liquidity": 32931.9538
+    }
+  ]
+}
