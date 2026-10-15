@@ -1,0 +1,237 @@
+{
+  "ts": "2026-10-15T07:57:50Z",
+  "markets": 500,
+  "with_both_asks": 69,
+  "two_sided": 69,
+  "not_bracketable": 431,
+  "tiers": {
+    "le1.050": 53,
+    "le1.020": 27,
+    "le1.010": 18,
+    "le1.005": 9,
+    "lt1.000": 0
+  },
+  "floor": 1.003,
+  "top25": [
+    {
+      "total": 1.003,
+      "q": "Spread: FK Jablonec (-2.5)",
+      "yes": 0.005,
+      "no": 0.998,
+      "liq": 5474.93227
+    },
+    {
+      "total": 1.003,
+      "q": "Spread: FK Jablonec (-2.5)",
+      "yes": 0.005,
+      "no": 0.998,
+      "liq": 5670.96127
+    },
+    {
+      "total": 1.003,
+      "q": "Spread: Lincoln Red Imps FC (-2.5)",
+      "yes": 0.004,
+      "no": 0.999,
+      "liq": 4434.87479
+    },
+    {
+      "total": 1.003,
+      "q": "Spread: MH Hapoel Be'er Sheva (-2.5)",
+      "yes": 0.009,
+      "no": 0.994,
+      "liq": 6073.5818
+    },
+    {
+      "total": 1.005,
+      "q": "Exact Score: Brentford FC 4 - 4 Liverpool FC?",
+      "yes": 0.007,
+      "no": 0.998,
+      "liq": 22708.31271
+    },
+    {
+      "total": 1.005,
+      "q": "Spread: FC Thun (-2.5)",
+      "yes": 0.009,
+      "no": 0.996,
+      "liq": 5199.36628
+    },
+    {
+      "total": 1.005,
+      "q": "Spread: Inter Club d'Escaldes (-2.5)",
+      "yes": 0.009,
+      "no": 0.996,
+      "liq": 4146.99888
+    },
+    {
+      "total": 1.005,
+      "q": "Spread: Lillestr\u00f8m SK (-2.5)",
+      "yes": 0.011,
+      "no": 0.994,
+      "liq": 5994.66692
+    },
+    {
+      "total": 1.005,
+      "q": "Spread: P\u00e1fos FC (-2.5)",
+      "yes": 0.009,
+      "no": 0.996,
+      "liq": 5109.32109
+    },
+    {
+      "total": 1.006,
+      "q": "Exact Score: AFC Bournemouth 4 - 3 SK Puntigamer Sturm Graz?",
+      "yes": 0.011,
+      "no": 0.995,
+      "liq": 4736.99196
+    },
+    {
+      "total": 1.006,
+      "q": "Spread: KF Egnatia Rrogozhin\u00eb (-2.5)",
+      "yes": 0.016,
+      "no": 0.99,
+      "liq": 5891.71854
+    },
+    {
+      "total": 1.008,
+      "q": "Exact Score: Brentford FC 3 - 4 Liverpool FC?",
+      "yes": 0.013,
+      "no": 0.995,
+      "liq": 14929.51332
+    },
+    {
+      "total": 1.008,
+      "q": "Exact Score: Brentford FC 4 - 3 Liverpool FC?",
+      "yes": 0.014,
+      "no": 0.994,
+      "liq": 13602.89479
+    },
+    {
+      "total": 1.008,
+      "q": "Exact Score: Brentford FC 5 - 1 Liverpool FC?",
+      "yes": 0.013,
+      "no": 0.995,
+      "liq": 14674.95175
+    },
+    {
+      "total": 1.008,
+      "q": "Will the highest temperature in Helsinki be 9\u00b0C on October 1",
+      "yes": 0.01,
+      "no": 0.998,
+      "liq": 2739.59209
+    },
+    {
+      "total": 1.01,
+      "q": "Spread: FK Kauno \u017dalgiris (-1.5)",
+      "yes": 0.011,
+      "no": 0.999,
+      "liq": 4848.67311
+    },
+    {
+      "total": 1.01,
+      "q": "Spread: Lillestr\u00f8m SK (-3.5)",
+      "yes": 0.012,
+      "no": 0.998,
+      "liq": 3007.64588
+    },
+    {
+      "total": 1.01,
+      "q": "Will Olympique de Marseille win on 2026-10-18?",
+      "yes": 0.47,
+      "no": 0.54,
+      "liq": 20289.2104
+    },
+    {
+      "total": 1.014,
+      "q": "Spread: HNK Hajduk Split (-3.5)",
+      "yes": 0.015,
+      "no": 0.999,
+      "liq": 3880.97046
+    },
+    {
+      "total": 1.014,
+      "q": "Spread: KF Egnatia Rrogozhin\u00eb (-3.5)",
+      "yes": 0.015,
+      "no": 0.999,
+      "liq": 3777.58963
+    },
+    {
+      "total": 1.014,
+      "q": "Spread: SC Uni\u00e3o Torreense (-3.5)",
+      "yes": 0.015,
+      "no": 0.999,
+      "liq": 1588.90681
+    },
+    {
+      "total": 1.015,
+      "q": "Spread: Aarhus GF (-3.5)",
+      "yes": 0.016,
+      "no": 0.999,
+      "liq": 3651.18686
+    },
+    {
+      "total": 1.017,
+      "q": "Will Z.ai be the #3 AI Lab at the end of October 2026 (Style",
+      "yes": 0.019,
+      "no": 0.998,
+      "liq": 601.30263
+    },
+    {
+      "total": 1.018,
+      "q": "Spread: KKS Lech Pozna\u0144 (-3.5)",
+      "yes": 0.019,
+      "no": 0.999,
+      "liq": 2970.97666
+    },
+    {
+      "total": 1.02,
+      "q": "Al Faisaly Saudi Club vs. Al Kholood Saudi Club: Al Faisaly ",
+      "yes": 0.32,
+      "no": 0.7,
+      "liq": 3192.8271
+    }
+  ],
+  "liquid_watch_le1050": [
+    {
+      "total": 1.02,
+      "q": "Aston Villa FC vs. Viking FK: Both Teams to Score",
+      "yes": 0.57,
+      "no": 0.45,
+      "liq": 22743.3082
+    },
+    {
+      "total": 1.005,
+      "q": "Exact Score: Brentford FC 4 - 4 Liverpool FC?",
+      "yes": 0.007,
+      "no": 0.998,
+      "liq": 22708.31271
+    },
+    {
+      "total": 1.01,
+      "q": "Will Olympique de Marseille win on 2026-10-18?",
+      "yes": 0.47,
+      "no": 0.54,
+      "liq": 20289.2104
+    },
+    {
+      "total": 1.02,
+      "q": "Washington State vs. Oregon State: O/U 51.5",
+      "yes": 0.54,
+      "no": 0.48,
+      "liq": 16138.4938
+    },
+    {
+      "total": 1.008,
+      "q": "Exact Score: Brentford FC 3 - 4 Liverpool FC?",
+      "yes": 0.013,
+      "no": 0.995,
+      "liq": 14929.51332
+    },
+    {
+      "total": 1.008,
+      "q": "Exact Score: Brentford FC 5 - 1 Liverpool FC?",
+      "yes": 0.013,
+      "no": 0.995,
+      "liq": 14674.95175
+    }
+  ],
+  "scan_time": 63.5
+}
