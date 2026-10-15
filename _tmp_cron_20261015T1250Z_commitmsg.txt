@@ -1,0 +1,12 @@
+cron scan 2026-10-15T12:51Z: 0 brackets, floor 1.001 held (BoJ 50+ bps, liq 858->1116, now rebuilding not shrinking); tiers le1.005 n10, le1.010 n18, le1.020 n28, le1.050 n58; two-sided 74/500 (85.2% not bracketable)
+
+Floor state (min-ask diag, 500 markets, 62.9s):
+- 1.001 BoJ cuts 50+ bps (Y.002+N.999) liq 1,116 — liquidity REVERSED: was shrinking 1089->897->858 across the day, now rebuilt to 1116. Floor held 11+ scans.
+- 1.002 cluster: Jablonec 1.002 liq 6,583 (improved from 1.003/14.7k at 12:18Z, liq thinned); Lincoln 1.002 liq 5,866 (liq halved from 13.5k)
+- 1.004 cluster: Thun liq 15,462 (up); Inter d'Escaldes liq 6,105 (halved from 15.2k); Lillestrøm liq 27,744 (flat); Páfos liq 6,513 (halved from 14.3k)
+- 1.005: Bitcoin>any-co-before-2027 liq 3,012 (flat); NEW Bournemouth 4-3 Sturm exact score liq 6,771; KF Egnatia (-2.5) liq 14,649
+- Improved: Venezia 3-4 Napoli 1.006 (was 1.007); Bologna 3-4 Inter 1.007, Bologna 2-5 Inter 1.008, Democrats 12+ PA House 1.008 (all flat)
+- NEW entrants 1.010-1.018: Kauno Žalgiris (-1.5) 1.010 liq 14,227; Universitatea Craiova (-3.5) 1.012; Cape Town 18°C 1.014; Z.ai #3 AI Lab 1.016; Lech Poznań (-3.5) 1.018 liq 24,274 (worsened from 1.007); CSKA Sofia (-3.5) 1.018
+- Dropped out: Hapoel (was 1.004 liq 38.3k at 12:18Z)
+- Structural: 74 two-sided/500 = 85.2% NOT bracketable (up from 86% at 12:18Z)
+- asks[0] near-miss artifact persists: verbatim script reports 0 near-misses; min-ask diag is source of truth (10 markets <=1.005)
