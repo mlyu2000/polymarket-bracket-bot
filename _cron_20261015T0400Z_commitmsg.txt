@@ -1,0 +1,13 @@
+Cron scan 2026-10-15T03:57Z: 500 markets, 0 brackets (sum<1.00)
+
+Verbatim scan: 0 brackets, 0 near-misses (asks[0] artifact — expected, see memory)
+
+Supplementary true min-ask floor (min over all ask levels, both legs):
+- 65 two-sided markets (both legs have asks+bids); 435/500 (87%) not bracketable
+- FLOOR: 1.003 — Lincoln Red Imps FC (-2.5) Y@0.004 N@0.999 liq 3300
+- 1.004 — Exact Score: Brentford 0-5 Liverpool Y@0.006 N@0.998 liq 27142
+- 1.004 — Spread: FC Thun (-2.5) Y@0.007 N@0.997 liq 4872
+- 1.005 — Spread: FK Jablonec (-2.5) Y@0.006 N@0.999 liq 3816
+- 1.005 — Spread: Lillestrøm SK (-2.5) Y@0.010 N@0.995 liq 7086
+- Tiers: le1.050 n50, le1.020 n27, le1.010 n15, le1.005 n6, lt1.000 n0
+- Floor tail: 1.003 -> 1.004 -> 1.004 -> 1.005 -> 1.005

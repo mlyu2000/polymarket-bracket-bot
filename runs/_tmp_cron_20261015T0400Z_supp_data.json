@@ -1,0 +1,192 @@
+{
+  "ts": "2026-10-15T03:57:15Z",
+  "markets": 500,
+  "with_both_asks": 65,
+  "two_sided": 65,
+  "not_bracketable": 435,
+  "tiers": {
+    "<=1.050": 50,
+    "<=1.020": 27,
+    "<=1.010": 15,
+    "<=1.005": 6,
+    "<1.000": 0
+  },
+  "top25": [
+    {
+      "total": 1.003,
+      "q": "Spread: Lincoln Red Imps FC (-2.5)",
+      "yes": 0.004,
+      "no": 0.999,
+      "liq": 3300.30911
+    },
+    {
+      "total": 1.004,
+      "q": "Exact Score: Brentford FC 0 - 5 Liverpool FC?",
+      "yes": 0.006,
+      "no": 0.998,
+      "liq": 27141.53471
+    },
+    {
+      "total": 1.004,
+      "q": "Spread: FC Thun (-2.5)",
+      "yes": 0.007,
+      "no": 0.997,
+      "liq": 4871.79209
+    },
+    {
+      "total": 1.005,
+      "q": "Spread: FK Jablonec (-2.5)",
+      "yes": 0.006,
+      "no": 0.999,
+      "liq": 3816.15604
+    },
+    {
+      "total": 1.005,
+      "q": "Spread: Lillestr\u00f8m SK (-2.5)",
+      "yes": 0.01,
+      "no": 0.995,
+      "liq": 7086.03374
+    },
+    {
+      "total": 1.005,
+      "q": "Spread: P\u00e1fos FC (-2.5)",
+      "yes": 0.009,
+      "no": 0.996,
+      "liq": 4936.91608
+    },
+    {
+      "total": 1.006,
+      "q": "Spread: Inter Club d'Escaldes (-2.5)",
+      "yes": 0.009,
+      "no": 0.997,
+      "liq": 3891.40356
+    },
+    {
+      "total": 1.006,
+      "q": "Spread: Kuopion PS (-2.5)",
+      "yes": 0.014,
+      "no": 0.992,
+      "liq": 2987.27569
+    },
+    {
+      "total": 1.007,
+      "q": "Exact Score: Brentford FC 2 - 5 Liverpool FC?",
+      "yes": 0.009,
+      "no": 0.998,
+      "liq": 16522.89331
+    },
+    {
+      "total": 1.007,
+      "q": "Spread: KF Egnatia Rrogozhin\u00eb (-2.5)",
+      "yes": 0.016,
+      "no": 0.991,
+      "liq": 4379.66012
+    },
+    {
+      "total": 1.008,
+      "q": "Exact Score: Brentford FC 3 - 4 Liverpool FC?",
+      "yes": 0.013,
+      "no": 0.995,
+      "liq": 13732.5175
+    },
+    {
+      "total": 1.008,
+      "q": "Exact Score: Brentford FC 5 - 1 Liverpool FC?",
+      "yes": 0.013,
+      "no": 0.995,
+      "liq": 14659.95819
+    },
+    {
+      "total": 1.009,
+      "q": "Exact Score: Brentford FC 4 - 3 Liverpool FC?",
+      "yes": 0.014,
+      "no": 0.995,
+      "liq": 13606.96619
+    },
+    {
+      "total": 1.009,
+      "q": "Spread: FK Kauno \u017dalgiris (-1.5)",
+      "yes": 0.011,
+      "no": 0.998,
+      "liq": 4797.09735
+    },
+    {
+      "total": 1.01,
+      "q": "Spread: Lillestr\u00f8m SK (-3.5)",
+      "yes": 0.012,
+      "no": 0.998,
+      "liq": 3524.16091
+    },
+    {
+      "total": 1.014,
+      "q": "Spread: SC Uni\u00e3o Torreense (-3.5)",
+      "yes": 0.015,
+      "no": 0.999,
+      "liq": 2034.28992
+    },
+    {
+      "total": 1.014,
+      "q": "Will Ezra Frech be eliminated in week 6 of Dancing With",
+      "yes": 0.024,
+      "no": 0.99,
+      "liq": 1143.66284
+    },
+    {
+      "total": 1.016,
+      "q": "Spread: KKS Lech Pozna\u0144 (-3.5)",
+      "yes": 0.019,
+      "no": 0.997,
+      "liq": 3915.40658
+    },
+    {
+      "total": 1.016,
+      "q": "Spread: P\u00e1fos FC (-3.5)",
+      "yes": 0.017,
+      "no": 0.999,
+      "liq": 2179.49708
+    },
+    {
+      "total": 1.016,
+      "q": "Will Z.ai be the #3 AI Lab at the end of October 2026 (",
+      "yes": 0.018,
+      "no": 0.998,
+      "liq": 761.76713
+    },
+    {
+      "total": 1.018,
+      "q": "Spread: HNK Hajduk Split (-3.5)",
+      "yes": 0.019,
+      "no": 0.999,
+      "liq": 3313.49886
+    },
+    {
+      "total": 1.018,
+      "q": "Spread: KF Egnatia Rrogozhin\u00eb (-3.5)",
+      "yes": 0.019,
+      "no": 0.999,
+      "liq": 3315.96773
+    },
+    {
+      "total": 1.018,
+      "q": "Spread: PFK CSKA Sofia (-3.5)",
+      "yes": 0.019,
+      "no": 0.999,
+      "liq": 3552.12337
+    },
+    {
+      "total": 1.018,
+      "q": "Spread: Universitatea Craiova CS (-3.5)",
+      "yes": 0.019,
+      "no": 0.999,
+      "liq": 3312.40927
+    },
+    {
+      "total": 1.019,
+      "q": "Spread: Aarhus GF (-3.5)",
+      "yes": 0.02,
+      "no": 0.999,
+      "liq": 3138.74619
+    }
+  ],
+  "scan_time": 86.4
+}
