@@ -1,0 +1,192 @@
+{
+  "ts": "2026-10-15T06:34:54Z",
+  "markets": 500,
+  "with_both_asks": 58,
+  "two_sided": 58,
+  "not_bracketable": 442,
+  "tiers": {
+    "<=1.050": 41,
+    "<=1.020": 17,
+    "<=1.010": 12,
+    "<=1.005": 7,
+    "<1.000": 0
+  },
+  "top25": [
+    {
+      "total": 1.003,
+      "q": "Spread: FK Jablonec (-2.5)",
+      "yes": 0.005,
+      "no": 0.998,
+      "liq": 4860.4432
+    },
+    {
+      "total": 1.003,
+      "q": "Spread: Lincoln Red Imps FC (-2.5)",
+      "yes": 0.004,
+      "no": 0.999,
+      "liq": 3111.86193
+    },
+    {
+      "total": 1.003,
+      "q": "Spread: MH Hapoel Be'er Sheva (-2.5)",
+      "yes": 0.009,
+      "no": 0.994,
+      "liq": 6172.69165
+    },
+    {
+      "total": 1.004,
+      "q": "Spread: Lillestr\u00f8m SK (-2.5)",
+      "yes": 0.01,
+      "no": 0.994,
+      "liq": 7481.09866
+    },
+    {
+      "total": 1.004,
+      "q": "Spread: P\u00e1fos FC (-2.5)",
+      "yes": 0.009,
+      "no": 0.995,
+      "liq": 5401.23227
+    },
+    {
+      "total": 1.005,
+      "q": "Spread: FC Thun (-2.5)",
+      "yes": 0.009,
+      "no": 0.996,
+      "liq": 5842.74889
+    },
+    {
+      "total": 1.005,
+      "q": "Spread: Inter Club d'Escaldes (-2.5)",
+      "yes": 0.009,
+      "no": 0.996,
+      "liq": 4855.43783
+    },
+    {
+      "total": 1.007,
+      "q": "Spread: KF Egnatia Rrogozhin\u00eb (-2.5)",
+      "yes": 0.017,
+      "no": 0.99,
+      "liq": 4912.41454
+    },
+    {
+      "total": 1.008,
+      "q": "Will the highest temperature in Helsinki be 9\u00b0C on Octo",
+      "yes": 0.01,
+      "no": 0.998,
+      "liq": 2090.4216
+    },
+    {
+      "total": 1.009,
+      "q": "Spread: FK Kauno \u017dalgiris (-1.5)",
+      "yes": 0.011,
+      "no": 0.998,
+      "liq": 4087.50367
+    },
+    {
+      "total": 1.01,
+      "q": "Spread: Lillestr\u00f8m SK (-3.5)",
+      "yes": 0.012,
+      "no": 0.998,
+      "liq": 3142.56849
+    },
+    {
+      "total": 1.01,
+      "q": "Will Olympique de Marseille win on 2026-10-18?",
+      "yes": 0.47,
+      "no": 0.54,
+      "liq": 20033.2707
+    },
+    {
+      "total": 1.014,
+      "q": "Spread: SC Uni\u00e3o Torreense (-3.5)",
+      "yes": 0.015,
+      "no": 0.999,
+      "liq": 1832.76481
+    },
+    {
+      "total": 1.015,
+      "q": "Will Z.ai be the #3 AI Lab at the end of October 2026 (",
+      "yes": 0.017,
+      "no": 0.998,
+      "liq": 672.68253
+    },
+    {
+      "total": 1.018,
+      "q": "Spread: KKS Lech Pozna\u0144 (-3.5)",
+      "yes": 0.019,
+      "no": 0.999,
+      "liq": 3113.10772
+    },
+    {
+      "total": 1.02,
+      "q": "Nyiregyhaza Spartacus FC vs. Budapest Honved FC: O/U 2.",
+      "yes": 0.57,
+      "no": 0.45,
+      "liq": 2946.4667
+    },
+    {
+      "total": 1.02,
+      "q": "Washington State vs. Oregon State: O/U 51.5",
+      "yes": 0.54,
+      "no": 0.48,
+      "liq": 16296.1972
+    },
+    {
+      "total": 1.024,
+      "q": "Spread: PFK CSKA Sofia (-3.5)",
+      "yes": 0.025,
+      "no": 0.999,
+      "liq": 3339.35242
+    },
+    {
+      "total": 1.029,
+      "q": "Spread: FC Viktoria Plze\u0148 (-3.5)",
+      "yes": 0.03,
+      "no": 0.999,
+      "liq": 3112.92758
+    },
+    {
+      "total": 1.029,
+      "q": "Spread: HNK Hajduk Split (-3.5)",
+      "yes": 0.03,
+      "no": 0.999,
+      "liq": 3114.79508
+    },
+    {
+      "total": 1.029,
+      "q": "Spread: KF Egnatia Rrogozhin\u00eb (-3.5)",
+      "yes": 0.03,
+      "no": 0.999,
+      "liq": 3265.37463
+    },
+    {
+      "total": 1.029,
+      "q": "Spread: Universitatea Craiova CS (-3.5)",
+      "yes": 0.03,
+      "no": 0.999,
+      "liq": 3107.20813
+    },
+    {
+      "total": 1.03,
+      "q": "Qingdao Hainiu FC vs. Liaoning Tieren FC: Qingdao Haini",
+      "yes": 0.68,
+      "no": 0.35,
+      "liq": 2815.0433
+    },
+    {
+      "total": 1.03,
+      "q": "Spread: Aarhus GF (-3.5)",
+      "yes": 0.031,
+      "no": 0.999,
+      "liq": 3076.37168
+    },
+    {
+      "total": 1.03,
+      "q": "Will Feyenoord finish as runner-up in the 2026-27 UEFA ",
+      "yes": 0.033,
+      "no": 0.997,
+      "liq": 466.64336
+    }
+  ],
+  "scan_time": 60.7
+}
