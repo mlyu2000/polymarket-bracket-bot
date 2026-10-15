@@ -1,0 +1,202 @@
+{
+  "ts": "20261015T2147Z",
+  "markets": 500,
+  "scan_time": 53.1,
+  "priced": 52,
+  "with_both_asks": 52,
+  "one_sided": 448,
+  "two_sided": 52,
+  "yes_only": 442,
+  "na_only": 0,
+  "not_bracketable": 448,
+  "brackets": [],
+  "lt1": 0,
+  "tiers": {
+    "lt1.000": 0,
+    "le1.005": 3,
+    "le1.010": 5,
+    "le1.020": 12,
+    "le1.050": 37
+  },
+  "floor": 1.001,
+  "floor_q": "Will Christine Lagarde win the 2027 French presidential election?",
+  "leader_liq": 140929.03859,
+  "top25": [
+    [
+      1.001,
+      "Will Christine Lagarde win the 2027 French presidential election?",
+      0.009,
+      0.992,
+      140929.03859
+    ],
+    [
+      1.002,
+      "Will the highest temperature in Sao Paulo be 31\u00b0C or higher on October 16?",
+      0.003,
+      0.999,
+      4121.53889
+    ],
+    [
+      1.004,
+      "Bitcoin more valuable than any company before 2027?",
+      0.018,
+      0.986,
+      3934.17625
+    ],
+    [
+      1.008,
+      "Exact Score: FC Bayern M\u00fcnchen 1 - 3 RB Leipzig?",
+      0.016,
+      0.992,
+      8000.71278
+    ],
+    [
+      1.01,
+      "Skin cancer vaccine BLA submitted by March 31, 2027?",
+      0.43,
+      0.58,
+      2066.538
+    ],
+    [
+      1.017,
+      "Will Z.ai be the #3 AI Lab at the end of October 2026 (Style Control On)?",
+      0.019,
+      0.998,
+      361.60657
+    ],
+    [
+      1.02,
+      "Nyiregyhaza Spartacus FC vs. Budapest Honved FC: O/U 2.5",
+      0.58,
+      0.44,
+      2418.6804
+    ],
+    [
+      1.02,
+      "GKS Katowice vs. Pogon Szczecin: Both Teams to Score",
+      0.63,
+      0.39,
+      3408.8524
+    ],
+    [
+      1.02,
+      "Java United FC vs. Bali United: O/U 2.5",
+      0.61,
+      0.41,
+      5036.3446
+    ],
+    [
+      1.02,
+      "Aston Villa FC vs. Viking FK: Both Teams to Score",
+      0.57,
+      0.45,
+      27608.4484
+    ],
+    [
+      1.02,
+      "Washington State vs. Oregon State: O/U 51.5",
+      0.54,
+      0.48,
+      20132.4512
+    ],
+    [
+      1.02,
+      "Will Odisha FC win on 2026-10-17?",
+      0.45,
+      0.57,
+      7643.2344
+    ],
+    [
+      1.03,
+      "Will Feyenoord finish as runner-up in the 2026-27 UEFA Champions League?",
+      0.033,
+      0.997,
+      213.79902
+    ],
+    [
+      1.03,
+      "Qingdao Hainiu FC vs. Liaoning Tieren FC: Qingdao Hainiu FC O/U 0.5",
+      0.68,
+      0.35,
+      1725.032
+    ],
+    [
+      1.03,
+      "Club ABB vs. Bamin Real Potos\u00ed: Bamin Real Potos\u00ed O/U 1.5",
+      0.43,
+      0.6,
+      297.4654
+    ],
+    [
+      1.03,
+      "Portland Timbers vs. Colorado Rapids SC: Colorado Rapids SC O/U 0.5",
+      0.78,
+      0.25,
+      2023.1512
+    ],
+    [
+      1.03,
+      "Sukhothai FC vs. Rasisalai United: O/U 2.5",
+      0.55,
+      0.48,
+      2987.6548
+    ],
+    [
+      1.04,
+      "Spread: SE Palmeiras (-1.5)",
+      0.28,
+      0.76,
+      3291.3586
+    ],
+    [
+      1.04,
+      "Next Z.ai GLM (5.4+) released by October 31, 2026?",
+      0.64,
+      0.4,
+      939.0463
+    ],
+    [
+      1.04,
+      "Sydney FC vs. Western Sydney Wanderers FC: Western Sydney Wanderers FC O/U 1.5",
+      0.4,
+      0.64,
+      4605.5757
+    ],
+    [
+      1.04,
+      "Auckland FC vs. Melbourne City FC: Auckland FC O/U 1.5",
+      0.38,
+      0.66,
+      4245.4643
+    ],
+    [
+      1.04,
+      "VVV Venlo vs. Jong AZ Alkmaar: Jong AZ Alkmaar O/U 1.5",
+      0.54,
+      0.5,
+      2854.6867
+    ],
+    [
+      1.041,
+      "Will Pittsburgh Steelers finish the 2026-27 NFL regular season with the most ret",
+      0.042,
+      0.999,
+      193.314
+    ],
+    [
+      1.041,
+      "Will Jacksonville Jaguars finish the 2026-27 NFL regular season with the most re",
+      0.042,
+      0.999,
+      192.73801
+    ],
+    [
+      1.041,
+      "Will Denver Broncos finish the 2026-27 NFL regular season with the most return y",
+      0.042,
+      0.999,
+      194.40101
+    ]
+  ],
+  "note": "floor 1.001 HELD 39th consecutive scan (Lagarde 2027 sole holder, liq -0.5%); tiers decrowded again; two_sided 53->52"
+}

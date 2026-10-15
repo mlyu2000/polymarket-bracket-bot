@@ -1,0 +1,11 @@
+cron scan 2026-10-15T21:47Z: 500 markets, 0 brackets, floor 1.001 HELD (39th consecutive scan; 21:27Z was 38th)
+- Floor holder: Lagarde 2027 (Y0.009+N0.992=1.001) SOLE holder, sum unchanged; liq 141696.03419->140929.03859 (-767.0, -0.5%).
+- STRUCTURAL EVENT — FK Jablonec spread cluster exited the active-500 universe entirely (targeted re-fetch: both MISSING from active set; substring check: only -2.5 [liq 10504.9] and -3.5 [liq 20726.4] remain active, 0 hits for -4.5/-5.5): Spread FK Jablonec (-4.5) [last seen YES-only minY0.003 liq 19208.7 at 21:27Z] and (-5.5) [was 1.008 minY0.009 liq 12978.8]. Mechanism = market closed/concluded (complements 21:27Z's Thun/Kobenhavn/PA-House universe exits).
+- Also verified this scan: Exact Score FC Bayern Munchen 0-2 RB Leipzig went YES-only (minY0.012, liq 9547.3) while the 1-3 Leipzig scoreline stays two-sided 1.008 (Y0.016+N0.992, liq 7981.5->8000.7, +0.2%).
+- NET DECROWD: two_sided 53->52 (-1, solely the Jablonec exits); not_bracketable 447->448 (89.6%, +0.2 — new high one-sided share); yes_only 441->442.
+- tiers decrowded again: le1.005 3->3 (+0 flat), le1.010 6->5 (-1), le1.020 14->12 (-2), le1.050 39->37 (-2); lt1.000 n0 (floor holds, 39th scan).
+- Movers in top set: Skin cancer vaccine BLA 1.010 flat liq 2189.0->2066.5 (-5.6%); Nyiregyhaza O/U 2.5 1.020 flat liq 2225.2->2418.7 (+8.7%); GKS Katowice BTTS liq 3246.7->3408.9 (+5.0%); Auckland FC O/U 1.5 WORSENED 1.020->1.040 (minY0.450->0.380, still two-sided, fell out of top-12); Z.ai #3 lab 1.017 flat liq 396.2->361.6 (-8.7%); Java United + Aston Villa flat.
+- NEW in top-12: Washington State vs Oregon State O/U 51.5 (1.020, Y0.540+N0.480, liq 20132.5) and Odisha FC win 2026-10-17 (1.020, Y0.450+N0.570, liq 7643.2) — alphabetical tie-break within the dense 1.020 cluster.
+- Frozen book: Bitcoin liq 3934.17625 BYTE-IDENTICAL vs 21:27Z (3rd consecutive at post-break value; prior 13-scan streak at 3928.94623 broke at 21:08Z; sum 1.004 Y0.018/N0.986).
+- asks[0] verbatim near-miss artifact still 0 (DESC-sorted /book); min-ask diag is source of truth; brackets n0, no lt1.000 -> no bracket assembled.
+Persisted runs/_tmp_cron_20261015T2147Z_supp_data.json + _supp_rows.json + _tiers.json + results/cron_scan_history.jsonl line (local, unpushed).

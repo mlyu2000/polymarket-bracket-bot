@@ -1,0 +1,190 @@
+{
+  "ts": "20261015T2147Z",
+  "markets": 500,
+  "priced": 52,
+  "scan_time": 53.1,
+  "one_sided": 448,
+  "tiers": {
+    "1.005": 3,
+    "1.01": 5,
+    "1.02": 12,
+    "1.05": 37
+  },
+  "top25": [
+    {
+      "total": 1.001,
+      "q": "Will Christine Lagarde win the 2027 French presidential election?",
+      "yes": 0.009,
+      "no": 0.992,
+      "liq": 140929.03859
+    },
+    {
+      "total": 1.002,
+      "q": "Will the highest temperature in Sao Paulo be 31\u00b0C or higher on October 16?",
+      "yes": 0.003,
+      "no": 0.999,
+      "liq": 4121.53889
+    },
+    {
+      "total": 1.004,
+      "q": "Bitcoin more valuable than any company before 2027?",
+      "yes": 0.018,
+      "no": 0.986,
+      "liq": 3934.17625
+    },
+    {
+      "total": 1.008,
+      "q": "Exact Score: FC Bayern M\u00fcnchen 1 - 3 RB Leipzig?",
+      "yes": 0.016,
+      "no": 0.992,
+      "liq": 8000.71278
+    },
+    {
+      "total": 1.01,
+      "q": "Skin cancer vaccine BLA submitted by March 31, 2027?",
+      "yes": 0.43,
+      "no": 0.58,
+      "liq": 2066.538
+    },
+    {
+      "total": 1.017,
+      "q": "Will Z.ai be the #3 AI Lab at the end of October 2026 (Style Control On)?",
+      "yes": 0.019,
+      "no": 0.998,
+      "liq": 361.60657
+    },
+    {
+      "total": 1.02,
+      "q": "Nyiregyhaza Spartacus FC vs. Budapest Honved FC: O/U 2.5",
+      "yes": 0.58,
+      "no": 0.44,
+      "liq": 2418.6804
+    },
+    {
+      "total": 1.02,
+      "q": "GKS Katowice vs. Pogon Szczecin: Both Teams to Score",
+      "yes": 0.63,
+      "no": 0.39,
+      "liq": 3408.8524
+    },
+    {
+      "total": 1.02,
+      "q": "Java United FC vs. Bali United: O/U 2.5",
+      "yes": 0.61,
+      "no": 0.41,
+      "liq": 5036.3446
+    },
+    {
+      "total": 1.02,
+      "q": "Aston Villa FC vs. Viking FK: Both Teams to Score",
+      "yes": 0.57,
+      "no": 0.45,
+      "liq": 27608.4484
+    },
+    {
+      "total": 1.02,
+      "q": "Washington State vs. Oregon State: O/U 51.5",
+      "yes": 0.54,
+      "no": 0.48,
+      "liq": 20132.4512
+    },
+    {
+      "total": 1.02,
+      "q": "Will Odisha FC win on 2026-10-17?",
+      "yes": 0.45,
+      "no": 0.57,
+      "liq": 7643.2344
+    },
+    {
+      "total": 1.03,
+      "q": "Will Feyenoord finish as runner-up in the 2026-27 UEFA Champions League?",
+      "yes": 0.033,
+      "no": 0.997,
+      "liq": 213.79902
+    },
+    {
+      "total": 1.03,
+      "q": "Qingdao Hainiu FC vs. Liaoning Tieren FC: Qingdao Hainiu FC O/U 0.5",
+      "yes": 0.68,
+      "no": 0.35,
+      "liq": 1725.032
+    },
+    {
+      "total": 1.03,
+      "q": "Club ABB vs. Bamin Real Potos\u00ed: Bamin Real Potos\u00ed O/U 1.5",
+      "yes": 0.43,
+      "no": 0.6,
+      "liq": 297.4654
+    },
+    {
+      "total": 1.03,
+      "q": "Portland Timbers vs. Colorado Rapids SC: Colorado Rapids SC O/U 0.5",
+      "yes": 0.78,
+      "no": 0.25,
+      "liq": 2023.1512
+    },
+    {
+      "total": 1.03,
+      "q": "Sukhothai FC vs. Rasisalai United: O/U 2.5",
+      "yes": 0.55,
+      "no": 0.48,
+      "liq": 2987.6548
+    },
+    {
+      "total": 1.04,
+      "q": "Spread: SE Palmeiras (-1.5)",
+      "yes": 0.28,
+      "no": 0.76,
+      "liq": 3291.3586
+    },
+    {
+      "total": 1.04,
+      "q": "Next Z.ai GLM (5.4+) released by October 31, 2026?",
+      "yes": 0.64,
+      "no": 0.4,
+      "liq": 939.0463
+    },
+    {
+      "total": 1.04,
+      "q": "Sydney FC vs. Western Sydney Wanderers FC: Western Sydney Wanderers FC O/U 1.5",
+      "yes": 0.4,
+      "no": 0.64,
+      "liq": 4605.5757
+    },
+    {
+      "total": 1.04,
+      "q": "Auckland FC vs. Melbourne City FC: Auckland FC O/U 1.5",
+      "yes": 0.38,
+      "no": 0.66,
+      "liq": 4245.4643
+    },
+    {
+      "total": 1.04,
+      "q": "VVV Venlo vs. Jong AZ Alkmaar: Jong AZ Alkmaar O/U 1.5",
+      "yes": 0.54,
+      "no": 0.5,
+      "liq": 2854.6867
+    },
+    {
+      "total": 1.041,
+      "q": "Will Pittsburgh Steelers finish the 2026-27 NFL regular season with the most ret",
+      "yes": 0.042,
+      "no": 0.999,
+      "liq": 193.314
+    },
+    {
+      "total": 1.041,
+      "q": "Will Jacksonville Jaguars finish the 2026-27 NFL regular season with the most re",
+      "yes": 0.042,
+      "no": 0.999,
+      "liq": 192.73801
+    },
+    {
+      "total": 1.041,
+      "q": "Will Denver Broncos finish the 2026-27 NFL regular season with the most return y",
+      "yes": 0.042,
+      "no": 0.999,
+      "liq": 194.40101
+    }
+  ]
+}
