@@ -1,0 +1,104 @@
+{
+  "ts": "20261015T1356Z",
+  "markets": 500,
+  "priced": 77,
+  "scan_time": 64.6,
+  "one_sided": {
+    "yes_only": 417,
+    "no_only": 0,
+    "empty": 6,
+    "both": 77
+  },
+  "tiers": {
+    "1.005": 9,
+    "1.01": 17,
+    "1.02": 28,
+    "1.05": 62
+  },
+  "top12": [
+    [
+      1.001,
+      "Bank of Japan decreases interest rates by 50+ bps after",
+      0.002,
+      0.999,
+      1164.2261
+    ],
+    [
+      1.002,
+      "Spread: FK Jablonec (-2.5)",
+      0.003,
+      0.999,
+      8886.98186
+    ],
+    [
+      1.002,
+      "Spread: Lincoln Red Imps FC (-2.5)",
+      0.003,
+      0.999,
+      7229.37364
+    ],
+    [
+      1.004,
+      "Bitcoin more valuable than any company before 2027?",
+      0.018,
+      0.986,
+      2356.75898
+    ],
+    [
+      1.004,
+      "Exact Score: Venezia FC 4 - 3 SSC Napoli?",
+      0.006,
+      0.998,
+      21768.70337
+    ],
+    [
+      1.004,
+      "Spread: FC Thun (-2.5)",
+      0.008,
+      0.996,
+      7372.33
+    ],
+    [
+      1.004,
+      "Spread: Lillestr\u00f8m SK (-2.5)",
+      0.011,
+      0.993,
+      37854.0156
+    ],
+    [
+      1.004,
+      "Spread: P\u00e1fos FC (-2.5)",
+      0.008,
+      0.996,
+      10553.1299
+    ],
+    [
+      1.005,
+      "Spread: Inter Club d'Escaldes (-2.5)",
+      0.009,
+      0.996,
+      9247.60676
+    ],
+    [
+      1.006,
+      "Exact Score: Venezia FC 3 - 4 SSC Napoli?",
+      0.01,
+      0.996,
+      15318.36863
+    ],
+    [
+      1.007,
+      "Exact Score: Bologna FC 1909 3 - 4 FC Internazionale Mi",
+      0.011,
+      0.996,
+      13436.04087
+    ],
+    [
+      1.007,
+      "Exact Score: Venezia FC 2 - 5 SSC Napoli?",
+      0.011,
+      0.996,
+      14328.62562
+    ]
+  ]
+}
