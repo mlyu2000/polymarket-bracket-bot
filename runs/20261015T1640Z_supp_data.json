@@ -1,0 +1,121 @@
+{
+  "ts": "20261015T1640Z",
+  "markets": 500,
+  "brackets": 0,
+  "floor": 1.001,
+  "two_sided": 104,
+  "tiers": {
+    "le1.005": 15,
+    "le1.010": 31,
+    "le1.020": 42,
+    "le1.050": 76
+  },
+  "band": [
+    [
+      1.001,
+      "Bank of Japan decreases interest rates by 50+ bps ",
+      0.002,
+      0.999,
+      1214.11336
+    ],
+    [
+      1.002,
+      "Spread: FK Jablonec (-2.5)",
+      0.003,
+      0.999,
+      12506.94016
+    ],
+    [
+      1.002,
+      "Spread: Lincoln Red Imps FC (-2.5)",
+      0.003,
+      0.999,
+      15587.25771
+    ],
+    [
+      1.004,
+      "Bitcoin more valuable than any company before 2027",
+      0.018,
+      0.986,
+      3928.94623
+    ],
+    [
+      1.004,
+      "Spread: FC Thun (-2.5)",
+      0.008,
+      0.996,
+      9925.04487
+    ],
+    [
+      1.004,
+      "Spread: FC Thun (-3.5)",
+      0.005,
+      0.999,
+      13153.82158
+    ],
+    [
+      1.004,
+      "Spread: FK Jablonec (-3.5)",
+      0.005,
+      0.999,
+      5305.63818
+    ],
+    [
+      1.004,
+      "Spread: FK Kauno \u017dalgiris (-1.5)",
+      0.005,
+      0.999,
+      18445.84156
+    ],
+    [
+      1.004,
+      "Spread: KF Egnatia Rrogozhin\u00eb (-2.5)",
+      0.012,
+      0.992,
+      19175.3204
+    ],
+    [
+      1.004,
+      "Spread: P\u00e1fos FC (-2.5)",
+      0.01,
+      0.994,
+      17145.31992
+    ],
+    [
+      1.005,
+      "Exact Score: Bologna FC 1909 4 - 3 FC Internaziona",
+      0.007,
+      0.998,
+      20111.51466
+    ],
+    [
+      1.005,
+      "Exact Score: Brentford FC 1 - 5 Liverpool FC?",
+      0.008,
+      0.997,
+      19232.22712
+    ],
+    [
+      1.005,
+      "Exact Score: Brentford FC 4 - 4 Liverpool FC?",
+      0.007,
+      0.998,
+      22509.01277
+    ],
+    [
+      1.005,
+      "Exact Score: Venezia FC 4 - 3 SSC Napoli?",
+      0.007,
+      0.998,
+      20846.59989
+    ],
+    [
+      1.005,
+      "Spread: Inter Club d'Escaldes (-2.5)",
+      0.01,
+      0.995,
+      17638.66791
+    ]
+  ],
+  "priced": 104
+}

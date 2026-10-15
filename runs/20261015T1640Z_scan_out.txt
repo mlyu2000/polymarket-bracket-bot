@@ -1,0 +1,23 @@
+# Bracket scan 20261015T1640Z
+markets=500 scan_time=53.3s
+brackets=0
+near_misses_le_1.005=15
+floor=1.001
+two_sided=104
+tiers={'le1.005': 15, 'le1.010': 31, 'le1.020': 42, 'le1.050': 76}
+
+NEARMISS 1.001 Yes@0.002 No@0.999 liq=1214.11336 | Bank of Japan decreases interest rates by 50+ bps 
+NEARMISS 1.002 Yes@0.003 No@0.999 liq=12506.94016 | Spread: FK Jablonec (-2.5)
+NEARMISS 1.002 Yes@0.003 No@0.999 liq=15587.25771 | Spread: Lincoln Red Imps FC (-2.5)
+NEARMISS 1.004 Yes@0.018 No@0.986 liq=3928.94623 | Bitcoin more valuable than any company before 2027
+NEARMISS 1.004 Yes@0.008 No@0.996 liq=9925.04487 | Spread: FC Thun (-2.5)
+NEARMISS 1.004 Yes@0.005 No@0.999 liq=13153.82158 | Spread: FC Thun (-3.5)
+NEARMISS 1.004 Yes@0.005 No@0.999 liq=5305.63818 | Spread: FK Jablonec (-3.5)
+NEARMISS 1.004 Yes@0.005 No@0.999 liq=18445.84156 | Spread: FK Kauno Žalgiris (-1.5)
+NEARMISS 1.004 Yes@0.012 No@0.992 liq=19175.3204 | Spread: KF Egnatia Rrogozhinë (-2.5)
+NEARMISS 1.004 Yes@0.010 No@0.994 liq=17145.31992 | Spread: Páfos FC (-2.5)
+NEARMISS 1.005 Yes@0.007 No@0.998 liq=20111.51466 | Exact Score: Bologna FC 1909 4 - 3 FC Internaziona
+NEARMISS 1.005 Yes@0.008 No@0.997 liq=19232.22712 | Exact Score: Brentford FC 1 - 5 Liverpool FC?
+NEARMISS 1.005 Yes@0.007 No@0.998 liq=22509.01277 | Exact Score: Brentford FC 4 - 4 Liverpool FC?
+NEARMISS 1.005 Yes@0.007 No@0.998 liq=20846.59989 | Exact Score: Venezia FC 4 - 3 SSC Napoli?
+NEARMISS 1.005 Yes@0.010 No@0.995 liq=17638.66791 | Spread: Inter Club d'Escaldes (-2.5)
