@@ -1,0 +1,92 @@
+{
+  "ts": "2026-10-15T09:47Z",
+  "markets": 500,
+  "two_sided": 75,
+  "not_bracketable": 425,
+  "tiers": {
+    "<=1.050": 61,
+    "<=1.020": 33,
+    "<=1.010": 24,
+    "<=1.005": 12,
+    "<1.000": 0
+  },
+  "floor": 1.001,
+  "floor_leader": {
+    "q": "Bank of Japan decreases interest rates by 50+ bps",
+    "yes": 0.002,
+    "no": 0.999,
+    "liq": 1403.72
+  },
+  "top10": [
+    {
+      "total": 1.001,
+      "q": "Bank of Japan decreases interest rates by 50+ bps",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 1403.72
+    },
+    {
+      "total": 1.002,
+      "q": "Spread: FK Jablonec (-2.5)",
+      "yes": 0.004,
+      "no": 0.998,
+      "liq": 15579.44
+    },
+    {
+      "total": 1.002,
+      "q": "Spread: Lincoln Red Imps FC (-2.5)",
+      "yes": 0.003,
+      "no": 0.999,
+      "liq": 12726.59
+    },
+    {
+      "total": 1.004,
+      "q": "Exact Score: Venezia FC 4 - 3 SSC Napoli?",
+      "yes": 0.006,
+      "no": 0.998,
+      "liq": 21543.61
+    },
+    {
+      "total": 1.004,
+      "q": "Spread: FC Thun (-2.5)",
+      "yes": 0.008,
+      "no": 0.998,
+      "liq": 14391.91
+    },
+    {
+      "total": 1.004,
+      "q": "Spread: Inter Club d'Escaldes (-2.5)",
+      "yes": 0.008,
+      "no": 0.996,
+      "liq": 15325.33
+    },
+    {
+      "total": 1.004,
+      "q": "Spread: Lillestr\u00f8m SK (-2.5)",
+      "yes": 0.011,
+      "no": 0.993,
+      "liq": 7277.46
+    },
+    {
+      "total": 1.004,
+      "q": "Spread: P\u00e1fos FC (-2.5)",
+      "yes": 0.007,
+      "no": 0.997,
+      "liq": 14025.56
+    },
+    {
+      "total": 1.005,
+      "q": "Exact Score: Bologna FC 1909 4 - 2 FC Internazionale?",
+      "yes": 0.008,
+      "no": 0.997,
+      "liq": 18176.94
+    },
+    {
+      "total": 1.005,
+      "q": "Exact Score: Brentford FC 4 - 4 Liverpool FC?",
+      "yes": 0.007,
+      "no": 0.998,
+      "liq": 22684.33
+    }
+  ]
+}
