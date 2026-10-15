@@ -1,0 +1,180 @@
+{
+  "ts": "2026-10-15T14:17:16Z",
+  "markets": 500,
+  "with_both_asks": 73,
+  "two_sided": 73,
+  "not_bracketable": 427,
+  "tiers": {
+    "le1.050": 48,
+    "le1.020": 17,
+    "le1.010": 11,
+    "le1.005": 8,
+    "lt1.000": 0
+  },
+  "brackets_below_098": 0,
+  "floor_top10": [
+    {
+      "sum": 1.001,
+      "q": "Bank of Japan decreases interest rates by 50+ bps after",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 1422.31134
+    },
+    {
+      "sum": 1.002,
+      "q": "Spread: FK Jablonec (-2.5)",
+      "yes": 0.003,
+      "no": 0.999,
+      "liq": 16922.32126
+    },
+    {
+      "sum": 1.002,
+      "q": "Spread: Lincoln Red Imps FC (-2.5)",
+      "yes": 0.003,
+      "no": 0.999,
+      "liq": 15576.3423
+    },
+    {
+      "sum": 1.004,
+      "q": "Bitcoin more valuable than any company before 2027?",
+      "yes": 0.018,
+      "no": 0.986,
+      "liq": 2356.75898
+    },
+    {
+      "sum": 1.004,
+      "q": "Spread: P\u00e1fos FC (-2.5)",
+      "yes": 0.008,
+      "no": 0.996,
+      "liq": 15548.1828
+    },
+    {
+      "sum": 1.005,
+      "q": "Spread: FC Thun (-2.5)",
+      "yes": 0.009,
+      "no": 0.996,
+      "liq": 7397.88707
+    },
+    {
+      "sum": 1.005,
+      "q": "Spread: Inter Club d'Escaldes (-2.5)",
+      "yes": 0.009,
+      "no": 0.996,
+      "liq": 9093.40799
+    },
+    {
+      "sum": 1.005,
+      "q": "Spread: Lillestr\u00f8m SK (-2.5)",
+      "yes": 0.011,
+      "no": 0.994,
+      "liq": 7787.86068
+    },
+    {
+      "sum": 1.008,
+      "q": "Spread: KF Egnatia Rrogozhin\u00eb (-2.5)",
+      "yes": 0.015,
+      "no": 0.993,
+      "liq": 9492.43039
+    },
+    {
+      "sum": 1.008,
+      "q": "Will Democrats win 12 or more House seats in Pennsylvan",
+      "yes": 0.029,
+      "no": 0.979,
+      "liq": 14287.44094
+    }
+  ],
+  "top12": [
+    [
+      1.001,
+      "Bank of Japan decreases interest rates by 50+ bps after",
+      0.002,
+      0.999,
+      1422.31134
+    ],
+    [
+      1.002,
+      "Spread: FK Jablonec (-2.5)",
+      0.003,
+      0.999,
+      16922.32126
+    ],
+    [
+      1.002,
+      "Spread: Lincoln Red Imps FC (-2.5)",
+      0.003,
+      0.999,
+      15576.3423
+    ],
+    [
+      1.004,
+      "Bitcoin more valuable than any company before 2027?",
+      0.018,
+      0.986,
+      2356.75898
+    ],
+    [
+      1.004,
+      "Spread: P\u00e1fos FC (-2.5)",
+      0.008,
+      0.996,
+      15548.1828
+    ],
+    [
+      1.005,
+      "Spread: FC Thun (-2.5)",
+      0.009,
+      0.996,
+      7397.88707
+    ],
+    [
+      1.005,
+      "Spread: Inter Club d'Escaldes (-2.5)",
+      0.009,
+      0.996,
+      9093.40799
+    ],
+    [
+      1.005,
+      "Spread: Lillestr\u00f8m SK (-2.5)",
+      0.011,
+      0.994,
+      7787.86068
+    ],
+    [
+      1.008,
+      "Spread: KF Egnatia Rrogozhin\u00eb (-2.5)",
+      0.015,
+      0.993,
+      9492.43039
+    ],
+    [
+      1.008,
+      "Will Democrats win 12 or more House seats in Pennsylvan",
+      0.029,
+      0.979,
+      14287.44094
+    ],
+    [
+      1.009,
+      "Will the highest temperature in Cape Town be 18\u00b0C on Oc",
+      0.01,
+      0.999,
+      3028.91086
+    ],
+    [
+      1.012,
+      "Will Z.ai be the #3 AI Lab at the end of October 2026 (",
+      0.014,
+      0.998,
+      530.53895
+    ]
+  ],
+  "one_sided": {
+    "yes_only": 421,
+    "no_only": 0,
+    "empty": 6,
+    "both": 73
+  },
+  "scan_time": 67.1
+}

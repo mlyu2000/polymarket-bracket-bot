@@ -1,0 +1,104 @@
+{
+  "ts": "20261015T1417Z",
+  "markets": 500,
+  "priced": 73,
+  "scan_time": 67.1,
+  "one_sided": {
+    "yes_only": 421,
+    "no_only": 0,
+    "empty": 6,
+    "both": 73
+  },
+  "tiers": {
+    "1.005": 8,
+    "1.01": 11,
+    "1.02": 17,
+    "1.05": 48
+  },
+  "top12": [
+    [
+      1.001,
+      "Bank of Japan decreases interest rates by 50+ bps after",
+      0.002,
+      0.999,
+      1422.31134
+    ],
+    [
+      1.002,
+      "Spread: FK Jablonec (-2.5)",
+      0.003,
+      0.999,
+      16922.32126
+    ],
+    [
+      1.002,
+      "Spread: Lincoln Red Imps FC (-2.5)",
+      0.003,
+      0.999,
+      15576.3423
+    ],
+    [
+      1.004,
+      "Bitcoin more valuable than any company before 2027?",
+      0.018,
+      0.986,
+      2356.75898
+    ],
+    [
+      1.004,
+      "Spread: P\u00e1fos FC (-2.5)",
+      0.008,
+      0.996,
+      15548.1828
+    ],
+    [
+      1.005,
+      "Spread: FC Thun (-2.5)",
+      0.009,
+      0.996,
+      7397.88707
+    ],
+    [
+      1.005,
+      "Spread: Inter Club d'Escaldes (-2.5)",
+      0.009,
+      0.996,
+      9093.40799
+    ],
+    [
+      1.005,
+      "Spread: Lillestr\u00f8m SK (-2.5)",
+      0.011,
+      0.994,
+      7787.86068
+    ],
+    [
+      1.008,
+      "Spread: KF Egnatia Rrogozhin\u00eb (-2.5)",
+      0.015,
+      0.993,
+      9492.43039
+    ],
+    [
+      1.008,
+      "Will Democrats win 12 or more House seats in Pennsylvan",
+      0.029,
+      0.979,
+      14287.44094
+    ],
+    [
+      1.009,
+      "Will the highest temperature in Cape Town be 18\u00b0C on Oc",
+      0.01,
+      0.999,
+      3028.91086
+    ],
+    [
+      1.012,
+      "Will Z.ai be the #3 AI Lab at the end of October 2026 (",
+      0.014,
+      0.998,
+      530.53895
+    ]
+  ]
+}
