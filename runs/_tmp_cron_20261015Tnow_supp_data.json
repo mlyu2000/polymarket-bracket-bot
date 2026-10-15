@@ -1,0 +1,192 @@
+{
+  "ts": "2026-10-15T15:09:27Z",
+  "markets": 500,
+  "with_both_asks": 80,
+  "two_sided": 80,
+  "not_bracketable": 420,
+  "tiers": {
+    "<=1.050": 60,
+    "<=1.020": 28,
+    "<=1.010": 15,
+    "<=1.005": 10,
+    "<1.000": 0
+  },
+  "top25": [
+    {
+      "total": 1.001,
+      "q": "Bank of Japan decreases interest rates by 50+ bps after",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 1332.55573
+    },
+    {
+      "total": 1.002,
+      "q": "Spread: FK Jablonec (-2.5)",
+      "yes": 0.003,
+      "no": 0.999,
+      "liq": 17105.5811
+    },
+    {
+      "total": 1.002,
+      "q": "Spread: Lincoln Red Imps FC (-2.5)",
+      "yes": 0.003,
+      "no": 0.999,
+      "liq": 15866.14694
+    },
+    {
+      "total": 1.004,
+      "q": "Bitcoin more valuable than any company before 2027?",
+      "yes": 0.018,
+      "no": 0.986,
+      "liq": 3928.94623
+    },
+    {
+      "total": 1.004,
+      "q": "Spread: FC Thun (-2.5)",
+      "yes": 0.008,
+      "no": 0.996,
+      "liq": 15463.09976
+    },
+    {
+      "total": 1.004,
+      "q": "Spread: Lillestr\u00f8m SK (-2.5)",
+      "yes": 0.01,
+      "no": 0.994,
+      "liq": 36294.69462
+    },
+    {
+      "total": 1.005,
+      "q": "Exact Score: Venezia FC 4 - 3 SSC Napoli?",
+      "yes": 0.007,
+      "no": 0.998,
+      "liq": 21913.09758
+    },
+    {
+      "total": 1.005,
+      "q": "Spread: Inter Club d'Escaldes (-2.5)",
+      "yes": 0.009,
+      "no": 0.996,
+      "liq": 22620.04754
+    },
+    {
+      "total": 1.005,
+      "q": "Spread: KF Egnatia Rrogozhin\u00eb (-2.5)",
+      "yes": 0.013,
+      "no": 0.992,
+      "liq": 25129.45201
+    },
+    {
+      "total": 1.005,
+      "q": "Spread: P\u00e1fos FC (-2.5)",
+      "yes": 0.01,
+      "no": 0.995,
+      "liq": 15009.72854
+    },
+    {
+      "total": 1.007,
+      "q": "Exact Score: Venezia FC 2 - 5 SSC Napoli?",
+      "yes": 0.011,
+      "no": 0.996,
+      "liq": 14692.5014
+    },
+    {
+      "total": 1.007,
+      "q": "Exact Score: Venezia FC 3 - 4 SSC Napoli?",
+      "yes": 0.011,
+      "no": 0.996,
+      "liq": 15445.47861
+    },
+    {
+      "total": 1.008,
+      "q": "Will Democrats win 12 or more House seats in Pennsylvan",
+      "yes": 0.029,
+      "no": 0.979,
+      "liq": 14423.6771
+    },
+    {
+      "total": 1.009,
+      "q": "Will the highest temperature in Cape Town be 18\u00b0C on Oc",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 3311.60374
+    },
+    {
+      "total": 1.01,
+      "q": "Spread: FK Kauno \u017dalgiris (-1.5)",
+      "yes": 0.011,
+      "no": 0.999,
+      "liq": 7679.84467
+    },
+    {
+      "total": 1.017,
+      "q": "Will Z.ai be the #3 AI Lab at the end of October 2026 (",
+      "yes": 0.019,
+      "no": 0.998,
+      "liq": 656.25318
+    },
+    {
+      "total": 1.018,
+      "q": "Spread: PFK CSKA Sofia (-3.5)",
+      "yes": 0.019,
+      "no": 0.999,
+      "liq": 3533.09442
+    },
+    {
+      "total": 1.019,
+      "q": "Spread: Aarhus GF (-3.5)",
+      "yes": 0.02,
+      "no": 0.999,
+      "liq": 4031.97329
+    },
+    {
+      "total": 1.019,
+      "q": "Spread: HNK Hajduk Split (-3.5)",
+      "yes": 0.02,
+      "no": 0.999,
+      "liq": 5753.19557
+    },
+    {
+      "total": 1.019,
+      "q": "Spread: KF Egnatia Rrogozhin\u00eb (-3.5)",
+      "yes": 0.02,
+      "no": 0.999,
+      "liq": 4918.71354
+    },
+    {
+      "total": 1.019,
+      "q": "Spread: KKS Lech Pozna\u0144 (-3.5)",
+      "yes": 0.02,
+      "no": 0.999,
+      "liq": 6150.13443
+    },
+    {
+      "total": 1.02,
+      "q": "Auckland FC vs. Melbourne City FC: Auckland FC O/U 1.5",
+      "yes": 0.38,
+      "no": 0.64,
+      "liq": 3999.5764
+    },
+    {
+      "total": 1.02,
+      "q": "Club Atletico La Paz vs. Tlaxcala FC: Club Atletico La ",
+      "yes": 0.22,
+      "no": 0.8,
+      "liq": 3683.2929
+    },
+    {
+      "total": 1.02,
+      "q": "Nyiregyhaza Spartacus FC vs. Budapest Honved FC: O/U 2.",
+      "yes": 0.57,
+      "no": 0.45,
+      "liq": 3949.2002
+    },
+    {
+      "total": 1.02,
+      "q": "Spread: FC Lugano (-1.5)",
+      "yes": 0.21,
+      "no": 0.81,
+      "liq": 46449.2739
+    }
+  ],
+  "scan_time": 64.4
+}
