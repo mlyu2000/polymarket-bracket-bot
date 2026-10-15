@@ -1,0 +1,52 @@
+{
+  "ts": "2026-10-15T20:22:24Z",
+  "markets": 500,
+  "two_sided": 59,
+  "scan_time": 53.7,
+  "floor": 1.001,
+  "top5": [
+    [
+      1.001,
+      "Bank of Japan decreases interest rates by 50+ bps after",
+      0.002,
+      0.999,
+      1350.60024
+    ],
+    [
+      1.002,
+      "Will the highest temperature in Sao Paulo be 31\u00b0C or hi",
+      0.003,
+      0.999,
+      4300.07895
+    ],
+    [
+      1.004,
+      "Bitcoin more valuable than any company before 2027?",
+      0.018,
+      0.986,
+      3928.94623
+    ],
+    [
+      1.007,
+      "Exact Score: Manchester City FC 0 - 2 Ipswich Town FC?",
+      0.012,
+      0.995,
+      11368.2955
+    ],
+    [
+      1.008,
+      "Will Democrats win 12 or more House seats in Pennsylvan",
+      0.029,
+      0.979,
+      14785.09059
+    ]
+  ],
+  "tiers": {
+    "le1.000": 0,
+    "le1.005": 3,
+    "le1.010": 8,
+    "le1.020": 13,
+    "le1.050": 39,
+    "lt1.000": 0
+  }
+}
