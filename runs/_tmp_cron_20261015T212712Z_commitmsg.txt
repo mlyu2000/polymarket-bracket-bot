@@ -1,0 +1,13 @@
+cron scan 2026-10-15T21:27Z: 500 markets, 0 brackets, floor 1.001 HELD (38th consecutive scan; 21:08Z was 37th)
+- Floor holder: Lagarde 2027 (Y0.009+N0.992=1.001) SOLE holder, sum unchanged; liq 146051.64026->141696.03419 (-4355.6, -3.0%).
+- BIG STRUCTURAL EVENT — spread-cluster re-exit (reversal of 21:08Z's ask-side return): the tight spread cluster left the book-able set again, two mechanisms:
+  * LEFT ACTIVE-500 UNIVERSE (closed/concluded; 0 substring hits in active set): Spread FC Thun (-4.5) [was 1.003 liq 12964.8], Spread FC Thun (-5.5) [1.003 liq 19431.8], Spread FC Kobenhavn (-4.5) [1.007 liq 18263.8], PA House Dems 12+ [1.008 liq 14784.0].
+  * WENT YES-ONLY (still active, NO-leg bid-only, verified by targeted re-fetch): Spread FK Jablonec (-4.5) [1.003->Y-only minY0.003, liq 19208.7], Exact Score Man City 0-2 Ipswich [1.007->Y-only minY0.012, liq 11659.6].
+  * Survivor worsened: Spread FK Jablonec (-5.5) 1.005->1.008 (minY0.006->0.009, liq 14108.8->12978.8, -8.0%).
+- NET DECROWD: two_sided 62->53 (-9); not_bracketable 438->447 (89.4%, +2.0 — highest one-sided share); yes_only 432->441.
+- tiers all decrowded: le1.005 7->3 (-4), le1.010 16->6 (-10), le1.020 21->14 (-7), le1.050 46->39 (-7); lt1.000 n0 (floor holds, 38th scan).
+- NEW book-able exact score: Exact Score FC Bayern Munchen 1-3 RB Leipzig (1.008, Y0.016+N0.992, liq 7981.5) — replaces Man City Ipswich which went Y-only.
+- Movers in top set: Sao Paulo 31C+ 1.002 flat liq 4716.8->4160.2 (-11.8%); Lagarde above.
+- Frozen book: Bitcoin liq 3934.17625 BYTE-IDENTICAL vs 21:08Z (new frozen streak, 2nd consecutive at post-break value; prior 13-scan streak at 3928.94623 broke at 21:08Z; sum 1.004 Y0.018/N0.986).
+- asks[0] verbatim near-miss artifact still 0 (DESC-sorted /book); min-ask diag is source of truth; brackets n0, no lt1.000 -> no bracket assembled.
+Persisted runs/_tmp_cron_20261015T212712Z_supp_data.json + _supp_rows.json + _tiers.json + results/cron_scan_history.jsonl line (local, unpushed).

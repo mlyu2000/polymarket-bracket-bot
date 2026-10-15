@@ -1,0 +1,202 @@
+{
+  "ts": "20261015T212712Z",
+  "markets": 500,
+  "scan_time": 55.3,
+  "priced": 53,
+  "with_both_asks": 53,
+  "one_sided": 447,
+  "two_sided": 53,
+  "yes_only": 441,
+  "na_only": 0,
+  "not_bracketable": 447,
+  "brackets": [],
+  "lt1": 0,
+  "tiers": {
+    "lt1.000": 0,
+    "le1.005": 3,
+    "le1.010": 6,
+    "le1.020": 14,
+    "le1.050": 39
+  },
+  "floor": 1.001,
+  "floor_q": "Will Christine Lagarde win the 2027 French presidential election?",
+  "leader_liq": 141696.03419,
+  "top25": [
+    [
+      1.001,
+      "Will Christine Lagarde win the 2027 French presidential election?",
+      0.009,
+      0.992,
+      141696.03419
+    ],
+    [
+      1.002,
+      "Will the highest temperature in Sao Paulo be 31\u00b0C or higher on October 16?",
+      0.003,
+      0.999,
+      4160.22903
+    ],
+    [
+      1.004,
+      "Bitcoin more valuable than any company before 2027?",
+      0.018,
+      0.986,
+      3934.17625
+    ],
+    [
+      1.008,
+      "Spread: FK Jablonec (-5.5)",
+      0.009,
+      0.999,
+      12978.8112
+    ],
+    [
+      1.008,
+      "Exact Score: FC Bayern M\u00fcnchen 1 - 3 RB Leipzig?",
+      0.016,
+      0.992,
+      7981.52278
+    ],
+    [
+      1.01,
+      "Skin cancer vaccine BLA submitted by March 31, 2027?",
+      0.43,
+      0.58,
+      2188.9882
+    ],
+    [
+      1.017,
+      "Will Z.ai be the #3 AI Lab at the end of October 2026 (Style Control On)?",
+      0.019,
+      0.998,
+      396.16307
+    ],
+    [
+      1.02,
+      "Nyiregyhaza Spartacus FC vs. Budapest Honved FC: O/U 2.5",
+      0.58,
+      0.44,
+      2225.1586
+    ],
+    [
+      1.02,
+      "GKS Katowice vs. Pogon Szczecin: Both Teams to Score",
+      0.63,
+      0.39,
+      3246.6613
+    ],
+    [
+      1.02,
+      "Java United FC vs. Bali United: O/U 2.5",
+      0.61,
+      0.41,
+      5075.1026
+    ],
+    [
+      1.02,
+      "Auckland FC vs. Melbourne City FC: Auckland FC O/U 1.5",
+      0.38,
+      0.64,
+      4251.5403
+    ],
+    [
+      1.02,
+      "Aston Villa FC vs. Viking FK: Both Teams to Score",
+      0.57,
+      0.45,
+      27585.6189
+    ],
+    [
+      1.02,
+      "Washington State vs. Oregon State: O/U 51.5",
+      0.54,
+      0.48,
+      17973.4312
+    ],
+    [
+      1.02,
+      "Will Odisha FC win on 2026-10-17?",
+      0.45,
+      0.57,
+      7645.8944
+    ],
+    [
+      1.03,
+      "Will Feyenoord finish as runner-up in the 2026-27 UEFA Champions League?",
+      0.033,
+      0.997,
+      232.42382
+    ],
+    [
+      1.03,
+      "Qingdao Hainiu FC vs. Liaoning Tieren FC: Qingdao Hainiu FC O/U 0.5",
+      0.68,
+      0.35,
+      1726.3119
+    ],
+    [
+      1.03,
+      "Club ABB vs. Bamin Real Potos\u00ed: Bamin Real Potos\u00ed O/U 1.5",
+      0.43,
+      0.6,
+      312.1154
+    ],
+    [
+      1.03,
+      "Portland Timbers vs. Colorado Rapids SC: Colorado Rapids SC O/U 0.5",
+      0.78,
+      0.25,
+      2017.6112
+    ],
+    [
+      1.03,
+      "Sukhothai FC vs. Rasisalai United: O/U 2.5",
+      0.55,
+      0.48,
+      1220.9503
+    ],
+    [
+      1.03,
+      "Sydney FC vs. Western Sydney Wanderers FC: Western Sydney Wanderers FC O/U 1.5",
+      0.39,
+      0.64,
+      4384.8276
+    ],
+    [
+      1.04,
+      "Spread: SE Palmeiras (-1.5)",
+      0.28,
+      0.76,
+      3295.1586
+    ],
+    [
+      1.04,
+      "Next Z.ai GLM (5.4+) released by October 31, 2026?",
+      0.64,
+      0.4,
+      897.0363
+    ],
+    [
+      1.04,
+      "VVV Venlo vs. Jong AZ Alkmaar: Jong AZ Alkmaar O/U 1.5",
+      0.54,
+      0.5,
+      2853.1367
+    ],
+    [
+      1.041,
+      "Will Pittsburgh Steelers finish the 2026-27 NFL regular season with the most ret",
+      0.042,
+      0.999,
+      193.31401
+    ],
+    [
+      1.041,
+      "Will Jacksonville Jaguars finish the 2026-27 NFL regular season with the most re",
+      0.042,
+      0.999,
+      192.738
+    ]
+  ],
+  "note": "spread-cluster re-exit: Thun(-4.5/-5.5), Kobenhavn(-4.5), PA House Dems 12+ left active-500 universe; Jablonec(-4.5) + Man City 0-2 Ipswich went YES-only; Jablonec(-5.5) worsened 1.005->1.008; NEW exact-score Bayern 1-3 Leipzig two-sided; floor 1.001 HELD (Lagarde sole holder)"
+}
