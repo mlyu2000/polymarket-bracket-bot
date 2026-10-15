@@ -1,0 +1,102 @@
+{
+  "ts_utc": "2026-10-15T07:42:00.234494+00:00",
+  "markets": 500,
+  "two_sided": 63,
+  "one_sided": 437,
+  "tiers": {
+    "lt1.000": 0,
+    "le1.005": 7,
+    "le1.010": 13,
+    "le1.020": 22,
+    "le1.050": 47
+  },
+  "floor_leaders": [
+    {
+      "sum": 1.003,
+      "q": "Spread: FK Jablonec (-2.5)",
+      "yes": 0.005,
+      "no": 0.998,
+      "liq": 5474.93237
+    },
+    {
+      "sum": 1.003,
+      "q": "Spread: Lincoln Red Imps FC (-2.5)",
+      "yes": 0.004,
+      "no": 0.999,
+      "liq": 4434.87479
+    },
+    {
+      "sum": 1.003,
+      "q": "Spread: MH Hapoel Be'er Sheva (-2.5)",
+      "yes": 0.009,
+      "no": 0.994,
+      "liq": 6187.91051
+    },
+    {
+      "sum": 1.004,
+      "q": "Spread: Lillestr\u00f8m SK (-2.5)",
+      "yes": 0.01,
+      "no": 0.994,
+      "liq": 6072.26692
+    },
+    {
+      "sum": 1.005,
+      "q": "Spread: FC Thun (-2.5)",
+      "yes": 0.009,
+      "no": 0.996,
+      "liq": 5199.36626
+    },
+    {
+      "sum": 1.005,
+      "q": "Spread: Inter Club d'Escaldes (-2.5)",
+      "yes": 0.009,
+      "no": 0.996,
+      "liq": 4146.99888
+    },
+    {
+      "sum": 1.005,
+      "q": "Spread: P\u00e1fos FC (-2.5)",
+      "yes": 0.009,
+      "no": 0.996,
+      "liq": 5098.81439
+    },
+    {
+      "sum": 1.006,
+      "q": "Spread: KF Egnatia Rrogozhin\u00eb (-2.5)",
+      "yes": 0.016,
+      "no": 0.99,
+      "liq": 5891.71854
+    }
+  ],
+  "liquid_near_floor": [
+    {
+      "sum": 1.01,
+      "q": "Will Olympique de Marseille win on 2026-10-18?",
+      "yes": 0.47,
+      "no": 0.54,
+      "liq": 20323.8904
+    },
+    {
+      "sum": 1.02,
+      "q": "Aston Villa FC vs. Viking FK: Both Teams to Score",
+      "yes": 0.57,
+      "no": 0.45,
+      "liq": 22743.3082
+    },
+    {
+      "sum": 1.02,
+      "q": "Washington State vs. Oregon State: O/U 51.5",
+      "yes": 0.54,
+      "no": 0.48,
+      "liq": 16206.502
+    },
+    {
+      "sum": 1.037,
+      "q": "Will Religious Zionist Party\u2013Zehut win 3.25-4% of the vote i",
+      "yes": 0.137,
+      "no": 0.9,
+      "liq": 10833.00887
+    }
+  ],
+  "scan_time": 64.1
+}
