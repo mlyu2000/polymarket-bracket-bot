@@ -1,0 +1,31 @@
+🔍 Scan: 500 markets in 56.8s
+Two-sided books: 97
+✅ BRACKETS (min-ask sum < 1.00): 0
+📊 TOP-25 nearest min-ask sums:
+  1.0010 | Yes@0.0020 No@0.9990 | liq=    1335.4 | Bank of Japan decreases interest rates by 50+ bps after the December 2
+  1.0020 | Yes@0.0030 No@0.9990 | liq=   15582.7 | Spread: Lincoln Red Imps FC (-2.5)
+  1.0020 | Yes@0.0030 No@0.9990 | liq=   12507.1 | Spread: FK Jablonec (-2.5)
+  1.0040 | Yes@0.0180 No@0.9860 | liq=    3928.9 | Bitcoin more valuable than any company before 2027?
+  1.0040 | Yes@0.0080 No@0.9960 | liq=    9862.2 | Spread: FC Thun (-2.5)
+  1.0040 | Yes@0.0050 No@0.9990 | liq=   13209.8 | Spread: FC Thun (-3.5)
+  1.0040 | Yes@0.0050 No@0.9990 | liq=    5305.7 | Spread: FK Jablonec (-3.5)
+  1.0040 | Yes@0.0050 No@0.9990 | liq=   16986.3 | Spread: FK Kauno Žalgiris (-1.5)
+  1.0050 | Yes@0.0150 No@0.9900 | liq=   42211.9 | Spread: Lillestrøm SK (-2.5)
+  1.0050 | Yes@0.0100 No@0.9950 | liq=   17089.8 | Spread: Páfos FC (-2.5)
+  1.0050 | Yes@0.0100 No@0.9950 | liq=   17460.7 | Spread: Inter Club d'Escaldes (-2.5)
+  1.0050 | Yes@0.0130 No@0.9920 | liq=   19242.5 | Spread: KF Egnatia Rrogozhinë (-2.5)
+  1.0050 | Yes@0.0070 No@0.9980 | liq=   20829.4 | Exact Score: Venezia FC 4 - 3 SSC Napoli?
+  1.0050 | Yes@0.0070 No@0.9980 | liq=   22498.7 | Exact Score: Brentford FC 4 - 4 Liverpool FC?
+  1.0060 | Yes@0.0090 No@0.9970 | liq=   15248.4 | Exact Score: Venezia FC 4 - 1 SSC Napoli?
+  1.0060 | Yes@0.0100 No@0.9960 | liq=   14297.3 | Exact Score: Venezia FC 3 - 4 SSC Napoli?
+  1.0060 | Yes@0.0080 No@0.9980 | liq=   19910.9 | Exact Score: Bologna FC 1909 4 - 3 FC Internazionale Milano?
+  1.0070 | Yes@0.0110 No@0.9960 | liq=   13523.7 | Exact Score: Venezia FC 2 - 5 SSC Napoli?
+  1.0070 | Yes@0.0110 No@0.9960 | liq=    9623.8 | Exact Score: RC Strasbourg Alsace 4 - 2 Paris Saint-Germain FC?
+  1.0080 | Yes@0.0290 No@0.9790 | liq=   14250.1 | Will Democrats win 12 or more House seats in Pennsylvania in the 2026 
+  1.0080 | Yes@0.0120 No@0.9960 | liq=   11965.9 | Exact Score: Bologna FC 1909 3 - 4 FC Internazionale Milano?
+  1.0080 | Yes@0.0120 No@0.9960 | liq=    8974.9 | Exact Score: RC Strasbourg Alsace 3 - 5 Paris Saint-Germain FC?
+  1.0090 | Yes@0.0100 No@0.9990 | liq=    3285.4 | Will the highest temperature in Cape Town be 18°C on October 16?
+  1.0090 | Yes@0.0100 No@0.9990 | liq=   39425.9 | Spread: KKS Lech Poznań (-3.5)
+  1.0090 | Yes@0.0100 No@0.9990 | liq=   15209.8 | Spread: Aarhus GF (-3.5)
+tiers: {"le1.005": 14, "le1.010": 28, "le1.020": 39, "le1.050": 68, "lt1.000": 0}
+saved: runs/_tmp_cron_20261015T1610Z_supp_data.json

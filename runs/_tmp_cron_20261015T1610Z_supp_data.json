@@ -1,0 +1,190 @@
+{
+  "scan_time": 56.80713605880737,
+  "markets": 500,
+  "two_sided": 97,
+  "brackets": [],
+  "top25": [
+    {
+      "q": "Bank of Japan decreases interest rates by 50+ bps after the December 2026 meeting?",
+      "min_yes": 0.002,
+      "min_no": 0.999,
+      "total": 1.001,
+      "liq": 1335.35849
+    },
+    {
+      "q": "Spread: Lincoln Red Imps FC (-2.5)",
+      "min_yes": 0.003,
+      "min_no": 0.999,
+      "total": 1.002,
+      "liq": 15582.73765
+    },
+    {
+      "q": "Spread: FK Jablonec (-2.5)",
+      "min_yes": 0.003,
+      "min_no": 0.999,
+      "total": 1.002,
+      "liq": 12507.07781
+    },
+    {
+      "q": "Bitcoin more valuable than any company before 2027?",
+      "min_yes": 0.018,
+      "min_no": 0.986,
+      "total": 1.004,
+      "liq": 3928.94623
+    },
+    {
+      "q": "Spread: FC Thun (-2.5)",
+      "min_yes": 0.008,
+      "min_no": 0.996,
+      "total": 1.004,
+      "liq": 9862.19001
+    },
+    {
+      "q": "Spread: FC Thun (-3.5)",
+      "min_yes": 0.005,
+      "min_no": 0.999,
+      "total": 1.004,
+      "liq": 13209.81828
+    },
+    {
+      "q": "Spread: FK Jablonec (-3.5)",
+      "min_yes": 0.005,
+      "min_no": 0.999,
+      "total": 1.004,
+      "liq": 5305.68036
+    },
+    {
+      "q": "Spread: FK Kauno \u017dalgiris (-1.5)",
+      "min_yes": 0.005,
+      "min_no": 0.999,
+      "total": 1.004,
+      "liq": 16986.30956
+    },
+    {
+      "q": "Spread: Lillestr\u00f8m SK (-2.5)",
+      "min_yes": 0.015,
+      "min_no": 0.99,
+      "total": 1.005,
+      "liq": 42211.88583
+    },
+    {
+      "q": "Spread: P\u00e1fos FC (-2.5)",
+      "min_yes": 0.01,
+      "min_no": 0.995,
+      "total": 1.005,
+      "liq": 17089.76946
+    },
+    {
+      "q": "Spread: Inter Club d'Escaldes (-2.5)",
+      "min_yes": 0.01,
+      "min_no": 0.995,
+      "total": 1.005,
+      "liq": 17460.65857
+    },
+    {
+      "q": "Spread: KF Egnatia Rrogozhin\u00eb (-2.5)",
+      "min_yes": 0.013,
+      "min_no": 0.992,
+      "total": 1.005,
+      "liq": 19242.45813
+    },
+    {
+      "q": "Exact Score: Venezia FC 4 - 3 SSC Napoli?",
+      "min_yes": 0.007,
+      "min_no": 0.998,
+      "total": 1.005,
+      "liq": 20829.42989
+    },
+    {
+      "q": "Exact Score: Brentford FC 4 - 4 Liverpool FC?",
+      "min_yes": 0.007,
+      "min_no": 0.998,
+      "total": 1.005,
+      "liq": 22498.74077
+    },
+    {
+      "q": "Exact Score: Venezia FC 4 - 1 SSC Napoli?",
+      "min_yes": 0.009,
+      "min_no": 0.997,
+      "total": 1.006,
+      "liq": 15248.36148
+    },
+    {
+      "q": "Exact Score: Venezia FC 3 - 4 SSC Napoli?",
+      "min_yes": 0.01,
+      "min_no": 0.996,
+      "total": 1.006,
+      "liq": 14297.33968
+    },
+    {
+      "q": "Exact Score: Bologna FC 1909 4 - 3 FC Internazionale Milano?",
+      "min_yes": 0.008,
+      "min_no": 0.998,
+      "total": 1.006,
+      "liq": 19910.91466
+    },
+    {
+      "q": "Exact Score: Venezia FC 2 - 5 SSC Napoli?",
+      "min_yes": 0.011,
+      "min_no": 0.996,
+      "total": 1.007,
+      "liq": 13523.6522
+    },
+    {
+      "q": "Exact Score: RC Strasbourg Alsace 4 - 2 Paris Saint-Germain FC?",
+      "min_yes": 0.011,
+      "min_no": 0.996,
+      "total": 1.007,
+      "liq": 9623.79699
+    },
+    {
+      "q": "Will Democrats win 12 or more House seats in Pennsylvania in the 2026 midterm elections?",
+      "min_yes": 0.029,
+      "min_no": 0.979,
+      "total": 1.008,
+      "liq": 14250.13394
+    },
+    {
+      "q": "Exact Score: Bologna FC 1909 3 - 4 FC Internazionale Milano?",
+      "min_yes": 0.012,
+      "min_no": 0.996,
+      "total": 1.008,
+      "liq": 11965.86281
+    },
+    {
+      "q": "Exact Score: RC Strasbourg Alsace 3 - 5 Paris Saint-Germain FC?",
+      "min_yes": 0.012,
+      "min_no": 0.996,
+      "total": 1.008,
+      "liq": 8974.92426
+    },
+    {
+      "q": "Will the highest temperature in Cape Town be 18\u00b0C on October 16?",
+      "min_yes": 0.01,
+      "min_no": 0.999,
+      "total": 1.009,
+      "liq": 3285.42483
+    },
+    {
+      "q": "Spread: KKS Lech Pozna\u0144 (-3.5)",
+      "min_yes": 0.01,
+      "min_no": 0.999,
+      "total": 1.009,
+      "liq": 39425.88455
+    },
+    {
+      "q": "Spread: Aarhus GF (-3.5)",
+      "min_yes": 0.01,
+      "min_no": 0.999,
+      "total": 1.009,
+      "liq": 15209.77628
+    }
+  ],
+  "tiers": {
+    "le1.005": 14,
+    "le1.010": 28,
+    "le1.020": 39,
+    "le1.050": 68,
+    "lt1.000": 0
+  }
+}
