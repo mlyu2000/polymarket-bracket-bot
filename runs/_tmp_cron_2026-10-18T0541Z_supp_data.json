@@ -1,0 +1,91 @@
+{
+  "ts": "2026-10-18T0541Z",
+  "markets": 500,
+  "two_sided": 48,
+  "floor": [
+    1.005,
+    "Spread: Gimcheon Sangmu FC (-2.5)",
+    0.01,
+    0.995,
+    7239.74086
+  ],
+  "tiers": {
+    "le1.005": 1,
+    "le1.010": 6,
+    "le1.020": 16,
+    "le1.050": 35,
+    "lt1.000": 0
+  },
+  "top10": [
+    [
+      1.005,
+      "Spread: Gimcheon Sangmu FC (-2.5)",
+      0.01,
+      0.995,
+      7239.74086
+    ],
+    [
+      1.008,
+      "Will DeepSeek be the second-best Math AI lab at th",
+      0.009,
+      0.999,
+      470.97011
+    ],
+    [
+      1.009,
+      "Will the price of Solana be greater than $150 on O",
+      0.01,
+      0.999,
+      65.91087
+    ],
+    [
+      1.009,
+      "Will there be 5 or fewer UK parliamentary by-elect",
+      0.01,
+      0.999,
+      11395.0103
+    ],
+    [
+      1.01,
+      "Pohang Steelers FC vs. FC Anyang: 1st Half O/U 1.5",
+      0.31,
+      0.7,
+      10534.661
+    ],
+    [
+      1.01,
+      "Rams Ba\u015fak\u015fehir FK vs. Gaziantep FK: O/U 3.5",
+      0.41,
+      0.6,
+      11572.545
+    ],
+    [
+      1.016,
+      "Bitcoin more valuable than any company before 2027",
+      0.03,
+      0.986,
+      1532.79983
+    ],
+    [
+      1.02,
+      "FC Kuressaare vs. FCI Levadia Tallinn: O/U 1.5",
+      0.86,
+      0.16,
+      3914.2842
+    ],
+    [
+      1.02,
+      "Fagiano Okayama leading at halftime?",
+      0.11,
+      0.91,
+      6514.4382
+    ],
+    [
+      1.02,
+      "Gangwon FC vs. Incheon United FC: 1st Half O/U 0.5",
+      0.64,
+      0.38,
+      11624.7676
+    ]
+  ]
+}
