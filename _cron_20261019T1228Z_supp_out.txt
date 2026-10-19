@@ -1,0 +1,10 @@
+DIAG scan: 500 markets (43 two-sided) in 49.4s
+BRACKETS via detector: 0
+TRUE min-ask floor: 1.0040 | Spread: ŠK Slovan Bratislava (-3.5)
+tiers: {'le1.005': 1, 'le1.010': 3, 'le1.020': 5, 'le1.050': 24, 'lt1.000': 0}
+top5 floors:
+  1.0040 | Y@0.005 N@0.999 | liq 17604 | Spread: ŠK Slovan Bratislava (-3.5)
+  1.0080 | Y@0.009 N@0.999 | liq 495 | Will DeepSeek be the second-best Math AI lab at the end of O
+  1.0090 | Y@0.010 N@0.999 | liq 17267 | Spread: PSV (-3.5)
+  1.0200 | Y@0.620 N@0.400 | liq 10913 | Will Go Ahead Eagles win on 2026-10-23?
+  1.0200 | Y@0.080 N@0.940 | liq 10378 | Will the Republican Party candidate win the 2026 FL-16 House

@@ -1,0 +1,85 @@
+{
+ "ts": "2026-10-19T12:28Z",
+ "markets": 500,
+ "two_sided": 43,
+ "brackets": [],
+ "floor_top10": [
+  [
+   1.004,
+   "Spread: \u0160K Slovan Bratislava (-3.5)",
+   0.005,
+   0.999,
+   17603.83584
+  ],
+  [
+   1.008,
+   "Will DeepSeek be the second-best Math AI lab at the end of O",
+   0.009,
+   0.999,
+   494.68188
+  ],
+  [
+   1.009,
+   "Spread: PSV (-3.5)",
+   0.01,
+   0.999,
+   17267.20784
+  ],
+  [
+   1.02,
+   "Will Go Ahead Eagles win on 2026-10-23?",
+   0.62,
+   0.4,
+   10912.6276
+  ],
+  [
+   1.02,
+   "Will the Republican Party candidate win the 2026 FL-16 House",
+   0.08,
+   0.94,
+   10377.68519
+  ],
+  [
+   1.03,
+   "Al Taawoun Saudi Club vs. Al Qadisiyah Saudi Club: Both Team",
+   0.62,
+   0.41,
+   4060.254
+  ],
+  [
+   1.03,
+   "Ventforet K\u014dfu vs. Yokohama FC: Yokohama FC O/U 1.5",
+   0.54,
+   0.49,
+   4105.9973
+  ],
+  [
+   1.04,
+   "SpaceXAI announces a full training pause in 2026?",
+   0.05,
+   0.99,
+   80.87542
+  ],
+  [
+   1.04,
+   "Spread: SE Palmeiras (-1.5)",
+   0.29,
+   0.75,
+   4581.0402
+  ],
+  [
+   1.04,
+   "Will Djurgardens IF win on 2026-10-24?",
+   0.86,
+   0.18,
+   10525.5275
+  ]
+ ],
+ "tiers": {
+  "le1.005": 1,
+  "le1.010": 3,
+  "le1.020": 5,
+  "le1.050": 24,
+  "lt1.000": 0
+ }
+}

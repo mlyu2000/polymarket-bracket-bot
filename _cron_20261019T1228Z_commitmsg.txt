@@ -1,0 +1,1 @@
+cron scan 2026-10-19T12:28Z: 0 brackets/500; min-ask floor 1.0040 (SK Slovan Bratislava -3.5, Y0.005+N0.999, liq 17604) — floor tightened from 1.0050; two-sided 43/500 (down from 48); tiers le1.005 n1, le1.010 n3, le1.020 n5, le1.050 n24, lt1.000 n0; near-miss block of cron script is asks[0] artifact (reports 0)
