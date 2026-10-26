@@ -1,0 +1,36 @@
+=== tier deltas (17:44Z -> 17:55Z) ===
+le1.005 9->10 (+1)
+le1.010 18->20 (+2)
+le1.020 23->25 (+2)
+le1.050 47->51 (+4)
+two_sided 71->74 (+3)
+floor 1.001->1.001 | leader liq 1142.3->1216.2 (+73.9, +6.5%)
+=== top-25 movers vs 17:44Z (names present in both) ===
+  Bank of Japan decreases interest rates by 50+: 1.001->1.001 | liq 1142.3->1216.2 (+73.9, +6.5%)
+  Spread: Lincoln Red Imps FC (-2.5): 1.002->1.002 | liq 15473.4->7115.2 (-8358.2, -54.0%)
+  Spread: FC Thun (-2.5): 1.004->1.003 | liq 17736.5->17434.8 (-301.7, -1.7%)
+  Spread: FK Jablonec (-2.5): 1.002->1.003 | liq 15038.1->22117.8 (+7079.7, +47.1%)
+  Spread: FC Thun (-3.5): 1.004->1.004 | liq 13295.2->5351.3 (-7943.9, -59.8%)
+  Spread: FK Jablonec (-3.5): 1.004->1.004 | liq 6251.8->15403.1 (+9151.3, +146.4%)
+  Spread: Páfos FC (-3.5): 1.004->1.004 | liq 5571.1->15993.5 (+10422.4, +187.1%)
+  Spread: Páfos FC (-2.5): 1.005->1.005 | liq 10416.4->20349.2 (+9932.8, +95.4%)
+  Will the Republicans win the Tennessee govern: 1.007->1.007 | liq 41633.8->43707.8 (+2074.0, +5.0%)
+=== NEW in top-25 (absent from prev top-12) ===
+  NEW 1.004 | liq 20671.6 | Spread: FK Kauno Žalgiris (-1.5)
+  NEW 1.008 | liq 15154.7 | Exact Score: SC União Torreense 2 - 1 Sunderland AFC?
+  NEW 1.009 | liq 21435.3 | Spread: FC Viktoria Plzeň (-3.5)
+  NEW 1.009 | liq 2529.7 | Will the highest temperature in Cape Town be 18°C on Oc
+  NEW 1.010 | liq 10911.3 | Mansfield Town FC vs. Oxford United FC: Both Teams to S
+  NEW 1.010 | liq 24460.2 | Mansfield Town FC vs. Oxford United FC: O/U 4.5
+  NEW 1.010 | liq 2211.8 | Nyiregyhaza Spartacus FC vs. Budapest Honved FC: O/U 2.
+  NEW 1.010 | liq 2919.3 | Red Star FC vs. AS Saint-Étienne: Red Star FC O/U 1.5
+  NEW 1.010 | liq 21544.7 | Spread: Atalanta BC (-3.5)
+  NEW 1.017 | liq 408.5 | Will Z.ai be the #3 AI Lab at the end of October 2026 (
+  NEW 1.020 | liq 1227.7 | Sukhothai FC vs. Rasisalai United: O/U 2.5
+  NEW 1.020 | liq 19139.4 | Washington State vs. Oregon State: O/U 51.5
+  NEW 1.020 | liq 5859.2 | Will Odisha FC win on 2026-10-17?
+  NEW 1.020 | liq 5502.7 | Will the highest temperature in Miami be between 84-85°
+=== dropped from prev top-12 ===
+  DROP 1.008 | liq 22990.4 | Spread: Inter Club d'Escaldes (-2.5)
+=== persists done ===
+runs/_tmp_cron_20261015T1755Z_supp_data.json + runs/_tmp_cron_20261015T1755Z_tiers.json + results/cron_scan_history.jsonl

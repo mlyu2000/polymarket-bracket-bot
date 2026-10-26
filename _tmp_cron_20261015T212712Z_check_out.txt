@@ -1,0 +1,4 @@
+TWO-SIDED   | minY=0.009 minN=0.992 sum=1.001 | liq=141695.88537 | Will Christine Lagarde win the 2027 French presidential
+YES-only    | minY=0.003 minN=None sum=n/a | liq=18711.3811 | Spread: FK Jablonec (-4.5)
+TWO-SIDED   | minY=0.009 minN=0.999 sum=1.008 | liq=12978.8112 | Spread: FK Jablonec (-5.5)
+YES-only    | minY=0.012 minN=None sum=n/a | liq=11656.993 | Exact Score: Manchester City FC 0 - 2 Ipswich Town FC?

@@ -1,0 +1,31 @@
+🔍 Scan: 500 markets in 60.5s
+Two-sided books: 87
+✅ BRACKETS (min-ask sum < 1.00): 0
+📊 TOP-25 nearest min-ask sums:
+  1.0010 | Yes@0.0020 No@0.9990 | liq=    1425.8 | Bank of Japan decreases interest rates by 50+ bps after the December 2
+  1.0020 | Yes@0.0030 No@0.9990 | liq=   17942.0 | Spread: Lincoln Red Imps FC (-2.5)
+  1.0020 | Yes@0.0030 No@0.9990 | liq=   11524.4 | Spread: FK Jablonec (-2.5)
+  1.0030 | Yes@0.0100 No@0.9930 | liq=   32314.0 | Spread: Lillestrøm SK (-2.5)
+  1.0040 | Yes@0.0180 No@0.9860 | liq=    3928.9 | Bitcoin more valuable than any company before 2027?
+  1.0040 | Yes@0.0080 No@0.9960 | liq=   17242.1 | Spread: FC Thun (-2.5)
+  1.0040 | Yes@0.0050 No@0.9990 | liq=    3697.7 | Spread: FC Thun (-3.5)
+  1.0040 | Yes@0.0050 No@0.9990 | liq=    1527.9 | Spread: FK Jablonec (-3.5)
+  1.0040 | Yes@0.0050 No@0.9990 | liq=    4453.2 | Spread: Páfos FC (-3.5)
+  1.0040 | Yes@0.0050 No@0.9990 | liq=   22944.6 | Spread: FK Kauno Žalgiris (-1.5)
+  1.0040 | Yes@0.0090 No@0.9950 | liq=   28500.9 | Spread: Inter Club d'Escaldes (-2.5)
+  1.0040 | Yes@0.0050 No@0.9990 | liq=    8322.0 | Spread: Kuopion PS (-3.5)
+  1.0050 | Yes@0.0100 No@0.9950 | liq=   16836.5 | Spread: Páfos FC (-2.5)
+  1.0050 | Yes@0.0130 No@0.9920 | liq=   21562.6 | Spread: KF Egnatia Rrogozhinë (-2.5)
+  1.0050 | Yes@0.0070 No@0.9980 | liq=   21991.8 | Exact Score: Venezia FC 4 - 3 SSC Napoli?
+  1.0060 | Yes@0.0100 No@0.9960 | liq=   15541.0 | Exact Score: Venezia FC 3 - 4 SSC Napoli?
+  1.0070 | Yes@0.0110 No@0.9960 | liq=   14682.5 | Exact Score: Venezia FC 2 - 5 SSC Napoli?
+  1.0080 | Yes@0.0290 No@0.9790 | liq=   14266.7 | Will Democrats win 12 or more House seats in Pennsylvania in the 2026 
+  1.0080 | Yes@0.0120 No@0.9960 | liq=   10915.2 | Exact Score: RC Strasbourg Alsace 4 - 2 Paris Saint-Germain FC?
+  1.0080 | Yes@0.0120 No@0.9960 | liq=   10129.1 | Exact Score: RC Strasbourg Alsace 3 - 5 Paris Saint-Germain FC?
+  1.0090 | Yes@0.0100 No@0.9990 | liq=    9181.2 | Spread: FC Viktoria Plzeň (-3.5)
+  1.0090 | Yes@0.0100 No@0.9990 | liq=    3278.5 | Will the highest temperature in Cape Town be 18°C on October 16?
+  1.0090 | Yes@0.0100 No@0.9990 | liq=   38470.2 | Spread: KKS Lech Poznań (-3.5)
+  1.0090 | Yes@0.0100 No@0.9990 | liq=    5790.5 | Spread: Aarhus GF (-3.5)
+  1.0090 | Yes@0.0100 No@0.9990 | liq=    6180.8 | Spread: KF Egnatia Rrogozhinë (-3.5)
+tiers: {"le1.005": 15, "le1.010": 27, "le1.020": 34, "le1.050": 68, "lt1.000": 0}
+saved: runs/_tmp_cron_20261015T155224Z_supp_data.json

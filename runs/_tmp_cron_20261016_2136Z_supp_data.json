@@ -1,0 +1,51 @@
+{
+  "ts": "2026-10-16T21:36:46Z",
+  "markets": 500,
+  "scan_time": 47.5,
+  "two_sided": 80,
+  "buckets": {
+    "le1.005": 15,
+    "le1.010": 31,
+    "le1.020": 41,
+    "le1.050": 65,
+    "lt1.000": 0
+  },
+  "top": [
+    [
+      1.002,
+      "0.999",
+      "0.996",
+      "Exact Score: 1. FC Union Berlin 4 - 1 BV Borussia 09 Dortmun",
+      5071.93215
+    ],
+    [
+      1.003,
+      "0.999",
+      "0.996",
+      "Exact Score: 1. FC Union Berlin 4 - 2 BV Borussia 09 Dortmun",
+      15596.3351
+    ],
+    [
+      1.003,
+      "0.999",
+      "0.996",
+      "Exact Score: Bologna FC 1909 3 - 4 FC Internazionale Milano?",
+      20075.77004
+    ],
+    [
+      1.003,
+      "0.999",
+      "0.997",
+      "Exact Score: Venezia FC 4 - 1 SSC Napoli?",
+      24206.373
+    ],
+    [
+      1.003,
+      "0.999",
+      "0.998",
+      "Exact Score: Manchester City FC 0 - 2 Ipswich Town FC?",
+      76678.88025
+    ]
+  ],
+  "median": 1.02
+}

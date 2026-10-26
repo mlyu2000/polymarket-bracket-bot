@@ -1,0 +1,177 @@
+{
+  "ts": "20261025T0918Z",
+  "markets": 500,
+  "brackets": 0,
+  "floor": 1.001,
+  "two_sided": 331,
+  "tiers": {
+    "le1.005": 23,
+    "le1.010": 73,
+    "le1.020": 133,
+    "le1.050": 239
+  },
+  "band": [
+    [
+      1.001,
+      "Will Arizona Cardinals win the 2027 NFL NFC Champi",
+      0.002,
+      0.999,
+      69396.25037
+    ],
+    [
+      1.001,
+      "Will Dallas Mavericks win the 2027 NBA Finals?",
+      0.004,
+      0.997,
+      281535.104
+    ],
+    [
+      1.001,
+      "Will General Mills Q2 organic net sales growth be ",
+      0.002,
+      0.999,
+      375.47619
+    ],
+    [
+      1.001,
+      "Will Iceman (Drake) win Album of the Year at the 6",
+      0.002,
+      0.999,
+      2522.20866
+    ],
+    [
+      1.001,
+      "Will Igor Hub\u00e1\u010dek win the 2026 Martin mayoral elec",
+      0.002,
+      0.999,
+      12293.01388
+    ],
+    [
+      1.001,
+      "Will John N. Kennedy win the 2028 Republican presi",
+      0.002,
+      0.999,
+      1131469.38245
+    ],
+    [
+      1.001,
+      "Will Luma AI have the best Text-to-Image AI at the",
+      0.002,
+      0.999,
+      1233.09277
+    ],
+    [
+      1.001,
+      "Will Shohei Ohtani be the #1 searched person on Go",
+      0.002,
+      0.999,
+      18759.53267
+    ],
+    [
+      1.001,
+      "Will Vox win the most seats in Tarragona in the 20",
+      0.002,
+      0.999,
+      20378.8201
+    ],
+    [
+      1.001,
+      "Will the Democratic Party candidate win the 2026 I",
+      0.002,
+      0.999,
+      11845.89066
+    ],
+    [
+      1.003,
+      "Will L\u00e9a Seydoux win Best Actress at the 99th Acad",
+      0.004,
+      0.999,
+      5389.99992
+    ],
+    [
+      1.003,
+      "Will Reanimal win Best Independent Game at the 202",
+      0.004,
+      0.999,
+      702.35217
+    ],
+    [
+      1.003,
+      "Will Ty Simpson finish as a top-5 QB in the 2026-2",
+      0.013,
+      0.99,
+      327.48204
+    ],
+    [
+      1.003,
+      "Will Z.ai be the first company to have an AI model",
+      0.004,
+      0.999,
+      2035.47875
+    ],
+    [
+      1.003,
+      "Will the Democratic Party candidate win the 2026 H",
+      0.004,
+      0.999,
+      11800.46071
+    ],
+    [
+      1.003,
+      "Will total votes cast in the 2026 midterm election",
+      0.005,
+      0.998,
+      12637.24351
+    ],
+    [
+      1.004,
+      "Will Dante Moore be the 2026 D1 Passing Yards Lead",
+      0.014,
+      0.99,
+      314.41354
+    ],
+    [
+      1.004,
+      "Will Jaxon Smith-Njigba finish the 2026-27 NFL reg",
+      0.153,
+      0.851,
+      358.57287
+    ],
+    [
+      1.004,
+      "Will Recraft have the best Text-to-Image AI at the",
+      0.005,
+      0.999,
+      512.67651
+    ],
+    [
+      1.004,
+      "Will the Republican Party win the PA-15 House seat",
+      0.95,
+      0.054,
+      14831.30156
+    ],
+    [
+      1.004,
+      "Will the Republicans win the Hawaii governor race ",
+      0.014,
+      0.99,
+      38684.06783
+    ],
+    [
+      1.004,
+      "Will \u00d3scar Estupi\u00f1\u00e1n (FC Ju\u00e1rez) be the top goalsc",
+      0.005,
+      0.999,
+      96.25684
+    ],
+    [
+      1.005,
+      "Will Hili Tropper be the next Israeli Minister of ",
+      0.007,
+      0.998,
+      11248.96236
+    ]
+  ],
+  "priced": 331
+}

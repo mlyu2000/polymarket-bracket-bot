@@ -1,0 +1,43 @@
+# Bracket scan 20261026T0531Z
+markets=500 scan_time=55.4s
+brackets=0
+near_misses_le_1.005=35
+floor=1.001
+two_sided=360
+tiers={'le1.005': 35, 'le1.010': 79, 'le1.020': 129, 'le1.050': 232}
+
+NEARMISS 1.001 Yes@0.002 No@0.999 liq=72973.01835 | Will Arizona Cardinals win the 2027 NFL NFC Champi
+NEARMISS 1.001 Yes@0.018 No@0.983 liq=593547.8432 | Will Donald Trump Jr. win the 2028 Republican pres
+NEARMISS 1.001 Yes@0.002 No@0.999 liq=476.7922 | Will General Mills Q2 organic net sales growth be 
+NEARMISS 1.001 Yes@0.002 No@0.999 liq=28309.74708 | Will Jorge Rodríguez be the de facto leader of Ven
+NEARMISS 1.001 Yes@0.002 No@0.999 liq=1137.6169 | Will Luma AI have the best Text-to-Image AI at the
+NEARMISS 1.001 Yes@0.002 No@0.999 liq=13893.92092 | Will Shohei Ohtani be the #1 searched person on Go
+NEARMISS 1.001 Yes@0.002 No@0.999 liq=2565.75661 | Will The Duskbloods win Game of the Year at the 20
+NEARMISS 1.001 Yes@0.002 No@0.999 liq=499.92445 | Will Vitinha finish in the top 2 of the 2026 Ballo
+NEARMISS 1.001 Yes@0.002 No@0.999 liq=18859.48014 | Will Vox win the most seats in Tarragona in the 20
+NEARMISS 1.001 Yes@0.004 No@0.997 liq=53563.04869 | Will XRP dip to $0.20 in October?
+NEARMISS 1.001 Yes@0.002 No@0.999 liq=16079.41501 | Will the Democratic Party candidate win the 2026 H
+NEARMISS 1.001 Yes@0.002 No@0.999 liq=16434.34823 | Will the Democratic Party candidate win the 2026 I
+NEARMISS 1.001 Yes@0.004 No@0.997 liq=650903.27791 | Will the Fed increase interest rates by 50+ bps af
+NEARMISS 1.001 Yes@0.002 No@0.999 liq=15797.84157 | Will the Republican Party candidate win the 2026 W
+NEARMISS 1.001 Yes@0.195 No@0.806 liq=7134.36683 | Will Marguerite Humeau win the Turner Prize 2026?
+NEARMISS 1.002 Yes@0.003 No@0.999 liq=238.85428 | Will Bolivia host the 2028 Copa America?
+NEARMISS 1.002 Yes@0.052 No@0.950 liq=12658.12523 | Will the Democratic Party candidate win the 2026 T
+NEARMISS 1.003 Yes@0.004 No@0.999 liq=11625.21634 | Will Broad Front (FA) win the most seats in Lleida
+NEARMISS 1.003 Yes@0.004 No@0.999 liq=4984.02185 | Will Léa Seydoux win Best Actress at the 99th Acad
+NEARMISS 1.003 Yes@0.006 No@0.997 liq=171490.62019 | Will Memphis Grizzlies win the 2027 NBA Finals?
+NEARMISS 1.003 Yes@0.004 No@0.999 liq=766.70906 | Will Reanimal win Best Independent Game at the 202
+NEARMISS 1.003 Yes@0.004 No@0.999 liq=2054.87505 | Will Z.ai be the first company to have an AI model
+NEARMISS 1.003 Yes@0.004 No@0.999 liq=11935.13432 | Will the Republican Party candidate win the 2026 I
+NEARMISS 1.003 Yes@0.014 No@0.989 liq=37603.64137 | Will the Republicans win the Hawaii governor race 
+NEARMISS 1.004 Yes@0.021 No@0.983 liq=15200.47271 | Epic Games IPO before 2027?
+NEARMISS 1.004 Yes@0.014 No@0.990 liq=292.3308 | Will Dante Moore be the 2026 D1 Passing Yards Lead
+NEARMISS 1.004 Yes@0.009 No@0.995 liq=23137.95042 | Will Erika Kirk be the 2028 Republican Vice-Presid
+NEARMISS 1.004 Yes@0.994 No@0.010 liq=14681.39354 | Will Harry Kane finish in the top 5 of the 2026 Ba
+NEARMISS 1.004 Yes@0.052 No@0.952 liq=6126.65325 | Will Lovable be acquired before 2027?
+NEARMISS 1.004 Yes@0.005 No@0.999 liq=14937.27634 | Will the Democratic Party candidate win the 2026 O
+NEARMISS 1.004 Yes@0.950 No@0.054 liq=13174.60751 | Will the Republican Party win the PA-15 House seat
+NEARMISS 1.004 Yes@0.005 No@0.999 liq=12845.03534 | Will total votes cast in the 2026 midterm election
+NEARMISS 1.004 Yes@0.005 No@0.999 liq=179.63211 | Will Óscar Estupiñán (FC Juárez) be the top goalsc
+NEARMISS 1.005 Yes@0.009 No@0.996 liq=13299.41534 | Will José María Tapia Franco win the 2027 Querétar
+NEARMISS 1.005 Yes@0.007 No@0.998 liq=1112.21731 | Will the highest temperature in Istanbul be 13°C o

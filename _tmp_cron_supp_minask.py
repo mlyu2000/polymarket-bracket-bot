@@ -1,8 +1,10 @@
-import asyncio, json, time
+import asyncio, logging, json, time
 from config import Config
 from polymarket_api import PolymarketAPI
 
-async def main():
+logging.basicConfig(level=logging.ERROR)
+
+async def scan():
     Config.validate()
     api = PolymarketAPI()
     t0 = time.time()
@@ -11,47 +13,40 @@ async def main():
     all_books = await api.fetch_order_books_batch(token_pairs)
     scan_time = time.time() - t0
 
-    one_sided = {'yes_only': 0, 'no_only': 0, 'empty': 0, 'both': 0}
-    priced = []   # (floor, q, ymin, nmin, liq) for two-sided markets
+    rows = []
+    le102 = []
     for m, (yb, nb) in zip(markets, all_books):
-        has_y = bool(yb and yb.asks)
-        has_n = bool(nb and nb.asks)
-        if has_y and has_n:
-            one_sided['both'] += 1
-        elif has_y:
-            one_sided['yes_only'] += 1
-        elif has_n:
-            one_sided['no_only'] += 1
-        else:
-            one_sided['empty'] += 1
+        if not (yb and nb and yb.asks and nb.asks):
             continue
-        if has_y and has_n:
-            ymin = min(float(a['price']) for a in yb.asks)
-            nmin = min(float(a['price']) for a in nb.asks)
-            priced.append((ymin + nmin, m.question[:60], ymin, nmin, m.liquidity))
-
-    priced.sort()
-    med = priced[len(priced)//2][0] if priced else None
-    tiers = {}
-    for lim in (1.005, 1.010, 1.020, 1.030, 1.050, 1.100):
-        tiers[f'le{lim}'] = sum(1 for p in priced if p[0] <= lim)
-
+        ymin = min(float(a['price']) for a in yb.asks)
+        nmin = min(float(a['price']) for a in nb.asks)
+        total = ymin + nmin
+        rows.append((total, m.question[:55], ymin, nmin, m.liquidity))
+        if total <= 1.02:
+            le102.append({
+                'q': m.question[:90],
+                'yes_min': ymin, 'no_min': nmin, 'sum': round(total, 4),
+                'liq': m.liquidity, 'market_id': getattr(m, 'market_id', None) or getattr(m, 'id', None),
+                'yes_asks': [{'price': a['price'], 'size': a.get('size')} for a in yb.asks[:3]],
+                'no_asks': [{'price': a['price'], 'size': a.get('size')} for a in nb.asks[:3]],
+            })
+    rows.sort()
     ts = time.strftime('%Y%m%dT%H%M%SZ', time.gmtime())
     out = {
-        'ts': ts, 'markets': len(markets), 'priced': len(priced),
-        'scan_time': round(scan_time, 1),
-        'one_sided': one_sided,
-        'median': med,
-        'floor': priced[0][0] if priced else None,
-        'floor_q': priced[0][1] if priced else None,
-        'floor_yes': priced[0][2] if priced else None,
-        'floor_no': priced[0][3] if priced else None,
-        'floor_liq': priced[0][4] if priced else None,
-        'band': [[round(p[0], 4), p[1], p[2], p[3], round(p[4], 2)] for p in priced[:10]],
-        'tiers': tiers,
+        'ts': ts, 'markets': len(markets), 'scan_time': round(scan_time, 1),
+        'floor': [round(rows[0][0],4), rows[0][1], rows[0][2], rows[0][3], rows[0][4]] if rows else None,
+        'top10': [{'sum': round(r[0],4), 'q': r[1], 'yes': r[2], 'no': r[3], 'liq': r[4]} for r in rows[:10]],
+        'tiers': {
+            'le_1_005': sum(1 for r in rows if r[0] <= 1.005),
+            'le_1_010': sum(1 for r in rows if r[0] <= 1.010),
+            'le_1_020': sum(1 for r in rows if r[0] <= 1.020),
+            'le_1_050': sum(1 for r in rows if r[0] <= 1.050),
+            'lt_1_000': sum(1 for r in rows if r[0] < 1.000),
+        },
+        'le_1_02_markets': le102,
     }
     with open(f'runs/_tmp_cron_{ts}_supp_data.json', 'w') as f:
-        json.dump(out, f, indent=2)
-    print(json.dumps(out, indent=2))
+        json.dump(out, f, indent=1)
+    print(json.dumps(out, indent=1))
 
-asyncio.run(main())
+asyncio.run(scan())

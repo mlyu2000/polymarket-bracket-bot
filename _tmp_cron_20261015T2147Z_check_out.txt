@@ -1,0 +1,6 @@
+MISSING FROM ACTIVE-500: Spread: FK Jablonec (-5.5)
+MISSING FROM ACTIVE-500: Spread: FK Jablonec (-4.5)
+TWO-SIDED   | minY=0.009 minN=0.992 sum=1.001 | liq=140929.03859 | Will Christine Lagarde win the 2027 French presidential
+TWO-SIDED   | minY=0.003 minN=0.999 sum=1.002 | liq=4121.53889 | Will the highest temperature in Sao Paulo be 31°C or hi
+TWO-SIDED   | minY=0.018 minN=0.986 sum=1.004 | liq=3934.17625 | Bitcoin more valuable than any company before 2027?
+YES-only    | minY=0.012 minN=None sum=n/a | liq=9547.28773 | Exact Score: FC Bayern München 0 - 2 RB Leipzig?

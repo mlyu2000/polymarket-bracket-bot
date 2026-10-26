@@ -1,0 +1,11 @@
+cron scan 2026-10-15T20:36Z: 500 markets, 0 brackets, floor 1.001 (BoJ 50+ bps cuts held)
+
+- Verbatim scan: 500 markets in 54.1s; 0 brackets; near-miss block 0 (asks[0] artifact, unchanged)
+- Min-ask diag: 500 markets, two_sided 59 (flat vs 2022Z 59); floor 1.001 HELD (36th consecutive scan)
+- Floor leader: BoJ cuts 50+ bps 1.001 (Y0.002 N0.999) — liq 1350.60024->1278.41428 (-72.19, -5.3%); sum unchanged, 0.002 Yes leg remains the seller-side floor holder
+- two_sided 59->59; not_bracketable 441 (88.2%, flat)
+- Tiers vs 2022Z: le1.005 3->3, le1.010 8->7 (-1), le1.020 13->13, le1.050 39->39, lt1.000 n0 (floor holds 36th scan)
+- Top-5 diff: Sao Paulo 31C+ liq 4300.1->4392.8 (+2.2%, sum 1.002); Bitcoin>any-co liq 3928.94623 byte-identical (14th consecutive frozen scan); Man City 0-2 Ipswich liq 11368.2955 byte-identical (2nd consecutive frozen); PA House Dems 12+ liq 14785.1->14617.9 (-1.1%, sum 1.008)
+- New in top-5: none (same 5 markets as 2022Z, order unchanged)
+- brackets n0; asks[0] verbatim near-miss artifact still 0; min-ask diag is source of truth
+- Persisted runs/_tmp_cron_20261015T203613Z_supp_data.json + results/cron_scan_history.jsonl line (local, unpushed)

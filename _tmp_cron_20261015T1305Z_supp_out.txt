@@ -1,0 +1,265 @@
+{
+  "ts": "2026-10-15T13:08:09Z",
+  "markets": 500,
+  "with_both_asks": 73,
+  "two_sided": 73,
+  "not_bracketable": 427,
+  "tiers": {
+    "le1.050": 58,
+    "le1.020": 27,
+    "le1.010": 18,
+    "le1.005": 8,
+    "lt1.000": 0
+  },
+  "brackets_below_098": 0,
+  "floor_top10": [
+    {
+      "sum": 1.001,
+      "q": "Bank of Japan decreases interest rates by 50+ bps after",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 977.49648
+    },
+    {
+      "sum": 1.002,
+      "q": "Spread: FK Jablonec (-2.5)",
+      "yes": 0.004,
+      "no": 0.998,
+      "liq": 8719.44898
+    },
+    {
+      "sum": 1.002,
+      "q": "Spread: Lincoln Red Imps FC (-2.5)",
+      "yes": 0.003,
+      "no": 0.999,
+      "liq": 7211.50076
+    },
+    {
+      "sum": 1.004,
+      "q": "Spread: FC Thun (-2.5)",
+      "yes": 0.008,
+      "no": 0.996,
+      "liq": 8120.95364
+    },
+    {
+      "sum": 1.004,
+      "q": "Spread: Lillestr\u00f8m SK (-2.5)",
+      "yes": 0.01,
+      "no": 0.994,
+      "liq": 27666.19898
+    },
+    {
+      "sum": 1.005,
+      "q": "Bitcoin more valuable than any company before 2027?",
+      "yes": 0.019,
+      "no": 0.986,
+      "liq": 3012.08322
+    },
+    {
+      "sum": 1.005,
+      "q": "Spread: Inter Club d'Escaldes (-2.5)",
+      "yes": 0.008,
+      "no": 0.997,
+      "liq": 8112.21026
+    },
+    {
+      "sum": 1.005,
+      "q": "Spread: P\u00e1fos FC (-2.5)",
+      "yes": 0.009,
+      "no": 0.996,
+      "liq": 8598.85731
+    },
+    {
+      "sum": 1.006,
+      "q": "Exact Score: Venezia FC 3 - 4 SSC Napoli?",
+      "yes": 0.01,
+      "no": 0.996,
+      "liq": 15098.54363
+    },
+    {
+      "sum": 1.007,
+      "q": "Exact Score: Bologna FC 1909 3 - 4 FC Internazionale Mi",
+      "yes": 0.011,
+      "no": 0.996,
+      "liq": 13436.04087
+    }
+  ],
+  "top25": [
+    {
+      "total": 1.001,
+      "q": "Bank of Japan decreases interest rates by 50+ bps after",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 977.49648
+    },
+    {
+      "total": 1.002,
+      "q": "Spread: FK Jablonec (-2.5)",
+      "yes": 0.004,
+      "no": 0.998,
+      "liq": 8719.44898
+    },
+    {
+      "total": 1.002,
+      "q": "Spread: Lincoln Red Imps FC (-2.5)",
+      "yes": 0.003,
+      "no": 0.999,
+      "liq": 7211.50076
+    },
+    {
+      "total": 1.004,
+      "q": "Spread: FC Thun (-2.5)",
+      "yes": 0.008,
+      "no": 0.996,
+      "liq": 8120.95364
+    },
+    {
+      "total": 1.004,
+      "q": "Spread: Lillestr\u00f8m SK (-2.5)",
+      "yes": 0.01,
+      "no": 0.994,
+      "liq": 27666.19898
+    },
+    {
+      "total": 1.005,
+      "q": "Bitcoin more valuable than any company before 2027?",
+      "yes": 0.019,
+      "no": 0.986,
+      "liq": 3012.08322
+    },
+    {
+      "total": 1.005,
+      "q": "Spread: Inter Club d'Escaldes (-2.5)",
+      "yes": 0.008,
+      "no": 0.997,
+      "liq": 8112.21026
+    },
+    {
+      "total": 1.005,
+      "q": "Spread: P\u00e1fos FC (-2.5)",
+      "yes": 0.009,
+      "no": 0.996,
+      "liq": 8598.85731
+    },
+    {
+      "total": 1.006,
+      "q": "Exact Score: Venezia FC 3 - 4 SSC Napoli?",
+      "yes": 0.01,
+      "no": 0.996,
+      "liq": 15098.54363
+    },
+    {
+      "total": 1.007,
+      "q": "Exact Score: Bologna FC 1909 3 - 4 FC Internazionale Mi",
+      "yes": 0.011,
+      "no": 0.996,
+      "liq": 13436.04087
+    },
+    {
+      "total": 1.007,
+      "q": "Spread: KF Egnatia Rrogozhin\u00eb (-2.5)",
+      "yes": 0.015,
+      "no": 0.992,
+      "liq": 10552.78093
+    },
+    {
+      "total": 1.008,
+      "q": "Exact Score: Bologna FC 1909 2 - 5 FC Internazionale Mi",
+      "yes": 0.013,
+      "no": 0.995,
+      "liq": 13001.28528
+    },
+    {
+      "total": 1.008,
+      "q": "Will Democrats win 12 or more House seats in Pennsylvan",
+      "yes": 0.029,
+      "no": 0.979,
+      "liq": 14317.09894
+    },
+    {
+      "total": 1.009,
+      "q": "Will the highest temperature in Cape Town be 18\u00b0C on Oc",
+      "yes": 0.01,
+      "no": 0.999,
+      "liq": 2797.01509
+    },
+    {
+      "total": 1.01,
+      "q": "Club Atletico La Paz vs. Tlaxcala FC: Club Atletico La ",
+      "yes": 0.22,
+      "no": 0.79,
+      "liq": 3659.2732
+    },
+    {
+      "total": 1.01,
+      "q": "Spread: FC Lugano (-1.5)",
+      "yes": 0.21,
+      "no": 0.8,
+      "liq": 31396.4398
+    },
+    {
+      "total": 1.01,
+      "q": "Spread: FK Kauno \u017dalgiris (-1.5)",
+      "yes": 0.011,
+      "no": 0.999,
+      "liq": 23079.49836
+    },
+    {
+      "total": 1.01,
+      "q": "Will SSC Napoli win on 2026-10-17?",
+      "yes": 0.57,
+      "no": 0.44,
+      "liq": 52024.7777
+    },
+    {
+      "total": 1.012,
+      "q": "Spread: Universitatea Craiova CS (-3.5)",
+      "yes": 0.013,
+      "no": 0.999,
+      "liq": 3713.11429
+    },
+    {
+      "total": 1.014,
+      "q": "Spread: KF Egnatia Rrogozhin\u00eb (-3.5)",
+      "yes": 0.015,
+      "no": 0.999,
+      "liq": 4297.71421
+    },
+    {
+      "total": 1.015,
+      "q": "Spread: Aarhus GF (-3.5)",
+      "yes": 0.016,
+      "no": 0.999,
+      "liq": 4134.03174
+    },
+    {
+      "total": 1.016,
+      "q": "Will Z.ai be the #3 AI Lab at the end of October 2026 (",
+      "yes": 0.018,
+      "no": 0.998,
+      "liq": 625.9058
+    },
+    {
+      "total": 1.018,
+      "q": "Spread: HNK Hajduk Split (-3.5)",
+      "yes": 0.019,
+      "no": 0.999,
+      "liq": 4470.57027
+    },
+    {
+      "total": 1.018,
+      "q": "Spread: KKS Lech Pozna\u0144 (-3.5)",
+      "yes": 0.019,
+      "no": 0.999,
+      "liq": 24284.25463
+    },
+    {
+      "total": 1.018,
+      "q": "Spread: PFK CSKA Sofia (-3.5)",
+      "yes": 0.019,
+      "no": 0.999,
+      "liq": 4332.19886
+    }
+  ],
+  "scan_time": 65.6
+}

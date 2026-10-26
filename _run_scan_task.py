@@ -53,7 +53,8 @@ result = asyncio.run(scan())
 print(f"🔍 Scan: {result['markets']} markets in {result['scan_time']:.1f}s")
 print(f"✅ BRACKETS (sum < 1.00): {len(result['opps'])}")
 for o in result['opps']:
-    print(f"  🔴 {o['sum']:.3f} (edge={o['edge']:.4f}) | Yes@{o['yes']:.3f} No@{o['no']:.3f} | {o['shares']} shares | {o['q']}")
+    print(f"  🔴 {o['sum']:.3f} (edge={o['edge']:.4f}) | Yes@{o['yes']:.3f} No@{o['no']:.3f} | {o['shares']} shares | {o['liq']}")
+    print(f"    {o['q']}")
 print(f"📊 Near-misses (≤1.005): {len(result['near_misses'])}")
 for total, q, yp, np, liq in result['near_misses'][:5]:
-    print(f"  {total:.3f} | Yes@{yp:.3f} No@{np:.3f} | {q}")
+    print(f"  {total:.3f} | Yes@{yp:.3f} No@{np:.3f} | {q} | liq={liq:.1f}")

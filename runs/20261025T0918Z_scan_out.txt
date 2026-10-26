@@ -1,0 +1,31 @@
+# Bracket scan 20261025T0918Z
+markets=500 scan_time=54.5s
+brackets=0
+near_misses_le_1.005=23
+floor=1.001
+two_sided=331
+tiers={'le1.005': 23, 'le1.010': 73, 'le1.020': 133, 'le1.050': 239}
+
+NEARMISS 1.001 Yes@0.002 No@0.999 liq=69396.25037 | Will Arizona Cardinals win the 2027 NFL NFC Champi
+NEARMISS 1.001 Yes@0.004 No@0.997 liq=281535.104 | Will Dallas Mavericks win the 2027 NBA Finals?
+NEARMISS 1.001 Yes@0.002 No@0.999 liq=375.47619 | Will General Mills Q2 organic net sales growth be 
+NEARMISS 1.001 Yes@0.002 No@0.999 liq=2522.20866 | Will Iceman (Drake) win Album of the Year at the 6
+NEARMISS 1.001 Yes@0.002 No@0.999 liq=12293.01388 | Will Igor Hubáček win the 2026 Martin mayoral elec
+NEARMISS 1.001 Yes@0.002 No@0.999 liq=1131469.38245 | Will John N. Kennedy win the 2028 Republican presi
+NEARMISS 1.001 Yes@0.002 No@0.999 liq=1233.09277 | Will Luma AI have the best Text-to-Image AI at the
+NEARMISS 1.001 Yes@0.002 No@0.999 liq=18759.53267 | Will Shohei Ohtani be the #1 searched person on Go
+NEARMISS 1.001 Yes@0.002 No@0.999 liq=20378.8201 | Will Vox win the most seats in Tarragona in the 20
+NEARMISS 1.001 Yes@0.002 No@0.999 liq=11845.89066 | Will the Democratic Party candidate win the 2026 I
+NEARMISS 1.003 Yes@0.004 No@0.999 liq=5389.99992 | Will Léa Seydoux win Best Actress at the 99th Acad
+NEARMISS 1.003 Yes@0.004 No@0.999 liq=702.35217 | Will Reanimal win Best Independent Game at the 202
+NEARMISS 1.003 Yes@0.013 No@0.990 liq=327.48204 | Will Ty Simpson finish as a top-5 QB in the 2026-2
+NEARMISS 1.003 Yes@0.004 No@0.999 liq=2035.47875 | Will Z.ai be the first company to have an AI model
+NEARMISS 1.003 Yes@0.004 No@0.999 liq=11800.46071 | Will the Democratic Party candidate win the 2026 H
+NEARMISS 1.003 Yes@0.005 No@0.998 liq=12637.24351 | Will total votes cast in the 2026 midterm election
+NEARMISS 1.004 Yes@0.014 No@0.990 liq=314.41354 | Will Dante Moore be the 2026 D1 Passing Yards Lead
+NEARMISS 1.004 Yes@0.153 No@0.851 liq=358.57287 | Will Jaxon Smith-Njigba finish the 2026-27 NFL reg
+NEARMISS 1.004 Yes@0.005 No@0.999 liq=512.67651 | Will Recraft have the best Text-to-Image AI at the
+NEARMISS 1.004 Yes@0.950 No@0.054 liq=14831.30156 | Will the Republican Party win the PA-15 House seat
+NEARMISS 1.004 Yes@0.014 No@0.990 liq=38684.06783 | Will the Republicans win the Hawaii governor race 
+NEARMISS 1.004 Yes@0.005 No@0.999 liq=96.25684 | Will Óscar Estupiñán (FC Juárez) be the top goalsc
+NEARMISS 1.005 Yes@0.007 No@0.998 liq=11248.96236 | Will Hili Tropper be the next Israeli Minister of 

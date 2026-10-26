@@ -1,0 +1,13 @@
+active markets: 500
+
+== 'Thun': 2 hit(s) ==
+   active=True closed=False liq=21942.28826 | Spread: FC Thun (-2.5)
+   active=True closed=False liq=17321.97326 | Spread: FC Thun (-3.5)
+
+== 'benhavn': 0 hit(s) ==
+
+== 'Kobenhavn': 0 hit(s) ==
+
+== 'Pennsylvania': 0 hit(s) ==
+
+== 'House seats': 0 hit(s) ==

@@ -1,0 +1,30 @@
+floor_min_ask=1.001
+two_sided=53 yes_only=441 na_only=0 not_bracketable=447 (89.4%)
+tiers={'le1.005': 3, 'le1.010': 6, 'le1.020': 14, 'le1.050': 39, 'lt1.000': 0}
+leader: Will Christine Lagarde win the 2027 French presidential election? | sum=1.001 Y0.009 N0.992 liq=141696.03419
+top25:
+  1.0010 | Y0.009 N0.992 | liq=141696.03419 | Will Christine Lagarde win the 2027 French presidential election?
+  1.0020 | Y0.003 N0.999 | liq=4160.22903 | Will the highest temperature in Sao Paulo be 31°C or higher on October 16?
+  1.0040 | Y0.018 N0.986 | liq=3934.17625 | Bitcoin more valuable than any company before 2027?
+  1.0080 | Y0.009 N0.999 | liq=12978.8112 | Spread: FK Jablonec (-5.5)
+  1.0080 | Y0.016 N0.992 | liq=7981.52278 | Exact Score: FC Bayern München 1 - 3 RB Leipzig?
+  1.0100 | Y0.430 N0.580 | liq=2188.9882 | Skin cancer vaccine BLA submitted by March 31, 2027?
+  1.0170 | Y0.019 N0.998 | liq=396.16307 | Will Z.ai be the #3 AI Lab at the end of October 2026 (Style Control On)?
+  1.0200 | Y0.580 N0.440 | liq=2225.1586 | Nyiregyhaza Spartacus FC vs. Budapest Honved FC: O/U 2.5
+  1.0200 | Y0.630 N0.390 | liq=3246.6613 | GKS Katowice vs. Pogon Szczecin: Both Teams to Score
+  1.0200 | Y0.610 N0.410 | liq=5075.1026 | Java United FC vs. Bali United: O/U 2.5
+  1.0200 | Y0.380 N0.640 | liq=4251.5403 | Auckland FC vs. Melbourne City FC: Auckland FC O/U 1.5
+  1.0200 | Y0.570 N0.450 | liq=27585.6189 | Aston Villa FC vs. Viking FK: Both Teams to Score
+  1.0200 | Y0.540 N0.480 | liq=17973.4312 | Washington State vs. Oregon State: O/U 51.5
+  1.0200 | Y0.450 N0.570 | liq=7645.8944 | Will Odisha FC win on 2026-10-17?
+  1.0300 | Y0.033 N0.997 | liq=232.42382 | Will Feyenoord finish as runner-up in the 2026-27 UEFA Champions League?
+  1.0300 | Y0.680 N0.350 | liq=1726.3119 | Qingdao Hainiu FC vs. Liaoning Tieren FC: Qingdao Hainiu FC O/U 0.5
+  1.0300 | Y0.430 N0.600 | liq=312.1154 | Club ABB vs. Bamin Real Potosí: Bamin Real Potosí O/U 1.5
+  1.0300 | Y0.780 N0.250 | liq=2017.6112 | Portland Timbers vs. Colorado Rapids SC: Colorado Rapids SC O/U 0.5
+  1.0300 | Y0.550 N0.480 | liq=1220.9503 | Sukhothai FC vs. Rasisalai United: O/U 2.5
+  1.0300 | Y0.390 N0.640 | liq=4384.8276 | Sydney FC vs. Western Sydney Wanderers FC: Western Sydney Wanderers FC O/U 1.5
+  1.0400 | Y0.280 N0.760 | liq=3295.1586 | Spread: SE Palmeiras (-1.5)
+  1.0400 | Y0.640 N0.400 | liq=897.0363 | Next Z.ai GLM (5.4+) released by October 31, 2026?
+  1.0400 | Y0.540 N0.500 | liq=2853.1367 | VVV Venlo vs. Jong AZ Alkmaar: Jong AZ Alkmaar O/U 1.5
+  1.0410 | Y0.042 N0.999 | liq=193.31401 | Will Pittsburgh Steelers finish the 2026-27 NFL regular season with the most ret
+  1.0410 | Y0.042 N0.999 | liq=192.738 | Will Jacksonville Jaguars finish the 2026-27 NFL regular season with the most re

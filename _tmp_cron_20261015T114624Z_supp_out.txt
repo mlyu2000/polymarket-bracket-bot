@@ -1,0 +1,10 @@
+WROTE: runs/_tmp_cron_20261015T114624Z_supp_data.json
+floor: 1.001 Bank of Japan decreases interest rates by 50+ bps after the  | tiers: {"lt1.000": 0, "le1.005": 7, "le1.010": 12, "le1.020": 20, "le1.050": 51}
+two_sided: 67 one_sided: 433
+top liquid near floor:
+   1.009 liq 38164 | Spread: MH Hapoel Be'er Sheva (-2.5)
+   1.004 liq 23931 | Spread: Lillestrøm SK (-2.5)
+   1.007 liq 16897 | Spread: KF Egnatia Rrogozhinë (-2.5)
+   1.002 liq 16304 | Spread: FK Jablonec (-2.5)
+   1.005 liq 15417 | Spread: Páfos FC (-2.5)
+   1.008 liq 13890 | Will Democrats win 12 or more House seats in Pennsylvania in

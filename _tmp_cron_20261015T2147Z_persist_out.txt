@@ -1,0 +1,24 @@
+=== tier deltas (21:27Z -> 21:47Z) ===
+le1.005 3->3 (+0)
+le1.010 6->5 (-1)
+le1.020 14->12 (-2)
+le1.050 39->37 (-2)
+two_sided 53->52 (-1)
+not_bracketable 447->448 (+1, 89.6%)
+floor 1.001->1.001 | leader liq 141696.03419->140929.03859 (-767.0, -0.5%)
+=== top-12 leaders vs 21:27Z (present in both, changed) ===
+  Will Christine Lagarde win the 2027 French pr: 1.001->1.001 | liq 141696.0->140929.0 (-767.0, -0.5%)
+  Skin cancer vaccine BLA submitted by March 31: 1.010->1.010 | liq 2189.0->2066.5 (-122.5, -5.6%)
+  Nyiregyhaza Spartacus FC vs. Budapest Honved : 1.020->1.020 | liq 2225.2->2418.7 (+193.5, +8.7%)
+  GKS Katowice vs. Pogon Szczecin: Both Teams t: 1.020->1.020 | liq 3246.7->3408.9 (+162.2, +5.0%)
+  Auckland FC vs. Melbourne City FC: Auckland F: 1.020->1.040 | liq 4251.5->4245.5 (-6.1, -0.1%)
+=== NEW in top-12 (absent from 21:27Z top-12) ===
+  NEW 1.020 | liq 20132.5 | Washington State vs. Oregon State: O/U 51.5
+  NEW 1.020 | liq 7643.2 | Will Odisha FC win on 2026-10-17?
+=== dropped from 21:27Z top-12 (resolve: lower-tier / left-universe / YES-only) ===
+  DROP 1.008 | liq 12978.8 | Spread: FK Jablonec (-5.5)
+=== frozen-book check (Bitcoin) ===
+  Bitcoin liq=3934.17625 (21:27Z was 3934.17625 -> BYTE-IDENTICAL (3rd consecutive))
+=== persists done ===
+runs/_tmp_cron_20261015T2147Z_supp_data.json + runs/_tmp_cron_20261015T2147Z_tiers.json + results/cron_scan_history.jsonl
+prev_ts_used=20261015T212712Z

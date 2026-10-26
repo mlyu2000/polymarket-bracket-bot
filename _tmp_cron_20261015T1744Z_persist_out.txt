@@ -1,0 +1,36 @@
+=== tier deltas (17:23Z -> 17:44Z) ===
+le1.005 10->9 (-1)
+le1.010 19->18 (-1)
+le1.020 23->23 (+0)
+le1.050 53->47 (-6)
+two_sided 74->71 (-3)
+floor 1.001->1.001 | leader liq 1420.2->1142.3 (-277.9, -19.6%)
+=== top-25 movers vs 17:23Z (names present in both) ===
+  Bank of Japan decreases interest rates by 50+: 1.001->1.001 | liq 1420.2->1142.3 (-277.9, -19.6%)
+  Spread: FK Jablonec (-2.5): 1.002->1.002 | liq 27799.6->15038.1 (-12761.5, -45.9%)
+  Spread: Lincoln Red Imps FC (-2.5): 1.002->1.002 | liq 6738.7->15473.4 (+8734.7, +129.6%)
+  Spread: FC Thun (-2.5): 1.004->1.004 | liq 9773.0->17736.5 (+7963.5, +81.5%)
+  Spread: FC Thun (-3.5): 1.004->1.004 | liq 4415.9->13295.2 (+8879.3, +201.1%)
+  Spread: FK Jablonec (-3.5): 1.004->1.004 | liq 4224.9->6251.8 (+2026.9, +48.0%)
+  Spread: Páfos FC (-3.5): 1.004->1.004 | liq 5422.9->5571.1 (+148.2, +2.7%)
+  Spread: Páfos FC (-2.5): 1.005->1.005 | liq 10147.1->10416.4 (+269.3, +2.7%)
+  Will the Republicans win the Tennessee govern: 1.007->1.007 | liq 43100.3->41633.8 (-1466.5, -3.4%)
+  Spread: Inter Club d'Escaldes (-2.5): 1.005->1.008 | liq 5136.4->22990.4 (+17854.0, +347.6%)
+  Will Democrats win 12 or more House seats in : 1.008->1.008 | liq 14360.0->14252.6 (-107.4, -0.7%)
+=== NEW in top-25 (absent from prev top-12) ===
+  NEW 1.009 | liq 26482.3 | Spread: FC Viktoria Plzeň (-3.5)
+  NEW 1.009 | liq 3229.0 | Will the highest temperature in Cape Town be 18°C on Oc
+  NEW 1.010 | liq 46136.8 | Mansfield Town FC vs. Oxford United FC: O/U 4.5
+  NEW 1.010 | liq 2212.6 | Nyiregyhaza Spartacus FC vs. Budapest Honved FC: O/U 2.
+  NEW 1.010 | liq 16709.5 | Spread: FK Kauno Žalgiris (-1.5)
+  NEW 1.010 | liq 4180.8 | Will the highest temperature in Miami be between 84-85°
+  NEW 1.017 | liq 444.0 | Will Z.ai be the #3 AI Lab at the end of October 2026 (
+  NEW 1.020 | liq 28040.1 | Mansfield Town FC vs. Oxford United FC: Both Teams to S
+  NEW 1.020 | liq 20605.3 | Spread: Atalanta BC (-3.5)
+  NEW 1.020 | liq 1216.3 | Sukhothai FC vs. Rasisalai United: O/U 2.5
+  NEW 1.020 | liq 19230.5 | Washington State vs. Oregon State: O/U 51.5
+  NEW 1.030 | liq 3747.8 | Portland Timbers vs. Colorado Rapids SC: Colorado Rapid
+  NEW 1.030 | liq 3221.3 | Qingdao Hainiu FC vs. Liaoning Tieren FC: Qingdao Haini
+=== dropped from prev top-12 ===
+=== persists done ===
+runs/_tmp_cron_20261015T1744Z_supp_data.json + runs/_tmp_cron_20261015T1744Z_tiers.json + results/cron_scan_history.jsonl

@@ -1,0 +1,10 @@
+Q: Bitcoin more valuable than any company before 2027?
+  liq=3934.17625
+  min-ask sum=1.0040 (Y min=0.018 N min=0.986)
+  yes asks top3: [('0.999', '6826'), ('0.998', '4415'), ('0.997', '3612.56')]
+  no asks top3: [('0.999', '8000'), ('0.998', '4705'), ('0.997', '505.1')]
+Q: Will Christine Lagarde win the 2027 French presidential election?
+  liq=146051.64026
+  min-ask sum=1.0010 (Y min=0.009 N min=0.992)
+  yes asks top3: [('0.999', '5830.96'), ('0.998', '2419.55'), ('0.997', '11606.64')]
+  no asks top3: [('0.999', '48977'), ('0.998', '3500'), ('0.997', '8916.6')]

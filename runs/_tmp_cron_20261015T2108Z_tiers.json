@@ -1,0 +1,85 @@
+{
+  "ts": "20261015T2108Z",
+  "markets": 500,
+  "priced": 62,
+  "scan_time": 62.3,
+  "one_sided": 438,
+  "tiers": {
+    "1.005": 7,
+    "1.01": 16,
+    "1.02": 21,
+    "1.05": 46
+  },
+  "top25": [
+    {
+      "total": 1.001,
+      "q": "Will Christine Lagarde win the 2027 French presidential election?",
+      "yes": 0.009,
+      "no": 0.992,
+      "liq": 146051.64026
+    },
+    {
+      "total": 1.002,
+      "q": "Will the highest temperature in Sao Paulo be 31\u00b0C or higher on October 16?",
+      "yes": 0.003,
+      "no": 0.999,
+      "liq": 4716.76561
+    },
+    {
+      "total": 1.003,
+      "q": "Spread: FC Thun (-4.5)",
+      "yes": 0.004,
+      "no": 0.999,
+      "liq": 12964.7818
+    },
+    {
+      "total": 1.003,
+      "q": "Spread: FC Thun (-5.5)",
+      "yes": 0.004,
+      "no": 0.999,
+      "liq": 19431.82784
+    },
+    {
+      "total": 1.003,
+      "q": "Spread: FK Jablonec (-4.5)",
+      "yes": 0.004,
+      "no": 0.999,
+      "liq": 19208.74326
+    },
+    {
+      "total": 1.004,
+      "q": "Bitcoin more valuable than any company before 2027?",
+      "yes": 0.018,
+      "no": 0.986,
+      "liq": 3934.17625
+    },
+    {
+      "total": 1.005,
+      "q": "Spread: FK Jablonec (-5.5)",
+      "yes": 0.006,
+      "no": 0.999,
+      "liq": 14108.75962
+    },
+    {
+      "total": 1.007,
+      "q": "Spread: FC K\u00f8benhavn (-4.5)",
+      "yes": 0.008,
+      "no": 0.999,
+      "liq": 18263.78826
+    },
+    {
+      "total": 1.007,
+      "q": "Exact Score: Manchester City FC 0 - 2 Ipswich Town FC?",
+      "yes": 0.012,
+      "no": 0.995,
+      "liq": 11659.5975
+    },
+    {
+      "total": 1.008,
+      "q": "Will Democrats win 12 or more House seats in Pennsylvania in the 2026 midterm el",
+      "yes": 0.029,
+      "no": 0.979,
+      "liq": 14784.03539
+    }
+  ]
+}

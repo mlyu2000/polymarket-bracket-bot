@@ -1,0 +1,18 @@
+Q: Bitcoin more valuable than any company before 2027?
+RAW liq: 3928.94623
+Yes min-ask 0.018 size ['400'] | n_asks 30
+No  min-ask 0.986 size ['15'] | n_asks 9
+NFL futures cluster: 13 markets
+  Will Pittsburgh Steelers finish the 2026-27 NFL regular season with th liq=193.31388
+  Will Indianapolis Colts finish the 2026-27 NFL regular season with the liq=212.3118
+  Will Jacksonville Jaguars finish the 2026-27 NFL regular season with t liq=193.41486
+  Will Tennessee Titans finish the 2026-27 NFL regular season with the m liq=210.2447
+  Will Denver Broncos finish the 2026-27 NFL regular season with the mos liq=194.401
+  Will Kansas City Chiefs finish the 2026-27 NFL regular season with the liq=200.55785
+  Will Las Vegas Raiders finish the 2026-27 NFL regular season with the  liq=199.02782
+  Will Dallas Cowboys finish the 2026-27 NFL regular season with the mos liq=191.19295
+  Will Atlanta Falcons finish the 2026-27 NFL regular season with the mo liq=193.32601
+  Will Carolina Panthers finish the 2026-27 NFL regular season with the  liq=193.31388
+  Will New Orleans Saints finish the 2026-27 NFL regular season with the liq=193.314
+  Will San Francisco 49ers finish the 2026-27 NFL regular season with th liq=198.41083
+  Will Seattle Seahawks finish the 2026-27 NFL regular season with the m liq=193.35

@@ -1,0 +1,38 @@
+=== tier deltas (17:55Z -> 18:41Z) ===
+le1.005 10->10 (+0)
+le1.010 20->14 (-6)
+le1.020 25->20 (-5)
+le1.050 51->48 (-3)
+two_sided 74->67 (-7)
+floor 1.001->1.001 | leader liq 1216.2->1060.8 (-155.4, -12.8%)
+=== top-25 movers vs 17:55Z (names present in both) ===
+  Bank of Japan decreases interest rates by 50+: 1.001->1.001 | liq 1216.2->1060.8 (-155.4, -12.8%)
+  Spread: FK Jablonec (-2.5): 1.003->1.002 | liq 22117.8->27405.2 (+5287.4, +23.9%)
+  Spread: Lincoln Red Imps FC (-2.5): 1.002->1.002 | liq 7115.2->14952.5 (+7837.3, +110.1%)
+  Spread: FC Thun (-2.5): 1.003->1.003 | liq 17434.8->10394.9 (-7039.9, -40.4%)
+  Spread: FC Thun (-3.5): 1.004->1.004 | liq 5351.3->6546.4 (+1195.1, +22.3%)
+  Spread: FK Jablonec (-3.5): 1.004->1.004 | liq 15403.1->14564.6 (-838.5, -5.4%)
+  Spread: FK Kauno Žalgiris (-1.5): 1.004->1.004 | liq 20671.6->20177.3 (-494.3, -2.4%)
+  Spread: Páfos FC (-2.5): 1.005->1.004 | liq 20349.2->19442.5 (-906.7, -4.5%)
+  Spread: Páfos FC (-3.5): 1.004->1.004 | liq 15993.5->15617.3 (-376.2, -2.4%)
+=== NEW in top-25 (absent from prev top-12) ===
+  NEW 1.008 | liq 14346.6 | Will Democrats win 12 or more House seats in Pennsylvan
+  NEW 1.009 | liq 28829.6 | Spread: FC Viktoria Plzeň (-3.5)
+  NEW 1.009 | liq 2519.6 | Will the highest temperature in Cape Town be 18°C on Oc
+  NEW 1.010 | liq 2306.5 | Will the highest temperature in Tokyo be 22°C on Octobe
+  NEW 1.017 | liq 487.7 | Will Z.ai be the #3 AI Lab at the end of October 2026 (
+  NEW 1.020 | liq 2229.2 | Nyiregyhaza Spartacus FC vs. Budapest Honved FC: O/U 2.
+  NEW 1.020 | liq 21015.1 | Spread: Atalanta BC (-3.5)
+  NEW 1.020 | liq 15206.4 | Washington State vs. Oregon State: O/U 51.5
+  NEW 1.020 | liq 6235.4 | Will Odisha FC win on 2026-10-17?
+  NEW 1.020 | liq 4776.6 | Will the highest temperature in Miami be between 84-85°
+  NEW 1.029 | liq 3237.8 | Spread: Olympique de Marseille (-4.5)
+  NEW 1.030 | liq 27355.4 | Aston Villa FC vs. Viking FK: Both Teams to Score
+  NEW 1.030 | liq 4556.9 | Philadelphia Union vs. Charlotte FC: Philadelphia Union
+  NEW 1.030 | liq 4103.9 | Portland Timbers vs. Colorado Rapids SC: Colorado Rapid
+  NEW 1.030 | liq 1795.8 | Qingdao Hainiu FC vs. Liaoning Tieren FC: Qingdao Haini
+=== dropped from prev top-12 ===
+  DROP 1.007 | liq 43707.8 | Will the Republicans win the Tennessee governor race in
+  DROP 1.008 | liq 15154.7 | Exact Score: SC União Torreense 2 - 1 Sunderland AFC?
+=== persists done ===
+runs/_tmp_cron_20261015T1841Z_supp_data.json + runs/_tmp_cron_20261015T1841Z_tiers.json + results/cron_scan_history.jsonl

@@ -1,0 +1,33 @@
+=== tier deltas (21:08Z -> 21:27Z) ===
+le1.005 7->3 (-4)
+le1.010 16->6 (-10)
+le1.020 21->14 (-7)
+le1.050 46->39 (-7)
+two_sided 62->53 (-9)
+not_bracketable 438->447 (+9, 89.4%)
+floor 1.001->1.001 | leader liq 146051.64026->141696.03419 (-4355.6, -3.0%)
+=== top-10 leaders vs 21:08Z (present in both) ===
+  Will Christine Lagarde win the 2027 French pr: 1.001->1.001 | liq 146051.6->141696.0 (-4355.6, -3.0%)
+  Will the highest temperature in Sao Paulo be : 1.002->1.002 | liq 4716.8->4160.2 (-556.5, -11.8%)
+  Spread: FK Jablonec (-5.5): 1.005->1.008 | liq 14108.8->12978.8 (-1129.9, -8.0%)
+=== NEW in top-12 (absent from 21:08Z top-12) ===
+  NEW 1.008 | liq 7981.5 | Exact Score: FC Bayern München 1 - 3 RB Leipzig?
+  NEW 1.010 | liq 2189.0 | Skin cancer vaccine BLA submitted by March 31, 2027?
+  NEW 1.017 | liq 396.2 | Will Z.ai be the #3 AI Lab at the end of October 2026 (
+  NEW 1.020 | liq 2225.2 | Nyiregyhaza Spartacus FC vs. Budapest Honved FC: O/U 2.
+  NEW 1.020 | liq 3246.7 | GKS Katowice vs. Pogon Szczecin: Both Teams to Score
+  NEW 1.020 | liq 5075.1 | Java United FC vs. Bali United: O/U 2.5
+  NEW 1.020 | liq 4251.5 | Auckland FC vs. Melbourne City FC: Auckland FC O/U 1.5
+  NEW 1.020 | liq 27585.6 | Aston Villa FC vs. Viking FK: Both Teams to Score
+=== dropped from 21:08Z top-12 (verified: left-universe / YES-only) ===
+  DROP 1.003 | liq 12964.8 | Spread: FC Thun (-4.5) -- left active-500 universe
+  DROP 1.003 | liq 19431.8 | Spread: FC Thun (-5.5) -- left active-500 universe
+  DROP 1.003 | liq 19208.7 | Spread: FK Jablonec (-4.5) -- YES-only (NO-leg bid-only, still active)
+  DROP 1.007 | liq 18263.8 | Spread: FC København (-4.5) -- left active-500 universe
+  DROP 1.007 | liq 11659.6 | Exact Score: Manchester City FC 0 - 2 Ipswich To -- YES-only (NO-leg bid-only, still active)
+  DROP 1.008 | liq 14784.0 | Will Democrats win 12 or more House seats in Pen -- (lower-tier or unresolved; fell below top-25)
+=== frozen-book check (Bitcoin) ===
+  Bitcoin liq=3934.17625 (21:08Z was 3934.17625 -> BYTE-IDENTICAL)
+=== persists done ===
+runs/_tmp_cron_20261015T212712Z_supp_data.json + runs/_tmp_cron_20261015T212712Z_tiers.json + results/cron_scan_history.jsonl
+prev_ts_used=20261015T2108Z

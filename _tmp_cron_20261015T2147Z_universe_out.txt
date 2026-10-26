@@ -1,0 +1,25 @@
+active markets: 500
+== 'Jablonec': 2 hit(s) ==
+   active=True closed=False liq=10504.94007 | Spread: FK Jablonec (-2.5)
+   active=True closed=False liq=20726.42912 | Spread: FK Jablonec (-3.5)
+== 'Thun': 2 hit(s) ==
+   active=True closed=False liq=17000.29926 | Spread: FC Thun (-2.5)
+   active=True closed=False liq=19576.23626 | Spread: FC Thun (-3.5)
+== 'benhavn': 0 hit(s) ==
+== 'Kobenhavn': 0 hit(s) ==
+== 'Ipswich': 15 hit(s) ==
+   active=True closed=False liq=11656.993 | Exact Score: Manchester City FC 0 - 2 Ipswich Town FC?
+   active=True closed=False liq=3472.36873 | Exact Score: Manchester City FC 0 - 4 Ipswich Town FC?
+   active=True closed=False liq=2833.5261 | Exact Score: Manchester City FC 0 - 5 Ipswich Town FC?
+   active=True closed=False liq=36847.83199 | Exact Score: Manchester City FC 1 - 4 Ipswich Town FC?
+   active=True closed=False liq=3345.8085 | Exact Score: Manchester City FC 1 - 5 Ipswich Town FC?
+   active=True closed=False liq=22951.7031 | Exact Score: Manchester City FC 2 - 4 Ipswich Town FC?
+   active=True closed=False liq=3005.3924 | Exact Score: Manchester City FC 2 - 5 Ipswich Town FC?
+   active=True closed=False liq=24246.83101 | Exact Score: Manchester City FC 3 - 4 Ipswich Town FC?
+   active=True closed=False liq=13170.94484 | Exact Score: Manchester City FC 4 - 3 Ipswich Town FC?
+   active=True closed=False liq=405.8795 | Exact Score: Manchester City FC 3 - 5 Ipswich Town FC?
+   active=True closed=False liq=25636.15337 | Exact Score: Manchester City FC 4 - 4 Ipswich Town FC?
+   active=True closed=False liq=17351.86778 | Exact Score: Manchester City FC 5 - 3 Ipswich Town FC?
+   active=True closed=False liq=142.9898 | Exact Score: Manchester City FC 4 - 5 Ipswich Town FC?
+   active=True closed=False liq=459.5098 | Exact Score: Manchester City FC 5 - 4 Ipswich Town FC?
+   active=True closed=False liq=136.1298 | Exact Score: Manchester City FC 5 - 5 Ipswich Town FC?
