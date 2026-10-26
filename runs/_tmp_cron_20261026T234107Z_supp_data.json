@@ -1,0 +1,113 @@
+{
+  "ts": "20261026T234107Z",
+  "markets": 500,
+  "scan_time": 49.9,
+  "brackets": 0,
+  "floor_min_ask": 1.001,
+  "two_sided": 358,
+  "not_bracketable": 142,
+  "near_miss_verbatim_asks0": 0,
+  "near_misses_min_le_1.005": 28,
+  "balanced_near_le_1.005": 2,
+  "near_miss_artifact_note": "asks[0] is worst ask (DESC-sorted /book); verbatim near-miss block always 0; min-ask diag is source of truth",
+  "tiers": {
+    "le1.005": 28,
+    "le1.010": 76,
+    "le1.020": 130,
+    "le1.050": 242,
+    "lt1.000": 0
+  },
+  "leader": [
+    1.001,
+    "Will General Mills Q2 organic net sales growth be below -4.5%?",
+    0.002,
+    0.999,
+    315.4312
+  ],
+  "top12_min_ask": [
+    {
+      "total": 1.001,
+      "q": "Will APT. – ROSÉ & Bruno Mars be the top song in the US for ",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 1771.26918
+    },
+    {
+      "total": 1.001,
+      "q": "Will Anthony Davis win the 2026-27 NBA MVP?",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 13384.75246
+    },
+    {
+      "total": 1.001,
+      "q": "Will Arizona Cardinals win the 2027 NFL NFC Championship?",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 69851.31697
+    },
+    {
+      "total": 1.001,
+      "q": "Will Donald Trump Jr. win the 2028 Republican presidential n",
+      "yes": 0.018,
+      "no": 0.983,
+      "liq": 590873.50237
+    },
+    {
+      "total": 1.001,
+      "q": "Will General Mills Q2 organic net sales growth be below -4.5",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 315.4312
+    },
+    {
+      "total": 1.001,
+      "q": "Will Marion Maréchal win the 2027 French presidential electi",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 121573.1249
+    },
+    {
+      "total": 1.001,
+      "q": "Will Memphis Grizzlies win the 2027 NBA Finals?",
+      "yes": 0.003,
+      "no": 0.998,
+      "liq": 197085.10588
+    },
+    {
+      "total": 1.001,
+      "q": "Will Shohei Ohtani be the #1 searched person on Google in th",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 9502.08198
+    },
+    {
+      "total": 1.001,
+      "q": "Will Vox win the most seats in Tarragona in the 2026 Spanish",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 18534.70371
+    },
+    {
+      "total": 1.001,
+      "q": "Will the Democratic Party candidate win the 2026 HI-02 House",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 11788.12052
+    },
+    {
+      "total": 1.001,
+      "q": "Will the Democratic Party candidate win the 2026 IL-02 House",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 12092.6328
+    },
+    {
+      "total": 1.001,
+      "q": "Will the Republican Party candidate win the 2026 Wisconsin g",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 14918.16529
+    }
+  ]
+}
