@@ -1,0 +1,233 @@
+{
+  "ts": "20261026T1548Z",
+  "markets": 500,
+  "brackets": 0,
+  "floor": 1.001,
+  "two_sided": 354,
+  "tiers": {
+    "le1.005": 31,
+    "le1.010": 72,
+    "le1.020": 126,
+    "le1.050": 225
+  },
+  "band": [
+    [
+      1.001,
+      "Will APT. \u2013 ROS\u00c9 & Bruno Mars be the top song in t",
+      0.002,
+      0.999,
+      4012.43322
+    ],
+    [
+      1.001,
+      "Will Arizona Cardinals win the 2027 NFL NFC Champi",
+      0.002,
+      0.999,
+      72509.14754
+    ],
+    [
+      1.001,
+      "Will Bam Adebayo win the 2026-27 NBA MVP?",
+      0.002,
+      0.999,
+      12039.07052
+    ],
+    [
+      1.001,
+      "Will Donald Trump Jr. win the 2028 Republican pres",
+      0.018,
+      0.983,
+      601392.10183
+    ],
+    [
+      1.001,
+      "Will General Mills Q2 organic net sales growth be ",
+      0.002,
+      0.999,
+      485.97116
+    ],
+    [
+      1.001,
+      "Will Memphis Grizzlies win the 2027 NBA Finals?",
+      0.003,
+      0.998,
+      184651.19698
+    ],
+    [
+      1.001,
+      "Will Miami Hurricanes win the 2027 CFP National Ch",
+      0.156,
+      0.845,
+      213779.96831
+    ],
+    [
+      1.001,
+      "Will Shohei Ohtani be the #1 searched person on Go",
+      0.002,
+      0.999,
+      13971.48792
+    ],
+    [
+      1.001,
+      "Will Vitinha finish in the top 2 of the 2026 Ballo",
+      0.002,
+      0.999,
+      4736.93155
+    ],
+    [
+      1.001,
+      "Will Vox win the most seats in Tarragona in the 20",
+      0.002,
+      0.999,
+      18894.7054
+    ],
+    [
+      1.001,
+      "Will the Democratic Party candidate win the 2026 I",
+      0.002,
+      0.999,
+      12190.98212
+    ],
+    [
+      1.001,
+      "Will the Fed increase interest rates by 50+ bps af",
+      0.004,
+      0.997,
+      836809.87661
+    ],
+    [
+      1.001,
+      "Will the Republican Party candidate win the 2026 W",
+      0.002,
+      0.999,
+      15637.02556
+    ],
+    [
+      1.001,
+      "Will the upper bound of the target federal funds r",
+      0.003,
+      0.998,
+      41582.1342
+    ],
+    [
+      1.0010000000000001,
+      "Will Marguerite Humeau win the Turner Prize 2026?",
+      0.195,
+      0.806,
+      7299.73804
+    ],
+    [
+      1.002,
+      "Will Luma AI have the best Text-to-Image AI at the",
+      0.003,
+      0.999,
+      970.53984
+    ],
+    [
+      1.002,
+      "Will XRP dip to $0.20 in October?",
+      0.003,
+      0.999,
+      54580.98304
+    ],
+    [
+      1.002,
+      "Will the Democratic Party candidate win the 2026 H",
+      0.003,
+      0.999,
+      11968.01903
+    ],
+    [
+      1.002,
+      "Will the highest temperature in Ankara be 13\u00b0C on ",
+      0.003,
+      0.999,
+      1894.02558
+    ],
+    [
+      1.003,
+      "Will Broad Front (FA) win the most seats in Lleida",
+      0.004,
+      0.999,
+      10900.84963
+    ],
+    [
+      1.003,
+      "Will Lovable be acquired before 2027?",
+      0.051,
+      0.952,
+      6920.32156
+    ],
+    [
+      1.003,
+      "Will L\u00e9a Seydoux win Best Actress at the 99th Acad",
+      0.004,
+      0.999,
+      5132.41703
+    ],
+    [
+      1.003,
+      "Will Reanimal win Best Independent Game at the 202",
+      0.004,
+      0.999,
+      711.6216
+    ],
+    [
+      1.003,
+      "Will Z.ai be the first company to have an AI model",
+      0.004,
+      0.999,
+      2048.37876
+    ],
+    [
+      1.003,
+      "Will the highest temperature in Munich be 12\u00b0C on ",
+      0.004,
+      0.999,
+      2526.29079
+    ],
+    [
+      1.004,
+      "Epic Games IPO before 2027?",
+      0.021,
+      0.983,
+      16855.78942
+    ],
+    [
+      1.004,
+      "Will Dante Moore be the 2026 D1 Passing Yards Lead",
+      0.014,
+      0.99,
+      309.35082
+    ],
+    [
+      1.004,
+      "Will the Republican Party win the PA-15 House seat",
+      0.95,
+      0.054,
+      12991.56537
+    ],
+    [
+      1.004,
+      "Will total votes cast in the 2026 midterm election",
+      0.005,
+      0.999,
+      12688.9479
+    ],
+    [
+      1.004,
+      "Will \u00d3scar Estupi\u00f1\u00e1n (FC Ju\u00e1rez) be the top goalsc",
+      0.005,
+      0.999,
+      165.03061
+    ],
+    [
+      1.005,
+      "Will Jos\u00e9 Mar\u00eda Tapia Franco win the 2027 Quer\u00e9tar",
+      0.009,
+      0.996,
+      13320.8854
+    ]
+  ],
+  "priced": 354
+}
