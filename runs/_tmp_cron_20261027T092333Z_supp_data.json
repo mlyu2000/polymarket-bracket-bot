@@ -1,0 +1,113 @@
+{
+  "ts": "20261027T092333Z",
+  "markets": 500,
+  "scan_time": 63.1,
+  "brackets": 0,
+  "floor_min_ask": 1.001,
+  "two_sided": 382,
+  "not_bracketable": 118,
+  "near_miss_verbatim_asks0": 0,
+  "near_misses_min_le_1.005": 27,
+  "balanced_near_le_1.005": 2,
+  "near_miss_artifact_note": "asks[0] is worst ask (DESC-sorted /book); verbatim near-miss block always 0; min-ask diag is source of truth",
+  "tiers": {
+    "le1.005": 27,
+    "le1.010": 80,
+    "le1.020": 139,
+    "le1.050": 257,
+    "lt1.000": 0
+  },
+  "leader": [
+    1.001,
+    "Will Memphis Grizzlies win the 2027 NBA Finals?",
+    0.005,
+    0.996,
+    213909.82477
+  ],
+  "top12_min_ask": [
+    {
+      "total": 1.001,
+      "q": "Will APT. – ROSÉ & Bruno Mars be the top song in the US for ",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 2958.46561
+    },
+    {
+      "total": 1.001,
+      "q": "Will Arizona Cardinals win the 2027 NFL NFC Championship?",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 72989.34647
+    },
+    {
+      "total": 1.001,
+      "q": "Will Donald Trump Jr. win the 2028 Republican presidential n",
+      "yes": 0.019,
+      "no": 0.982,
+      "liq": 594790.79526
+    },
+    {
+      "total": 1.001,
+      "q": "Will General Mills Q2 organic net sales growth be below -4.5",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 408.84623
+    },
+    {
+      "total": 1.001,
+      "q": "Will Marion Maréchal win the 2027 French presidential electi",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 138462.24049
+    },
+    {
+      "total": 1.001,
+      "q": "Will Memphis Grizzlies win the 2027 NBA Finals?",
+      "yes": 0.005,
+      "no": 0.996,
+      "liq": 213909.82477
+    },
+    {
+      "total": 1.001,
+      "q": "Will Shohei Ohtani be the #1 searched person on Google in th",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 9927.95798
+    },
+    {
+      "total": 1.001,
+      "q": "Will Vox win the most seats in Tarragona in the 2026 Spanish",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 18826.38076
+    },
+    {
+      "total": 1.001,
+      "q": "Will the Democratic Party candidate win the 2026 IL-02 House",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 12218.73644
+    },
+    {
+      "total": 1.001,
+      "q": "Will the Republican Party candidate win the 2026 FL-11 House",
+      "yes": 0.06,
+      "no": 0.941,
+      "liq": 11914.05569
+    },
+    {
+      "total": 1.001,
+      "q": "Will the Republican Party candidate win the 2026 Wisconsin g",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 15613.53881
+    },
+    {
+      "total": 1.001,
+      "q": "Will the upper bound of the target federal funds rate be 2.2",
+      "yes": 0.003,
+      "no": 0.998,
+      "liq": 42682.55222
+    }
+  ]
+}
