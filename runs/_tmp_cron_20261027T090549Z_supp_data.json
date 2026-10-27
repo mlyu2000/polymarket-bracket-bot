@@ -1,0 +1,13 @@
+{
+  "markets": 500,
+  "opps": [],
+  "near_misses": [],
+  "near_miss_count_le_1.005_asks0": 0,
+  "near_miss_count_le_1.005_minask": 29,
+  "floor_minask": 1.001,
+  "floor_asks0": "N/A (artifact: asks[0] reports 0 near-misses due to descending-order CLOB payload)",
+  "scan_time": 49.0,
+  "bracket_scan_time": 49.0,
+  "brackets": 0,
+  "note": "detector.py uses min() correctly (lines 53-54); inline near-miss block uses asks[0] which is the known artifact that always reports 0. Min-ask diagnostic at 0744Z found 29 near-misses, floor=1.001. No brackets in either."
+}
