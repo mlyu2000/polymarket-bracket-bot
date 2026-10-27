@@ -1,0 +1,42 @@
+# Bracket scan 20261027T1906Z
+markets=500 scan_time=56.9s
+brackets=0
+near_misses_le_1.005=34
+floor=1.001
+two_sided=377
+tiers={'le1.005': 34, 'le1.010': 87, 'le1.020': 147, 'le1.050': 252}
+
+NEARMISS 1.001 Yes@0.002 No@0.999 liq=3514.25142 | Will APT. – ROSÉ & Bruno Mars be the top song in t
+NEARMISS 1.001 Yes@0.002 No@0.999 liq=70638.46179 | Will Arizona Cardinals win the 2027 NFL NFC Champi
+NEARMISS 1.001 Yes@0.019 No@0.982 liq=597978.19508 | Will Donald Trump Jr. win the 2028 Republican pres
+NEARMISS 1.001 Yes@0.002 No@0.999 liq=411.56253 | Will General Mills Q2 organic net sales growth be 
+NEARMISS 1.001 Yes@0.002 No@0.999 liq=1101.58731 | Will Luma AI have the best Text-to-Image AI at the
+NEARMISS 1.001 Yes@0.002 No@0.999 liq=154504.93266 | Will Marion Maréchal win the 2027 French president
+NEARMISS 1.001 Yes@0.005 No@0.996 liq=493292.51779 | Will Memphis Grizzlies win the 2027 NBA Finals?
+NEARMISS 1.001 Yes@0.002 No@0.999 liq=6610.0752 | Will Shohei Ohtani be the #1 searched person on Go
+NEARMISS 1.001 Yes@0.002 No@0.999 liq=18811.42676 | Will Vox win the most seats in Tarragona in the 20
+NEARMISS 1.001 Yes@0.002 No@0.999 liq=12300.4675 | Will the Democratic Party candidate win the 2026 I
+NEARMISS 1.001 Yes@0.045 No@0.956 liq=15567.71145 | Will the Democratic Party candidate win the 2026 M
+NEARMISS 1.001 Yes@0.002 No@0.999 liq=12851.17446 | Will the Democratic Party candidate win the 2026 T
+NEARMISS 1.001 Yes@0.060 No@0.941 liq=15819.83185 | Will the Republican Party candidate win the 2026 F
+NEARMISS 1.001 Yes@0.997 No@0.004 liq=36275.40823 | Will the price of Ethereum be above $2,100 on Octo
+NEARMISS 1.001 Yes@0.003 No@0.998 liq=16585.91105 | Will the upper bound of the target federal funds r
+NEARMISS 1.002 Yes@0.003 No@0.999 liq=12521.67976 | Will the Democratic Party candidate win the 2026 H
+NEARMISS 1.003 Yes@0.004 No@0.999 liq=11034.84397 | Will Broad Front (FA) win the most seats in Lleida
+NEARMISS 1.003 Yes@0.038 No@0.965 liq=116918.87633 | Will Likud win 30-34 seats in the 2026 Israeli leg
+NEARMISS 1.003 Yes@0.004 No@0.999 liq=4898.46557 | Will Léa Seydoux win Best Actress at the 99th Acad
+NEARMISS 1.003 Yes@0.004 No@0.999 liq=767.64712 | Will Reanimal win Best Independent Game at the 202
+NEARMISS 1.003 Yes@0.009 No@0.994 liq=49604.671 | Will Trump and Putin meet next in a Gulf country?
+NEARMISS 1.003 Yes@0.004 No@0.999 liq=2120.93172 | Will Z.ai be the first company to have an AI model
+NEARMISS 1.003 Yes@0.004 No@0.999 liq=14897.52525 | Will the Republican Party candidate win the 2026 N
+NEARMISS 1.003 Yes@0.068 No@0.935 liq=98138.89544 | Exact Score: Torino FC 2 - 2 Como 1907?
+NEARMISS 1.003 Yes@0.323 No@0.680 liq=676.31719 | Will Derke play for Gentle Mates in 2027?
+NEARMISS 1.003 Yes@0.195 No@0.808 liq=9869.9589 | Will Marguerite Humeau win the Turner Prize 2026?
+NEARMISS 1.004 Yes@0.014 No@0.990 liq=302.63676 | Will Dante Moore be the 2026 D1 Passing Yards Lead
+NEARMISS 1.004 Yes@0.950 No@0.054 liq=19029.17255 | Will the Republican Party win the PA-15 House seat
+NEARMISS 1.004 Yes@0.120 No@0.884 liq=11947.13651 | Will total votes cast in the 2026 midterm election
+NEARMISS 1.004 Yes@0.005 No@0.999 liq=122.22735 | Will Óscar Estupiñán (FC Juárez) be the top goalsc
+NEARMISS 1.005 Yes@0.022 No@0.983 liq=15383.37003 | Epic Games IPO before 2027?
+NEARMISS 1.005 Yes@0.007 No@0.998 liq=15433.72119 | Will Biljana Đorđević win the next Serbia presiden
+NEARMISS 1.005 Yes@0.009 No@0.996 liq=13239.70445 | Will José María Tapia Franco win the 2027 Querétar
+NEARMISS 1.005 Yes@0.008 No@0.997 liq=14372.36538 | Will the Democratic Party candidate win the 2026 P
