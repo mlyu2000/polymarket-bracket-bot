@@ -1,0 +1,33 @@
+{
+  "timestamp": "2026-10-27T22:16Z",
+  "method": "min-ask corrected scan",
+  "markets": 500,
+  "scan_time_s": 56.8,
+  "brackets_sum_lt_1.00": 0,
+  "detector_min_profit_margin": 0.01,
+  "fee_buffer": 0.005,
+  "slippage_buffer": 0.005,
+  "min_net_edge_to_qualify": 0.01,
+  "min_total_cost_threshold": 0.980,
+  "near_misses_le_1.005": 29,
+  "near_misses_le_1.010": 82,
+  "near_misses_le_1.020": 141,
+  "near_misses_le_1.050": 238,
+  "floor_distribution": {"le1.000": 0, "le1.005": 29, "le1.010": 82, "le1.020": 141, "le1.050": 238, "total_books": 358},
+  "min_floor": 1.001,
+  "min_floor_market": "Will APT. – ROSÉ & Bruno Mars be the top song in the US for 2026?",
+  "min_floor_prices": {"yes": 0.002, "no": 0.999},
+  "top_near_misses": [
+    {"sum": 1.001, "yes": 0.002, "no": 0.999, "q": "Will APT. – ROSÉ & Bruno Mars be the top song in t"},
+    {"sum": 1.001, "yes": 0.002, "no": 0.999, "q": "Will Arizona Cardinals win the 2027 NFL NFC Champi"},
+    {"sum": 1.001, "yes": 0.002, "no": 0.999, "q": "Will General Mills Q2 organic net sales growth be "},
+    {"sum": 1.001, "yes": 0.002, "no": 0.999, "q": "Will Marion Maréchal win the 2027 French president"},
+    {"sum": 1.001, "yes": 0.002, "no": 0.999, "q": "Will Shohei Ohtani be the #1 searched person on Go"},
+    {"sum": 1.001, "yes": 0.002, "no": 0.999, "q": "Will Vox win the most seats in Tarragona in the 20"},
+    {"sum": 1.001, "yes": 0.002, "no": 0.999, "q": "Will the Democratic Party candidate win the 2026 I"},
+    {"sum": 1.001, "yes": 0.045, "no": 0.956, "q": "Will the Democratic Party candidate win the 2026 M"},
+    {"sum": 1.001, "yes": 0.060, "no": 0.941, "q": "Will the Republican Party candidate win the 2026 F"},
+    {"sum": 1.001, "yes": 0.003, "no": 0.998, "q": "Will the highest temperature in Busan be 19°C or h"}
+  ],
+  "artifact_note": "Provided script uses asks[0] for near-miss detection; CLOB lists asks in descending price order, so asks[0] is the worst (highest) ask. asks[0] sum for APT market = 0.999+0.999 = 1.998, yielding 0 near-misses. Corrected scanner uses min(asks, key=price) matching detector logic."
+}

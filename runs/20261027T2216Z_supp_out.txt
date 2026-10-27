@@ -1,0 +1,25 @@
+🔍 Scan: 500 markets in 56.8s
+✅ BRACKETS (sum < 1.00): 0
+📊 Near-misses (≤1.005) [min-ask corrected]: 29
+  1.001 | Yes@0.002 No@0.999 | Will APT. – ROSÉ & Bruno Mars be the top song in t
+  1.001 | Yes@0.002 No@0.999 | Will Arizona Cardinals win the 2027 NFL NFC Champi
+  1.001 | Yes@0.002 No@0.999 | Will General Mills Q2 organic net sales growth be
+  1.001 | Yes@0.002 No@0.999 | Will Marion Maréchal win the 2027 French president
+  1.001 | Yes@0.002 No@0.999 | Will Shohei Ohtani be the #1 searched person on Go
+  1.001 | Yes@0.002 No@0.999 | Will Vox win the most seats in Tarragona in the 20
+  1.001 | Yes@0.002 No@0.999 | Will the Democratic Party candidate win the 2026 I
+  1.001 | Yes@0.045 No@0.956 | Will the Democratic Party candidate win the 2026 M
+  1.001 | Yes@0.060 No@0.941 | Will the Republican Party candidate win the 2026 F
+  1.001 | Yes@0.003 No@0.998 | Will the highest temperature in Busan be 19°C or h
+
+📉 Floor distribution (min-ask, n=358):
+  ≤1.000: 0  (0.0%)
+  ≤1.005: 29
+  ≤1.010: 82
+  ≤1.020: 141
+  ≤1.050: 238
+  Min floor: 1.0010
+
+Diagnostic: YES asks listed DESCENDING (asks[0]=0.999 worst; best=0.002).
+  asks[0] sum = 1.998  → 0 near-misses (artifact in provided script)
+  min-ask sum  = 1.001  → 29 near-misses (correct, matches detector logic)
