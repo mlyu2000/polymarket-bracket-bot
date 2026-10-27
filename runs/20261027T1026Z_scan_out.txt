@@ -1,0 +1,13 @@
+🔍 Scan: 500 markets in 56.4s
+✅ BRACKETS (sum < 1.00): 0
+📊 Near-misses (≤1.005): 0
+
+Min-ask floor diagnostic (true source of truth):
+  Best 5 two-sided sums:
+    1.001 | Yes@0.002 No@0.999 | Will APT. – ROSÉ & Bruno Mars be the top song in the US
+    1.001 | Yes@0.002 No@0.999 | Will Arizona Cardinals win the 2027 NFL NFC Championshi
+    1.001 | Yes@0.019 No@0.982 | Will Donald Trump Jr. win the 2028 Republican president
+    1.001 | Yes@0.002 No@0.999 | Will General Mills Q2 organic net sales growth be below
+    1.001 | Yes@0.002 No@0.999 | Will Marion Maréchal win the 2027 French presidential e
+  Two-sided brackable (sum<1.00): 0
+  Two-sided (sum<=1.005): 30

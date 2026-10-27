@@ -1,0 +1,4 @@
+# Bracket scan 20261027T0924Z
+markets=500 scan_time=55.7s
+brackets=0
+near_misses_le_1.005=0 (naive asks[0] probe — min-ask diag is source of truth)

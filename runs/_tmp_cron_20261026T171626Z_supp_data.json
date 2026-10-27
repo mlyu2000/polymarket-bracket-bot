@@ -1,0 +1,10 @@
+{
+  "ts": "20261026T171626Z",
+  "markets": 500,
+  "two_sided": 356,
+  "floor": 1.000,
+  "brackets": 0,
+  "near_misses_min_le_1.005": 28,
+  "near_misses_asks0_le_1.005": 0,
+  "note": "asks[0] returns the WORST ask (descending order in CLOB payload); min() returns best ask. Task script near-miss used asks[0]=0, which is an artifact."
+}

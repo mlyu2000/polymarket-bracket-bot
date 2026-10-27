@@ -1,0 +1,226 @@
+{
+  "ts": "20261027T0511Z",
+  "markets": 500,
+  "brackets": 0,
+  "floor": 1.001,
+  "two_sided": 375,
+  "tiers": {
+    "le1.005": 30,
+    "le1.010": 75,
+    "le1.020": 138,
+    "le1.050": 251
+  },
+  "band": [
+    [
+      1.001,
+      "Will APT. \u2013 ROS\u00c9 & Bruno Mars be the top song in t",
+      0.002,
+      0.999,
+      2495.60052
+    ],
+    [
+      1.001,
+      "Will Arizona Cardinals win the 2027 NFL NFC Champi",
+      0.002,
+      0.999,
+      70478.04182
+    ],
+    [
+      1.001,
+      "Will Donald Trump Jr. win the 2028 Republican pres",
+      0.019,
+      0.982,
+      595019.50614
+    ],
+    [
+      1.001,
+      "Will General Mills Q2 organic net sales growth be ",
+      0.002,
+      0.999,
+      352.01619
+    ],
+    [
+      1.001,
+      "Will Marion Mar\u00e9chal win the 2027 French president",
+      0.002,
+      0.999,
+      123016.90428
+    ],
+    [
+      1.001,
+      "Will Shohei Ohtani be the #1 searched person on Go",
+      0.002,
+      0.999,
+      9788.32106
+    ],
+    [
+      1.001,
+      "Will Vox win the most seats in Tarragona in the 20",
+      0.002,
+      0.999,
+      18674.72075
+    ],
+    [
+      1.001,
+      "Will the Democratic Party candidate win the 2026 H",
+      0.002,
+      0.999,
+      12546.38559
+    ],
+    [
+      1.001,
+      "Will the Democratic Party candidate win the 2026 H",
+      0.002,
+      0.999,
+      14373.03779
+    ],
+    [
+      1.001,
+      "Will the Democratic Party candidate win the 2026 I",
+      0.002,
+      0.999,
+      12186.21151
+    ],
+    [
+      1.001,
+      "Will the Republican Party candidate win the 2026 W",
+      0.002,
+      0.999,
+      15422.67664
+    ],
+    [
+      1.001,
+      "Will the upper bound of the target federal funds r",
+      0.003,
+      0.998,
+      29008.12887
+    ],
+    [
+      1.0010000000000001,
+      "Will Marguerite Humeau win the Turner Prize 2026?",
+      0.195,
+      0.806,
+      11165.26432
+    ],
+    [
+      1.0010000000000001,
+      "Will Republicans hold 47\u201349 Senate seats and 193\u20132",
+      0.317,
+      0.684,
+      23915.99733
+    ],
+    [
+      1.002,
+      "Will Luma AI have the best Text-to-Image AI at the",
+      0.003,
+      0.999,
+      1106.36702
+    ],
+    [
+      1.003,
+      "Will Broad Front (FA) win the most seats in Lleida",
+      0.004,
+      0.999,
+      10816.38258
+    ],
+    [
+      1.003,
+      "Will L\u00e9a Seydoux win Best Actress at the 99th Acad",
+      0.004,
+      0.999,
+      4534.06259
+    ],
+    [
+      1.003,
+      "Will Memphis Grizzlies win the 2027 NBA Finals?",
+      0.006,
+      0.997,
+      201463.36405
+    ],
+    [
+      1.003,
+      "Will Reanimal win Best Independent Game at the 202",
+      0.004,
+      0.999,
+      562.14428
+    ],
+    [
+      1.003,
+      "Will StepFun be the third-best Chinese AI company ",
+      0.004,
+      0.999,
+      410.4179
+    ],
+    [
+      1.003,
+      "Will Z.ai be the first company to have an AI model",
+      0.004,
+      0.999,
+      1780.62912
+    ],
+    [
+      1.004,
+      "Epic Games IPO before 2027?",
+      0.021,
+      0.983,
+      15683.39675
+    ],
+    [
+      1.004,
+      "Will Dante Moore be the 2026 D1 Passing Yards Lead",
+      0.014,
+      0.99,
+      236.59592
+    ],
+    [
+      1.004,
+      "Will the Republican Party win the PA-15 House seat",
+      0.95,
+      0.054,
+      15029.38902
+    ],
+    [
+      1.004,
+      "Will the highest temperature in Chengdu be 22\u00b0C on",
+      0.01,
+      0.994,
+      244.3501
+    ],
+    [
+      1.004,
+      "Will total votes cast in the 2026 midterm election",
+      0.005,
+      0.999,
+      12844.69536
+    ],
+    [
+      1.004,
+      "Will \u00d3scar Estupi\u00f1\u00e1n (FC Ju\u00e1rez) be the top goalsc",
+      0.005,
+      0.999,
+      163.30898
+    ],
+    [
+      1.005,
+      "Will Jos\u00e9 Mar\u00eda Tapia Franco win the 2027 Quer\u00e9tar",
+      0.009,
+      0.996,
+      13142.22586
+    ],
+    [
+      1.005,
+      "Will the Democratic Party candidate win the 2026 P",
+      0.008,
+      0.997,
+      12803.96117
+    ],
+    [
+      1.005,
+      "Will the Republican Party candidate win the 2026 V",
+      0.007,
+      0.998,
+      12850.14843
+    ]
+  ],
+  "priced": 375
+}

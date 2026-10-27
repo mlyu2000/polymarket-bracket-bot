@@ -1,0 +1,38 @@
+# Bracket scan 20261027T0511Z
+markets=500 scan_time=68.9s
+brackets=0
+near_misses_le_1.005=30
+floor=1.001
+two_sided=375
+tiers={'le1.005': 30, 'le1.010': 75, 'le1.020': 138, 'le1.050': 251}
+
+NEARMISS 1.001 Yes@0.002 No@0.999 liq=2495.60052 | Will APT. – ROSÉ & Bruno Mars be the top song in t
+NEARMISS 1.001 Yes@0.002 No@0.999 liq=70478.04182 | Will Arizona Cardinals win the 2027 NFL NFC Champi
+NEARMISS 1.001 Yes@0.019 No@0.982 liq=595019.50614 | Will Donald Trump Jr. win the 2028 Republican pres
+NEARMISS 1.001 Yes@0.002 No@0.999 liq=352.01619 | Will General Mills Q2 organic net sales growth be 
+NEARMISS 1.001 Yes@0.002 No@0.999 liq=123016.90428 | Will Marion Maréchal win the 2027 French president
+NEARMISS 1.001 Yes@0.002 No@0.999 liq=9788.32106 | Will Shohei Ohtani be the #1 searched person on Go
+NEARMISS 1.001 Yes@0.002 No@0.999 liq=18674.72075 | Will Vox win the most seats in Tarragona in the 20
+NEARMISS 1.001 Yes@0.002 No@0.999 liq=12546.38559 | Will the Democratic Party candidate win the 2026 H
+NEARMISS 1.001 Yes@0.002 No@0.999 liq=14373.03779 | Will the Democratic Party candidate win the 2026 H
+NEARMISS 1.001 Yes@0.002 No@0.999 liq=12186.21151 | Will the Democratic Party candidate win the 2026 I
+NEARMISS 1.001 Yes@0.002 No@0.999 liq=15422.67664 | Will the Republican Party candidate win the 2026 W
+NEARMISS 1.001 Yes@0.003 No@0.998 liq=29008.12887 | Will the upper bound of the target federal funds r
+NEARMISS 1.001 Yes@0.195 No@0.806 liq=11165.26432 | Will Marguerite Humeau win the Turner Prize 2026?
+NEARMISS 1.001 Yes@0.317 No@0.684 liq=23915.99733 | Will Republicans hold 47–49 Senate seats and 193–2
+NEARMISS 1.002 Yes@0.003 No@0.999 liq=1106.36702 | Will Luma AI have the best Text-to-Image AI at the
+NEARMISS 1.003 Yes@0.004 No@0.999 liq=10816.38258 | Will Broad Front (FA) win the most seats in Lleida
+NEARMISS 1.003 Yes@0.004 No@0.999 liq=4534.06259 | Will Léa Seydoux win Best Actress at the 99th Acad
+NEARMISS 1.003 Yes@0.006 No@0.997 liq=201463.36405 | Will Memphis Grizzlies win the 2027 NBA Finals?
+NEARMISS 1.003 Yes@0.004 No@0.999 liq=562.14428 | Will Reanimal win Best Independent Game at the 202
+NEARMISS 1.003 Yes@0.004 No@0.999 liq=410.4179 | Will StepFun be the third-best Chinese AI company 
+NEARMISS 1.003 Yes@0.004 No@0.999 liq=1780.62912 | Will Z.ai be the first company to have an AI model
+NEARMISS 1.004 Yes@0.021 No@0.983 liq=15683.39675 | Epic Games IPO before 2027?
+NEARMISS 1.004 Yes@0.014 No@0.990 liq=236.59592 | Will Dante Moore be the 2026 D1 Passing Yards Lead
+NEARMISS 1.004 Yes@0.950 No@0.054 liq=15029.38902 | Will the Republican Party win the PA-15 House seat
+NEARMISS 1.004 Yes@0.010 No@0.994 liq=244.3501 | Will the highest temperature in Chengdu be 22°C on
+NEARMISS 1.004 Yes@0.005 No@0.999 liq=12844.69536 | Will total votes cast in the 2026 midterm election
+NEARMISS 1.004 Yes@0.005 No@0.999 liq=163.30898 | Will Óscar Estupiñán (FC Juárez) be the top goalsc
+NEARMISS 1.005 Yes@0.009 No@0.996 liq=13142.22586 | Will José María Tapia Franco win the 2027 Querétar
+NEARMISS 1.005 Yes@0.008 No@0.997 liq=12803.96117 | Will the Democratic Party candidate win the 2026 P
+NEARMISS 1.005 Yes@0.007 No@0.998 liq=12850.14843 | Will the Republican Party candidate win the 2026 V
