@@ -1,0 +1,13 @@
+🔍 Scan @ 20261027T074407Z: 500 markets in 60.6s
+✅ BRACKETS (sum < 1.00, min-ask source of truth): 0
+📊 Near-misses (≤1.005, min-ask): 29
+  1.001 | Yes@0.005 No@0.996 | liq=209292 | Will Memphis Grizzlies win the 2027 NBA Finals?
+      floor (best min-ask sum): 1.001
+  1.001 | Yes@0.002 No@0.999 | liq=395 | Will General Mills Q2 organic net sales growth be below -4.5
+      floor (best min-ask sum): 1.001
+  1.001 | Yes@0.002 No@0.999 | liq=72298 | Will Arizona Cardinals win the 2027 NFL NFC Championship?
+      floor (best min-ask sum): 1.001
+  1.001 | Yes@0.002 No@0.999 | liq=2964 | Will APT. – ROSÉ & Bruno Mars be the top song in the US for 
+      floor (best min-ask sum): 1.001
+  1.001 | Yes@0.002 No@0.999 | liq=12224 | Will the Democratic Party candidate win the 2026 IL-02 House
+      floor (best min-ask sum): 1.001

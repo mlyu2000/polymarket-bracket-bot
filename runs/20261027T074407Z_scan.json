@@ -1,0 +1,212 @@
+{
+  "markets": 500,
+  "opps": [],
+  "near_misses": [
+    {
+      "q": "Will Memphis Grizzlies win the 2027 NBA Finals?",
+      "yes": 0.005,
+      "no": 0.996,
+      "sum": 1.001,
+      "liq": 209291.69455
+    },
+    {
+      "q": "Will General Mills Q2 organic net sales growth be below -4.5",
+      "yes": 0.002,
+      "no": 0.999,
+      "sum": 1.001,
+      "liq": 395.28022
+    },
+    {
+      "q": "Will Arizona Cardinals win the 2027 NFL NFC Championship?",
+      "yes": 0.002,
+      "no": 0.999,
+      "sum": 1.001,
+      "liq": 72298.22466
+    },
+    {
+      "q": "Will APT. \u2013 ROS\u00c9 & Bruno Mars be the top song in the US for ",
+      "yes": 0.002,
+      "no": 0.999,
+      "sum": 1.001,
+      "liq": 2963.64057
+    },
+    {
+      "q": "Will the Democratic Party candidate win the 2026 IL-02 House",
+      "yes": 0.002,
+      "no": 0.999,
+      "sum": 1.001,
+      "liq": 12224.41944
+    },
+    {
+      "q": "Will the Democratic Party candidate win the 2026 HI-02 House",
+      "yes": 0.002,
+      "no": 0.999,
+      "sum": 1.001,
+      "liq": 14061.22717
+    },
+    {
+      "q": "Will the upper bound of the target federal funds rate be 2.2",
+      "yes": 0.003,
+      "no": 0.998,
+      "sum": 1.001,
+      "liq": 41938.04764
+    },
+    {
+      "q": "Will Shohei Ohtani be the #1 searched person on Google in th",
+      "yes": 0.002,
+      "no": 0.999,
+      "sum": 1.001,
+      "liq": 10086.52098
+    },
+    {
+      "q": "Will Vox win the most seats in Tarragona in the 2026 Spanish",
+      "yes": 0.002,
+      "no": 0.999,
+      "sum": 1.001,
+      "liq": 18843.05053
+    },
+    {
+      "q": "Will Marion Mar\u00e9chal win the 2027 French presidential electi",
+      "yes": 0.002,
+      "no": 0.999,
+      "sum": 1.001,
+      "liq": 129642.38136
+    },
+    {
+      "q": "Will Marguerite Humeau win the Turner Prize 2026?",
+      "yes": 0.195,
+      "no": 0.806,
+      "sum": 1.001,
+      "liq": 11779.99563
+    },
+    {
+      "q": "Will Republicans hold 47\u201349 Senate seats and 193\u2013207 House s",
+      "yes": 0.317,
+      "no": 0.684,
+      "sum": 1.001,
+      "liq": 23981.17008
+    },
+    {
+      "q": "Will Elon Musk post 380-399 tweets from October 20 to Octobe",
+      "yes": 0.002,
+      "no": 0.999,
+      "sum": 1.001,
+      "liq": 17683.02037
+    },
+    {
+      "q": "Will Donald Trump Jr. win the 2028 Republican presidential n",
+      "yes": 0.019,
+      "no": 0.982,
+      "sum": 1.001,
+      "liq": 594929.50158
+    },
+    {
+      "q": "Will the Republican Party candidate win the 2026 Wisconsin g",
+      "yes": 0.002,
+      "no": 0.999,
+      "sum": 1.001,
+      "liq": 15347.60824
+    },
+    {
+      "q": "Will Luma AI have the best Text-to-Image AI at the end of Oc",
+      "yes": 0.003,
+      "no": 0.999,
+      "sum": 1.002,
+      "liq": 1105.80611
+    },
+    {
+      "q": "Will the price of Bitcoin be less than $76,000 on October 28",
+      "yes": 0.025,
+      "no": 0.977,
+      "sum": 1.002,
+      "liq": 40126.7789
+    },
+    {
+      "q": "Will Broad Front (FA) win the most seats in Lleida in the 20",
+      "yes": 0.004,
+      "no": 0.999,
+      "sum": 1.003,
+      "liq": 10591.65998
+    },
+    {
+      "q": "Will L\u00e9a Seydoux win Best Actress at the 99th Academy Awards",
+      "yes": 0.004,
+      "no": 0.999,
+      "sum": 1.003,
+      "liq": 4134.01123
+    },
+    {
+      "q": "Will Reanimal win Best Independent Game at the 2026 Game Awa",
+      "yes": 0.004,
+      "no": 0.999,
+      "sum": 1.003,
+      "liq": 650.36528
+    },
+    {
+      "q": "Will Z.ai be the first company to have an AI model hit 1550 ",
+      "yes": 0.004,
+      "no": 0.999,
+      "sum": 1.003,
+      "liq": 1993.35509
+    },
+    {
+      "q": "Will the Republican Party win the PA-15 House seat?",
+      "yes": 0.95,
+      "no": 0.054,
+      "sum": 1.004,
+      "liq": 16554.23938
+    },
+    {
+      "q": "Will total votes cast in the 2026 midterm election for Senat",
+      "yes": 0.005,
+      "no": 0.999,
+      "sum": 1.004,
+      "liq": 12690.78027
+    },
+    {
+      "q": "Will Dante Moore be the 2026 D1 Passing Yards Leader?",
+      "yes": 0.014,
+      "no": 0.99,
+      "sum": 1.004,
+      "liq": 318.7913
+    },
+    {
+      "q": "Epic Games IPO before 2027?",
+      "yes": 0.021,
+      "no": 0.983,
+      "sum": 1.004,
+      "liq": 9430.39003
+    },
+    {
+      "q": "Will \u00d3scar Estupi\u00f1\u00e1n (FC Ju\u00e1rez) be the top goalscorer of th",
+      "yes": 0.005,
+      "no": 0.999,
+      "sum": 1.004,
+      "liq": 176.10191
+    },
+    {
+      "q": "Benevento Calcio vs. US Catanzaro 1929: O/U 0.5",
+      "yes": 0.955,
+      "no": 0.049,
+      "sum": 1.004,
+      "liq": 6698.48801
+    },
+    {
+      "q": "Will the Democratic Party candidate win the 2026 PA-05 House",
+      "yes": 0.007,
+      "no": 0.998,
+      "sum": 1.005,
+      "liq": 12206.21422
+    },
+    {
+      "q": "Will Jos\u00e9 Mar\u00eda Tapia Franco win the 2027 Quer\u00e9taro Governor",
+      "yes": 0.009,
+      "no": 0.996,
+      "sum": 1.005,
+      "liq": 13198.26908
+    }
+  ],
+  "near_miss_count_le_1.005": 29,
+  "floor": 1.001,
+  "scan_time": 60.6
+}
