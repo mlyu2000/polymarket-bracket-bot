@@ -1,0 +1,4645 @@
+{
+ "ts": "20261028T214828Z",
+ "markets": 500,
+ "scan_time": 69.7,
+ "floor": [
+  1.001,
+  "Will APT. \u2013 ROS\u00c9 & Bruno Mars be the top song in the US",
+  0.002,
+  0.999,
+  2930.69842
+ ],
+ "top10": [
+  {
+   "sum": 1.001,
+   "q": "Will APT. \u2013 ROS\u00c9 & Bruno Mars be the top song in the US",
+   "yes": 0.002,
+   "no": 0.999,
+   "liq": 2930.69842
+  },
+  {
+   "sum": 1.001,
+   "q": "Will Arizona Cardinals win the 2027 NFL NFC Championshi",
+   "yes": 0.002,
+   "no": 0.999,
+   "liq": 76243.97558
+  },
+  {
+   "sum": 1.001,
+   "q": "Will Bitcoin dip to $72,000 October 26-November 1?",
+   "yes": 0.011,
+   "no": 0.99,
+   "liq": 70596.04286
+  },
+  {
+   "sum": 1.001,
+   "q": "Will Elon Musk post 440-459 tweets from October 27 to N",
+   "yes": 0.006,
+   "no": 0.995,
+   "liq": 5866.47143
+  },
+  {
+   "sum": 1.001,
+   "q": "Will Shohei Ohtani be the #1 searched person on Google ",
+   "yes": 0.002,
+   "no": 0.999,
+   "liq": 4528.98365
+  },
+  {
+   "sum": 1.001,
+   "q": "Will the Democratic Party candidate win the 2026 PA-05 ",
+   "yes": 0.004,
+   "no": 0.997,
+   "liq": 12255.96143
+  },
+  {
+   "sum": 1.001,
+   "q": "Will the Republican Party candidate win the 2026 KS-03 ",
+   "yes": 0.044,
+   "no": 0.957,
+   "liq": 12104.78372
+  },
+  {
+   "sum": 1.001,
+   "q": "Will the highest temperature in Taipei be 33\u00b0C or highe",
+   "yes": 0.002,
+   "no": 0.999,
+   "liq": 2081.90923
+  },
+  {
+   "sum": 1.001,
+   "q": "Will the highest temperature in Warsaw be 7\u00b0C on Octobe",
+   "yes": 0.002,
+   "no": 0.999,
+   "liq": 2350.04294
+  },
+  {
+   "sum": 1.001,
+   "q": "Will the upper bound of the target federal funds rate b",
+   "yes": 0.003,
+   "no": 0.998,
+   "liq": 16242.04261
+  }
+ ],
+ "tiers": {
+  "le_1_005": 27,
+  "le_1_010": 74,
+  "le_1_020": 132,
+  "le_1_050": 253,
+  "lt_1_000": 0
+ },
+ "le_1_02_markets": [
+  {
+   "q": "Toronto FC vs. D.C. United SC: D.C. United SC O/U 0.5",
+   "yes_min": 0.74,
+   "no_min": 0.28,
+   "sum": 1.02,
+   "liq": 21322.2125,
+   "market_id": "5745578",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "4767.96"
+    },
+    {
+     "price": "0.98",
+     "size": "4345"
+    },
+    {
+     "price": "0.97",
+     "size": "5.53"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "4757.99"
+    },
+    {
+     "price": "0.98",
+     "size": "4345"
+    },
+    {
+     "price": "0.97",
+     "size": "6.22"
+    }
+   ]
+  },
+  {
+   "q": "Barnsley FC vs. Oxford United FC: O/U 1.5",
+   "yes_min": 0.84,
+   "no_min": 0.18,
+   "sum": 1.02,
+   "liq": 1485.5922,
+   "market_id": "5865139",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "304.68"
+    },
+    {
+     "price": "0.98",
+     "size": "1512.65"
+    },
+    {
+     "price": "0.97",
+     "size": "1401"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "20.73"
+    },
+    {
+     "price": "0.98",
+     "size": "1505"
+    },
+    {
+     "price": "0.97",
+     "size": "300"
+    }
+   ]
+  },
+  {
+   "q": "Wolverhampton Wanderers FC vs. Cardiff City FC: O/U 2.5",
+   "yes_min": 0.66,
+   "no_min": 0.36,
+   "sum": 1.02,
+   "liq": 5739.3601,
+   "market_id": "5869680",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "32.95"
+    },
+    {
+     "price": "0.98",
+     "size": "755"
+    },
+    {
+     "price": "0.97",
+     "size": "26.01"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "20.13"
+    },
+    {
+     "price": "0.98",
+     "size": "755"
+    },
+    {
+     "price": "0.97",
+     "size": "300"
+    }
+   ]
+  },
+  {
+   "q": "Nashville SC vs. Philadelphia Union: 1st Half O/U 1.5",
+   "yes_min": 0.41,
+   "no_min": 0.61,
+   "sum": 1.02,
+   "liq": 30116.3888,
+   "market_id": "5744355",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "4879.09"
+    },
+    {
+     "price": "0.98",
+     "size": "4345"
+    },
+    {
+     "price": "0.97",
+     "size": "6.95"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "4854.99"
+    },
+    {
+     "price": "0.98",
+     "size": "4345"
+    },
+    {
+     "price": "0.97",
+     "size": "9.16"
+    }
+   ]
+  },
+  {
+   "q": "Red Bull Bragantino vs. Associa\u00e7\u00e3o Chapecoense de Futebol: 1st Half O/U 0.5",
+   "yes_min": 0.83,
+   "no_min": 0.18,
+   "sum": 1.01,
+   "liq": 28861.2048,
+   "market_id": "5773586",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "60644.51"
+    },
+    {
+     "price": "0.98",
+     "size": "2181.25"
+    },
+    {
+     "price": "0.97",
+     "size": "2012.19"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "60646.02"
+    },
+    {
+     "price": "0.98",
+     "size": "2175"
+    },
+    {
+     "price": "0.97",
+     "size": "15.87"
+    }
+   ]
+  },
+  {
+   "q": "Valorant: Gentle Mates GC vs Shopify Rebellion Gold (BO3) - VCT Game Changers Championship",
+   "yes_min": 0.5,
+   "no_min": 0.51,
+   "sum": 1.01,
+   "liq": 1761.0048,
+   "market_id": "6327420",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "20"
+    },
+    {
+     "price": "0.98",
+     "size": "2262.29"
+    },
+    {
+     "price": "0.97",
+     "size": "240"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "20.01"
+    },
+    {
+     "price": "0.98",
+     "size": "2260.35"
+    },
+    {
+     "price": "0.97",
+     "size": "240"
+    }
+   ]
+  },
+  {
+   "q": "Will the Republican Party candidate win the 2026 AZ-06 House election by 6% or more?",
+   "yes_min": 0.01,
+   "no_min": 0.999,
+   "sum": 1.009,
+   "liq": 17016.55223,
+   "market_id": "3399277",
+   "yes_asks": [
+    {
+     "price": "0.999",
+     "size": "76.71"
+    },
+    {
+     "price": "0.998",
+     "size": "6.23"
+    },
+    {
+     "price": "0.99",
+     "size": "100"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.999",
+     "size": "1000"
+    }
+   ]
+  },
+  {
+   "q": "WKW ETO FC Gyor vs. Vasas FC: O/U 1.5",
+   "yes_min": 0.87,
+   "no_min": 0.15,
+   "sum": 1.02,
+   "liq": 1485.005,
+   "market_id": "6217345",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "1282.96"
+    },
+    {
+     "price": "0.98",
+     "size": "2060.52"
+    },
+    {
+     "price": "0.97",
+     "size": "1125.89"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "17.66"
+    },
+    {
+     "price": "0.98",
+     "size": "1600"
+    },
+    {
+     "price": "0.97",
+     "size": "6.41"
+    }
+   ]
+  },
+  {
+   "q": "Crici\u00fama EC vs. AA Ponte Preta: O/U 5.5",
+   "yes_min": 0.16,
+   "no_min": 0.86,
+   "sum": 1.02,
+   "liq": 2487.6188,
+   "market_id": "5877749",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "26.76"
+    },
+    {
+     "price": "0.98",
+     "size": "62"
+    },
+    {
+     "price": "0.97",
+     "size": "28.08"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "124.29"
+    },
+    {
+     "price": "0.98",
+     "size": "284.57"
+    },
+    {
+     "price": "0.97",
+     "size": "1140.31"
+    }
+   ]
+  },
+  {
+   "q": "Villarreal CF vs. RCD Espanyol de Barcelona: Both Teams to Score",
+   "yes_min": 0.57,
+   "no_min": 0.44,
+   "sum": 1.01,
+   "liq": 22672.1517,
+   "market_id": "5798190",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "178.01"
+    },
+    {
+     "price": "0.98",
+     "size": "1511.65"
+    },
+    {
+     "price": "0.97",
+     "size": "300"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "172.79"
+    },
+    {
+     "price": "0.98",
+     "size": "1511.59"
+    },
+    {
+     "price": "0.97",
+     "size": "300"
+    }
+   ]
+  },
+  {
+   "q": "Will FC Andorra win on 2026-11-01?",
+   "yes_min": 0.29,
+   "no_min": 0.73,
+   "sum": 1.02,
+   "liq": 2745.306,
+   "market_id": "5915930",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "325.65"
+    },
+    {
+     "price": "0.98",
+     "size": "1518.86"
+    },
+    {
+     "price": "0.97",
+     "size": "300"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "426.05"
+    },
+    {
+     "price": "0.98",
+     "size": "1560"
+    },
+    {
+     "price": "0.95",
+     "size": "300"
+    }
+   ]
+  },
+  {
+   "q": "Spread: Al Qadisiyah Saudi Club (-1.5)",
+   "yes_min": 0.54,
+   "no_min": 0.48,
+   "sum": 1.02,
+   "liq": 10257.3253,
+   "market_id": "5763496",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "95.99"
+    },
+    {
+     "price": "0.8",
+     "size": "12.8"
+    },
+    {
+     "price": "0.79",
+     "size": "336.33"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.98",
+     "size": "300"
+    },
+    {
+     "price": "0.72",
+     "size": "64"
+    },
+    {
+     "price": "0.71",
+     "size": "436"
+    }
+   ]
+  },
+  {
+   "q": "Will Central Coast Mariners FC win on 2026-11-01?",
+   "yes_min": 0.15,
+   "no_min": 0.87,
+   "sum": 1.02,
+   "liq": 3879.5327,
+   "market_id": "5905443",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "592.25"
+    },
+    {
+     "price": "0.98",
+     "size": "1517.6"
+    },
+    {
+     "price": "0.97",
+     "size": "300"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "702.14"
+    },
+    {
+     "price": "0.98",
+     "size": "1572.19"
+    },
+    {
+     "price": "0.97",
+     "size": "2437"
+    }
+   ]
+  },
+  {
+   "q": "Will Tai Po FC win on 2026-10-29?",
+   "yes_min": 0.14,
+   "no_min": 0.88,
+   "sum": 1.02,
+   "liq": 7050.6055,
+   "market_id": "6300086",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "429.28"
+    },
+    {
+     "price": "0.98",
+     "size": "1512.53"
+    },
+    {
+     "price": "0.97",
+     "size": "300"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "6183.81"
+    },
+    {
+     "price": "0.98",
+     "size": "4667.47"
+    },
+    {
+     "price": "0.97",
+     "size": "1208.67"
+    }
+   ]
+  },
+  {
+   "q": "Seattle Sounders FC vs. Houston Dynamo: Seattle Sounders FC O/U 1.5",
+   "yes_min": 0.58,
+   "no_min": 0.44,
+   "sum": 1.02,
+   "liq": 20613.3304,
+   "market_id": "5743960",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "381.59"
+    },
+    {
+     "price": "0.98",
+     "size": "43.87"
+    },
+    {
+     "price": "0.97",
+     "size": "10.22"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "498.07"
+    },
+    {
+     "price": "0.98",
+     "size": "49.46"
+    },
+    {
+     "price": "0.75",
+     "size": "1130.1"
+    }
+   ]
+  },
+  {
+   "q": "Will Hyperliquid HIP-3 open interest hit $7B in 2026?",
+   "yes_min": 0.07,
+   "no_min": 0.934,
+   "sum": 1.004,
+   "liq": 4419.30694,
+   "market_id": "1185737",
+   "yes_asks": [
+    {
+     "price": "0.999",
+     "size": "3443.35"
+    },
+    {
+     "price": "0.998",
+     "size": "1660"
+    },
+    {
+     "price": "0.997",
+     "size": "1106.65"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.999",
+     "size": "3759.43"
+    },
+    {
+     "price": "0.998",
+     "size": "155.05"
+    },
+    {
+     "price": "0.997",
+     "size": "308.35"
+    }
+   ]
+  },
+  {
+   "q": "Real Betis Balompi\u00e9 vs. M\u00e1laga CF: Both Teams to Score",
+   "yes_min": 0.54,
+   "no_min": 0.47,
+   "sum": 1.01,
+   "liq": 6210.7114,
+   "market_id": "5862754",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "172.45"
+    },
+    {
+     "price": "0.98",
+     "size": "1511.32"
+    },
+    {
+     "price": "0.97",
+     "size": "300"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "173.15"
+    },
+    {
+     "price": "0.98",
+     "size": "1511.61"
+    },
+    {
+     "price": "0.97",
+     "size": "300"
+    }
+   ]
+  },
+  {
+   "q": "Will Wigan Athletic FC win on 2026-10-31?",
+   "yes_min": 0.52,
+   "no_min": 0.5,
+   "sum": 1.02,
+   "liq": 1784.7385,
+   "market_id": "5864636",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "328.3"
+    },
+    {
+     "price": "0.98",
+     "size": "1515.53"
+    },
+    {
+     "price": "0.97",
+     "size": "300"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "425.24"
+    },
+    {
+     "price": "0.98",
+     "size": "1555"
+    },
+    {
+     "price": "0.97",
+     "size": "300"
+    }
+   ]
+  },
+  {
+   "q": "Will the Republican Party candidate win the 2026 CO-08 House election by 3% or more?",
+   "yes_min": 0.04,
+   "no_min": 0.962,
+   "sum": 1.002,
+   "liq": 13296.6616,
+   "market_id": "3405606",
+   "yes_asks": [
+    {
+     "price": "0.999",
+     "size": "62.64"
+    },
+    {
+     "price": "0.998",
+     "size": "28.3"
+    },
+    {
+     "price": "0.997",
+     "size": "13.62"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.999",
+     "size": "421.49"
+    },
+    {
+     "price": "0.998",
+     "size": "218.17"
+    },
+    {
+     "price": "0.997",
+     "size": "142.33"
+    }
+   ]
+  },
+  {
+   "q": "Will CA Gimnasia y Esgrima de Mendoza win on 2026-11-01?",
+   "yes_min": 0.16,
+   "no_min": 0.86,
+   "sum": 1.02,
+   "liq": 2253.651,
+   "market_id": "5932618",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "531.03"
+    },
+    {
+     "price": "0.98",
+     "size": "1505"
+    },
+    {
+     "price": "0.97",
+     "size": "300"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "636.62"
+    },
+    {
+     "price": "0.98",
+     "size": "1555"
+    },
+    {
+     "price": "0.97",
+     "size": "2074"
+    }
+   ]
+  },
+  {
+   "q": "Will Kilmarnock FC win on 2026-10-31?",
+   "yes_min": 0.37,
+   "no_min": 0.65,
+   "sum": 1.02,
+   "liq": 3237.7862,
+   "market_id": "5865845",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "687.31"
+    },
+    {
+     "price": "0.98",
+     "size": "1519.08"
+    },
+    {
+     "price": "0.97",
+     "size": "300"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "795.04"
+    },
+    {
+     "price": "0.98",
+     "size": "1560"
+    },
+    {
+     "price": "0.97",
+     "size": "300"
+    }
+   ]
+  },
+  {
+   "q": "Will Aarhus GF win on 2026-11-01?",
+   "yes_min": 0.32,
+   "no_min": 0.7,
+   "sum": 1.02,
+   "liq": 2564.9388,
+   "market_id": "5904564",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "155.75"
+    },
+    {
+     "price": "0.98",
+     "size": "1517.61"
+    },
+    {
+     "price": "0.97",
+     "size": "300"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "289.84"
+    },
+    {
+     "price": "0.98",
+     "size": "1560"
+    },
+    {
+     "price": "0.97",
+     "size": "300"
+    }
+   ]
+  },
+  {
+   "q": "Will Luma AI have the best Text-to-Image AI at the end of October 2026?",
+   "yes_min": 0.003,
+   "no_min": 0.999,
+   "sum": 1.002,
+   "liq": 1392.60104,
+   "market_id": "3554835",
+   "yes_asks": [
+    {
+     "price": "0.999",
+     "size": "91.16"
+    },
+    {
+     "price": "0.998",
+     "size": "8.03"
+    },
+    {
+     "price": "0.986",
+     "size": "142"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.999",
+     "size": "91.8"
+    }
+   ]
+  },
+  {
+   "q": "Casa Pia AC vs. Sporting CP: Sporting CP O/U 3.5",
+   "yes_min": 0.23,
+   "no_min": 0.79,
+   "sum": 1.02,
+   "liq": 4124.4905,
+   "market_id": "5865954",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "80.99"
+    },
+    {
+     "price": "0.98",
+     "size": "10"
+    },
+    {
+     "price": "0.97",
+     "size": "5"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "24.93"
+    },
+    {
+     "price": "0.98",
+     "size": "300"
+    },
+    {
+     "price": "0.97",
+     "size": "23.68"
+    }
+   ]
+  },
+  {
+   "q": "Grimsby Town FC vs. York City FC: O/U 1.5",
+   "yes_min": 0.83,
+   "no_min": 0.19,
+   "sum": 1.02,
+   "liq": 1461.923,
+   "market_id": "5867345",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "22.06"
+    },
+    {
+     "price": "0.98",
+     "size": "1512.67"
+    },
+    {
+     "price": "0.97",
+     "size": "1342"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "20.1"
+    },
+    {
+     "price": "0.98",
+     "size": "1505"
+    },
+    {
+     "price": "0.97",
+     "size": "300"
+    }
+   ]
+  },
+  {
+   "q": "CA San Miguel vs. Deportivo Madryn: O/U 3.5",
+   "yes_min": 0.19,
+   "no_min": 0.83,
+   "sum": 1.02,
+   "liq": 1237.482,
+   "market_id": "6312248",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "43.99"
+    },
+    {
+     "price": "0.98",
+     "size": "5"
+    },
+    {
+     "price": "0.96",
+     "size": "13"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "16.07"
+    },
+    {
+     "price": "0.98",
+     "size": "57"
+    },
+    {
+     "price": "0.97",
+     "size": "534.3"
+    }
+   ]
+  },
+  {
+   "q": "Will the Republicans win the Hawaii governor race in 2026?",
+   "yes_min": 0.015,
+   "no_min": 0.991,
+   "sum": 1.006,
+   "liq": 62067.73839,
+   "market_id": "629351",
+   "yes_asks": [
+    {
+     "price": "0.999",
+     "size": "4866.43"
+    },
+    {
+     "price": "0.998",
+     "size": "2271.34"
+    },
+    {
+     "price": "0.997",
+     "size": "1506.64"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.999",
+     "size": "7461.18"
+    },
+    {
+     "price": "0.998",
+     "size": "805"
+    },
+    {
+     "price": "0.992",
+     "size": "12520"
+    }
+   ]
+  },
+  {
+   "q": "Will the price of Bitcoin be above $90,000 on November 2?",
+   "yes_min": 0.01,
+   "no_min": 0.994,
+   "sum": 1.004,
+   "liq": 13628.14929,
+   "market_id": "6255289",
+   "yes_asks": [
+    {
+     "price": "0.999",
+     "size": "350"
+    },
+    {
+     "price": "0.998",
+     "size": "10"
+    },
+    {
+     "price": "0.997",
+     "size": "6.66"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.999",
+     "size": "2076"
+    },
+    {
+     "price": "0.997",
+     "size": "9792"
+    },
+    {
+     "price": "0.995",
+     "size": "5"
+    }
+   ]
+  },
+  {
+   "q": "Will Marguerite Humeau win the Turner Prize 2026?",
+   "yes_min": 0.192,
+   "no_min": 0.815,
+   "sum": 1.007,
+   "liq": 10029.23356,
+   "market_id": "3543254",
+   "yes_asks": [
+    {
+     "price": "0.999",
+     "size": "2906.33"
+    },
+    {
+     "price": "0.998",
+     "size": "1260"
+    },
+    {
+     "price": "0.997",
+     "size": "846.79"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.999",
+     "size": "1047.05"
+    },
+    {
+     "price": "0.998",
+     "size": "110"
+    },
+    {
+     "price": "0.997",
+     "size": "373.32"
+    }
+   ]
+  },
+  {
+   "q": "Will Joe Burrow have 3,499.5+ passing yards in the 2026-27 NFL regular season?",
+   "yes_min": 0.81,
+   "no_min": 0.2,
+   "sum": 1.01,
+   "liq": 1042.6053,
+   "market_id": "3503861",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "78.4"
+    },
+    {
+     "price": "0.9",
+     "size": "20"
+    },
+    {
+     "price": "0.84",
+     "size": "40.1"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "6.01"
+    },
+    {
+     "price": "0.98",
+     "size": "47"
+    },
+    {
+     "price": "0.97",
+     "size": "24.13"
+    }
+   ]
+  },
+  {
+   "q": "Spread: Club Atletico La Paz (-1.5)",
+   "yes_min": 0.5,
+   "no_min": 0.52,
+   "sum": 1.02,
+   "liq": 1270.2446,
+   "market_id": "6184121",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "13"
+    },
+    {
+     "price": "0.98",
+     "size": "57"
+    },
+    {
+     "price": "0.97",
+     "size": "27.66"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.88",
+     "size": "300"
+    },
+    {
+     "price": "0.87",
+     "size": "1633"
+    },
+    {
+     "price": "0.61",
+     "size": "14"
+    }
+   ]
+  },
+  {
+   "q": "Will Huang Hsiu-fang win the next Changhua County Magistrate election?",
+   "yes_min": 0.009,
+   "no_min": 0.998,
+   "sum": 1.007,
+   "liq": 13139.92677,
+   "market_id": "3581727",
+   "yes_asks": [
+    {
+     "price": "0.999",
+     "size": "84.89"
+    },
+    {
+     "price": "0.998",
+     "size": "7.51"
+    },
+    {
+     "price": "0.99",
+     "size": "100"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.999",
+     "size": "27.59"
+    },
+    {
+     "price": "0.998",
+     "size": "10"
+    }
+   ]
+  },
+  {
+   "q": "Will the Democratic Party win the IL-08 House seat?",
+   "yes_min": 0.96,
+   "no_min": 0.05,
+   "sum": 1.01,
+   "liq": 26650.4438,
+   "market_id": "1283377",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "1394.13"
+    },
+    {
+     "price": "0.98",
+     "size": "1073.03"
+    },
+    {
+     "price": "0.97",
+     "size": "53"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "39.78"
+    },
+    {
+     "price": "0.95",
+     "size": "62000"
+    },
+    {
+     "price": "0.94",
+     "size": "13656.25"
+    }
+   ]
+  },
+  {
+   "q": "Will US GDP growth in 2026 be between 1.5% and 2.0%?",
+   "yes_min": 0.027,
+   "no_min": 0.987,
+   "sum": 1.014,
+   "liq": 869.90561,
+   "market_id": "677167",
+   "yes_asks": [
+    {
+     "price": "0.999",
+     "size": "10.2"
+    },
+    {
+     "price": "0.998",
+     "size": "3505"
+    },
+    {
+     "price": "0.997",
+     "size": "19166.66"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.999",
+     "size": "12024"
+    },
+    {
+     "price": "0.998",
+     "size": "1496"
+    },
+    {
+     "price": "0.997",
+     "size": "616.67"
+    }
+   ]
+  },
+  {
+   "q": "Jon Favreau as Happy Hogan?",
+   "yes_min": 0.54,
+   "no_min": 0.48,
+   "sum": 1.02,
+   "liq": 852.3022,
+   "market_id": "1818708",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "110.86"
+    },
+    {
+     "price": "0.98",
+     "size": "50"
+    },
+    {
+     "price": "0.97",
+     "size": "6.03"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "2105.21"
+    },
+    {
+     "price": "0.98",
+     "size": "9.01"
+    },
+    {
+     "price": "0.96",
+     "size": "450"
+    }
+   ]
+  },
+  {
+   "q": "Will L\u00e9a Seydoux win Best Actress at the 99th Academy Awards?",
+   "yes_min": 0.004,
+   "no_min": 0.999,
+   "sum": 1.003,
+   "liq": 2856.34088,
+   "market_id": "3157297",
+   "yes_asks": [
+    {
+     "price": "0.999",
+     "size": "69.35"
+    },
+    {
+     "price": "0.998",
+     "size": "7.83"
+    },
+    {
+     "price": "0.99",
+     "size": "8907.53"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.999",
+     "size": "5052.44"
+    }
+   ]
+  },
+  {
+   "q": "Will the Democratic Party candidate win the 2026 PA-05 House election by 0%-10%?",
+   "yes_min": 0.004,
+   "no_min": 0.997,
+   "sum": 1.001,
+   "liq": 12255.96143,
+   "market_id": "3520661",
+   "yes_asks": [
+    {
+     "price": "0.999",
+     "size": "83.65"
+    },
+    {
+     "price": "0.998",
+     "size": "7.44"
+    },
+    {
+     "price": "0.99",
+     "size": "100"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.999",
+     "size": "349"
+    },
+    {
+     "price": "0.997",
+     "size": "28.7"
+    }
+   ]
+  },
+  {
+   "q": "Will Bayern Munich be the 2026-27 Bundesliga champion?",
+   "yes_min": 0.88,
+   "no_min": 0.13,
+   "sum": 1.01,
+   "liq": 274113.1756,
+   "market_id": "2849009",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "547.95"
+    },
+    {
+     "price": "0.98",
+     "size": "758.72"
+    },
+    {
+     "price": "0.97",
+     "size": "771.92"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "2100000"
+    },
+    {
+     "price": "0.98",
+     "size": "100000"
+    },
+    {
+     "price": "0.97",
+     "size": "800"
+    }
+   ]
+  },
+  {
+   "q": "Will Lovable be acquired before 2027?",
+   "yes_min": 0.052,
+   "no_min": 0.954,
+   "sum": 1.006,
+   "liq": 3741.20435,
+   "market_id": "700395",
+   "yes_asks": [
+    {
+     "price": "0.999",
+     "size": "6540.23"
+    },
+    {
+     "price": "0.998",
+     "size": "4231.55"
+    },
+    {
+     "price": "0.997",
+     "size": "2467.5"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.999",
+     "size": "30143.81"
+    },
+    {
+     "price": "0.998",
+     "size": "9749.05"
+    },
+    {
+     "price": "0.997",
+     "size": "2383.32"
+    }
+   ]
+  },
+  {
+   "q": "Will Anthropic's market cap be between $2.75T and $3.0T at market close on IPO day?",
+   "yes_min": 0.019,
+   "no_min": 0.985,
+   "sum": 1.004,
+   "liq": 24723.79807,
+   "market_id": "2412751",
+   "yes_asks": [
+    {
+     "price": "0.999",
+     "size": "3306520"
+    },
+    {
+     "price": "0.998",
+     "size": "2766.56"
+    },
+    {
+     "price": "0.997",
+     "size": "61839.97"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.999",
+     "size": "26231.85"
+    },
+    {
+     "price": "0.998",
+     "size": "4800"
+    },
+    {
+     "price": "0.997",
+     "size": "4871.7"
+    }
+   ]
+  },
+  {
+   "q": "Will the price of Ethereum be above $2,400 on October 30?",
+   "yes_min": 0.31,
+   "no_min": 0.7,
+   "sum": 1.01,
+   "liq": 13859.3629,
+   "market_id": "6084503",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "5395"
+    },
+    {
+     "price": "0.98",
+     "size": "5000"
+    },
+    {
+     "price": "0.97",
+     "size": "4355"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "540"
+    },
+    {
+     "price": "0.98",
+     "size": "5020"
+    },
+    {
+     "price": "0.97",
+     "size": "20"
+    }
+   ]
+  },
+  {
+   "q": "Will Iliana Iotova win the next Bulgarian presidential election?",
+   "yes_min": 0.74,
+   "no_min": 0.27,
+   "sum": 1.01,
+   "liq": 335818.9942,
+   "market_id": "1194643",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "12152.3"
+    },
+    {
+     "price": "0.98",
+     "size": "161014.86"
+    },
+    {
+     "price": "0.97",
+     "size": "87395.83"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "2256.05"
+    },
+    {
+     "price": "0.98",
+     "size": "950"
+    },
+    {
+     "price": "0.97",
+     "size": "755.41"
+    }
+   ]
+  },
+  {
+   "q": "UFC Fight Night: Piera Rodriguez vs. Talita Alencar (Women's Strawweight, Prelims)",
+   "yes_min": 0.72,
+   "no_min": 0.29,
+   "sum": 1.01,
+   "liq": 14201.6172,
+   "market_id": "5839774",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "13.11"
+    },
+    {
+     "price": "0.98",
+     "size": "1550"
+    },
+    {
+     "price": "0.97",
+     "size": "5.46"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "18.01"
+    },
+    {
+     "price": "0.98",
+     "size": "1550"
+    },
+    {
+     "price": "0.97",
+     "size": "300"
+    }
+   ]
+  },
+  {
+   "q": "Will Abstract launch a token by June 30, 2027?",
+   "yes_min": 0.047,
+   "no_min": 0.964,
+   "sum": 1.011,
+   "liq": 6769.25866,
+   "market_id": "2698201",
+   "yes_asks": [
+    {
+     "price": "0.999",
+     "size": "5616"
+    },
+    {
+     "price": "0.998",
+     "size": "2766.26"
+    },
+    {
+     "price": "0.997",
+     "size": "1839.97"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.999",
+     "size": "806.23"
+    },
+    {
+     "price": "0.998",
+     "size": "6429.41"
+    },
+    {
+     "price": "0.997",
+     "size": "928.4"
+    }
+   ]
+  },
+  {
+   "q": "Jets vs. Lightning",
+   "yes_min": 0.33,
+   "no_min": 0.68,
+   "sum": 1.01,
+   "liq": 53813.665,
+   "market_id": "5406584",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "613.14"
+    },
+    {
+     "price": "0.98",
+     "size": "350"
+    },
+    {
+     "price": "0.97",
+     "size": "27.61"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "613.12"
+    },
+    {
+     "price": "0.98",
+     "size": "50"
+    },
+    {
+     "price": "0.97",
+     "size": "7.64"
+    }
+   ]
+  },
+  {
+   "q": "Will Ipswich Town be relegated from the 2026-27 Premier League?",
+   "yes_min": 0.36,
+   "no_min": 0.65,
+   "sum": 1.01,
+   "liq": 3956.1335,
+   "market_id": "3848382",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "110.65"
+    },
+    {
+     "price": "0.98",
+     "size": "10.13"
+    },
+    {
+     "price": "0.97",
+     "size": "1000"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.97",
+     "size": "1000"
+    },
+    {
+     "price": "0.96",
+     "size": "600"
+    },
+    {
+     "price": "0.95",
+     "size": "1000"
+    }
+   ]
+  },
+  {
+   "q": "FC Dallas vs. Columbus Crew: Both Teams to Score",
+   "yes_min": 0.67,
+   "no_min": 0.34,
+   "sum": 1.01,
+   "liq": 34911.8028,
+   "market_id": "5744213",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "6784.58"
+    },
+    {
+     "price": "0.98",
+     "size": "6515"
+    },
+    {
+     "price": "0.97",
+     "size": "10.04"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "6783.63"
+    },
+    {
+     "price": "0.98",
+     "size": "6515"
+    },
+    {
+     "price": "0.97",
+     "size": "9.45"
+    }
+   ]
+  },
+  {
+   "q": "Epic Games IPO before 2027?",
+   "yes_min": 0.022,
+   "no_min": 0.988,
+   "sum": 1.01,
+   "liq": 15707.55662,
+   "market_id": "1321867",
+   "yes_asks": [
+    {
+     "price": "0.999",
+     "size": "4000"
+    },
+    {
+     "price": "0.998",
+     "size": "2450.36"
+    },
+    {
+     "price": "0.997",
+     "size": "999.99"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.999",
+     "size": "84314.92"
+    },
+    {
+     "price": "0.998",
+     "size": "8434.21"
+    },
+    {
+     "price": "0.997",
+     "size": "442.66"
+    }
+   ]
+  },
+  {
+   "q": "Will the Democratic Party candidate win the 2026 New Hampshire Senate election by 0%-3%?",
+   "yes_min": 0.13,
+   "no_min": 0.878,
+   "sum": 1.008,
+   "liq": 18273.30521,
+   "market_id": "3343938",
+   "yes_asks": [
+    {
+     "price": "0.999",
+     "size": "79.36"
+    },
+    {
+     "price": "0.998",
+     "size": "7.06"
+    },
+    {
+     "price": "0.99",
+     "size": "100"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.999",
+     "size": "179"
+    },
+    {
+     "price": "0.998",
+     "size": "208.7"
+    },
+    {
+     "price": "0.996",
+     "size": "200"
+    }
+   ]
+  },
+  {
+   "q": "No change in Bank of Japan\u2019s interest rates after the October 2026 meeting?",
+   "yes_min": 0.999,
+   "no_min": 0.005,
+   "sum": 1.004,
+   "liq": 56489.03671,
+   "market_id": "3251602",
+   "yes_asks": [
+    {
+     "price": "0.999",
+     "size": "1525"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.999",
+     "size": "6405.94"
+    },
+    {
+     "price": "0.998",
+     "size": "4101.33"
+    },
+    {
+     "price": "0.997",
+     "size": "2376.88"
+    }
+   ]
+  },
+  {
+   "q": "Will the highest temperature in Warsaw be 7\u00b0C on October 29?",
+   "yes_min": 0.002,
+   "no_min": 0.999,
+   "sum": 1.001,
+   "liq": 2350.04294,
+   "market_id": "6290283",
+   "yes_asks": [
+    {
+     "price": "0.999",
+     "size": "21110"
+    },
+    {
+     "price": "0.998",
+     "size": "510"
+    },
+    {
+     "price": "0.997",
+     "size": "6.66"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.999",
+     "size": "589.05"
+    }
+   ]
+  },
+  {
+   "q": "Will Core PCE MoM be 0.4% in September?",
+   "yes_min": 0.28,
+   "no_min": 0.74,
+   "sum": 1.02,
+   "liq": 1635.2814,
+   "market_id": "5194678",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "4187.52"
+    },
+    {
+     "price": "0.98",
+     "size": "2823.19"
+    },
+    {
+     "price": "0.97",
+     "size": "1673.22"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "1642.89"
+    },
+    {
+     "price": "0.98",
+     "size": "630.6"
+    },
+    {
+     "price": "0.97",
+     "size": "416.67"
+    }
+   ]
+  },
+  {
+   "q": "Will three people dissent the January Fed decision?",
+   "yes_min": 0.15,
+   "no_min": 0.86,
+   "sum": 1.01,
+   "liq": 3249.2382,
+   "market_id": "3247715",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "37824.29"
+    },
+    {
+     "price": "0.98",
+     "size": "18041.25"
+    },
+    {
+     "price": "0.97",
+     "size": "11463.34"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "1942.1"
+    },
+    {
+     "price": "0.98",
+     "size": "500"
+    },
+    {
+     "price": "0.97",
+     "size": "5.09"
+    }
+   ]
+  },
+  {
+   "q": "Will Phil Lord or Christopher Miller win Best Director at the 99th Academy Awards?",
+   "yes_min": 0.009,
+   "no_min": 0.999,
+   "sum": 1.008,
+   "liq": 2117.62812,
+   "market_id": "3388211",
+   "yes_asks": [
+    {
+     "price": "0.999",
+     "size": "122.44"
+    },
+    {
+     "price": "0.998",
+     "size": "31.56"
+    },
+    {
+     "price": "0.99",
+     "size": "6713.26"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.999",
+     "size": "386.89"
+    }
+   ]
+  },
+  {
+   "q": "Will Dante Moore be the 2026 D1 Passing Yards Leader?",
+   "yes_min": 0.014,
+   "no_min": 0.99,
+   "sum": 1.004,
+   "liq": 306.15854,
+   "market_id": "3935822",
+   "yes_asks": [
+    {
+     "price": "0.999",
+     "size": "67.32"
+    },
+    {
+     "price": "0.971",
+     "size": "117"
+    },
+    {
+     "price": "0.939",
+     "size": "7"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.999",
+     "size": "5"
+    },
+    {
+     "price": "0.99",
+     "size": "500"
+    }
+   ]
+  },
+  {
+   "q": "Will the Republican Party candidate win the 2026 WI-07 House election by 15%-20%?",
+   "yes_min": 0.38,
+   "no_min": 0.64,
+   "sum": 1.02,
+   "liq": 28601.1875,
+   "market_id": "3523238",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "107.27"
+    },
+    {
+     "price": "0.98",
+     "size": "56.66"
+    },
+    {
+     "price": "0.97",
+     "size": "115333.33"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "63.24"
+    },
+    {
+     "price": "0.98",
+     "size": "150000"
+    },
+    {
+     "price": "0.97",
+     "size": "108.13"
+    }
+   ]
+  },
+  {
+   "q": "Will the Republican Party candidate win the first round of the 2026 Georgia Senate electio",
+   "yes_min": 0.014,
+   "no_min": 0.999,
+   "sum": 1.013,
+   "liq": 21074.03062,
+   "market_id": "3343189",
+   "yes_asks": [
+    {
+     "price": "0.999",
+     "size": "129.21"
+    },
+    {
+     "price": "0.998",
+     "size": "35.51"
+    },
+    {
+     "price": "0.99",
+     "size": "100"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.999",
+     "size": "368.25"
+    }
+   ]
+  },
+  {
+   "q": "Will Tesla (TSLA) close above $350 end of October?",
+   "yes_min": 0.999,
+   "no_min": 0.019,
+   "sum": 1.018,
+   "liq": 892.533,
+   "market_id": "4963407",
+   "yes_asks": [
+    {
+     "price": "0.999",
+     "size": "50.5"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.999",
+     "size": "90"
+    },
+    {
+     "price": "0.996",
+     "size": "8"
+    },
+    {
+     "price": "0.99",
+     "size": "10"
+    }
+   ]
+  },
+  {
+   "q": "Will Elon Musk post 440-459 tweets from October 27 to November 3, 2026?",
+   "yes_min": 0.006,
+   "no_min": 0.995,
+   "sum": 1.001,
+   "liq": 5866.47143,
+   "market_id": "6104819",
+   "yes_asks": [
+    {
+     "price": "0.999",
+     "size": "6618.21"
+    },
+    {
+     "price": "0.998",
+     "size": "14757.18"
+    },
+    {
+     "price": "0.997",
+     "size": "5156.8"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.999",
+     "size": "25802"
+    },
+    {
+     "price": "0.998",
+     "size": "7409"
+    },
+    {
+     "price": "0.997",
+     "size": "220"
+    }
+   ]
+  },
+  {
+   "q": "Will Reanimal win Best Independent Game at the 2026 Game Awards?",
+   "yes_min": 0.004,
+   "no_min": 0.999,
+   "sum": 1.003,
+   "liq": 660.88802,
+   "market_id": "3357535",
+   "yes_asks": [
+    {
+     "price": "0.999",
+     "size": "873.51"
+    },
+    {
+     "price": "0.998",
+     "size": "57.53"
+    },
+    {
+     "price": "0.99",
+     "size": "10"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.999",
+     "size": "63.82"
+    }
+   ]
+  },
+  {
+   "q": "Will Atlanta United FC win the 2026 MLS Eastern Conference?",
+   "yes_min": 0.02,
+   "no_min": 0.997,
+   "sum": 1.017,
+   "liq": 5378.88305,
+   "market_id": "3957711",
+   "yes_asks": [
+    {
+     "price": "0.999",
+     "size": "130.59"
+    },
+    {
+     "price": "0.998",
+     "size": "27.5"
+    },
+    {
+     "price": "0.985",
+     "size": "300"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.999",
+     "size": "211"
+    },
+    {
+     "price": "0.998",
+     "size": "126"
+    },
+    {
+     "price": "0.997",
+     "size": "150"
+    }
+   ]
+  },
+  {
+   "q": "Will Arizona Cardinals win the 2027 NFL NFC Championship?",
+   "yes_min": 0.002,
+   "no_min": 0.999,
+   "sum": 1.001,
+   "liq": 76243.97558,
+   "market_id": "1361066",
+   "yes_asks": [
+    {
+     "price": "0.999",
+     "size": "11001011.51"
+    },
+    {
+     "price": "0.998",
+     "size": "2000005.28"
+    },
+    {
+     "price": "0.997",
+     "size": "3000000"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.999",
+     "size": "27461.77"
+    }
+   ]
+  },
+  {
+   "q": "Will APT. \u2013 ROS\u00c9 & Bruno Mars be the top song in the US for 2026?",
+   "yes_min": 0.002,
+   "no_min": 0.999,
+   "sum": 1.001,
+   "liq": 2930.69842,
+   "market_id": "2929270",
+   "yes_asks": [
+    {
+     "price": "0.999",
+     "size": "124.04"
+    },
+    {
+     "price": "0.998",
+     "size": "26.92"
+    },
+    {
+     "price": "0.993",
+     "size": "152"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.999",
+     "size": "139.01"
+    }
+   ]
+  },
+  {
+   "q": "Will James Clapper be arrested before 2027?",
+   "yes_min": 0.06,
+   "no_min": 0.96,
+   "sum": 1.02,
+   "liq": 15946.8037,
+   "market_id": "2116867",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "23.02"
+    },
+    {
+     "price": "0.95",
+     "size": "62000"
+    },
+    {
+     "price": "0.94",
+     "size": "6855.9"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "5812.17"
+    },
+    {
+     "price": "0.98",
+     "size": "3880.1"
+    },
+    {
+     "price": "0.97",
+     "size": "864.51"
+    }
+   ]
+  },
+  {
+   "q": "Will the upper bound of the target federal funds rate be 2.25% at the end of 2026?",
+   "yes_min": 0.003,
+   "no_min": 0.998,
+   "sum": 1.001,
+   "liq": 16242.04261,
+   "market_id": "1168133",
+   "yes_asks": [
+    {
+     "price": "0.999",
+     "size": "1106750.05"
+    },
+    {
+     "price": "0.998",
+     "size": "2760"
+    },
+    {
+     "price": "0.997",
+     "size": "31845.11"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.999",
+     "size": "13919"
+    },
+    {
+     "price": "0.998",
+     "size": "3606.36"
+    }
+   ]
+  },
+  {
+   "q": "Will the highest temperature in Guangzhou be 31\u00b0C on October 30?",
+   "yes_min": 0.027,
+   "no_min": 0.986,
+   "sum": 1.013,
+   "liq": 973.79879,
+   "market_id": "6332728",
+   "yes_asks": [
+    {
+     "price": "0.999",
+     "size": "1140"
+    },
+    {
+     "price": "0.998",
+     "size": "510"
+    },
+    {
+     "price": "0.997",
+     "size": "6.66"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.999",
+     "size": "1195"
+    },
+    {
+     "price": "0.998",
+     "size": "5"
+    },
+    {
+     "price": "0.997",
+     "size": "700"
+    }
+   ]
+  },
+  {
+   "q": "Will Dwayne 'The Rock' Johnson announce a Presidential run before 2028?",
+   "yes_min": 0.16,
+   "no_min": 0.85,
+   "sum": 1.01,
+   "liq": 13932.641,
+   "market_id": "3347373",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "33.04"
+    },
+    {
+     "price": "0.96",
+     "size": "77500"
+    },
+    {
+     "price": "0.95",
+     "size": "5891.73"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "8010.27"
+    },
+    {
+     "price": "0.98",
+     "size": "912.9"
+    },
+    {
+     "price": "0.97",
+     "size": "1634"
+    }
+   ]
+  },
+  {
+   "q": "Will Jaafar Jackson be the #1 searched actor on Google this year?",
+   "yes_min": 0.169,
+   "no_min": 0.841,
+   "sum": 1.01,
+   "liq": 1604.86395,
+   "market_id": "2977680",
+   "yes_asks": [
+    {
+     "price": "0.999",
+     "size": "248.73"
+    },
+    {
+     "price": "0.998",
+     "size": "120.11"
+    },
+    {
+     "price": "0.989",
+     "size": "120"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.999",
+     "size": "7452"
+    },
+    {
+     "price": "0.998",
+     "size": "1988"
+    },
+    {
+     "price": "0.997",
+     "size": "336"
+    }
+   ]
+  },
+  {
+   "q": "Will the highest temperature in Guangzhou be 32\u00b0C on October 30?",
+   "yes_min": 0.17,
+   "no_min": 0.85,
+   "sum": 1.02,
+   "liq": 1589.8553,
+   "market_id": "6332729",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "734"
+    },
+    {
+     "price": "0.98",
+     "size": "50"
+    },
+    {
+     "price": "0.97",
+     "size": "63.33"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "140"
+    },
+    {
+     "price": "0.98",
+     "size": "84"
+    },
+    {
+     "price": "0.95",
+     "size": "100"
+    }
+   ]
+  },
+  {
+   "q": "Charlotte FC vs. CF Montr\u00e9al: 1st Half O/U 1.5",
+   "yes_min": 0.46,
+   "no_min": 0.55,
+   "sum": 1.01,
+   "liq": 35946.102,
+   "market_id": "5745631",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "4904.35"
+    },
+    {
+     "price": "0.98",
+     "size": "4445"
+    },
+    {
+     "price": "0.97",
+     "size": "6.19"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "4861.58"
+    },
+    {
+     "price": "0.98",
+     "size": "4445"
+    },
+    {
+     "price": "0.97",
+     "size": "6.42"
+    }
+   ]
+  },
+  {
+   "q": "Will the Democratic Party candidate win the 2026 Iowa Senate election by 3%-6%?",
+   "yes_min": 0.148,
+   "no_min": 0.87,
+   "sum": 1.018,
+   "liq": 19982.84475,
+   "market_id": "3343532",
+   "yes_asks": [
+    {
+     "price": "0.999",
+     "size": "6554.7"
+    },
+    {
+     "price": "0.998",
+     "size": "3260"
+    },
+    {
+     "price": "0.997",
+     "size": "2181.49"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.999",
+     "size": "805.43"
+    },
+    {
+     "price": "0.998",
+     "size": "260"
+    },
+    {
+     "price": "0.997",
+     "size": "173.32"
+    }
+   ]
+  },
+  {
+   "q": "Will Port win the 2026-27 AFC Champions League Elite?",
+   "yes_min": 0.02,
+   "no_min": 0.998,
+   "sum": 1.018,
+   "liq": 28.12034,
+   "market_id": "4411743",
+   "yes_asks": [
+    {
+     "price": "0.999",
+     "size": "229.94"
+    },
+    {
+     "price": "0.998",
+     "size": "152"
+    },
+    {
+     "price": "0.997",
+     "size": "98.02"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.999",
+     "size": "5"
+    },
+    {
+     "price": "0.998",
+     "size": "132.54"
+    }
+   ]
+  },
+  {
+   "q": "Will the Republican Party candidate win the 2026 KS-03 House election?",
+   "yes_min": 0.044,
+   "no_min": 0.957,
+   "sum": 1.001,
+   "liq": 12104.78372,
+   "market_id": "3489602",
+   "yes_asks": [
+    {
+     "price": "0.999",
+     "size": "81.88"
+    },
+    {
+     "price": "0.998",
+     "size": "7.49"
+    },
+    {
+     "price": "0.99",
+     "size": "100"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.999",
+     "size": "174.16"
+    },
+    {
+     "price": "0.998",
+     "size": "207.04"
+    },
+    {
+     "price": "0.997",
+     "size": "69.99"
+    }
+   ]
+  },
+  {
+   "q": "Will the price of Bitcoin be above $80,000 on November 1?",
+   "yes_min": 0.73,
+   "no_min": 0.29,
+   "sum": 1.02,
+   "liq": 13603.8384,
+   "market_id": "6205327",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "20"
+    },
+    {
+     "price": "0.98",
+     "size": "5020"
+    },
+    {
+     "price": "0.97",
+     "size": "20"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "5440"
+    },
+    {
+     "price": "0.98",
+     "size": "5000"
+    },
+    {
+     "price": "0.97",
+     "size": "4685"
+    }
+   ]
+  },
+  {
+   "q": "Will the highest temperature in Buenos Aires be 22\u00b0C on October 29?",
+   "yes_min": 0.009,
+   "no_min": 0.993,
+   "sum": 1.002,
+   "liq": 1842.51561,
+   "market_id": "6298808",
+   "yes_asks": [
+    {
+     "price": "0.999",
+     "size": "21175.67"
+    },
+    {
+     "price": "0.998",
+     "size": "500"
+    },
+    {
+     "price": "0.994",
+     "size": "2333.32"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.999",
+     "size": "299.54"
+    },
+    {
+     "price": "0.998",
+     "size": "5"
+    },
+    {
+     "price": "0.997",
+     "size": "111.16"
+    }
+   ]
+  },
+  {
+   "q": "Will total votes cast in the 2026 midterm election for Governor of Vermont be between 300,",
+   "yes_min": 0.36,
+   "no_min": 0.65,
+   "sum": 1.01,
+   "liq": 26762.7269,
+   "market_id": "3697777",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "28905.01"
+    },
+    {
+     "price": "0.98",
+     "size": "13810.65"
+    },
+    {
+     "price": "0.97",
+     "size": "108783.33"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "50"
+    },
+    {
+     "price": "0.98",
+     "size": "150000"
+    },
+    {
+     "price": "0.97",
+     "size": "7.46"
+    }
+   ]
+  },
+  {
+   "q": "Will Republicans win any Senate or Governor's Election in a Biden-Trump state?",
+   "yes_min": 0.71,
+   "no_min": 0.3,
+   "sum": 1.01,
+   "liq": 28404.3422,
+   "market_id": "2364515",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "45942.98"
+    },
+    {
+     "price": "0.98",
+     "size": "171881.07"
+    },
+    {
+     "price": "0.97",
+     "size": "93541.66"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "17.48"
+    },
+    {
+     "price": "0.97",
+     "size": "16770.83"
+    },
+    {
+     "price": "0.96",
+     "size": "89536.3"
+    }
+   ]
+  },
+  {
+   "q": "Will Kentucky Make the 2027 College Football Playoff National Championship Game?",
+   "yes_min": 0.062,
+   "no_min": 0.948,
+   "sum": 1.01,
+   "liq": 1407.84709,
+   "market_id": "3361084",
+   "yes_asks": [
+    {
+     "price": "0.999",
+     "size": "372.99"
+    },
+    {
+     "price": "0.992",
+     "size": "84"
+    },
+    {
+     "price": "0.991",
+     "size": "74.66"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.999",
+     "size": "807.15"
+    },
+    {
+     "price": "0.998",
+     "size": "103.63"
+    },
+    {
+     "price": "0.997",
+     "size": "13.33"
+    }
+   ]
+  },
+  {
+   "q": "Spread: Pistons (-7.5)",
+   "yes_min": 0.5,
+   "no_min": 0.51,
+   "sum": 1.01,
+   "liq": 468907.3821,
+   "market_id": "6322199",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "208678.63"
+    },
+    {
+     "price": "0.98",
+     "size": "175122.55"
+    },
+    {
+     "price": "0.97",
+     "size": "41780.37"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "193678.64"
+    },
+    {
+     "price": "0.98",
+     "size": "153542.55"
+    },
+    {
+     "price": "0.97",
+     "size": "41780.37"
+    }
+   ]
+  },
+  {
+   "q": "Will Google be the third-best AI Agent Lab at the end of October 2026?",
+   "yes_min": 0.116,
+   "no_min": 0.893,
+   "sum": 1.009,
+   "liq": 1899.63454,
+   "market_id": "3572739",
+   "yes_asks": [
+    {
+     "price": "0.999",
+     "size": "3849.74"
+    },
+    {
+     "price": "0.998",
+     "size": "2626.19"
+    },
+    {
+     "price": "0.997",
+     "size": "1180.32"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.999",
+     "size": "2013.9"
+    },
+    {
+     "price": "0.998",
+     "size": "960"
+    },
+    {
+     "price": "0.997",
+     "size": "2473.25"
+    }
+   ]
+  },
+  {
+   "q": "Will the Democratic Party candidate win the 2026 HI-02 House election by 50% or more?",
+   "yes_min": 0.003,
+   "no_min": 0.999,
+   "sum": 1.002,
+   "liq": 14028.38344,
+   "market_id": "3408678",
+   "yes_asks": [
+    {
+     "price": "0.999",
+     "size": "84.29"
+    },
+    {
+     "price": "0.998",
+     "size": "7.49"
+    },
+    {
+     "price": "0.99",
+     "size": "100"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.999",
+     "size": "316"
+    }
+   ]
+  },
+  {
+   "q": "Will \u00d3scar Estupi\u00f1\u00e1n (FC Ju\u00e1rez) be the top goalscorer of the 2026-27 Liga MX season?",
+   "yes_min": 0.005,
+   "no_min": 0.999,
+   "sum": 1.004,
+   "liq": 146.99202,
+   "market_id": "3208941",
+   "yes_asks": [
+    {
+     "price": "0.999",
+     "size": "385.01"
+    },
+    {
+     "price": "0.998",
+     "size": "5.45"
+    },
+    {
+     "price": "0.99",
+     "size": "5"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.999",
+     "size": "179.4"
+    }
+   ]
+  },
+  {
+   "q": "Will Taylor Rogers be the next White House Press Secretary?",
+   "yes_min": 0.028,
+   "no_min": 0.98,
+   "sum": 1.008,
+   "liq": 11877.21316,
+   "market_id": "5782510",
+   "yes_asks": [
+    {
+     "price": "0.999",
+     "size": "238.71"
+    },
+    {
+     "price": "0.998",
+     "size": "39.99"
+    },
+    {
+     "price": "0.95",
+     "size": "60000"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.999",
+     "size": "1580"
+    },
+    {
+     "price": "0.998",
+     "size": "200"
+    },
+    {
+     "price": "0.997",
+     "size": "200"
+    }
+   ]
+  },
+  {
+   "q": "Will Newcastle United FC win on 2026-11-02?",
+   "yes_min": 0.42,
+   "no_min": 0.59,
+   "sum": 1.01,
+   "liq": 19043.7897,
+   "market_id": "5957352",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "1347.28"
+    },
+    {
+     "price": "0.98",
+     "size": "1511.71"
+    },
+    {
+     "price": "0.97",
+     "size": "300"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "1445.48"
+    },
+    {
+     "price": "0.98",
+     "size": "1555"
+    },
+    {
+     "price": "0.97",
+     "size": "300"
+    }
+   ]
+  },
+  {
+   "q": "Will Moonshot have the best AI model on LiveBench (Mathematics) at the end of October 2026",
+   "yes_min": 0.011,
+   "no_min": 0.999,
+   "sum": 1.01,
+   "liq": 665.6718,
+   "market_id": "3554986",
+   "yes_asks": [
+    {
+     "price": "0.999",
+     "size": "1600.02"
+    },
+    {
+     "price": "0.998",
+     "size": "7.49"
+    },
+    {
+     "price": "0.612",
+     "size": "23"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.999",
+     "size": "46.83"
+    }
+   ]
+  },
+  {
+   "q": "Will Al Fayha Saudi Club vs. Al Faisaly Saudi Club end in a draw?",
+   "yes_min": 0.29,
+   "no_min": 0.73,
+   "sum": 1.02,
+   "liq": 5362.1477,
+   "market_id": "5832972",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "487.21"
+    },
+    {
+     "price": "0.98",
+     "size": "1517.95"
+    },
+    {
+     "price": "0.97",
+     "size": "300"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "587.11"
+    },
+    {
+     "price": "0.98",
+     "size": "1560"
+    },
+    {
+     "price": "0.97",
+     "size": "17.96"
+    }
+   ]
+  },
+  {
+   "q": "Will the Democratic Party candidate win the 2026 IL-02 House election by 55% or more?",
+   "yes_min": 0.018,
+   "no_min": 0.995,
+   "sum": 1.013,
+   "liq": 12556.48706,
+   "market_id": "3488421",
+   "yes_asks": [
+    {
+     "price": "0.999",
+     "size": "44.91"
+    },
+    {
+     "price": "0.998",
+     "size": "22.37"
+    },
+    {
+     "price": "0.997",
+     "size": "13.25"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.999",
+     "size": "203.55"
+    },
+    {
+     "price": "0.998",
+     "size": "122"
+    },
+    {
+     "price": "0.997",
+     "size": "121.39"
+    }
+   ]
+  },
+  {
+   "q": "Will the Democratic Party candidate win the 2026 Wisconsin Attorney General election?",
+   "yes_min": 0.83,
+   "no_min": 0.19,
+   "sum": 1.02,
+   "liq": 19570.6745,
+   "market_id": "4222277",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "15866.11"
+    },
+    {
+     "price": "0.98",
+     "size": "7529"
+    },
+    {
+     "price": "0.97",
+     "size": "4414.02"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "13.78"
+    },
+    {
+     "price": "0.98",
+     "size": "15.34"
+    },
+    {
+     "price": "0.97",
+     "size": "8.08"
+    }
+   ]
+  },
+  {
+   "q": "Will Shohei Ohtani be the #1 searched person on Google in the US this year?",
+   "yes_min": 0.002,
+   "no_min": 0.999,
+   "sum": 1.001,
+   "liq": 4528.98365,
+   "market_id": "3251341",
+   "yes_asks": [
+    {
+     "price": "0.999",
+     "size": "124.04"
+    },
+    {
+     "price": "0.998",
+     "size": "55.34"
+    },
+    {
+     "price": "0.99",
+     "size": "12793.64"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.999",
+     "size": "13119.07"
+    }
+   ]
+  },
+  {
+   "q": "Will Bitcoin dip to $72,000 October 26-November 1?",
+   "yes_min": 0.011,
+   "no_min": 0.99,
+   "sum": 1.001,
+   "liq": 70596.04286,
+   "market_id": "6236222",
+   "yes_asks": [
+    {
+     "price": "0.999",
+     "size": "3550"
+    },
+    {
+     "price": "0.998",
+     "size": "1760"
+    },
+    {
+     "price": "0.997",
+     "size": "1173.31"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.999",
+     "size": "5830"
+    },
+    {
+     "price": "0.997",
+     "size": "6870.6"
+    },
+    {
+     "price": "0.996",
+     "size": "5029"
+    }
+   ]
+  },
+  {
+   "q": "Will Russia enter Sloviansk by June 30, 2027?",
+   "yes_min": 0.43,
+   "no_min": 0.59,
+   "sum": 1.02,
+   "liq": 1341.645,
+   "market_id": "6017717",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "30.08"
+    },
+    {
+     "price": "0.98",
+     "size": "52"
+    },
+    {
+     "price": "0.97",
+     "size": "22.77"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "51390.03"
+    },
+    {
+     "price": "0.98",
+     "size": "640.36"
+    },
+    {
+     "price": "0.97",
+     "size": "416.67"
+    }
+   ]
+  },
+  {
+   "q": "Will there be no Somaliland parliamentary election before 2027?",
+   "yes_min": 0.963,
+   "no_min": 0.056,
+   "sum": 1.019,
+   "liq": 15801.86931,
+   "market_id": "948391",
+   "yes_asks": [
+    {
+     "price": "0.999",
+     "size": "6162.95"
+    },
+    {
+     "price": "0.998",
+     "size": "1527.83"
+    },
+    {
+     "price": "0.997",
+     "size": "368.44"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.999",
+     "size": "1000"
+    },
+    {
+     "price": "0.998",
+     "size": "671.25"
+    },
+    {
+     "price": "0.996",
+     "size": "333"
+    }
+   ]
+  },
+  {
+   "q": "Will the highest score achieved on Humanity\u2019s Last Exam in 2026 be 70% or higher?",
+   "yes_min": 0.09,
+   "no_min": 0.93,
+   "sum": 1.02,
+   "liq": 1043.1444,
+   "market_id": "3072293",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "112.85"
+    },
+    {
+     "price": "0.98",
+     "size": "50"
+    },
+    {
+     "price": "0.97",
+     "size": "5.54"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "1935.06"
+    },
+    {
+     "price": "0.98",
+     "size": "489.03"
+    },
+    {
+     "price": "0.97",
+     "size": "747.01"
+    }
+   ]
+  },
+  {
+   "q": "Will SpaceX Starship Flight Test 15 launch by November 30, 2026?",
+   "yes_min": 0.74,
+   "no_min": 0.28,
+   "sum": 1.02,
+   "liq": 670.3381,
+   "market_id": "5091438",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "115.2"
+    },
+    {
+     "price": "0.98",
+     "size": "457.02"
+    },
+    {
+     "price": "0.96",
+     "size": "25"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "1397.45"
+    },
+    {
+     "price": "0.98",
+     "size": "505.33"
+    },
+    {
+     "price": "0.96",
+     "size": "58.07"
+    }
+   ]
+  },
+  {
+   "q": "Will Jalen Brunson be the #1 searched person on Google in the US this year?",
+   "yes_min": 0.007,
+   "no_min": 0.999,
+   "sum": 1.006,
+   "liq": 4246.81831,
+   "market_id": "3251367",
+   "yes_asks": [
+    {
+     "price": "0.999",
+     "size": "124.04"
+    },
+    {
+     "price": "0.998",
+     "size": "29.7"
+    },
+    {
+     "price": "0.99",
+     "size": "12793.64"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.999",
+     "size": "6649.36"
+    }
+   ]
+  },
+  {
+   "q": "Will Ousmane Demb\u00e9l\u00e9 (PSG) be the top goalscorer of the 2026-27 Ligue 1 season?",
+   "yes_min": 0.08,
+   "no_min": 0.94,
+   "sum": 1.02,
+   "liq": 2304.8103,
+   "market_id": "3706335",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "43.13"
+    },
+    {
+     "price": "0.93",
+     "size": "240"
+    },
+    {
+     "price": "0.92",
+     "size": "400"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "1770.95"
+    },
+    {
+     "price": "0.98",
+     "size": "800"
+    },
+    {
+     "price": "0.97",
+     "size": "3200"
+    }
+   ]
+  },
+  {
+   "q": "Will BYD be removed from Chinese Military Companies list by June 30, 2027?",
+   "yes_min": 0.17,
+   "no_min": 0.85,
+   "sum": 1.02,
+   "liq": 11013.5453,
+   "market_id": "2914145",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "57.33"
+    },
+    {
+     "price": "0.98",
+     "size": "10"
+    },
+    {
+     "price": "0.97",
+     "size": "5.87"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "4314.66"
+    },
+    {
+     "price": "0.98",
+     "size": "1750"
+    },
+    {
+     "price": "0.97",
+     "size": "1091.23"
+    }
+   ]
+  },
+  {
+   "q": "Will Procreate Pocket be #1 Paid App in the US Apple App Store on October 30?",
+   "yes_min": 0.009,
+   "no_min": 0.999,
+   "sum": 1.008,
+   "liq": 1429.09519,
+   "market_id": "6096222",
+   "yes_asks": [
+    {
+     "price": "0.999",
+     "size": "173.93"
+    },
+    {
+     "price": "0.998",
+     "size": "73.96"
+    },
+    {
+     "price": "0.997",
+     "size": "13.36"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.999",
+     "size": "1353.9"
+    }
+   ]
+  },
+  {
+   "q": "Will Ale\u0161 Vrhovec win the 2026 Ljubljana mayoral election?",
+   "yes_min": 0.016,
+   "no_min": 0.997,
+   "sum": 1.013,
+   "liq": 18629.67256,
+   "market_id": "5420011",
+   "yes_asks": [
+    {
+     "price": "0.999",
+     "size": "6571.92"
+    },
+    {
+     "price": "0.998",
+     "size": "3260"
+    },
+    {
+     "price": "0.997",
+     "size": "2181.94"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.999",
+     "size": "328"
+    },
+    {
+     "price": "0.998",
+     "size": "302.68"
+    },
+    {
+     "price": "0.997",
+     "size": "1005"
+    }
+   ]
+  },
+  {
+   "q": "Will ByteDance be the #2 AI lab at the end of November 2026?",
+   "yes_min": 0.004,
+   "no_min": 0.999,
+   "sum": 1.003,
+   "liq": 618.90889,
+   "market_id": "4664809",
+   "yes_asks": [
+    {
+     "price": "0.999",
+     "size": "86.15"
+    },
+    {
+     "price": "0.998",
+     "size": "6.5"
+    },
+    {
+     "price": "0.99",
+     "size": "5"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.999",
+     "size": "158"
+    }
+   ]
+  },
+  {
+   "q": "Will Hyperliquid reach $112 in October?",
+   "yes_min": 0.019,
+   "no_min": 0.999,
+   "sum": 1.018,
+   "liq": 622.00197,
+   "market_id": "5171300",
+   "yes_asks": [
+    {
+     "price": "0.999",
+     "size": "35"
+    },
+    {
+     "price": "0.998",
+     "size": "10"
+    },
+    {
+     "price": "0.997",
+     "size": "6.66"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.999",
+     "size": "406.65"
+    }
+   ]
+  },
+  {
+   "q": "Will You Can See Everything win Best Documentary Feature Film at the 99th Academy Awards?",
+   "yes_min": 0.72,
+   "no_min": 0.3,
+   "sum": 1.02,
+   "liq": 3256.6404,
+   "market_id": "3377276",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "1017.17"
+    },
+    {
+     "price": "0.98",
+     "size": "5582.48"
+    },
+    {
+     "price": "0.97",
+     "size": "656.94"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "1100"
+    },
+    {
+     "price": "0.98",
+     "size": "508.71"
+    },
+    {
+     "price": "0.97",
+     "size": "305"
+    }
+   ]
+  },
+  {
+   "q": "Will the Republican Party candidate win the 2026 South Dakota Senate election by 45% or mo",
+   "yes_min": 0.012,
+   "no_min": 0.998,
+   "sum": 1.01,
+   "liq": 12185.53235,
+   "market_id": "3363875",
+   "yes_asks": [
+    {
+     "price": "0.999",
+     "size": "85.84"
+    },
+    {
+     "price": "0.998",
+     "size": "7.49"
+    },
+    {
+     "price": "0.99",
+     "size": "100"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.999",
+     "size": "138.02"
+    },
+    {
+     "price": "0.998",
+     "size": "510"
+    }
+   ]
+  },
+  {
+   "q": "Will Rafael Fiziev fight Benoit Saint-Denis next?",
+   "yes_min": 0.09,
+   "no_min": 0.92,
+   "sum": 1.01,
+   "liq": 435.378,
+   "market_id": "2735597",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "18.98"
+    },
+    {
+     "price": "0.98",
+     "size": "10"
+    },
+    {
+     "price": "0.96",
+     "size": "107.07"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "26.13"
+    },
+    {
+     "price": "0.95",
+     "size": "17.08"
+    },
+    {
+     "price": "0.94",
+     "size": "37.08"
+    }
+   ]
+  },
+  {
+   "q": "Will the Democratic Party candidate win the 2026 TX-21 House election?",
+   "yes_min": 0.014,
+   "no_min": 0.997,
+   "sum": 1.011,
+   "liq": 13782.95372,
+   "market_id": "3523928",
+   "yes_asks": [
+    {
+     "price": "0.999",
+     "size": "127.85"
+    },
+    {
+     "price": "0.998",
+     "size": "7.31"
+    },
+    {
+     "price": "0.99",
+     "size": "100"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.999",
+     "size": "93"
+    },
+    {
+     "price": "0.998",
+     "size": "200"
+    },
+    {
+     "price": "0.997",
+     "size": "154.34"
+    }
+   ]
+  },
+  {
+   "q": "Will Jared Goff have 4,599.5+ passing yards in the 2026-27 NFL regular season?",
+   "yes_min": 0.59,
+   "no_min": 0.43,
+   "sum": 1.02,
+   "liq": 668.7066,
+   "market_id": "3503887",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "16.81"
+    },
+    {
+     "price": "0.97",
+     "size": "50"
+    },
+    {
+     "price": "0.96",
+     "size": "30"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "9.58"
+    },
+    {
+     "price": "0.98",
+     "size": "47"
+    },
+    {
+     "price": "0.97",
+     "size": "22.93"
+    }
+   ]
+  },
+  {
+   "q": "Queretaro: Carmen Andreea Herea vs Carole Monnet",
+   "yes_min": 0.29,
+   "no_min": 0.72,
+   "sum": 1.01,
+   "liq": 43847.166,
+   "market_id": "6326292",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "144050"
+    },
+    {
+     "price": "0.98",
+     "size": "7756"
+    },
+    {
+     "price": "0.97",
+     "size": "39373.3"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "1050"
+    },
+    {
+     "price": "0.98",
+     "size": "100758"
+    },
+    {
+     "price": "0.96",
+     "size": "5500"
+    }
+   ]
+  },
+  {
+   "q": "Will Bitcoin dip to $77,500 in October?",
+   "yes_min": 0.11,
+   "no_min": 0.9,
+   "sum": 1.01,
+   "liq": 99574.6667,
+   "market_id": "5170739",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "85000"
+    },
+    {
+     "price": "0.98",
+     "size": "87500"
+    },
+    {
+     "price": "0.95",
+     "size": "105"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "226508.89"
+    },
+    {
+     "price": "0.98",
+     "size": "32833.1"
+    },
+    {
+     "price": "0.97",
+     "size": "1219.33"
+    }
+   ]
+  },
+  {
+   "q": "Will Morena win the most seats in the 2027 San Luis Potos\u00ed Congress election?",
+   "yes_min": 0.1,
+   "no_min": 0.92,
+   "sum": 1.02,
+   "liq": 16659.2251,
+   "market_id": "5464187",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "1408.47"
+    },
+    {
+     "price": "0.98",
+     "size": "819.85"
+    },
+    {
+     "price": "0.97",
+     "size": "24937.5"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "1747.6"
+    },
+    {
+     "price": "0.98",
+     "size": "998.75"
+    },
+    {
+     "price": "0.97",
+     "size": "307.4"
+    }
+   ]
+  },
+  {
+   "q": "Will the Democratic Party win the MI-08 House seat?",
+   "yes_min": 0.96,
+   "no_min": 0.06,
+   "sum": 1.02,
+   "liq": 22802.5948,
+   "market_id": "942765",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "1330.49"
+    },
+    {
+     "price": "0.98",
+     "size": "1319.53"
+    },
+    {
+     "price": "0.97",
+     "size": "106.61"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "37.69"
+    },
+    {
+     "price": "0.96",
+     "size": "32882.81"
+    },
+    {
+     "price": "0.95",
+     "size": "87162.5"
+    }
+   ]
+  },
+  {
+   "q": "TownSquare FDV above $400M one day after launch?",
+   "yes_min": 0.09,
+   "no_min": 0.93,
+   "sum": 1.02,
+   "liq": 579.6759,
+   "market_id": "3004760",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "2006.8"
+    },
+    {
+     "price": "0.97",
+     "size": "11"
+    },
+    {
+     "price": "0.96",
+     "size": "8.09"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "110.47"
+    },
+    {
+     "price": "0.98",
+     "size": "14.36"
+    },
+    {
+     "price": "0.96",
+     "size": "1920"
+    }
+   ]
+  },
+  {
+   "q": "Will Atl\u00e9tico Madrid finish top 8 in UCL league phase?",
+   "yes_min": 0.23,
+   "no_min": 0.79,
+   "sum": 1.02,
+   "liq": 2473.2595,
+   "market_id": "4566294",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "16.91"
+    },
+    {
+     "price": "0.98",
+     "size": "123"
+    },
+    {
+     "price": "0.96",
+     "size": "50"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "78.4"
+    },
+    {
+     "price": "0.9",
+     "size": "21"
+    },
+    {
+     "price": "0.83",
+     "size": "353"
+    }
+   ]
+  },
+  {
+   "q": "Will William Byron win the 2026 NASCAR Cup Series championship?",
+   "yes_min": 0.005,
+   "no_min": 0.998,
+   "sum": 1.003,
+   "liq": 9562.17969,
+   "market_id": "3075625",
+   "yes_asks": [
+    {
+     "price": "0.999",
+     "size": "1068.01"
+    },
+    {
+     "price": "0.998",
+     "size": "27.5"
+    },
+    {
+     "price": "0.997",
+     "size": "13.32"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.999",
+     "size": "151.84"
+    },
+    {
+     "price": "0.998",
+     "size": "142.86"
+    }
+   ]
+  },
+  {
+   "q": "Will Johnnie LaRossa win The Bachelorette Season 22?",
+   "yes_min": 0.004,
+   "no_min": 0.999,
+   "sum": 1.003,
+   "liq": 4803.52541,
+   "market_id": "1429049",
+   "yes_asks": [
+    {
+     "price": "0.999",
+     "size": "4639.96"
+    },
+    {
+     "price": "0.998",
+     "size": "3311.88"
+    },
+    {
+     "price": "0.997",
+     "size": "2016.91"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.999",
+     "size": "790.1"
+    }
+   ]
+  },
+  {
+   "q": "Will the Republican Party candidate win the 2026 Texas Senate election by 6%-9%?",
+   "yes_min": 0.04,
+   "no_min": 0.973,
+   "sum": 1.013,
+   "liq": 29775.95848,
+   "market_id": "3344138",
+   "yes_asks": [
+    {
+     "price": "0.999",
+     "size": "6555.32"
+    },
+    {
+     "price": "0.998",
+     "size": "3260"
+    },
+    {
+     "price": "0.997",
+     "size": "2181.85"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.999",
+     "size": "1111.57"
+    },
+    {
+     "price": "0.998",
+     "size": "696.5"
+    },
+    {
+     "price": "0.997",
+     "size": "178.6"
+    }
+   ]
+  },
+  {
+   "q": "Will Jahmyr Gibbs be the highest-scoring RB of the 2026-27 NFL season?",
+   "yes_min": 0.48,
+   "no_min": 0.54,
+   "sum": 1.02,
+   "liq": 254.4906,
+   "market_id": "3400352",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "134.7"
+    },
+    {
+     "price": "0.98",
+     "size": "30"
+    },
+    {
+     "price": "0.97",
+     "size": "5.2"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.96",
+     "size": "10"
+    },
+    {
+     "price": "0.9",
+     "size": "21"
+    },
+    {
+     "price": "0.86",
+     "size": "75"
+    }
+   ]
+  },
+  {
+   "q": "Knicks vs. Bulls: O/U 235.5",
+   "yes_min": 0.43,
+   "no_min": 0.59,
+   "sum": 1.02,
+   "liq": 65133.5825,
+   "market_id": "6322313",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "296058.78"
+    },
+    {
+     "price": "0.98",
+     "size": "72640.55"
+    },
+    {
+     "price": "0.97",
+     "size": "68967.02"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "211058.66"
+    },
+    {
+     "price": "0.98",
+     "size": "151720.55"
+    },
+    {
+     "price": "0.97",
+     "size": "42307.14"
+    }
+   ]
+  },
+  {
+   "q": "Shelton vs. Kym: Set 1 Games O/U 10.5",
+   "yes_min": 0.49,
+   "no_min": 0.53,
+   "sum": 1.02,
+   "liq": 2022.849,
+   "market_id": "6327558",
+   "yes_asks": [
+    {
+     "price": "0.98",
+     "size": "500"
+    },
+    {
+     "price": "0.97",
+     "size": "5"
+    },
+    {
+     "price": "0.9",
+     "size": "4308"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.88",
+     "size": "300"
+    },
+    {
+     "price": "0.78",
+     "size": "32"
+    },
+    {
+     "price": "0.77",
+     "size": "32"
+    }
+   ]
+  },
+  {
+   "q": "Will Lando Norris win the 2026 F1 Mexican Grand Prix?",
+   "yes_min": 0.06,
+   "no_min": 0.95,
+   "sum": 1.01,
+   "liq": 2866.5847,
+   "market_id": "5229897",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "118.41"
+    },
+    {
+     "price": "0.98",
+     "size": "175"
+    },
+    {
+     "price": "0.97",
+     "size": "57.86"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "1219"
+    },
+    {
+     "price": "0.98",
+     "size": "438"
+    },
+    {
+     "price": "0.97",
+     "size": "833.34"
+    }
+   ]
+  },
+  {
+   "q": "Will Donald Trump Jr. win the 2028 Republican presidential nomination?",
+   "yes_min": 0.019,
+   "no_min": 0.983,
+   "sum": 1.002,
+   "liq": 570123.61926,
+   "market_id": "561978",
+   "yes_asks": [
+    {
+     "price": "0.999",
+     "size": "8116520"
+    },
+    {
+     "price": "0.998",
+     "size": "3010284.59"
+    },
+    {
+     "price": "0.997",
+     "size": "1839.97"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.999",
+     "size": "2037390.91"
+    },
+    {
+     "price": "0.998",
+     "size": "1016535"
+    },
+    {
+     "price": "0.997",
+     "size": "16833.27"
+    }
+   ]
+  },
+  {
+   "q": "Will United Arab Emirates win the 2027 AFC Asian Cup?",
+   "yes_min": 0.036,
+   "no_min": 0.98,
+   "sum": 1.016,
+   "liq": 266.14202,
+   "market_id": "4411170",
+   "yes_asks": [
+    {
+     "price": "0.999",
+     "size": "415"
+    },
+    {
+     "price": "0.998",
+     "size": "27.49"
+    },
+    {
+     "price": "0.89",
+     "size": "18"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.999",
+     "size": "305"
+    },
+    {
+     "price": "0.998",
+     "size": "183"
+    },
+    {
+     "price": "0.98",
+     "size": "132"
+    }
+   ]
+  },
+  {
+   "q": "Will Rudy Gobert lead the NBA in blocks per game in 2026-27?",
+   "yes_min": 0.01,
+   "no_min": 0.998,
+   "sum": 1.008,
+   "liq": 391.48379,
+   "market_id": "5652244",
+   "yes_asks": [
+    {
+     "price": "0.999",
+     "size": "182.14"
+    },
+    {
+     "price": "0.998",
+     "size": "27.5"
+    },
+    {
+     "price": "0.965",
+     "size": "300"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.999",
+     "size": "96"
+    },
+    {
+     "price": "0.998",
+     "size": "150"
+    }
+   ]
+  },
+  {
+   "q": "Will the highest temperature in Taipei be 33\u00b0C or higher on October 30?",
+   "yes_min": 0.002,
+   "no_min": 0.999,
+   "sum": 1.001,
+   "liq": 2081.90923,
+   "market_id": "6332571",
+   "yes_asks": [
+    {
+     "price": "0.999",
+     "size": "110"
+    },
+    {
+     "price": "0.998",
+     "size": "10"
+    },
+    {
+     "price": "0.997",
+     "size": "6.66"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.999",
+     "size": "100"
+    }
+   ]
+  },
+  {
+   "q": "Will Malta win 2026-27 Nations League Group D1?",
+   "yes_min": 0.95,
+   "no_min": 0.06,
+   "sum": 1.01,
+   "liq": 386.7498,
+   "market_id": "4409418",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "106.15"
+    },
+    {
+     "price": "0.98",
+     "size": "357.25"
+    },
+    {
+     "price": "0.97",
+     "size": "16.88"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "55.57"
+    },
+    {
+     "price": "0.98",
+     "size": "38.88"
+    },
+    {
+     "price": "0.96",
+     "size": "15.26"
+    }
+   ]
+  },
+  {
+   "q": "Clavicular sentenced to prison by December 31, 2026?",
+   "yes_min": 0.06,
+   "no_min": 0.95,
+   "sum": 1.01,
+   "liq": 7306.7711,
+   "market_id": "1745436",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "105.07"
+    },
+    {
+     "price": "0.98",
+     "size": "36.66"
+    },
+    {
+     "price": "0.59",
+     "size": "158"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "8324.67"
+    },
+    {
+     "price": "0.98",
+     "size": "3038.3"
+    },
+    {
+     "price": "0.97",
+     "size": "1967.16"
+    }
+   ]
+  },
+  {
+   "q": "Will CA River Plate win on 2026-11-01?",
+   "yes_min": 0.27,
+   "no_min": 0.74,
+   "sum": 1.01,
+   "liq": 6919.2051,
+   "market_id": "5932489",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "550.7"
+    },
+    {
+     "price": "0.98",
+     "size": "1517.75"
+    },
+    {
+     "price": "0.97",
+     "size": "300"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "650.23"
+    },
+    {
+     "price": "0.98",
+     "size": "1566.23"
+    },
+    {
+     "price": "0.96",
+     "size": "300"
+    }
+   ]
+  },
+  {
+   "q": "Will Gold (GC) dip to (LOW) $2,500 by end of December?",
+   "yes_min": 0.02,
+   "no_min": 0.982,
+   "sum": 1.002,
+   "liq": 9395.40119,
+   "market_id": "3222417",
+   "yes_asks": [
+    {
+     "price": "0.999",
+     "size": "3100020"
+    },
+    {
+     "price": "0.998",
+     "size": "10"
+    },
+    {
+     "price": "0.997",
+     "size": "6.66"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.999",
+     "size": "16075"
+    },
+    {
+     "price": "0.998",
+     "size": "1666"
+    },
+    {
+     "price": "0.997",
+     "size": "10000"
+    }
+   ]
+  },
+  {
+   "q": "Will 0 Independents be elected to Congress in 2026?",
+   "yes_min": 0.52,
+   "no_min": 0.49,
+   "sum": 1.01,
+   "liq": 29762.0955,
+   "market_id": "4882440",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "4380.39"
+    },
+    {
+     "price": "0.98",
+     "size": "43261.25"
+    },
+    {
+     "price": "0.97",
+     "size": "127604.17"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "3008.24"
+    },
+    {
+     "price": "0.98",
+     "size": "1250"
+    },
+    {
+     "price": "0.97",
+     "size": "100833.33"
+    }
+   ]
+  },
+  {
+   "q": "Kharg Island no longer under Iranian control by December 31?",
+   "yes_min": 0.1,
+   "no_min": 0.91,
+   "sum": 1.01,
+   "liq": 149681.0457,
+   "market_id": "3215073",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "2762.46"
+    },
+    {
+     "price": "0.98",
+     "size": "950"
+    },
+    {
+     "price": "0.97",
+     "size": "55.8"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "33346.69"
+    },
+    {
+     "price": "0.98",
+     "size": "19630.8"
+    },
+    {
+     "price": "0.97",
+     "size": "13940.81"
+    }
+   ]
+  },
+  {
+   "q": "Will Ethereum dip to $1,250 by December 31, 2026?",
+   "yes_min": 0.1,
+   "no_min": 0.92,
+   "sum": 1.02,
+   "liq": 81768.9335,
+   "market_id": "2467362",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "85000"
+    },
+    {
+     "price": "0.98",
+     "size": "8.6"
+    },
+    {
+     "price": "0.95",
+     "size": "38712.9"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "114055"
+    },
+    {
+     "price": "0.98",
+     "size": "1805"
+    },
+    {
+     "price": "0.97",
+     "size": "671.6"
+    }
+   ]
+  },
+  {
+   "q": "Taylor & Travis divorce in 2026?",
+   "yes_min": 0.029,
+   "no_min": 0.981,
+   "sum": 1.01,
+   "liq": 2528.5464,
+   "market_id": "2839321",
+   "yes_asks": [
+    {
+     "price": "0.999",
+     "size": "784"
+    },
+    {
+     "price": "0.998",
+     "size": "57.49"
+    },
+    {
+     "price": "0.77",
+     "size": "1945"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.999",
+     "size": "22774.66"
+    },
+    {
+     "price": "0.998",
+     "size": "9739.06"
+    },
+    {
+     "price": "0.997",
+     "size": "4950"
+    }
+   ]
+  },
+  {
+   "q": "Will the Democratic Party candidate win the 2026 Iowa Senate election by 0%-3%?",
+   "yes_min": 0.24,
+   "no_min": 0.78,
+   "sum": 1.02,
+   "liq": 33096.5767,
+   "market_id": "3343531",
+   "yes_asks": [
+    {
+     "price": "0.99",
+     "size": "116.37"
+    },
+    {
+     "price": "0.98",
+     "size": "50"
+    },
+    {
+     "price": "0.97",
+     "size": "5.7"
+    }
+   ],
+   "no_asks": [
+    {
+     "price": "0.99",
+     "size": "500"
+    },
+    {
+     "price": "0.98",
+     "size": "1026"
+    },
+    {
+     "price": "0.97",
+     "size": "506.4"
+    }
+   ]
+  }
+ ]
+}
