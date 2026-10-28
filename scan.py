@@ -36,8 +36,8 @@ async def scan():
             paper_result = paper.execute(opp)
         else:
             if yes_book and no_book and yes_book.asks and no_book.asks:
-                yes_price = float(yes_book.asks[0]["price"])
-                no_price = float(no_book.asks[0]["price"])
+                yes_price = float(min(yes_book.asks, key=lambda a: float(a["price"]))["price"])
+                no_price = float(min(no_book.asks, key=lambda a: float(a["price"]))["price"])
                 total = yes_price + no_price
                 if total <= 1.005:
                     near_misses.append((total, m.question[:50], yes_price, no_price, m.liquidity))

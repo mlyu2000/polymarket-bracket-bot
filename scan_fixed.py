@@ -14,7 +14,7 @@ async def scan():
     paper = PaperExecutor()
 
     t0 = time.time()
-    markets = await api.fetch_active_markets(limit=100)
+    markets = await api.fetch_active_markets()
     token_pairs = [(m.clob_token_ids[0], m.clob_token_ids[1]) for m in markets]
     all_books = await api.fetch_order_books_batch(token_pairs)
     scan_time = time.time() - t0
