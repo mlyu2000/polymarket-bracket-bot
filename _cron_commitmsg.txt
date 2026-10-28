@@ -1,0 +1,1 @@
+Bracket scan 20261028T0009Z: markets=500 scan_time=57.9s;brackets=0;near_misses_le_1.005(min-ask)=30;floor=1.001;floor_leader=Will APT. – ROSÉ & Bruno Mars be the top song in t@0.002+0.999

@@ -1,388 +1,281 @@
 {
-  "ts_utc": "2026-10-26T06:02:53Z",
-  "markets_scanned": 500,
-  "scan_time_s": 65.7,
-  "thresholds": {
-    "MIN_PROFIT_MARGIN": 0.0001,
-    "FEE_BUFFER": 0.0,
-    "SLIPPAGE_BUFFER": 0.0,
-    "NEAR_MISS_MAX_SUM": 1.005
-  },
-  "brackets": [],
+  "markets": 500,
+  "opps": [],
+  "brackets": 0,
   "near_misses": [
-    {
-      "total": 1.001,
-      "q": "Will Luma AI have the best Text-to-Image AI at the end of October 2026",
-      "slug": "will-luma-ai-have-the-best-text-to-image-ai-at-the-end-of-october-2026-20260811194840626",
-      "yes": 0.002,
-      "no": 0.999,
-      "liq": 1137.9,
-      "one_sided": true,
-      "cheap_leg": 0.002
-    },
-    {
-      "total": 1.001,
-      "q": "Will General Mills Q2 organic net sales growth be below -4.5%?",
-      "slug": "general-mills-q2-organic-net-sales-growth-less-than-neg-4pt5",
-      "yes": 0.002,
-      "no": 0.999,
-      "liq": 474.5,
-      "one_sided": true,
-      "cheap_leg": 0.002
-    },
-    {
-      "total": 1.001,
-      "q": "Will XRP dip to $0.20 in October?",
-      "slug": "will-xrp-dip-to-0pt2-in-october-2026",
-      "yes": 0.004,
-      "no": 0.997,
-      "liq": 54143.8,
-      "one_sided": true,
-      "cheap_leg": 0.004
-    },
-    {
-      "total": 1.001,
-      "q": "Will Arizona Cardinals win the 2027 NFL NFC Championship?",
-      "slug": "will-arizona-cardinals-win-the-2027-nfl-nfc-championship-199",
-      "yes": 0.002,
-      "no": 0.999,
-      "liq": 73224.5,
-      "one_sided": true,
-      "cheap_leg": 0.002
-    },
-    {
-      "total": 1.001,
-      "q": "Will the Democratic Party candidate win the 2026 IL-02 House election ",
-      "slug": "will-the-democratic-party-candidate-win-the-2026-il-02-house-election-by-25-30",
-      "yes": 0.002,
-      "no": 0.999,
-      "liq": 16755.5,
-      "one_sided": true,
-      "cheap_leg": 0.002
-    },
-    {
-      "total": 1.001,
-      "q": "Will the Democratic Party candidate win the 2026 HI-02 House election ",
-      "slug": "will-the-democratic-party-candidate-win-the-2026-hi-02-house-election-by-50-or-more",
-      "yes": 0.002,
-      "no": 0.999,
-      "liq": 16043.6,
-      "one_sided": true,
-      "cheap_leg": 0.002
-    },
-    {
-      "total": 1.001,
-      "q": "Will Shohei Ohtani be the #1 searched person on Google in the US this ",
-      "slug": "will-shohei-ohtani-be-the-1-searched-person-on-google-in-the-us-this-year-20260730192940408",
-      "yes": 0.002,
-      "no": 0.999,
-      "liq": 13862.1,
-      "one_sided": true,
-      "cheap_leg": 0.002
-    },
-    {
-      "total": 1.001,
-      "q": "Will the Fed increase interest rates by 50+ bps after the October 2026",
-      "slug": "will-the-fed-increase-interest-rates-by-50-bps-after-the-october-2026-meeting-20260617190324033",
-      "yes": 0.004,
-      "no": 0.997,
-      "liq": 640330.6,
-      "one_sided": true,
-      "cheap_leg": 0.004
-    },
-    {
-      "total": 1.001,
-      "q": "Will Vox win the most seats in Tarragona in the 2026 Spanish general e",
-      "slug": "will-vox-win-the-most-seats-in-tarragona-in-the-2026-spanish-general-election",
-      "yes": 0.002,
-      "no": 0.999,
-      "liq": 18943.6,
-      "one_sided": true,
-      "cheap_leg": 0.002
-    },
-    {
-      "total": 1.001,
-      "q": "Will Vitinha finish in the top 2 of the 2026 Ballon d'Or?",
-      "slug": "will-vitinha-finish-in-the-top-2-of-the-2026-ballon-dor",
-      "yes": 0.002,
-      "no": 0.999,
-      "liq": 499.9,
-      "one_sided": true,
-      "cheap_leg": 0.002
-    },
-    {
-      "total": 1.001,
-      "q": "Will Jorge Rodríguez be the de facto leader of Venezuela at the end of",
-      "slug": "will-jorge-rodrguez-be-the-de-facto-leader-of-venezuela-at-the-end-of-2026",
-      "yes": 0.002,
-      "no": 0.999,
-      "liq": 29092.3,
-      "one_sided": true,
-      "cheap_leg": 0.002
-    },
-    {
-      "total": 1.001,
-      "q": "Will Marguerite Humeau win the Turner Prize 2026?",
-      "slug": "will-marguerite-humeau-win-the-turner-prize-2026-1786472350959",
-      "yes": 0.195,
-      "no": 0.806,
-      "liq": 7129.8,
-      "one_sided": false,
-      "cheap_leg": 0.195
-    },
-    {
-      "total": 1.001,
-      "q": "Will Bolivia host the 2028 Copa America?",
-      "slug": "will-bolivia-host-the-2028-copa-america",
-      "yes": 0.002,
-      "no": 0.999,
-      "liq": 249.6,
-      "one_sided": true,
-      "cheap_leg": 0.002
-    },
-    {
-      "total": 1.001,
-      "q": "Will Donald Trump Jr. win the 2028 Republican presidential nomination?",
-      "slug": "will-donald-trump-jr-win-the-2028-republican-presidential-nomination",
-      "yes": 0.018,
-      "no": 0.983,
-      "liq": 594645.0,
-      "one_sided": true,
-      "cheap_leg": 0.018
-    },
-    {
-      "total": 1.001,
-      "q": "Will the Republican Party candidate win the 2026 Wisconsin gubernatori",
-      "slug": "will-the-republican-party-candidate-win-the-2026-wisconsin-gubernatorial-election-by-9-12",
-      "yes": 0.002,
-      "no": 0.999,
-      "liq": 15708.1,
-      "one_sided": true,
-      "cheap_leg": 0.002
-    },
-    {
-      "total": 1.001,
-      "q": "Will The Duskbloods win Game of the Year at the 2026 Game Awards?",
-      "slug": "will-the-duskbloods-win-game-of-the-year-at-the-2026-game-awards-20260804145651084",
-      "yes": 0.002,
-      "no": 0.999,
-      "liq": 2892.6,
-      "one_sided": true,
-      "cheap_leg": 0.002
-    },
-    {
-      "total": 1.002,
-      "q": "Will the Democratic Party candidate win the 2026 TX-36 House election?",
-      "slug": "will-the-democratic-party-candidate-win-the-2026-tx-36-house-election",
-      "yes": 0.052,
-      "no": 0.95,
-      "liq": 12669.5,
-      "one_sided": false,
-      "cheap_leg": 0.052
-    },
-    {
-      "total": 1.003,
-      "q": "Will Broad Front (FA) win the most seats in Lleida in the 2026 Spanish",
-      "slug": "will-broad-front-fa-win-the-most-seats-in-lleida-in-the-2026-spanish-general-election",
-      "yes": 0.004,
-      "no": 0.999,
-      "liq": 11643.0,
-      "one_sided": true,
-      "cheap_leg": 0.004
-    },
-    {
-      "total": 1.003,
-      "q": "Will Léa Seydoux win Best Actress at the 99th Academy Awards?",
-      "slug": "will-lea-seydoux-win-best-actress-at-the-99th-academy-awards-20260727174350988",
-      "yes": 0.004,
-      "no": 0.999,
-      "liq": 4524.7,
-      "one_sided": true,
-      "cheap_leg": 0.004
-    },
-    {
-      "total": 1.003,
-      "q": "Will Reanimal win Best Independent Game at the 2026 Game Awards?",
-      "slug": "will-reanimal-win-best-independent-game-at-the-2026-game-awards-1785857780315",
-      "yes": 0.004,
-      "no": 0.999,
-      "liq": 772.8,
-      "one_sided": true,
-      "cheap_leg": 0.004
-    },
-    {
-      "total": 1.003,
-      "q": "Will Z.ai be the first company to have an AI model hit 1550 on Chatbot",
-      "slug": "will-zai-be-the-first-company-to-have-an-ai-model-hit-1550-on-chatbot-arena-in-2026",
-      "yes": 0.004,
-      "no": 0.999,
-      "liq": 2042.9,
-      "one_sided": true,
-      "cheap_leg": 0.004
-    },
-    {
-      "total": 1.003,
-      "q": "Will the Republicans win the Hawaii governor race in 2026?",
-      "slug": "will-the-republicans-win-the-hawaii-governor-race-in-2026",
-      "yes": 0.014,
-      "no": 0.989,
-      "liq": 38883.0,
-      "one_sided": true,
-      "cheap_leg": 0.014
-    },
-    {
-      "total": 1.003,
-      "q": "Will the Republican Party candidate win the 2026 IA-01 House election ",
-      "slug": "will-the-republican-party-candidate-win-the-2026-ia-01-house-election-by-6-or-more",
-      "yes": 0.004,
-      "no": 0.999,
-      "liq": 11932.7,
-      "one_sided": true,
-      "cheap_leg": 0.004
-    },
-    {
-      "total": 1.003,
-      "q": "Will Memphis Grizzlies win the 2027 NBA Finals?",
-      "slug": "will-memphis-grizzlies-win-the-2027-nba-finals",
-      "yes": 0.006,
-      "no": 0.997,
-      "liq": 174238.9,
-      "one_sided": true,
-      "cheap_leg": 0.006
-    },
-    {
-      "total": 1.004,
-      "q": "Will the Republican Party win the PA-15 House seat?",
-      "slug": "will-the-republican-party-win-the-pa-15-house-seat",
-      "yes": 0.95,
-      "no": 0.054,
-      "liq": 13182.0,
-      "one_sided": false,
-      "cheap_leg": 0.054
-    },
-    {
-      "total": 1.004,
-      "q": "Will Harry Kane finish in the top 5 of the 2026 Ballon d'Or?",
-      "slug": "will-harry-kane-finish-in-the-top-5-of-the-2026-ballon-dor",
-      "yes": 0.994,
-      "no": 0.01,
-      "liq": 13980.1,
-      "one_sided": true,
-      "cheap_leg": 0.01
-    },
-    {
-      "total": 1.004,
-      "q": "Will Lovable be acquired before 2027?",
-      "slug": "will-lovable-be-acquired-before-2027-423-881",
-      "yes": 0.052,
-      "no": 0.952,
-      "liq": 6032.5,
-      "one_sided": false,
-      "cheap_leg": 0.052
-    },
-    {
-      "total": 1.004,
-      "q": "Will total votes cast in the 2026 midterm election for Senator from Te",
-      "slug": "will-total-votes-cast-in-the-2026-midterm-election-for-senator-from-texas-be-between-8000000-and-8400000",
-      "yes": 0.005,
-      "no": 0.999,
-      "liq": 12791.0,
-      "one_sided": true,
-      "cheap_leg": 0.005
-    },
-    {
-      "total": 1.004,
-      "q": "Will Dante Moore be the 2026 D1 Passing Yards Leader?",
-      "slug": "will-dante-moore-be-the-2026-d1-passing-yards-leader-20260803212136514",
-      "yes": 0.014,
-      "no": 0.99,
-      "liq": 286.2,
-      "one_sided": true,
-      "cheap_leg": 0.014
-    },
-    {
-      "total": 1.004,
-      "q": "Epic Games IPO before 2027?",
-      "slug": "epic-games-ipo-before-2027",
-      "yes": 0.021,
-      "no": 0.983,
-      "liq": 15979.7,
-      "one_sided": true,
-      "cheap_leg": 0.021
-    },
-    {
-      "total": 1.004,
-      "q": "Will Óscar Estupiñán (FC Juárez) be the top goalscorer of the 2026-27 ",
-      "slug": "will-oscar-estupinan-fc-juarez-be-the-top-goalscorer-of-the-2026-27-liga-mx-season-20260729155009294",
-      "yes": 0.005,
-      "no": 0.999,
-      "liq": 181.5,
-      "one_sided": true,
-      "cheap_leg": 0.005
-    },
-    {
-      "total": 1.004,
-      "q": "Will Erika Kirk be the 2028 Republican Vice-Presidential nominee?",
-      "slug": "will-erika-kirk-be-the-2028-republican-vice-presidential-nominee",
-      "yes": 0.009,
-      "no": 0.995,
-      "liq": 23118.3,
-      "one_sided": true,
-      "cheap_leg": 0.009
-    },
-    {
-      "total": 1.004,
-      "q": "Will the Democratic Party candidate win the 2026 OH-04 House election?",
-      "slug": "will-the-democratic-party-candidate-win-the-2026-oh-04-house-election",
-      "yes": 0.005,
-      "no": 0.999,
-      "liq": 15308.9,
-      "one_sided": true,
-      "cheap_leg": 0.005
-    },
-    {
-      "total": 1.005,
-      "q": "Will the highest temperature in Istanbul be 13°C on October 27?",
-      "slug": "highest-temperature-in-istanbul-on-october-27-2026-13c",
-      "yes": 0.007,
-      "no": 0.998,
-      "liq": 1319.3,
-      "one_sided": true,
-      "cheap_leg": 0.007
-    },
-    {
-      "total": 1.005,
-      "q": "Will José María Tapia Franco win the 2027 Querétaro Governor Election?",
-      "slug": "will-jose-maria-tapia-franco-win-the-2027-queretaro-governor-election-20260803173855626",
-      "yes": 0.009,
-      "no": 0.996,
-      "liq": 13293.7,
-      "one_sided": true,
-      "cheap_leg": 0.009
-    }
+    [
+      1.001,
+      "Will APT. \u2013 ROS\u00c9 & Bruno Mars be the top song in t",
+      0.002,
+      0.999,
+      2559.85603
+    ],
+    [
+      1.001,
+      "Will Arizona Cardinals win the 2027 NFL NFC Champi",
+      0.002,
+      0.999,
+      68827.17159
+    ],
+    [
+      1.001,
+      "Will Bennett Stirtz win the 2026-27 NBA Rookie of ",
+      0.002,
+      0.999,
+      11998.80202
+    ],
+    [
+      1.001,
+      "Will Black Forest Labs have the best Text-to-Image",
+      0.002,
+      0.999,
+      551.16434
+    ],
+    [
+      1.001,
+      "Will General Mills Q2 organic net sales growth be ",
+      0.002,
+      0.999,
+      380.40257
+    ],
+    [
+      1.001,
+      "Will Marion Mar\u00e9chal win the 2027 French president",
+      0.002,
+      0.999,
+      150835.49633
+    ],
+    [
+      1.001,
+      "Will Shohei Ohtani be the #1 searched person on Go",
+      0.002,
+      0.999,
+      7776.82169
+    ],
+    [
+      1.001,
+      "Will Vox win the most seats in Tarragona in the 20",
+      0.002,
+      0.999,
+      18635.92076
+    ],
+    [
+      1.001,
+      "Will the Democratic Party candidate win the 2026 H",
+      0.002,
+      0.999,
+      14725.35605
+    ],
+    [
+      1.001,
+      "Will the Democratic Party candidate win the 2026 I",
+      0.002,
+      0.999,
+      11829.42096
+    ],
+    [
+      1.001,
+      "Will the Democratic Party candidate win the 2026 M",
+      0.045,
+      0.956,
+      12091.38877
+    ],
+    [
+      1.001,
+      "Will the Democratic Party candidate win the 2026 T",
+      0.002,
+      0.999,
+      14313.89206
+    ],
+    [
+      1.001,
+      "Will the Republican Party candidate win the 2026 F",
+      0.06,
+      0.941,
+      11821.43239
+    ],
+    [
+      1.001,
+      "Will the upper bound of the target federal funds r",
+      0.003,
+      0.998,
+      17740.34269
+    ],
+    [
+      1.002,
+      "Will Donald Trump Jr. win the 2028 Republican pres",
+      0.019,
+      0.983,
+      599329.21199
+    ],
+    [
+      1.002,
+      "Will Luma AI have the best Text-to-Image AI at the",
+      0.003,
+      0.999,
+      714.72293
+    ],
+    [
+      1.002,
+      "Will the Democratic Party candidate win the 2026 H",
+      0.003,
+      0.999,
+      12090.62045
+    ],
+    [
+      1.002,
+      "Will the highest temperature in Istanbul be 18\u00b0C o",
+      0.003,
+      0.999,
+      1545.57807
+    ],
+    [
+      1.002,
+      "Will total votes cast in the 2026 midterm election",
+      0.112,
+      0.89,
+      16149.7871
+    ],
+    [
+      1.003,
+      "Will Broad Front (FA) win the most seats in Lleida",
+      0.004,
+      0.999,
+      10786.33037
+    ],
+    [
+      1.003,
+      "Will L\u00e9a Seydoux win Best Actress at the 99th Acad",
+      0.004,
+      0.999,
+      4387.08685
+    ],
+    [
+      1.003,
+      "Will Reanimal win Best Independent Game at the 202",
+      0.004,
+      0.999,
+      689.93526
+    ],
+    [
+      1.003,
+      "Will Z.ai be the first company to have an AI model",
+      0.004,
+      0.999,
+      1910.77178
+    ],
+    [
+      1.004,
+      "Will Dante Moore be the 2026 D1 Passing Yards Lead",
+      0.014,
+      0.99,
+      328.55705
+    ],
+    [
+      1.004,
+      "Will the Republican Party win the PA-15 House seat",
+      0.95,
+      0.054,
+      13919.11458
+    ],
+    [
+      1.004,
+      "Will \u00d3scar Estupi\u00f1\u00e1n (FC Ju\u00e1rez) be the top goalsc",
+      0.005,
+      0.999,
+      106.53017
+    ],
+    [
+      1.005,
+      "Will Jos\u00e9 Mar\u00eda Tapia Franco win the 2027 Quer\u00e9tar",
+      0.009,
+      0.996,
+      13131.91061
+    ],
+    [
+      1.005,
+      "Will the Democratic Party candidate win the 2026 P",
+      0.008,
+      0.997,
+      12428.81267
+    ],
+    [
+      1.005,
+      "Will the Republicans win the Hawaii governor race ",
+      0.015,
+      0.99,
+      30995.58982
+    ],
+    [
+      1.005,
+      "Will the highest temperature in Busan be 13\u00b0C on O",
+      0.007,
+      0.998,
+      1350.30101
+    ]
   ],
-  "near_miss_summary": {
-    "total": 35,
-    "one_sided": 31,
-    "balanced": 4
-  },
-  "structural": {
-    "two_sided": 358,
-    "yes_only": 123,
-    "no_only": 6,
-    "empty": 13
-  },
-  "floor": {
-    "n": 358,
-    "best": 1.001,
-    "p5": 1.003,
-    "median": 1.038,
-    "p75": 1.08,
-    "count_lt_1.005": 33,
-    "lt_1.010": 47,
-    "lt_1.050": 223,
-    "lt_1.100": 281
-  },
-  "zero_liq_excluded": 12,
-  "diagnostic": "CLOB asks are DESC-sorted (asks[0]=worst ask ~0.99). User-provided near-miss block used asks[0] -> sum~1.98 -> 0 near-misses (suppression artifact). This file uses min(all asks)=source of truth. detector.detect() also uses min(asks) so bracket count is reliable."
+  "near_misses_count": 30,
+  "both_asks": 398,
+  "yes_only": 5,
+  "floor": 1.001,
+  "floor_leader": "Will APT. \u2013 ROS\u00c9 & Bruno Mars be the top song in t",
+  "floor_top": [
+    [
+      1.001,
+      "Will APT. \u2013 ROS\u00c9 & Bruno Mars be the top song in t",
+      0.002,
+      0.999,
+      2559.85603
+    ],
+    [
+      1.001,
+      "Will Arizona Cardinals win the 2027 NFL NFC Champi",
+      0.002,
+      0.999,
+      68827.17159
+    ],
+    [
+      1.001,
+      "Will Bennett Stirtz win the 2026-27 NBA Rookie of ",
+      0.002,
+      0.999,
+      11998.80202
+    ],
+    [
+      1.001,
+      "Will Black Forest Labs have the best Text-to-Image",
+      0.002,
+      0.999,
+      551.16434
+    ],
+    [
+      1.001,
+      "Will General Mills Q2 organic net sales growth be ",
+      0.002,
+      0.999,
+      380.40257
+    ],
+    [
+      1.001,
+      "Will Marion Mar\u00e9chal win the 2027 French president",
+      0.002,
+      0.999,
+      150835.49633
+    ],
+    [
+      1.001,
+      "Will Shohei Ohtani be the #1 searched person on Go",
+      0.002,
+      0.999,
+      7776.82169
+    ],
+    [
+      1.001,
+      "Will Vox win the most seats in Tarragona in the 20",
+      0.002,
+      0.999,
+      18635.92076
+    ]
+  ],
+  "scan_time": 57.9
 }
