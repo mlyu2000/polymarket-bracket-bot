@@ -1,0 +1,40 @@
+{
+  "timestamp": "2026-10-28T19:47:54Z",
+  "markets_scanned": 500,
+  "brackets": 0,
+  "near_misses": 23,
+  "near_miss_threshold": 1.005,
+  "note": "Detector uses min(asks) correctly; inline near-miss now fixed to use min(asks) instead of asks[0]",
+  "near_misses_top": [
+    {
+      "total": 1.001,
+      "yes": 0.002,
+      "no": 0.999,
+      "q": "Will APT. \u2013 ROS\u00c9 & Bruno Mars be the top song in t"
+    },
+    {
+      "total": 1.001,
+      "yes": 0.002,
+      "no": 0.999,
+      "q": "Will Arizona Cardinals win the 2027 NFL NFC Champi"
+    },
+    {
+      "total": 1.001,
+      "yes": 0.002,
+      "no": 0.999,
+      "q": "Will Bennett Stirtz win the 2026-27 NBA Rookie of"
+    },
+    {
+      "total": 1.001,
+      "yes": 0.002,
+      "no": 0.999,
+      "q": "Will Shohei Ohtani be the #1 searched person on Go"
+    },
+    {
+      "total": 1.001,
+      "yes": 0.004,
+      "no": 0.997,
+      "q": "Will the Democratic Party candidate win the 2026 P"
+    }
+  ]
+}

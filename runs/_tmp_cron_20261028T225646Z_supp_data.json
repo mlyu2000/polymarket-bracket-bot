@@ -1,0 +1,116 @@
+{
+  "ts": "20261028T225646Z",
+  "markets": 500,
+  "scan_time": 59.7,
+  "brackets": 0,
+  "floor_min_ask": 1.001,
+  "two_sided": 347,
+  "not_bracketable": 36,
+  "yes_only": 34,
+  "no_only": 2,
+  "empty_books": 117,
+  "near_miss_verbatim_asks0": 0,
+  "near_misses_min_le_1.005": 28,
+  "balanced_near_le_1.005": 5,
+  "tiers": {
+    "le1.005": 28,
+    "le1.010": 67,
+    "le1.020": 129,
+    "le1.050": 246,
+    "lt1.000": 0
+  },
+  "leader": [
+    1.001,
+    "Will Hyperliquid HIP-3 open interest hit $7B in 2026?",
+    0.07,
+    0.934,
+    4275.02864
+  ],
+  "top12_min_ask": [
+    {
+      "total": 1.004,
+      "q": "Will Hyperliquid HIP-3 open interest hit $7B in 2026?",
+      "yes": 0.07,
+      "no": 0.934,
+      "liq": 4275.02864
+    },
+    {
+      "total": 1.002,
+      "q": "Will the Republican Party candidate win the 2026 CO-08 House",
+      "yes": 0.04,
+      "no": 0.962,
+      "liq": 12848.6086
+    },
+    {
+      "total": 1.002,
+      "q": "Will Luma AI have the best Text-to-Image AI at the end of Oc",
+      "yes": 0.003,
+      "no": 0.999,
+      "liq": 1390.61311
+    },
+    {
+      "total": 1.001,
+      "q": "Will the highest temperature in Warsaw be 7\u00b0C on October 29?",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 1686.10496
+    },
+    {
+      "total": 1.004,
+      "q": "Will the price of Bitcoin be above $90,000 on November 2?",
+      "yes": 0.01,
+      "no": 0.994,
+      "liq": 13378.60968
+    },
+    {
+      "total": 1.004,
+      "q": "Will Marguerite Humeau win the Turner Prize 2026?",
+      "yes": 0.19,
+      "no": 0.814,
+      "liq": 10754.27427
+    },
+    {
+      "total": 1.004,
+      "q": "No change in Bank of Japan\u2019s interest rates after the Octobe",
+      "yes": 0.999,
+      "no": 0.005,
+      "liq": 45895.58418
+    },
+    {
+      "total": 1.003,
+      "q": "Will L\u00e9a Seydoux win Best Actress at the 99th Academy Awards",
+      "yes": 0.004,
+      "no": 0.999,
+      "liq": 3246.05457
+    },
+    {
+      "total": 1.004,
+      "q": "Will Anthropic's market cap be between $2.75T and $3.0T at m",
+      "yes": 0.019,
+      "no": 0.985,
+      "liq": 23991.75797
+    },
+    {
+      "total": 1.001,
+      "q": "Will the Democratic Party candidate win the 2026 PA-05 House",
+      "yes": 0.004,
+      "no": 0.997,
+      "liq": 12471.71906
+    },
+    {
+      "total": 1.005,
+      "q": "Will Lovable be acquired before 2027?",
+      "yes": 0.052,
+      "no": 0.953,
+      "liq": 3206.38951
+    },
+    {
+      "total": 1.004,
+      "q": "Will Dante Moore be the 2026 D1 Passing Yards Leader?",
+      "yes": 0.014,
+      "no": 0.99,
+      "liq": 407.38584
+    }
+  ],
+  "near_miss_artifact_note": "asks[0] is worst ask (DESC-sorted CLOB /book); verbatim near-miss block always 0; min-ask diag is source of truth"
+}
