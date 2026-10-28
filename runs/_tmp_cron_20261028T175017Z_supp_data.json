@@ -1,0 +1,164 @@
+{
+  "scan_time": 63.1,
+  "markets": 500,
+  "brackets": 0,
+  "opps": [],
+  "near_misses_minask": [
+    {
+      "sum": 1.001,
+      "q": "Will the price of Ethereum be above $2,600 on October 30?",
+      "yes": 0.009,
+      "no": 0.992,
+      "liq": 35030.39811
+    },
+    {
+      "sum": 1.001,
+      "q": "Will the Democratic Party candidate win the 2026 PA-05 House",
+      "yes": 0.004,
+      "no": 0.997,
+      "liq": 12444.00244
+    },
+    {
+      "sum": 1.001,
+      "q": "Will Arizona Cardinals win the 2027 NFL NFC Championship?",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 73233.63245
+    },
+    {
+      "sum": 1.001,
+      "q": "Will APT. \u2013 ROS\u00c9 & Bruno Mars be the top song in the US for ",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 3646.18602
+    },
+    {
+      "sum": 1.001,
+      "q": "Will the Republican Party candidate win the 2026 KS-03 House",
+      "yes": 0.044,
+      "no": 0.957,
+      "liq": 14002.21269
+    },
+    {
+      "sum": 1.001,
+      "q": "Will the upper bound of the target federal funds rate be 2.2",
+      "yes": 0.003,
+      "no": 0.998,
+      "liq": 8171.27707
+    },
+    {
+      "sum": 1.001,
+      "q": "Will Shohei Ohtani be the #1 searched person on Google in th",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 5154.26997
+    },
+    {
+      "sum": 1.001,
+      "q": "Will Bennett Stirtz win the 2026-27 NBA Rookie of the Year?",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 10297.07951
+    },
+    {
+      "sum": 1.001,
+      "q": "Will Donald Trump Jr. win the 2028 Republican presidential n",
+      "yes": 0.019,
+      "no": 0.982,
+      "liq": 604397.9412
+    },
+    {
+      "sum": 1.002,
+      "q": "Will Luma AI have the best Text-to-Image AI at the end of Oc",
+      "yes": 0.003,
+      "no": 0.999,
+      "liq": 1389.59503
+    },
+    {
+      "sum": 1.002,
+      "q": "Will OpenAI's IPO valuation be between $1.5T and $1.75T?",
+      "yes": 0.217,
+      "no": 0.785,
+      "liq": 6948.48218
+    },
+    {
+      "sum": 1.002,
+      "q": "Will Hyperliquid HIP-3 open interest hit $7B in 2026?",
+      "yes": 0.07,
+      "no": 0.932,
+      "liq": 4195.47811
+    },
+    {
+      "sum": 1.002,
+      "q": "Will the Democratic Party candidate win the 2026 HI-02 House",
+      "yes": 0.003,
+      "no": 0.999,
+      "liq": 14252.2276
+    },
+    {
+      "sum": 1.002,
+      "q": "Will Elon Musk post 500-519 tweets from October 30 to Novemb",
+      "yes": 0.008,
+      "no": 0.994,
+      "liq": 7203.33097
+    },
+    {
+      "sum": 1.003,
+      "q": "Will L\u00e9a Seydoux win Best Actress at the 99th Academy Awards",
+      "yes": 0.004,
+      "no": 0.999,
+      "liq": 2791.59448
+    },
+    {
+      "sum": 1.003,
+      "q": "Will Reanimal win Best Independent Game at the 2026 Game Awa",
+      "yes": 0.004,
+      "no": 0.999,
+      "liq": 707.86007
+    },
+    {
+      "sum": 1.003,
+      "q": "Will William Byron win the 2026 NASCAR Cup Series championsh",
+      "yes": 0.005,
+      "no": 0.998,
+      "liq": 10110.66736
+    },
+    {
+      "sum": 1.003,
+      "q": "Will Johnnie LaRossa win The Bachelorette Season 22?",
+      "yes": 0.004,
+      "no": 0.999,
+      "liq": 4608.77723
+    },
+    {
+      "sum": 1.004,
+      "q": "Will the highest temperature in Taipei be 26\u00b0C on October 29",
+      "yes": 0.007,
+      "no": 0.997,
+      "liq": 1217.22207
+    },
+    {
+      "sum": 1.004,
+      "q": "Will Dante Moore be the 2026 D1 Passing Yards Leader?",
+      "yes": 0.014,
+      "no": 0.99,
+      "liq": 416.10497
+    },
+    {
+      "sum": 1.004,
+      "q": "Will \u00d3scar Estupi\u00f1\u00e1n (FC Ju\u00e1rez) be the top goalscorer of th",
+      "yes": 0.005,
+      "no": 0.999,
+      "liq": 133.09989
+    },
+    {
+      "sum": 1.004,
+      "q": "Will Anthropic's market cap be between $2.75T and $3.0T at m",
+      "yes": 0.019,
+      "no": 0.985,
+      "liq": 22708.42044
+    }
+  ],
+  "near_misses_asks0_artifact": 0,
+  "note": "asks[0] uses worst/highest ask (DESC-sorted asks) -> always 0; min(asks) is source of truth"
+}

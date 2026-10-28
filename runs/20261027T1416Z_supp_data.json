@@ -1,0 +1,254 @@
+{
+  "ts": "20261027T1416Z",
+  "markets": 500,
+  "brackets": 0,
+  "floor": 1.001,
+  "two_sided": 379,
+  "tiers": {
+    "le1.005": 34,
+    "le1.010": 85,
+    "le1.020": 151,
+    "le1.050": 260
+  },
+  "band": [
+    [
+      1.001,
+      "Will APT. \u2013 ROS\u00c9 & Bruno Mars be the top song in t",
+      0.002,
+      0.999,
+      1412.61241
+    ],
+    [
+      1.001,
+      "Will Arizona Cardinals win the 2027 NFL NFC Champi",
+      0.002,
+      0.999,
+      71443.94986
+    ],
+    [
+      1.001,
+      "Will Bitcoin reach $84,000 on October 27?",
+      0.006,
+      0.995,
+      26994.8511
+    ],
+    [
+      1.001,
+      "Will General Mills Q2 organic net sales growth be ",
+      0.002,
+      0.999,
+      416.23808
+    ],
+    [
+      1.001,
+      "Will Marion Mar\u00e9chal win the 2027 French president",
+      0.002,
+      0.999,
+      162394.10528
+    ],
+    [
+      1.001,
+      "Will Shohei Ohtani be the #1 searched person on Go",
+      0.002,
+      0.999,
+      9878.38773
+    ],
+    [
+      1.001,
+      "Will Vox win the most seats in Tarragona in the 20",
+      0.002,
+      0.999,
+      18948.34025
+    ],
+    [
+      1.001,
+      "Will Yoaz Hendel be the next Israeli Minister of D",
+      0.002,
+      0.999,
+      14653.00919
+    ],
+    [
+      1.001,
+      "Will the Democratic Party candidate win the 2026 I",
+      0.002,
+      0.999,
+      12350.27374
+    ],
+    [
+      1.001,
+      "Will the Democratic Party candidate win the 2026 M",
+      0.045,
+      0.956,
+      11850.3636
+    ],
+    [
+      1.001,
+      "Will the Republican Party candidate win the 2026 F",
+      0.06,
+      0.941,
+      15884.53477
+    ],
+    [
+      1.001,
+      "Will the highest temperature in Chengdu be 19\u00b0C on",
+      0.999,
+      0.002,
+      1913.07837
+    ],
+    [
+      1.001,
+      "Will the upper bound of the target federal funds r",
+      0.003,
+      0.998,
+      42928.42837
+    ],
+    [
+      1.002,
+      "Will Derke play for Gentle Mates in 2027?",
+      0.317,
+      0.685,
+      442.02964
+    ],
+    [
+      1.002,
+      "Will Donald Trump Jr. win the 2028 Republican pres",
+      0.019,
+      0.983,
+      593458.78898
+    ],
+    [
+      1.002,
+      "Will Luma AI have the best Text-to-Image AI at the",
+      0.003,
+      0.999,
+      1103.74411
+    ],
+    [
+      1.002,
+      "Will Marguerite Humeau win the Turner Prize 2026?",
+      0.202,
+      0.8,
+      9439.10448
+    ],
+    [
+      1.002,
+      "Will Memphis Grizzlies win the 2027 NBA Finals?",
+      0.006,
+      0.996,
+      514590.54708
+    ],
+    [
+      1.002,
+      "Will WTI Crude Oil (WTI) hit (LOW) $75 in October?",
+      0.006,
+      0.996,
+      36383.1815
+    ],
+    [
+      1.002,
+      "Will the Democratic Party candidate win the 2026 H",
+      0.003,
+      0.999,
+      14066.04413
+    ],
+    [
+      1.002,
+      "Will the price of Bitcoin be above $74,000 on Octo",
+      0.977,
+      0.025,
+      40598.87353
+    ],
+    [
+      1.002,
+      "Will the price of Bitcoin be less than $76,000 on ",
+      0.014,
+      0.988,
+      37859.20808
+    ],
+    [
+      1.003,
+      "Will Broad Front (FA) win the most seats in Lleida",
+      0.004,
+      0.999,
+      10991.25199
+    ],
+    [
+      1.003,
+      "Will L\u00e9a Seydoux win Best Actress at the 99th Acad",
+      0.004,
+      0.999,
+      3925.72605
+    ],
+    [
+      1.003,
+      "Will Reanimal win Best Independent Game at the 202",
+      0.004,
+      0.999,
+      548.62327
+    ],
+    [
+      1.003,
+      "Will Trump and Putin meet next in a Gulf country?",
+      0.01,
+      0.993,
+      51078.46186
+    ],
+    [
+      1.003,
+      "Will Z.ai be the first company to have an AI model",
+      0.004,
+      0.999,
+      2018.00472
+    ],
+    [
+      1.004,
+      "Will Dante Moore be the 2026 D1 Passing Yards Lead",
+      0.014,
+      0.99,
+      332.12627
+    ],
+    [
+      1.004,
+      "Will the Republican Party win the PA-15 House seat",
+      0.95,
+      0.054,
+      21122.71518
+    ],
+    [
+      1.004,
+      "Will total votes cast in the 2026 midterm election",
+      0.005,
+      0.999,
+      12777.05473
+    ],
+    [
+      1.004,
+      "Will \u00d3scar Estupi\u00f1\u00e1n (FC Ju\u00e1rez) be the top goalsc",
+      0.005,
+      0.999,
+      186.83572
+    ],
+    [
+      1.005,
+      "Epic Games IPO before 2027?",
+      0.022,
+      0.983,
+      15669.04203
+    ],
+    [
+      1.005,
+      "Will Jos\u00e9 Mar\u00eda Tapia Franco win the 2027 Quer\u00e9tar",
+      0.009,
+      0.996,
+      13199.58542
+    ],
+    [
+      1.005,
+      "Will the Democratic Party candidate win the 2026 P",
+      0.008,
+      0.997,
+      15369.56197
+    ]
+  ],
+  "priced": 379
+}
