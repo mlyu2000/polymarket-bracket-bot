@@ -1,0 +1,116 @@
+{
+  "ts": "20261028T081103Z",
+  "markets": 500,
+  "scan_time": 78.9,
+  "brackets": 0,
+  "floor_min_ask": 1.001,
+  "two_sided": 372,
+  "not_bracketable": 37,
+  "yes_only": 36,
+  "no_only": 1,
+  "empty_books": 91,
+  "near_miss_verbatim_asks0": 0,
+  "near_misses_min_le_1.005": 23,
+  "balanced_near_le_1.005": 1,
+  "tiers": {
+    "le1.005": 23,
+    "le1.010": 87,
+    "le1.020": 157,
+    "le1.050": 265,
+    "lt1.000": 0
+  },
+  "leader": [
+    1.001,
+    "Will Luma AI have the best Text-to-Image AI at the end of Oc",
+    0.003,
+    0.999,
+    1100.21311
+  ],
+  "top12_min_ask": [
+    {
+      "total": 1.002,
+      "q": "Will Luma AI have the best Text-to-Image AI at the end of Oc",
+      "yes": 0.003,
+      "no": 0.999,
+      "liq": 1100.21311
+    },
+    {
+      "total": 1.003,
+      "q": "Will L\u00e9a Seydoux win Best Actress at the 99th Academy Awards",
+      "yes": 0.004,
+      "no": 0.999,
+      "liq": 2942.0484
+    },
+    {
+      "total": 1.001,
+      "q": "Will the Democratic Party candidate win the 2026 PA-05 House",
+      "yes": 0.004,
+      "no": 0.997,
+      "liq": 12220.45611
+    },
+    {
+      "total": 1.003,
+      "q": "Will the highest temperature in Paris be 11\u00b0C on October 30?",
+      "yes": 0.005,
+      "no": 0.998,
+      "liq": 2065.4061
+    },
+    {
+      "total": 1.001,
+      "q": "Will the price of Bitcoin be above $84,000 on October 29?",
+      "yes": 0.071,
+      "no": 0.93,
+      "liq": 43173.8005
+    },
+    {
+      "total": 1.001,
+      "q": "Will General Mills Q2 organic net sales growth be below -4.5",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 434.44056
+    },
+    {
+      "total": 1.004,
+      "q": "Will Dante Moore be the 2026 D1 Passing Yards Leader?",
+      "yes": 0.014,
+      "no": 0.99,
+      "liq": 336.862
+    },
+    {
+      "total": 1.003,
+      "q": "Will Reanimal win Best Independent Game at the 2026 Game Awa",
+      "yes": 0.004,
+      "no": 0.999,
+      "liq": 557.66899
+    },
+    {
+      "total": 1.001,
+      "q": "Will Arizona Cardinals win the 2027 NFL NFC Championship?",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 70726.57371
+    },
+    {
+      "total": 1.001,
+      "q": "Will APT. \u2013 ROS\u00c9 & Bruno Mars be the top song in the US for ",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 3124.43423
+    },
+    {
+      "total": 1.003,
+      "q": "Will Z.ai be the first company to have an AI model hit 1550 ",
+      "yes": 0.004,
+      "no": 0.999,
+      "liq": 2084.64356
+    },
+    {
+      "total": 1.001,
+      "q": "Will the Democratic Party candidate win the 2026 IL-02 House",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 11933.34202
+    }
+  ],
+  "near_miss_artifact_note": "asks[0] is worst ask (DESC-sorted CLOB /book); verbatim near-miss block always 0; min-ask diag is source of truth"
+}
