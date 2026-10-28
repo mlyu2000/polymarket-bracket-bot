@@ -1,0 +1,8 @@
+# Bracket scan 20261028T004142Z
+markets=500 scan_time=55.8s
+brackets=0
+near_misses_le_1.005(min-ask)=29
+near_misses_verbatim_asks0=0
+floor=1.001
+two_sided=358
+tiers={"le1.005": 29, "le1.010": 83, "le1.020": 159, "le1.050": 268, "lt1.000": 0}
