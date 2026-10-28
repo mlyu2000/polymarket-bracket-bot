@@ -1,0 +1,116 @@
+{
+  "ts": "20261028T141832Z",
+  "markets": 500,
+  "scan_time": 58.4,
+  "brackets": 0,
+  "floor_min_ask": 1.001,
+  "two_sided": 362,
+  "not_bracketable": 46,
+  "yes_only": 45,
+  "no_only": 1,
+  "empty_books": 92,
+  "near_miss_verbatim_asks0": 0,
+  "near_misses_min_le_1.005": 32,
+  "balanced_near_le_1.005": 3,
+  "tiers": {
+    "le1.005": 32,
+    "le1.010": 82,
+    "le1.020": 145,
+    "le1.050": 267,
+    "lt1.000": 0
+  },
+  "leader": [
+    1.001,
+    "Will Tyrese Maxey win the 2026-27 NBA MVP?",
+    0.033,
+    0.968,
+    15180.79413
+  ],
+  "top12_min_ask": [
+    {
+      "total": 1.001,
+      "q": "Will Tyrese Maxey win the 2026-27 NBA MVP?",
+      "yes": 0.033,
+      "no": 0.968,
+      "liq": 15180.79413
+    },
+    {
+      "total": 1.002,
+      "q": "Will Luma AI have the best Text-to-Image AI at the end of Oc",
+      "yes": 0.003,
+      "no": 0.999,
+      "liq": 1100.64003
+    },
+    {
+      "total": 1.003,
+      "q": "Will L\u00e9a Seydoux win Best Actress at the 99th Academy Awards",
+      "yes": 0.004,
+      "no": 0.999,
+      "liq": 3078.68108
+    },
+    {
+      "total": 1.004,
+      "q": "Will the price of Ethereum be above $2,600 on October 30?",
+      "yes": 0.012,
+      "no": 0.992,
+      "liq": 35332.4908
+    },
+    {
+      "total": 1.001,
+      "q": "Will the Democratic Party candidate win the 2026 PA-05 House",
+      "yes": 0.004,
+      "no": 0.997,
+      "liq": 12234.80211
+    },
+    {
+      "total": 1.002,
+      "q": "Will Hyperliquid HIP-3 open interest hit $7B in 2026?",
+      "yes": 0.07,
+      "no": 0.932,
+      "liq": 4191.77644
+    },
+    {
+      "total": 1.002,
+      "q": "Will the highest temperature in Shanghai be 17\u00b0C or below on",
+      "yes": 0.003,
+      "no": 0.999,
+      "liq": 2771.75928
+    },
+    {
+      "total": 1.004,
+      "q": "Will Dante Moore be the 2026 D1 Passing Yards Leader?",
+      "yes": 0.014,
+      "no": 0.99,
+      "liq": 414.37091
+    },
+    {
+      "total": 1.003,
+      "q": "Will Reanimal win Best Independent Game at the 2026 Game Awa",
+      "yes": 0.004,
+      "no": 0.999,
+      "liq": 652.46315
+    },
+    {
+      "total": 1.001,
+      "q": "Will Arizona Cardinals win the 2027 NFL NFC Championship?",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 71617.29845
+    },
+    {
+      "total": 1.001,
+      "q": "Will APT. \u2013 ROS\u00c9 & Bruno Mars be the top song in the US for ",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 3195.58683
+    },
+    {
+      "total": 1.003,
+      "q": "Will Z.ai be the first company to have an AI model hit 1550 ",
+      "yes": 0.004,
+      "no": 0.999,
+      "liq": 2108.20556
+    }
+  ],
+  "near_miss_artifact_note": "asks[0] is worst ask (DESC-sorted CLOB /book); verbatim near-miss block always 0; min-ask diag is source of truth"
+}
