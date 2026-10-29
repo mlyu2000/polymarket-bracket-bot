@@ -1,0 +1,117 @@
+{
+  "ts": "20261029T224141Z",
+  "markets": 500,
+  "scan_time": 54.2,
+  "brackets": 0,
+  "floor_min_ask": 1.001,
+  "two_sided": 401,
+  "not_bracketable": 11,
+  "yes_only": 80,
+  "no_only": 8,
+  "empty_books": 0,
+  "near_miss_verbatim_asks0": 0,
+  "near_misses_min_le_1.005": 26,
+  "balanced_near_le_1.005": 3,
+  "tiers": {
+    "le1.005": 26,
+    "le1.010": 75,
+    "le1.020": 137,
+    "le1.050": 273,
+    "lt1.000": 0
+  },
+  "leader": [
+    1.001,
+    "Will Charles Melton win Best Supporting Actor at the 99th Ac",
+    0.002,
+    0.999,
+    1082.43621
+  ],
+  "top12_min_ask": [
+    {
+      "total": 1.001,
+      "q": "Will Charles Melton win Best Supporting Actor at the 99th Ac",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 1082.43621
+    },
+    {
+      "total": 1.001,
+      "q": "Will Marguerite Humeau win the Turner Prize 2026?",
+      "yes": 0.188,
+      "no": 0.813,
+      "liq": 11409.3479
+    },
+    {
+      "total": 1.001,
+      "q": "Will Bitcoin reach $90,000 in October?",
+      "yes": 0.004,
+      "no": 0.997,
+      "liq": 74999.9358
+    },
+    {
+      "total": 1.001,
+      "q": "Will the highest temperature in Taipei be 25°C on October 30",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 1421.26643
+    },
+    {
+      "total": 1.001,
+      "q": "Will the upper bound of the target federal funds rate be 2.2",
+      "yes": 0.003,
+      "no": 0.998,
+      "liq": 32102.28656
+    },
+    {
+      "total": 1.001,
+      "q": "Will Arizona Cardinals win the 2027 NFL NFC Championship?",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 74168.41034
+    },
+    {
+      "total": 1.001,
+      "q": "Will APT. – ROSÉ & Bruno Mars be the top song in the US for ",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 4640.79144
+    },
+    {
+      "total": 1.001,
+      "q": "Will the Democratic Party candidate win the 2026 HI-02 House",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 11942.45082
+    },
+    {
+      "total": 1.001,
+      "q": "Will Finn Wolfhard be the #1 searched actor on Google this y",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 5235.9827
+    },
+    {
+      "total": 1.001,
+      "q": "Will Shohei Ohtani be the #1 searched person on Google in th",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 2997.44967
+    },
+    {
+      "total": 1.002,
+      "q": "Will Ted Cruz post 100-119 posts from October 27 to November",
+      "yes": 0.006,
+      "no": 0.996,
+      "liq": 256.31981
+    },
+    {
+      "total": 1.002,
+      "q": "Will Donald Trump Jr. win the 2028 Republican presidential n",
+      "yes": 0.018,
+      "no": 0.984,
+      "liq": 588258.93553
+    }
+  ],
+  "brackets_detail": [],
+  "near_miss_artifact_note": "asks[0] is worst ask (DESC-sorted CLOB /book); verbatim near-miss block always 0; min-ask diag is source of truth"
+}
