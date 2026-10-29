@@ -1,0 +1,8 @@
+🔍 Scan: 500 markets in 56.0s
+✅ BRACKETS (sum < 1.00): 0
+📊 Near-misses (≤1.005): 24
+  1.001 | Yes@0.002 No@0.999 | Will APT. – ROSÉ & Bruno Mars be the top song in t
+  1.001 | Yes@0.002 No@0.999 | Will Arizona Cardinals win the 2027 NFL NFC Champi
+  1.001 | Yes@0.007 No@0.994 | Will Bitcoin reach $90,000 in October?
+  1.001 | Yes@0.188 No@0.813 | Will Marguerite Humeau win the Turner Prize 2026?
+  1.001 | Yes@0.002 No@0.999 | Will PP win the most seats in Lleida in the 2026 S
