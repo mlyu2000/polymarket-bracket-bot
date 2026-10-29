@@ -1,0 +1,210 @@
+{
+  "ts": "20261029_041328Z",
+  "markets": 500,
+  "scan_time": 75.5,
+  "brackets": [],
+  "near_misses": [
+    {
+      "sum": 1.001,
+      "yes": 0.005,
+      "no": 0.996,
+      "q": "Will the price of Bitcoin be above $90,000 on November 2?",
+      "liq": 13348.13807,
+      "mkt": "Will the price of Bitcoin be above $90,000 on November 2?"
+    },
+    {
+      "sum": 1.001,
+      "yes": 0.188,
+      "no": 0.813,
+      "q": "Will Marguerite Humeau win the Turner Prize 2026?",
+      "liq": 11531.45643,
+      "mkt": "Will Marguerite Humeau win the Turner Prize 2026?"
+    },
+    {
+      "sum": 1.001,
+      "yes": 0.003,
+      "no": 0.998,
+      "q": "Will Elon Musk post 520-539 tweets from October 27 to November 3, 2026?",
+      "liq": 9815.92719,
+      "mkt": "Will Elon Musk post 520-539 tweets from October 27 to November 3, 2026?"
+    },
+    {
+      "sum": 1.001,
+      "yes": 0.003,
+      "no": 0.998,
+      "q": "Will the upper bound of the target federal funds rate be 2.25% at the end of 202",
+      "liq": 13785.38632,
+      "mkt": "Will the upper bound of the target federal funds rate be 2.25% at the end of 2026?"
+    },
+    {
+      "sum": 1.001,
+      "yes": 0.002,
+      "no": 0.999,
+      "q": "Will Arizona Cardinals win the 2027 NFL NFC Championship?",
+      "liq": 77693.96821,
+      "mkt": "Will Arizona Cardinals win the 2027 NFL NFC Championship?"
+    },
+    {
+      "sum": 1.001,
+      "yes": 0.002,
+      "no": 0.999,
+      "q": "Will APT. \u2013 ROS\u00c9 & Bruno Mars be the top song in the US for 2026?",
+      "liq": 2869.00983,
+      "mkt": "Will APT. \u2013 ROS\u00c9 & Bruno Mars be the top song in the US for 2026?"
+    },
+    {
+      "sum": 1.001,
+      "yes": 0.002,
+      "no": 0.999,
+      "q": "Will PP win the most seats in Lleida in the 2026 Spanish general election?",
+      "liq": 10886.69739,
+      "mkt": "Will PP win the most seats in Lleida in the 2026 Spanish general election?"
+    },
+    {
+      "sum": 1.001,
+      "yes": 0.002,
+      "no": 0.999,
+      "q": "Will Shohei Ohtani be the #1 searched person on Google in the US this year?",
+      "liq": 4333.59465,
+      "mkt": "Will Shohei Ohtani be the #1 searched person on Google in the US this year?"
+    },
+    {
+      "sum": 1.001,
+      "yes": 0.007,
+      "no": 0.994,
+      "q": "Will Bitcoin reach $90,000 in October?",
+      "liq": 102847.27496,
+      "mkt": "Will Bitcoin reach $90,000 in October?"
+    },
+    {
+      "sum": 1.001,
+      "yes": 0.002,
+      "no": 0.999,
+      "q": "Will the Democratic Party candidate win the 2026 TX-37 House election by 0%-35%?",
+      "liq": 16073.92293,
+      "mkt": "Will the Democratic Party candidate win the 2026 TX-37 House election by 0%-35%?"
+    },
+    {
+      "sum": 1.002,
+      "yes": 0.04,
+      "no": 0.962,
+      "q": "Will the Republican Party candidate win the 2026 CO-08 House election by 3% or m",
+      "liq": 12125.51098,
+      "mkt": "Will the Republican Party candidate win the 2026 CO-08 House election by 3% or more?"
+    },
+    {
+      "sum": 1.002,
+      "yes": 0.003,
+      "no": 0.999,
+      "q": "Will the Democratic Party candidate win the 2026 HI-02 House election by 50% or ",
+      "liq": 11887.04246,
+      "mkt": "Will the Democratic Party candidate win the 2026 HI-02 House election by 50% or more?"
+    },
+    {
+      "sum": 1.002,
+      "yes": 0.019,
+      "no": 0.983,
+      "q": "Will Donald Trump Jr. win the 2028 Republican presidential nomination?",
+      "liq": 589367.12247,
+      "mkt": "Will Donald Trump Jr. win the 2028 Republican presidential nomination?"
+    },
+    {
+      "sum": 1.003,
+      "yes": 0.006,
+      "no": 0.997,
+      "q": "Will the Republican Party candidate win the 2026 AZ-06 House election by 6% or m",
+      "liq": 15169.28988,
+      "mkt": "Will the Republican Party candidate win the 2026 AZ-06 House election by 6% or more?"
+    },
+    {
+      "sum": 1.003,
+      "yes": 0.019,
+      "no": 0.984,
+      "q": "Will Anthropic's market cap be between $2.75T and $3.0T at market close on IPO d",
+      "liq": 26708.74821,
+      "mkt": "Will Anthropic's market cap be between $2.75T and $3.0T at market close on IPO day?"
+    },
+    {
+      "sum": 1.003,
+      "yes": 0.004,
+      "no": 0.999,
+      "q": "Will L\u00e9a Seydoux win Best Actress at the 99th Academy Awards?",
+      "liq": 2953.69166,
+      "mkt": "Will L\u00e9a Seydoux win Best Actress at the 99th Academy Awards?"
+    },
+    {
+      "sum": 1.003,
+      "yes": 0.004,
+      "no": 0.999,
+      "q": "Will the Democratic Party candidate win the 2026 PA-05 House election by 0%-10%?",
+      "liq": 12488.92471,
+      "mkt": "Will the Democratic Party candidate win the 2026 PA-05 House election by 0%-10%?"
+    },
+    {
+      "sum": 1.003,
+      "yes": 0.004,
+      "no": 0.999,
+      "q": "Will Reanimal win Best Independent Game at the 2026 Game Awards?",
+      "liq": 487.59326,
+      "mkt": "Will Reanimal win Best Independent Game at the 2026 Game Awards?"
+    },
+    {
+      "sum": 1.003,
+      "yes": 0.004,
+      "no": 0.999,
+      "q": "Will ByteDance be the #2 AI lab at the end of November 2026?",
+      "liq": 626.66875,
+      "mkt": "Will ByteDance be the #2 AI lab at the end of November 2026?"
+    },
+    {
+      "sum": 1.003,
+      "yes": 0.005,
+      "no": 0.998,
+      "q": "Will William Byron win the 2026 NASCAR Cup Series championship?",
+      "liq": 5152.56367,
+      "mkt": "Will William Byron win the 2026 NASCAR Cup Series championship?"
+    },
+    {
+      "sum": 1.003,
+      "yes": 0.004,
+      "no": 0.999,
+      "q": "Will Johnnie LaRossa win The Bachelorette Season 22?",
+      "liq": 4588.90841,
+      "mkt": "Will Johnnie LaRossa win The Bachelorette Season 22?"
+    },
+    {
+      "sum": 1.004,
+      "yes": 0.014,
+      "no": 0.99,
+      "q": "Will Dante Moore be the 2026 D1 Passing Yards Leader?",
+      "liq": 271.06795,
+      "mkt": "Will Dante Moore be the 2026 D1 Passing Yards Leader?"
+    },
+    {
+      "sum": 1.004,
+      "yes": 0.238,
+      "no": 0.766,
+      "q": "Will Ty Jerome win the 2026-27 NBA Most Improved Player?",
+      "liq": 2442.23585,
+      "mkt": "Will Ty Jerome win the 2026-27 NBA Most Improved Player?"
+    },
+    {
+      "sum": 1.004,
+      "yes": 0.005,
+      "no": 0.999,
+      "q": "Will \u00d3scar Estupi\u00f1\u00e1n (FC Ju\u00e1rez) be the top goalscorer of the 2026-27 Liga MX se",
+      "liq": 139.34159,
+      "mkt": "Will \u00d3scar Estupi\u00f1\u00e1n (FC Ju\u00e1rez) be the top goalscorer of the 2026-27 Liga MX season?"
+    },
+    {
+      "sum": 1.005,
+      "yes": 0.009,
+      "no": 0.996,
+      "q": "Will Jos\u00e9 Mar\u00eda Tapia Franco win the 2027 Quer\u00e9taro Governor Election?",
+      "liq": 13228.29147,
+      "mkt": "Will Jos\u00e9 Mar\u00eda Tapia Franco win the 2027 Quer\u00e9taro Governor Election?"
+    }
+  ],
+  "min_ask_p50": 1.04,
+  "min_ask_p25": 1.02
+}
