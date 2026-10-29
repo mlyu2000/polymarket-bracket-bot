@@ -1,0 +1,117 @@
+{
+  "ts": "20261029T004909Z",
+  "markets": 500,
+  "scan_time": 55.1,
+  "brackets": 0,
+  "floor_min_ask": 1.001,
+  "two_sided": 364,
+  "not_bracketable": 37,
+  "yes_only": 37,
+  "no_only": 0,
+  "empty_books": 99,
+  "near_miss_verbatim_asks0": 0,
+  "near_misses_min_le_1.005": 27,
+  "balanced_near_le_1.005": 4,
+  "tiers": {
+    "le1.005": 27,
+    "le1.010": 64,
+    "le1.020": 127,
+    "le1.050": 251,
+    "lt1.000": 0
+  },
+  "leader": [
+    1.001,
+    "Will Hyperliquid HIP-3 open interest hit $7B in 2026?",
+    0.07,
+    0.933,
+    4172.03386
+  ],
+  "top12_min_ask": [
+    {
+      "total": 1.003,
+      "q": "Will Hyperliquid HIP-3 open interest hit $7B in 2026?",
+      "yes": 0.07,
+      "no": 0.933,
+      "liq": 4172.03386
+    },
+    {
+      "total": 1.002,
+      "q": "Will the Republican Party candidate win the 2026 CO-08 House",
+      "yes": 0.04,
+      "no": 0.962,
+      "liq": 12621.67921
+    },
+    {
+      "total": 1.002,
+      "q": "Will Luma AI have the best Text-to-Image AI at the end of Oc",
+      "yes": 0.003,
+      "no": 0.999,
+      "liq": 1390.6131
+    },
+    {
+      "total": 1.003,
+      "q": "Will the price of Bitcoin be above $90,000 on November 2?",
+      "yes": 0.009,
+      "no": 0.994,
+      "liq": 13235.14825
+    },
+    {
+      "total": 1.001,
+      "q": "Will Marguerite Humeau win the Turner Prize 2026?",
+      "yes": 0.188,
+      "no": 0.813,
+      "liq": 11671.72266
+    },
+    {
+      "total": 1.003,
+      "q": "Will L\u00e9a Seydoux win Best Actress at the 99th Academy Awards",
+      "yes": 0.004,
+      "no": 0.999,
+      "liq": 3371.6712
+    },
+    {
+      "total": 1.003,
+      "q": "Will Anthropic's market cap be between $2.75T and $3.0T at m",
+      "yes": 0.019,
+      "no": 0.984,
+      "liq": 27342.26996
+    },
+    {
+      "total": 1.003,
+      "q": "Will the Democratic Party candidate win the 2026 PA-05 House",
+      "yes": 0.004,
+      "no": 0.999,
+      "liq": 12296.49942
+    },
+    {
+      "total": 1.004,
+      "q": "Will Dante Moore be the 2026 D1 Passing Yards Leader?",
+      "yes": 0.014,
+      "no": 0.99,
+      "liq": 487.43378
+    },
+    {
+      "total": 1.001,
+      "q": "Will the upper bound of the target federal funds rate be 2.2",
+      "yes": 0.003,
+      "no": 0.998,
+      "liq": 15093.23704
+    },
+    {
+      "total": 1.001,
+      "q": "Will Bitcoin dip to $72,000 October 26-November 1?",
+      "yes": 0.011,
+      "no": 0.99,
+      "liq": 64758.17794
+    },
+    {
+      "total": 1.003,
+      "q": "Will Reanimal win Best Independent Game at the 2026 Game Awa",
+      "yes": 0.004,
+      "no": 0.999,
+      "liq": 695.05019
+    }
+  ],
+  "brackets_detail": [],
+  "near_miss_artifact_note": "asks[0] is worst ask (DESC-sorted CLOB /book); verbatim near-miss block always 0; min-ask diag is source of truth"
+}

@@ -93,6 +93,7 @@ async def run():
                    near_min[0]["no"] if near_min else 0,
                    near_min[0]["liq"] if near_min else 0],
         "top12_min_ask": near_min[:12],
+        "brackets_detail": opps,
         "near_miss_artifact_note": "asks[0] is worst ask (DESC-sorted CLOB /book); verbatim near-miss block always 0; min-ask diag is source of truth",
     }
 
