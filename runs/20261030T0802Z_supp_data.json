@@ -1,0 +1,191 @@
+{
+  "ts": "20261030T0802Z",
+  "markets": 500,
+  "brackets": 0,
+  "floor": 1.001,
+  "two_sided": 410,
+  "tiers": {
+    "le1.005": 25,
+    "le1.010": 73,
+    "le1.020": 137,
+    "le1.050": 281
+  },
+  "band": [
+    [
+      1.001,
+      "Will APT. \u2013 ROS\u00c9 & Bruno Mars be the top song in t",
+      0.002,
+      0.999,
+      4748.24142
+    ],
+    [
+      1.001,
+      "Will Arizona Cardinals win the 2027 NFL NFC Champi",
+      0.002,
+      0.999,
+      76627.43217
+    ],
+    [
+      1.001,
+      "Will Bitcoin reach $90,000 in October?",
+      0.003,
+      0.998,
+      92608.95257
+    ],
+    [
+      1.001,
+      "Will Charles Melton win Best Supporting Actor at t",
+      0.002,
+      0.999,
+      1325.93228
+    ],
+    [
+      1.001,
+      "Will Diable play for Team WE in 2027?",
+      0.061,
+      0.94,
+      398.69073
+    ],
+    [
+      1.001,
+      "Will Finn Wolfhard be the #1 searched actor on Goo",
+      0.002,
+      0.999,
+      4963.20496
+    ],
+    [
+      1.001,
+      "Will Marguerite Humeau win the Turner Prize 2026?",
+      0.188,
+      0.813,
+      12699.35204
+    ],
+    [
+      1.001,
+      "Will Sato play for FURIA Esports in 2027?",
+      0.002,
+      0.999,
+      390.14885
+    ],
+    [
+      1.001,
+      "Will Shohei Ohtani be the #1 searched person on Go",
+      0.002,
+      0.999,
+      3003.03955
+    ],
+    [
+      1.001,
+      "Will Trump and Putin meet next in Turkey?",
+      0.002,
+      0.999,
+      58274.64615
+    ],
+    [
+      1.001,
+      "Will the Democratic Party candidate win the 2026 H",
+      0.002,
+      0.999,
+      12605.99666
+    ],
+    [
+      1.002,
+      "Spread: 1. FSV Mainz 05 (-3.5)",
+      0.045,
+      0.957,
+      8194.51658
+    ],
+    [
+      1.002,
+      "Will Donald Trump Jr. win the 2028 Republican pres",
+      0.018,
+      0.984,
+      590974.61312
+    ],
+    [
+      1.002,
+      "Will Johnnie LaRossa win The Bachelorette Season 2",
+      0.004,
+      0.998,
+      4221.8301
+    ],
+    [
+      1.002,
+      "Will Ted Cruz post 100-119 posts from October 27 t",
+      0.006,
+      0.996,
+      227.6937
+    ],
+    [
+      1.003,
+      "Will ByteDance be the #2 AI lab at the end of Nove",
+      0.004,
+      0.999,
+      614.45839
+    ],
+    [
+      1.003,
+      "Will Carles Gil win 2026 MLS Most Valuable Player?",
+      0.004,
+      0.999,
+      3321.48236
+    ],
+    [
+      1.003,
+      "Will Dylan Marando win the 2026 Ontario Liberal Pa",
+      0.004,
+      0.999,
+      15989.93015
+    ],
+    [
+      1.003,
+      "Will Reanimal win Best Independent Game at the 202",
+      0.004,
+      0.999,
+      721.40231
+    ],
+    [
+      1.003,
+      "Will Sonya Kilkenny be the next Premier of Victori",
+      0.006,
+      0.997,
+      15293.42598
+    ],
+    [
+      1.003,
+      "Will the price of Bitcoin be above $90,000 on Nove",
+      0.005,
+      0.998,
+      14139.66016
+    ],
+    [
+      1.004,
+      "Will Bitcoin reach $84,000 on October 30?",
+      0.008,
+      0.996,
+      13769.86947
+    ],
+    [
+      1.004,
+      "Will Dante Moore be the 2026 D1 Passing Yards Lead",
+      0.014,
+      0.99,
+      429.63539
+    ],
+    [
+      1.004,
+      "Will \u00d3scar Estupi\u00f1\u00e1n (FC Ju\u00e1rez) be the top goalsc",
+      0.005,
+      0.999,
+      56.65386
+    ],
+    [
+      1.005,
+      "Will PP win the most seats in Lleida in the 2026 S",
+      0.006,
+      0.999,
+      10416.90848
+    ]
+  ],
+  "priced": 410
+}
