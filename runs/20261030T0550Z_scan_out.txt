@@ -1,0 +1,32 @@
+# Bracket scan 20261030T0550Z
+markets=500 scan_time=57.1s
+brackets=0
+near_misses_le_1.005=24
+floor=1.001
+two_sided=416
+tiers={'le1.005': 24, 'le1.010': 72, 'le1.020': 136, 'le1.050': 284}
+
+NEARMISS 1.001 Yes@0.002 No@0.999 liq=4982.87752 | Will APT. – ROSÉ & Bruno Mars be the top song in t
+NEARMISS 1.001 Yes@0.002 No@0.999 liq=74998.84814 | Will Arizona Cardinals win the 2027 NFL NFC Champi
+NEARMISS 1.001 Yes@0.003 No@0.998 liq=95908.88681 | Will Bitcoin reach $90,000 in October?
+NEARMISS 1.001 Yes@0.002 No@0.999 liq=1218.00473 | Will Charles Melton win Best Supporting Actor at t
+NEARMISS 1.001 Yes@0.061 No@0.940 liq=314.05564 | Will Diable play for Team WE in 2027?
+NEARMISS 1.001 Yes@0.002 No@0.999 liq=4393.8737 | Will Finn Wolfhard be the #1 searched actor on Goo
+NEARMISS 1.001 Yes@0.188 No@0.813 liq=13955.85827 | Will Marguerite Humeau win the Turner Prize 2026?
+NEARMISS 1.001 Yes@0.002 No@0.999 liq=353.73252 | Will Sato play for FURIA Esports in 2027?
+NEARMISS 1.001 Yes@0.002 No@0.999 liq=3176.32662 | Will Shohei Ohtani be the #1 searched person on Go
+NEARMISS 1.001 Yes@0.002 No@0.999 liq=12334.94506 | Will the Democratic Party candidate win the 2026 H
+NEARMISS 1.001 Yes@0.003 No@0.998 liq=32858.60488 | Will the upper bound of the target federal funds r
+NEARMISS 1.002 Yes@0.018 No@0.984 liq=586882.19129 | Will Donald Trump Jr. win the 2028 Republican pres
+NEARMISS 1.002 Yes@0.006 No@0.996 liq=228.03961 | Will Ted Cruz post 100-119 posts from October 27 t
+NEARMISS 1.002 Yes@0.005 No@0.997 liq=13297.73667 | Will the price of Bitcoin be above $90,000 on Nove
+NEARMISS 1.003 Yes@0.004 No@0.999 liq=611.86282 | Will ByteDance be the #2 AI lab at the end of Nove
+NEARMISS 1.003 Yes@0.004 No@0.999 liq=2178.14274 | Will Carles Gil win 2026 MLS Most Valuable Player?
+NEARMISS 1.003 Yes@0.004 No@0.999 liq=4251.44976 | Will Johnnie LaRossa win The Bachelorette Season 2
+NEARMISS 1.003 Yes@0.004 No@0.999 liq=457.63025 | Will Reanimal win Best Independent Game at the 202
+NEARMISS 1.003 Yes@0.006 No@0.997 liq=14957.68421 | Will Sonya Kilkenny be the next Premier of Victori
+NEARMISS 1.004 Yes@0.014 No@0.990 liq=228.64087 | Will Dante Moore be the 2026 D1 Passing Yards Lead
+NEARMISS 1.004 Yes@0.005 No@0.999 liq=48.69729 | Will Óscar Estupiñán (FC Juárez) be the top goalsc
+NEARMISS 1.005 Yes@0.006 No@0.999 liq=16118.20201 | Will Dylan Marando win the 2026 Ontario Liberal Pa
+NEARMISS 1.005 Yes@0.052 No@0.953 liq=3169.30404 | Will Lovable be acquired before 2027?
+NEARMISS 1.005 Yes@0.006 No@0.999 liq=10564.63408 | Will PP win the most seats in Lleida in the 2026 S
