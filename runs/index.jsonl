@@ -1,2 +1,3 @@
 {"ts": "20260923T225932Z", "markets": 500, "brackets": 0, "near_misses": 30, "floor": 1.001, "scan_time": 55.7}
 {"ts": "20261028T054950Z", "markets": 500, "brackets": 0, "near_misses": 0, "floor": null, "scan_time": 55.1}
+{"run_num": 1, "ts": "20261030T052813Z", "markets": 500, "scan_time": 58.1, "brackets": 0, "near_misses": 0, "out_file": "runs/_tmp_cron_20261030T052813Z_scan_out.txt", "data_file": "runs/_tmp_cron_20261030T052813Z_supp_data.json", "paper_stats": {"attempts": 0, "both_filled": 0, "one_leg": 0, "neither": 0, "unwind": 0, "total_pnl": 0.0}}

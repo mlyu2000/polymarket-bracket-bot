@@ -1,0 +1,14 @@
+{
+  "markets": 500,
+  "opps": [],
+  "near_misses": [],
+  "scan_time": 58.1296021938324,
+  "paper_stats": {
+    "attempts": 0,
+    "both_filled": 0,
+    "one_leg": 0,
+    "neither": 0,
+    "unwind": 0,
+    "total_pnl": 0.0
+  }
+}
