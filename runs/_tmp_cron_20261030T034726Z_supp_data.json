@@ -1,0 +1,204 @@
+{
+  "ts": "20261030T034726Z",
+  "markets": 500,
+  "scan_time": 56.8,
+  "min_liquidity_guard": 100.0,
+  "min_profit_margin": 0.0001,
+  "two_sided": 410,
+  "yes_only": 73,
+  "na_only": 5,
+  "not_bracketable": 90,
+  "bracketable_pct": 82.0,
+  "brackets": [],
+  "floor_min_ask": 1.001,
+  "leader": {
+    "q": "Will Charles Melton win Best Supporting Actor at the 99",
+    "yes": 0.002,
+    "no": 0.999,
+    "liq": 1318.41048
+  },
+  "tiers_all_two_sided": {
+    "lt_1_000": 0,
+    "le_1_005": 25,
+    "le_1_010": 70,
+    "le_1_020": 140,
+    "le_1_050": 277
+  },
+  "tiers_above_min_liq": {
+    "lt_1_000": 0,
+    "le_1_005": 24,
+    "le_1_010": 68,
+    "le_1_020": 137,
+    "le_1_050": 272
+  },
+  "tiers_below_min_liq": {
+    "lt_1_000": 0,
+    "le_1_005": 1,
+    "le_1_050": 5
+  },
+  "top15_above_min_liq": [
+    {
+      "total": 1.001,
+      "q": "Will Charles Melton win Best Supporting Actor at the 99",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 1318.41048
+    },
+    {
+      "total": 1.001,
+      "q": "Will Bitcoin reach $90,000 in October?",
+      "yes": 0.004,
+      "no": 0.997,
+      "liq": 75941.33597
+    },
+    {
+      "total": 1.001,
+      "q": "Will Marguerite Humeau win the Turner Prize 2026?",
+      "yes": 0.188,
+      "no": 0.813,
+      "liq": 12282.83779
+    },
+    {
+      "total": 1.001,
+      "q": "Will the upper bound of the target federal funds rate b",
+      "yes": 0.003,
+      "no": 0.998,
+      "liq": 31957.35941
+    },
+    {
+      "total": 1.001,
+      "q": "Will Arizona Cardinals win the 2027 NFL NFC Championshi",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 74546.80632
+    },
+    {
+      "total": 1.001,
+      "q": "Will APT. \u2013 ROS\u00c9 & Bruno Mars be the top song in the US",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 5054.16383
+    },
+    {
+      "total": 1.001,
+      "q": "Will Diable play for Team WE in 2027?",
+      "yes": 0.061,
+      "no": 0.94,
+      "liq": 365.0353
+    },
+    {
+      "total": 1.001,
+      "q": "Will Sato play for FURIA Esports in 2027?",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 405.89618
+    },
+    {
+      "total": 1.001,
+      "q": "Will the Democratic Party candidate win the 2026 HI-02 ",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 11860.50563
+    },
+    {
+      "total": 1.001,
+      "q": "Will Finn Wolfhard be the #1 searched actor on Google t",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 4497.9457
+    },
+    {
+      "total": 1.001,
+      "q": "Will Shohei Ohtani be the #1 searched person on Google ",
+      "yes": 0.002,
+      "no": 0.999,
+      "liq": 3225.75267
+    },
+    {
+      "total": 1.002,
+      "q": "Will Ted Cruz post 100-119 posts from October 27 to Nov",
+      "yes": 0.006,
+      "no": 0.996,
+      "liq": 256.90137
+    },
+    {
+      "total": 1.002,
+      "q": "Will the price of Bitcoin be above $90,000 on November ",
+      "yes": 0.005,
+      "no": 0.997,
+      "liq": 13218.59333
+    },
+    {
+      "total": 1.002,
+      "q": "Will Donald Trump Jr. win the 2028 Republican president",
+      "yes": 0.018,
+      "no": 0.984,
+      "liq": 584933.53411
+    },
+    {
+      "total": 1.003,
+      "q": "Will Dylan Marando win the 2026 Ontario Liberal Party l",
+      "yes": 0.004,
+      "no": 0.999,
+      "liq": 16076.36024
+    }
+  ],
+  "top8_below_min_liq": [
+    {
+      "total": 1.004,
+      "q": "Will \u00d3scar Estupi\u00f1\u00e1n (FC Ju\u00e1rez) be the top goalscorer ",
+      "yes": 0.005,
+      "no": 0.999,
+      "liq": 69.96228
+    },
+    {
+      "total": 1.009,
+      "q": "Will Netflix, Inc. (NFLX) hit (HIGH) $70 in October?",
+      "yes": 0.011,
+      "no": 0.998,
+      "liq": 13.15308
+    },
+    {
+      "total": 1.018,
+      "q": "Will Port win the 2026-27 AFC Champions League Elite?",
+      "yes": 0.02,
+      "no": 0.998,
+      "liq": 26.69947
+    },
+    {
+      "total": 1.047,
+      "q": "Will Mike Evans finish as a top-5 WR in the 2026-27 NFL",
+      "yes": 0.049,
+      "no": 0.998,
+      "liq": 20.55399
+    },
+    {
+      "total": 1.05,
+      "q": "Will Breece Hall have 499.5+ rushing yards in the 2026-",
+      "yes": 0.75,
+      "no": 0.3,
+      "liq": 88.0997
+    },
+    {
+      "total": 1.072,
+      "q": "Will Kansas City Chiefs finish the 2026-27 NFL regular ",
+      "yes": 0.074,
+      "no": 0.998,
+      "liq": 31.61391
+    },
+    {
+      "total": 1.076,
+      "q": "Will Al Sadd win the 2026-27 AFC Champions League Elite",
+      "yes": 0.078,
+      "no": 0.998,
+      "liq": 21.60603
+    },
+    {
+      "total": 1.079,
+      "q": "Will Al Wasl win the 2026-27 AFC Champions League Elite",
+      "yes": 0.081,
+      "no": 0.998,
+      "liq": 25.7772
+    }
+  ]
+}

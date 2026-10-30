@@ -55,5 +55,5 @@ print(f"✅ BRACKETS (sum < 1.00): {len(result['opps'])}")
 for o in result['opps']:
     print(f"  🔴 {o['sum']:.3f} (edge={o['edge']:.4f}) | Yes@{o['yes']:.3f} No@{o['no']:.3f} | {o['shares']} shares | {o['q']}")
 print(f"📊 Near-misses (≤1.005): {len(result['near_misses'])}")
-for total, q, yp, np, liq in result['near_misses'][:5]:
+for total, q, yp, np, liq in result['near_misses'][:10]:
     print(f"  {total:.3f} | Yes@{yp:.3f} No@{np:.3f} | {q}")

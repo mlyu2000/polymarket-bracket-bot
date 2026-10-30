@@ -1,0 +1,8 @@
+Scan: 500 markets in 56.4s
+BRACKETS (sum < 1.00): 0
+Near-misses (<=1.005): 24
+  1.001 | Yes@0.054 No@0.947 | liq=882.095 | Sam Altman out as OpenAI CEO before 2027?
+  1.001 | Yes@0.002 No@0.999 | liq=1786.164 | Will APT. – ROSÉ & Bruno Mars be the top song in t
+  1.001 | Yes@0.002 No@0.999 | liq=70049.091 | Will Arizona Cardinals win the 2027 NFL NFC Champi
+  1.001 | Yes@0.005 No@0.996 | liq=93693.667 | Will Bitcoin reach $90,000 in October?
+  1.001 | Yes@0.002 No@0.999 | liq=10611.708 | Will Elon Musk post 520-539 tweets from October 27
